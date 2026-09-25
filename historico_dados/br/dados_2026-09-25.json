@@ -461,17 +461,17 @@
         "artista": "Pedras Vivas",
         "url": "https://www.cifraclub.com.br/ministerio-pedras-vivas/pai-nosso/"
     },
-    "352289": {
-        "posicao": 78,
-        "nome": "Chuva de Arroz",
-        "artista": "Luan Santana",
-        "url": "https://www.cifraclub.com.br/luan-santana/chuva-de-arroz/"
-    },
     "192384": {
-        "posicao": 79,
+        "posicao": 78,
         "nome": "Velha Infância",
         "artista": "Tribalistas",
         "url": "https://www.cifraclub.com.br/tribalistas/velha-infancia/"
+    },
+    "352289": {
+        "posicao": 79,
+        "nome": "Chuva de Arroz",
+        "artista": "Luan Santana",
+        "url": "https://www.cifraclub.com.br/luan-santana/chuva-de-arroz/"
     },
     "21038": {
         "posicao": 80,
@@ -665,17 +665,17 @@
         "artista": "Isaías Saad",
         "url": "https://www.cifraclub.com.br/isaias-saad/ruja-o-leao-que-se-abram-os-ceus-part-nivea-soares/"
     },
-    "738834": {
-        "posicao": 112,
-        "nome": "Deserto",
-        "artista": "Maria Marçal",
-        "url": "https://www.cifraclub.com.br/maria-marcal/deserto/"
-    },
     "215743": {
-        "posicao": 113,
+        "posicao": 112,
         "nome": "Quão Grande É o Meu Deus",
         "artista": "Soraya Moraes",
         "url": "https://www.cifraclub.com.br/soraya-moraes/quao-grande-o-meu-deus/"
+    },
+    "738834": {
+        "posicao": 113,
+        "nome": "Deserto",
+        "artista": "Maria Marçal",
+        "url": "https://www.cifraclub.com.br/maria-marcal/deserto/"
     },
     "54215": {
         "posicao": 114,
@@ -1025,17 +1025,17 @@
         "artista": "Nenhum de Nós",
         "url": "https://www.cifraclub.com.br/nenhum-de-nos/o-astronauta-de-marmore/"
     },
-    "249307": {
-        "posicao": 172,
-        "nome": "A Desconhecida",
-        "artista": "Fernando Mendes",
-        "url": "https://www.cifraclub.com.br/fernando-mendes/a-desconhecida/"
-    },
     "815": {
-        "posicao": 173,
+        "posicao": 172,
         "nome": "Have You Ever Seen The Rain",
         "artista": "Creedence Clearwater Revival",
         "url": "https://www.cifraclub.com.br/creedence-clearwater-revival/have-you-ever-seen-the-rain/"
+    },
+    "249307": {
+        "posicao": 173,
+        "nome": "A Desconhecida",
+        "artista": "Fernando Mendes",
+        "url": "https://www.cifraclub.com.br/fernando-mendes/a-desconhecida/"
     },
     "369810": {
         "posicao": 174,
@@ -1451,17 +1451,17 @@
         "artista": "Eduardo Costa",
         "url": "https://www.cifraclub.com.br/eduardo-costa/amor-de-violeiro/"
     },
-    "463": {
-        "posicao": 243,
-        "nome": "Yesterday",
-        "artista": "The Beatles",
-        "url": "https://www.cifraclub.com.br/the-beatles/yesterday/"
-    },
     "20282": {
-        "posicao": 244,
+        "posicao": 243,
         "nome": "Faz Chover",
         "artista": "Fernandinho",
         "url": "https://www.cifraclub.com.br/fernandinho/faz-chover/"
+    },
+    "463": {
+        "posicao": 244,
+        "nome": "Yesterday",
+        "artista": "The Beatles",
+        "url": "https://www.cifraclub.com.br/the-beatles/yesterday/"
     },
     "3218": {
         "posicao": 245,
@@ -1913,17 +1913,17 @@
         "artista": "Arctic Monkeys",
         "url": "https://www.cifraclub.com.br/arctic-monkeys/do-i-wanna-know/"
     },
-    "97348": {
-        "posicao": 320,
-        "nome": "Outra Vida",
-        "artista": "Armandinho",
-        "url": "https://www.cifraclub.com.br/armandinho/outra-vida/"
-    },
     "4097": {
-        "posicao": 321,
+        "posicao": 320,
         "nome": "Por Um Minuto",
         "artista": "Bruno & Marrone",
         "url": "https://www.cifraclub.com.br/bruno-e-marrone/por-um-minuto/"
+    },
+    "97348": {
+        "posicao": 321,
+        "nome": "Outra Vida",
+        "artista": "Armandinho",
+        "url": "https://www.cifraclub.com.br/armandinho/outra-vida/"
     },
     "8954": {
         "posicao": 322,
@@ -2909,17 +2909,17 @@
         "artista": "Músicas Católicas",
         "url": "https://www.cifraclub.com.br/catolicas/aleluia-aleluia-aleluia-alelu-u-u-uia/"
     },
-    "3170714": {
-        "posicao": 486,
-        "nome": "Santo Pra Sempre",
-        "artista": "Fernandinho",
-        "url": "https://www.cifraclub.com.br/fernandinho/santo-pra-sempre/"
-    },
     "360521": {
-        "posicao": 487,
+        "posicao": 486,
         "nome": "Abba",
         "artista": "Laura Souguellis",
         "url": "https://www.cifraclub.com.br/laura-souguellis/abba/"
+    },
+    "3170714": {
+        "posicao": 487,
+        "nome": "Santo Pra Sempre",
+        "artista": "Fernandinho",
+        "url": "https://www.cifraclub.com.br/fernandinho/santo-pra-sempre/"
     },
     "3131599": {
         "posicao": 488,
@@ -3341,17 +3341,17 @@
         "artista": "Red Hot Chili Peppers",
         "url": "https://www.cifraclub.com.br/red-hot-chili-peppers/californication/"
     },
-    "15203": {
-        "posicao": 558,
-        "nome": "Posso Clamar",
-        "artista": "Eyshila",
-        "url": "https://www.cifraclub.com.br/eyshila/posso-clamar/"
-    },
     "4257": {
-        "posicao": 559,
+        "posicao": 558,
         "nome": "Saudade Bandida",
         "artista": "Zezé Di Camargo & Luciano",
         "url": "https://www.cifraclub.com.br/zeze-di-camargo-e-luciano/saudade-bandida/"
+    },
+    "15203": {
+        "posicao": 559,
+        "nome": "Posso Clamar",
+        "artista": "Eyshila",
+        "url": "https://www.cifraclub.com.br/eyshila/posso-clamar/"
     },
     "8451": {
         "posicao": 560,
@@ -3371,17 +3371,17 @@
         "artista": "Legião Urbana",
         "url": "https://www.cifraclub.com.br/legiao-urbana/ainda-cedo/"
     },
-    "2982": {
-        "posicao": 563,
-        "nome": "Bem Que Se Quis",
-        "artista": "Marisa Monte",
-        "url": "https://www.cifraclub.com.br/marisa-monte/bem-que-se-quis/"
-    },
     "98429": {
-        "posicao": 564,
+        "posicao": 563,
         "nome": "Jesus Em Tua Presença",
         "artista": "Quatro Por Um",
         "url": "https://www.cifraclub.com.br/quatro-por-um/jesus-em-tua-presenca/"
+    },
+    "2982": {
+        "posicao": 564,
+        "nome": "Bem Que Se Quis",
+        "artista": "Marisa Monte",
+        "url": "https://www.cifraclub.com.br/marisa-monte/bem-que-se-quis/"
     },
     "3109444": {
         "posicao": 565,
@@ -3683,17 +3683,17 @@
         "artista": "Ministério Mensageiros do Espírito",
         "url": "https://www.cifraclub.com.br/irmaos-irmas-carmelitas/sopra-em-nos/"
     },
-    "442606": {
-        "posicao": 615,
-        "nome": "Graça",
-        "artista": "Israel Salazar",
-        "url": "https://www.cifraclub.com.br/israel-salazar/graca/"
-    },
     "5871": {
-        "posicao": 616,
+        "posicao": 615,
         "nome": "Fogo e Paixão",
         "artista": "Wando",
         "url": "https://www.cifraclub.com.br/wando/fogo-paixao/"
+    },
+    "442606": {
+        "posicao": 616,
+        "nome": "Graça",
+        "artista": "Israel Salazar",
+        "url": "https://www.cifraclub.com.br/israel-salazar/graca/"
     },
     "352982": {
         "posicao": 617,
@@ -3713,17 +3713,17 @@
         "artista": "Elaine Martins",
         "url": "https://www.cifraclub.com.br/elaine-martins/santificacao/"
     },
-    "424711": {
-        "posicao": 620,
-        "nome": "Colossenses 1",
-        "artista": "Projeto Sola",
-        "url": "https://www.cifraclub.com.br/projeto-sola/colossenses-1/"
-    },
     "2160": {
-        "posicao": 621,
+        "posicao": 620,
         "nome": "Eu Sei Que Vou Te Amar",
         "artista": "Tom Jobim",
         "url": "https://www.cifraclub.com.br/tom-jobim/eu-sei-que-vou-te-amar/"
+    },
+    "424711": {
+        "posicao": 621,
+        "nome": "Colossenses 1",
+        "artista": "Projeto Sola",
+        "url": "https://www.cifraclub.com.br/projeto-sola/colossenses-1/"
     },
     "100401": {
         "posicao": 622,
@@ -3731,17 +3731,17 @@
         "artista": "Músicas Católicas",
         "url": "https://www.cifraclub.com.br/catolicas/senhor-que-vieste-salvar/"
     },
-    "738": {
-        "posicao": 623,
-        "nome": "Zóio de Lula",
-        "artista": "Charlie Brown Jr.",
-        "url": "https://www.cifraclub.com.br/charlie-brown-jr/zoio-de-lula/"
-    },
     "10702": {
-        "posicao": 624,
+        "posicao": 623,
         "nome": "O amigo",
         "artista": "Sérgio Lopes",
         "url": "https://www.cifraclub.com.br/sergio-lopes/o-amigo/"
+    },
+    "738": {
+        "posicao": 624,
+        "nome": "Zóio de Lula",
+        "artista": "Charlie Brown Jr.",
+        "url": "https://www.cifraclub.com.br/charlie-brown-jr/zoio-de-lula/"
     },
     "8007": {
         "posicao": 625,
@@ -3857,17 +3857,17 @@
         "artista": "Roupa Nova",
         "url": "https://www.cifraclub.com.br/roupa-nova/whisky-go-go/"
     },
-    "737123": {
-        "posicao": 644,
-        "nome": "Único (Part. Marco Telles)",
-        "artista": "Florianópolis House Of Prayer (fhop music)",
-        "url": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/unico/"
-    },
     "670621": {
-        "posicao": 645,
+        "posicao": 644,
         "nome": "Jesus Meu Primeiro Amor",
         "artista": "André Aquino",
         "url": "https://www.cifraclub.com.br/andre-aquino/jesus-meu-primeiro-amor/"
+    },
+    "737123": {
+        "posicao": 645,
+        "nome": "Único (Part. Marco Telles)",
+        "artista": "Florianópolis House Of Prayer (fhop music)",
+        "url": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/unico/"
     },
     "2463": {
         "posicao": 646,
@@ -3911,17 +3911,17 @@
         "artista": "Grupo Menos É Mais",
         "url": "https://www.cifraclub.com.br/grupo-menos-e-mais/pela-ultima-vez-part-nattan/"
     },
-    "330013": {
-        "posicao": 653,
-        "nome": "Jesus, o Plano Perfeito",
-        "artista": "Renascer Praise",
-        "url": "https://www.cifraclub.com.br/renascer-praise/plano-perfeito/"
-    },
     "2241": {
-        "posicao": 654,
+        "posicao": 653,
         "nome": "Não Quero Dinheiro",
         "artista": "Tim Maia",
         "url": "https://www.cifraclub.com.br/tim-maia/nao-quero-dinheiro/"
+    },
+    "330013": {
+        "posicao": 654,
+        "nome": "Jesus, o Plano Perfeito",
+        "artista": "Renascer Praise",
+        "url": "https://www.cifraclub.com.br/renascer-praise/plano-perfeito/"
     },
     "15482": {
         "posicao": 655,
@@ -3989,17 +3989,17 @@
         "artista": "Músicas Católicas",
         "url": "https://www.cifraclub.com.br/catolicas/eu-confesso/"
     },
-    "262528": {
-        "posicao": 666,
-        "nome": "Oração",
-        "artista": "A Banda Mais Bonita da Cidade",
-        "url": "https://www.cifraclub.com.br/a-banda-mais-bonita-da-cidade/oracao/"
-    },
     "54127": {
-        "posicao": 667,
+        "posicao": 666,
         "nome": "Te Agradeço",
         "artista": "Kleber Lucas",
         "url": "https://www.cifraclub.com.br/kleber-lucas/te-agradeco/"
+    },
+    "262528": {
+        "posicao": 667,
+        "nome": "Oração",
+        "artista": "A Banda Mais Bonita da Cidade",
+        "url": "https://www.cifraclub.com.br/a-banda-mais-bonita-da-cidade/oracao/"
     },
     "3132639": {
         "posicao": 668,
@@ -4079,17 +4079,17 @@
         "artista": "Isaías Saad",
         "url": "https://www.cifraclub.com.br/isaias-saad/enche-me/"
     },
-    "738279": {
-        "posicao": 681,
-        "nome": "Digno de Tudo / Te Exaltamos",
-        "artista": "Adoração Central",
-        "url": "https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/"
-    },
     "3436": {
-        "posicao": 682,
+        "posicao": 681,
         "nome": "Dias Melhores",
         "artista": "Jota Quest",
         "url": "https://www.cifraclub.com.br/jota-quest/dias-melhores/"
+    },
+    "738279": {
+        "posicao": 682,
+        "nome": "Digno de Tudo / Te Exaltamos",
+        "artista": "Adoração Central",
+        "url": "https://www.cifraclub.com.br/adoracao-central/digno-de-tudo-te-exaltamos/"
     },
     "244149": {
         "posicao": 683,
@@ -4163,17 +4163,17 @@
         "artista": "LS Jack",
         "url": "https://www.cifraclub.com.br/ls-jack/carla/"
     },
-    "352984": {
-        "posicao": 695,
-        "nome": "Igual Não Há",
-        "artista": "Lauriete",
-        "url": "https://www.cifraclub.com.br/lauriete/igual-nao-ha/"
-    },
     "79734": {
-        "posicao": 696,
+        "posicao": 695,
         "nome": "Você Não Sabe Amar",
         "artista": "Chico Rey e Paraná",
         "url": "https://www.cifraclub.com.br/chico-rey-e-parana/voce-nao-sabe-amar/"
+    },
+    "352984": {
+        "posicao": 696,
+        "nome": "Igual Não Há",
+        "artista": "Lauriete",
+        "url": "https://www.cifraclub.com.br/lauriete/igual-nao-ha/"
     },
     "404597": {
         "posicao": 697,
@@ -4199,17 +4199,17 @@
         "artista": "Edu Ribeiro",
         "url": "https://www.cifraclub.com.br/edu-ribeiro/me-namora/"
     },
-    "3362811": {
-        "posicao": 701,
-        "nome": "Teu Toque (Part. Lukas Agustinho e Melk Villar)",
-        "artista": "Get Worship",
-        "url": "https://www.cifraclub.com.br/get-worship/teu-toque-part-lukas-agustinho-e-melk-villar/"
-    },
     "288533": {
-        "posicao": 702,
+        "posicao": 701,
         "nome": "Glória a Deus Nos Altos Céus",
         "artista": "Músicas Católicas",
         "url": "https://www.cifraclub.com.br/catolicas/gloria-a-deus-nos-altos-ceus/"
+    },
+    "3362811": {
+        "posicao": 702,
+        "nome": "Teu Toque (Part. Lukas Agustinho e Melk Villar)",
+        "artista": "Get Worship",
+        "url": "https://www.cifraclub.com.br/get-worship/teu-toque-part-lukas-agustinho-e-melk-villar/"
     },
     "481663": {
         "posicao": 703,
@@ -4529,17 +4529,17 @@
         "artista": "Antônio Cirilo",
         "url": "https://www.cifraclub.com.br/antonio-cirilo/poderoso-deus/"
     },
-    "3104744": {
-        "posicao": 756,
-        "nome": "Os Que Olham Para Ti",
-        "artista": "Florianópolis House Of Prayer (fhop music)",
-        "url": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/os-que-olham-para-ti/"
-    },
     "287894": {
-        "posicao": 757,
+        "posicao": 756,
         "nome": "Em Tua Presença",
         "artista": "Nívea Soares",
         "url": "https://www.cifraclub.com.br/nivea-soares/em-tua-presenca/"
+    },
+    "3104744": {
+        "posicao": 757,
+        "nome": "Os Que Olham Para Ti",
+        "artista": "Florianópolis House Of Prayer (fhop music)",
+        "url": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/os-que-olham-para-ti/"
     },
     "424470": {
         "posicao": 758,
@@ -4787,11 +4787,11 @@
         "artista": "Pablo",
         "url": "https://www.cifraclub.com.br/pablo-a-voz-romantica/mega-sena-/"
     },
-    "447683": {
+    "300": {
         "posicao": 799,
-        "nome": "Notificação Preferida",
-        "artista": "Zé Neto & Cristiano",
-        "url": "https://www.cifraclub.com.br/ze-neto-cristiano/notificacao-preferida/"
+        "nome": "A Dois Passos do Paraíso",
+        "artista": "Blitz",
+        "url": "https://www.cifraclub.com.br/blitz/a-dois-passos-do-paraiso/"
     },
     "75677": {
         "posicao": 800,
@@ -4799,11 +4799,11 @@
         "artista": "Milionário & José Rico",
         "url": "https://www.cifraclub.com.br/milionario-e-jose-rico/agenda-rabiscada/"
     },
-    "300": {
+    "447683": {
         "posicao": 801,
-        "nome": "A Dois Passos do Paraíso",
-        "artista": "Blitz",
-        "url": "https://www.cifraclub.com.br/blitz/a-dois-passos-do-paraiso/"
+        "nome": "Notificação Preferida",
+        "artista": "Zé Neto & Cristiano",
+        "url": "https://www.cifraclub.com.br/ze-neto-cristiano/notificacao-preferida/"
     },
     "412915": {
         "posicao": 802,
@@ -5033,17 +5033,17 @@
         "artista": "Simone Mendes",
         "url": "https://www.cifraclub.com.br/simone-mendes/erro-gostoso/"
     },
-    "174876": {
-        "posicao": 840,
-        "nome": "Nada Mudou",
-        "artista": "Di Paullo e Paulino",
-        "url": "https://www.cifraclub.com.br/di-paulo-e-paulino/nada-mudou/"
-    },
     "2428": {
-        "posicao": 841,
+        "posicao": 840,
         "nome": "Romaria",
         "artista": "Renato Teixeira",
         "url": "https://www.cifraclub.com.br/renato-teixeira/romaria/"
+    },
+    "174876": {
+        "posicao": 841,
+        "nome": "Nada Mudou",
+        "artista": "Di Paullo e Paulino",
+        "url": "https://www.cifraclub.com.br/di-paulo-e-paulino/nada-mudou/"
     },
     "16876": {
         "posicao": 842,
@@ -5195,17 +5195,17 @@
         "artista": "Cassiane",
         "url": "https://www.cifraclub.com.br/cassiane/imagine-um-lugar/"
     },
-    "716473": {
-        "posicao": 867,
-        "nome": "Eu Tenho Você (part. Isadora Pompeo)",
-        "artista": "Marcelo Markes",
-        "url": "https://www.cifraclub.com.br/marcelo-markes/eu-tenho-voce-part-isadora-pompeo/"
-    },
     "3158948": {
-        "posicao": 868,
+        "posicao": 867,
         "nome": "Jesus feat. Missionário Shalom",
         "artista": "Colo de Deus",
         "url": "https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/jesus-feat-missionario-shalom/"
+    },
+    "716473": {
+        "posicao": 868,
+        "nome": "Eu Tenho Você (part. Isadora Pompeo)",
+        "artista": "Marcelo Markes",
+        "url": "https://www.cifraclub.com.br/marcelo-markes/eu-tenho-voce-part-isadora-pompeo/"
     },
     "259420": {
         "posicao": 869,
@@ -5303,17 +5303,17 @@
         "artista": "Ministério Koinonya de Louvor",
         "url": "https://www.cifraclub.com.br/ministerio-koinonya-de-louvor/oferta-de-amor/"
     },
-    "197583": {
-        "posicao": 885,
-        "nome": "Kyrie Eleison",
-        "artista": "Comunidade Católica Shalom",
-        "url": "https://www.cifraclub.com.br/comunidade-catolica-shalom/kyrie-eleison/"
-    },
     "12226": {
-        "posicao": 886,
+        "posicao": 885,
         "nome": "Te Amo Cada Vez Mais",
         "artista": "João Paulo e Daniel",
         "url": "https://www.cifraclub.com.br/joao-paulo-e-daniel/te-amo-cada-vez-mais/"
+    },
+    "197583": {
+        "posicao": 886,
+        "nome": "Kyrie Eleison",
+        "artista": "Comunidade Católica Shalom",
+        "url": "https://www.cifraclub.com.br/comunidade-catolica-shalom/kyrie-eleison/"
     },
     "8102": {
         "posicao": 887,
@@ -5369,17 +5369,17 @@
         "artista": "Guilherme & Santiago",
         "url": "https://www.cifraclub.com.br/guilherme-e-santiago/meia-noite-e-meia/"
     },
-    "3318308": {
-        "posicao": 896,
-        "nome": "Beatriz",
-        "artista": "2ZDinizz",
-        "url": "https://www.cifraclub.com.br/2zdinizz/beatriz/"
-    },
     "209849": {
-        "posicao": 897,
+        "posicao": 896,
         "nome": "Me Encontra",
         "artista": "Charlie Brown Jr.",
         "url": "https://www.cifraclub.com.br/charlie-brown-jr/me-encontra/"
+    },
+    "3318308": {
+        "posicao": 897,
+        "nome": "Beatriz",
+        "artista": "2ZDinizz",
+        "url": "https://www.cifraclub.com.br/2zdinizz/beatriz/"
     },
     "307711": {
         "posicao": 898,
@@ -5651,17 +5651,17 @@
         "artista": "Músicas Católicas",
         "url": "https://www.cifraclub.com.br/catolicas/como-s-lindo/"
     },
-    "428335": {
-        "posicao": 943,
-        "nome": "O Fogo Nunca Dorme",
-        "artista": "Alessandro Vilas Boas",
-        "url": "https://www.cifraclub.com.br/alessandro-vilas-boas/o-fogo-nunca-dorme/"
-    },
     "4178": {
-        "posicao": 944,
+        "posicao": 943,
         "nome": "Amor Pra Recomeçar",
         "artista": "Frejat",
         "url": "https://www.cifraclub.com.br/frejat/amor-pra-recomecar/"
+    },
+    "428335": {
+        "posicao": 944,
+        "nome": "O Fogo Nunca Dorme",
+        "artista": "Alessandro Vilas Boas",
+        "url": "https://www.cifraclub.com.br/alessandro-vilas-boas/o-fogo-nunca-dorme/"
     },
     "444821": {
         "posicao": 945,
@@ -5981,17 +5981,17 @@
         "artista": "Eduardo Costa",
         "url": "https://www.cifraclub.com.br/eduardo-costa/fui-dando-porrada-part-clayton-e-romario/"
     },
-    "412819": {
-        "posicao": 998,
-        "nome": "Mala",
-        "artista": "Hugo Henrique",
-        "url": "https://www.cifraclub.com.br/hugo-henrique/mala/"
-    },
     "4109": {
-        "posicao": 999,
+        "posicao": 998,
         "nome": "All My Loving",
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com.br/the-beatles/all-my-loving/"
+    },
+    "412819": {
+        "posicao": 999,
+        "nome": "Mala",
+        "artista": "Hugo Henrique",
+        "url": "https://www.cifraclub.com.br/hugo-henrique/mala/"
     },
     "3264367": {
         "posicao": 1000,
