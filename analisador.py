@@ -12,63 +12,127 @@ PASTA_DADOS = "historico_dados"
 PASTA_RELATORIOS = "historico_relatorios"
 MARGEM_OSCILACAO = 2
 
-# Mapeamento de Regiões e endpoints da API do Cifra Club
+# Mapeamento de Regiões — a fonte é a página pública "Explorar > Músicas"
+# (aba "Em alta na semana" / "En tendencia esta semana"):
+#   BR:     https://www.cifraclub.com.br/explorar/musicas/
+#   HISPAM: https://www.cifraclub.com/explorar/musicas/ (site em espanhol, es-ES)
+# A página só renderiza as 50 primeiras no HTML; o resto ela carrega por
+# scroll infinito chamando a API pública abaixo, 50 músicas por página.
+# A única diferença entre as regiões é o critério de ordenação:
+# pt_hits_last_7_days (site em português) x es_hits_last_7_days (site em espanhol).
+API_EXPLORAR = "https://solr.sscdn.co/cifraclub-explore/v1/songs"
+TAMANHO_TOP = 1000
+ITENS_POR_PAGINA = 50  # fixo na API (não aceita parâmetro de tamanho)
+MAX_PAGINAS = 25       # 20 páginas = 1000; as extras só completam se faltar
+
+# ⚠️ CACHE: cada página da API fica guardada no CDN por até 4h, e cada uma
+# foi guardada num momento diferente. Com a URL "normal" (a mesma que o site
+# usa) o ranking vem misturado de horários diferentes: algumas músicas se
+# repetem entre páginas e outras somem (~20 no BR). Pra pegar uma "foto" só
+# do ranking, a URL é montada num formato que o site não usa (mesmos parâmetros
+# em outra ordem) — assim o CDN busca tudo fresco na hora. Se mesmo
+# assim vier repetição (o ranking mudou durante a coleta), tenta o próximo
+# formato e fica com o melhor resultado.
+FORMATOS_URL = [
+    "_page={pagina}&_sort={sort}&version_transcription_type=1",
+    "version_transcription_type=1&_sort={sort}&_page={pagina}",
+    "_page=0{pagina}&_sort={sort}&version_transcription_type=1",
+    "version_transcription_type=1&_page={pagina}&_sort={sort}",
+]
+
 REGIOES = {
-    "br": {"nome": "Brasil", "url": "https://api.cifraclub.com.br/v3/top/songs?limit=1000"},
-    "hispam": {"nome": "Hispam", "url": "https://api.cifraclub.com.br/v3/top/songs?lang=es&limit=1000"}
+    "br": {
+        "nome": "Brasil",
+        "pagina": "https://www.cifraclub.com.br/explorar/musicas/",
+        "sort": "pt_hits_last_7_days",
+        "dominio": "https://www.cifraclub.com.br",
+    },
+    "hispam": {
+        "nome": "Hispam",
+        "pagina": "https://www.cifraclub.com/explorar/musicas/",
+        "sort": "es_hits_last_7_days",
+        "dominio": "https://www.cifraclub.com",
+    },
 }
 
-def extrair_musicas(url):
+def montar_musica(item, config):
+    nome = (item.get('name') or "Desconhecido").strip()
+    artista = (item.get('artist_name') or "Desconhecido").strip()
+
+    # URL da música no domínio da própria região: /{artista}/{musica}/
+    artista_slug = item.get('artist_slug') or ""
+    musica_slug = item.get('slug') or ""
+    link_absoluto = f"{config['dominio']}/{artista_slug}/{musica_slug}/" if (artista_slug and musica_slug) else ""
+
+    # ⚡ ID ESTÁVEL: o campo "id" da página Explorar é o mesmo id de música que
+    # a API antiga (v3/top) entregava, então o histórico já salvo continua
+    # casando dia a dia sem migração, e o mesmo id aparece no BR e no Hispam
+    # (cruzamento "Também aparece em").
+    song_id = item.get('id')
+    if song_id is not None:
+        chave = str(song_id)
+    elif link_absoluto:
+        chave = urlparse(link_absoluto).path
+    else:
+        chave = f"{nome} - {artista}"
+
+    return chave, {"nome": nome, "artista": artista, "url": link_absoluto}
+
+def coletar_ranking(config, formato, headers):
+    """Percorre as páginas até juntar 1000 músicas únicas.
+    Retorna (lista ordenada de (chave, dados), quantidade de repetições)."""
+    ranking = []
+    vistas = set()
+    repeticoes = 0
+
+    for pagina in range(1, MAX_PAGINAS + 1):
+        url = f"{API_EXPLORAR}?" + formato.format(sort=config['sort'], pagina=pagina)
+        response = requests.get(url, headers=headers, timeout=20)
+        response.raise_for_status()
+        lista_songs = response.json().get('songs', []) or []
+        if not lista_songs:
+            break
+
+        for item in lista_songs:
+            chave, dados = montar_musica(item, config)
+            if chave in vistas:
+                repeticoes += 1
+                continue
+            vistas.add(chave)
+            ranking.append((chave, dados))
+            if len(ranking) >= TAMANHO_TOP:
+                return ranking, repeticoes
+
+    return ranking, repeticoes
+
+def extrair_musicas(config):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
         'Accept': 'application/json',
-        # A API só aceita chamadas que informem esse Referer (é o que o
-        # front-end do próprio Cifra Club manda); sem ele, o servidor
-        # responde 401 Unauthorized mesmo sem exigir login de verdade.
-        'Referer': 'https://www.cifraclub.com.br/'
+        'Referer': config['pagina'],
+        'Origin': config['dominio'],
     }
-    response = requests.get(url, headers=headers, timeout=20)
-    response.raise_for_status()
 
-    dados = response.json()
-    lista_songs = dados.get('songs', []) or []
+    melhor, melhor_rep = None, None
+    for formato in FORMATOS_URL:
+        try:
+            ranking, repeticoes = coletar_ranking(config, formato, headers)
+        except requests.RequestException as e:
+            print(f"   ⚠️ Formato de URL falhou ({e}); tentando o próximo...")
+            continue
+        print(f"   📄 {len(ranking)} músicas únicas, {repeticoes} repetição(ões) descartada(s)")
+        if melhor is None or (len(ranking), -repeticoes) > (len(melhor), -melhor_rep):
+            melhor, melhor_rep = ranking, repeticoes
+        if repeticoes == 0 and len(ranking) >= TAMANHO_TOP:
+            break
+
+    if not melhor:
+        return {}
+
+    # Posição = ordem no ranking (1 a 1000)
     musicas_atuais = {}
-
-    for rank, item in enumerate(lista_songs, start=1):
-        nome = (item.get('name') or "Desconhecido").strip()
-        artista_obj = item.get('artist') or {}
-        artista = (artista_obj.get('name') or "Desconhecido").strip()
-
-        # Monta a URL absoluta da música juntando o slug do artista com o
-        # slug da música (é assim que o Cifra Club estrutura os links).
-        artista_slug = artista_obj.get('url') or ""
-        musica_slug = item.get('url') or ""
-        link_absoluto = f"https://www.cifraclub.com.br/{artista_slug}/{musica_slug}/" if (artista_slug and musica_slug) else ""
-
-        # ⚡ ID ESTÁVEL: a API do Cifra Club já entrega um id numérico único e
-        # permanente por música (item['id']), então ele é usado direto como
-        # chave — o mesmo id aparece tanto no top do Brasil quanto no top do
-        # Hispam pra mesma música, o que é o que permite o cruzamento entre
-        # regiões ("Também aparece em") no index.html encontrar a outra
-        # região, sem nenhuma lógica extra de casamento por caminho/texto
-        # (diferente do robô antigo, que precisava disso porque fazia
-        # scraping de HTML sem id estável). Só cai pro caminho da URL, e por
-        # último pro formato antigo (Nome - Artista), se a API vier sem id.
-        song_id = item.get('id')
-        if song_id is not None:
-            chave = str(song_id)
-        elif link_absoluto:
-            chave = urlparse(link_absoluto).path
-        else:
-            chave = f"{nome} - {artista}"
-
-        musicas_atuais[chave] = {
-            "posicao": rank,
-            "nome": nome,
-            "artista": artista,
-            "url": link_absoluto
-        }
-
+    for posicao, (chave, dados) in enumerate(melhor, start=1):
+        musicas_atuais[chave] = {"posicao": posicao, **dados}
     return musicas_atuais
 
 def buscar_dados_anteriores(regiao):
@@ -133,9 +197,9 @@ def processar_regiao(regiao, config):
     os.makedirs(pasta_dados_regiao, exist_ok=True)
     os.makedirs(pasta_relatorios_regiao, exist_ok=True)
 
-    atuais = extrair_musicas(config['url'])
+    atuais = extrair_musicas(config)
     if not atuais:
-        print(f"⚠️ Alerta: Nenhuma música coletada para {config['nome']}. API mudou ou bloqueio.")
+        print(f"⚠️ Alerta: Nenhuma música coletada para {config['nome']}. página Explorar/API mudou ou bloqueio.")
         return False
 
     anteriores = buscar_dados_anteriores(regiao)
