@@ -54,6 +54,9 @@ jobs:
 
       - name: Rodar script de análise
         # Repassa o alvo (br, hispam ou all) para o Python
+        # e o User-Agent liberado pelo backend (guardado como secret)
+        env:
+          CIFRA_USER_AGENT: ${{ secrets.CIFRA_USER_AGENT }}
         run: python analisador.py ${{ env.TARGET }}
 
       - name: Salvar alterações no GitHub (Git Puro)
