@@ -57,16 +57,16 @@
             "artista": "Oasis",
             "2026-09-28": 9
         },
-        "3104876": {
-            "url": "https://www.cifraclub.com/generacion-12/quiero-conocer-a-jesus-yeshua-nuestro-dios-part-sofia-mancipe/",
-            "nome": "Quiero Conocer a Jesús (Yeshua) / Nuestro Dios (part. Sofía Mancipe)",
-            "artista": "Generación 12",
-            "2026-09-28": 10
-        },
         "3263415": {
             "url": "https://www.cifraclub.com/milo-j/nino/",
             "nome": "Niño",
             "artista": "Milo j",
+            "2026-09-28": 10
+        },
+        "3104876": {
+            "url": "https://www.cifraclub.com/generacion-12/quiero-conocer-a-jesus-yeshua-nuestro-dios-part-sofia-mancipe/",
+            "nome": "Quiero Conocer a Jesús (Yeshua) / Nuestro Dios (part. Sofía Mancipe)",
+            "artista": "Generación 12",
             "2026-09-28": 11
         },
         "3159433": {
@@ -75,10 +75,10 @@
             "artista": "Felipe S. Santos",
             "2026-09-28": 12
         },
-        "703225": {
-            "url": "https://www.cifraclub.com/bethel-music/bondad-de-dios/",
-            "nome": "Bondad de Dios",
-            "artista": "Bethel Music",
+        "616390": {
+            "url": "https://www.cifraclub.com/bromas-aparte/dama-y-vagabundo/",
+            "nome": "Dama y Vagabundo",
+            "artista": "Bromas Aparte",
             "2026-09-28": 13
         },
         "51378": {
@@ -87,22 +87,22 @@
             "artista": "Floricienta",
             "2026-09-28": 14
         },
+        "703225": {
+            "url": "https://www.cifraclub.com/bethel-music/bondad-de-dios/",
+            "nome": "Bondad de Dios",
+            "artista": "Bethel Music",
+            "2026-09-28": 15
+        },
         "271566": {
             "url": "https://www.cifraclub.com/marcos-brunet/al-que-esta-sentado-en-el-trono/",
             "nome": "Al Que Está Sentado En El Trono",
             "artista": "Marcos Brunet",
-            "2026-09-28": 15
+            "2026-09-28": 16
         },
         "42114": {
             "url": "https://www.cifraclub.com/soda-stereo/de-musica-ligera/",
             "nome": "De Música Ligera",
             "artista": "Soda Stereo",
-            "2026-09-28": 16
-        },
-        "616390": {
-            "url": "https://www.cifraclub.com/bromas-aparte/dama-y-vagabundo/",
-            "nome": "Dama y Vagabundo",
-            "artista": "Bromas Aparte",
             "2026-09-28": 17
         },
         "482652": {
@@ -129,34 +129,34 @@
             "artista": "Mon Laferte",
             "2026-09-28": 21
         },
-        "328123": {
-            "url": "https://www.cifraclub.com/marcos-brunet/digno/",
-            "nome": "Digno",
-            "artista": "Marcos Brunet",
-            "2026-09-28": 22
-        },
         "433564": {
             "url": "https://www.cifraclub.com/en-espiritu-en-verdad/gracia-sublime-es/",
             "nome": "Gracia Sublime Es",
             "artista": "En Espiritu Y En Verdad",
+            "2026-09-28": 22
+        },
+        "328123": {
+            "url": "https://www.cifraclub.com/marcos-brunet/digno/",
+            "nome": "Digno",
+            "artista": "Marcos Brunet",
             "2026-09-28": 23
-        },
-        "505470": {
-            "url": "https://www.cifraclub.com/miranda/tu-misterioso-alguien/",
-            "nome": "Tu Misterioso Alguien",
-            "artista": "Miranda!",
-            "2026-09-28": 24
-        },
-        "466209": {
-            "url": "https://www.cifraclub.com/ed-maverick/fuentes-de-ortiz/",
-            "nome": "Fuentes de Ortiz",
-            "artista": "Ed Maverick",
-            "2026-09-28": 25
         },
         "398123": {
             "url": "https://www.cifraclub.com/jesse-joy/dueles/",
             "nome": "Dueles",
             "artista": "Jesse & Joy",
+            "2026-09-28": 24
+        },
+        "505470": {
+            "url": "https://www.cifraclub.com/miranda/tu-misterioso-alguien/",
+            "nome": "Tu Misterioso Alguien",
+            "artista": "Miranda!",
+            "2026-09-28": 25
+        },
+        "466209": {
+            "url": "https://www.cifraclub.com/ed-maverick/fuentes-de-ortiz/",
+            "nome": "Fuentes de Ortiz",
+            "artista": "Ed Maverick",
             "2026-09-28": 26
         },
         "463134": {
@@ -183,34 +183,34 @@
             "artista": "The Beatles",
             "2026-09-28": 30
         },
-        "48946": {
-            "url": "https://www.cifraclub.com/sin-bandera/que-lloro/",
-            "nome": "Que Lloro",
-            "artista": "Sin Bandera",
-            "2026-09-28": 31
-        },
-        "167125": {
-            "url": "https://www.cifraclub.com/seru-giran/seminare/",
-            "nome": "Seminare",
-            "artista": "Serú Girán",
-            "2026-09-28": 32
-        },
         "398371": {
             "url": "https://www.cifraclub.com/airbag/por-mil-noches/",
             "nome": "Por Mil Noches",
             "artista": "AIRBAG",
-            "2026-09-28": 33
+            "2026-09-28": 31
         },
-        "473486": {
-            "url": "https://www.cifraclub.com/marco-barrientos/hossana/",
-            "nome": "Hosanna",
-            "artista": "Marco Barrientos",
-            "2026-09-28": 34
+        "48946": {
+            "url": "https://www.cifraclub.com/sin-bandera/que-lloro/",
+            "nome": "Que Lloro",
+            "artista": "Sin Bandera",
+            "2026-09-28": 32
         },
         "648777": {
             "url": "https://www.cifraclub.com/los-manseros-santiagueos/eterno-amor/",
             "nome": "Eterno Amor",
             "artista": "Los Manseros Santiagueños",
+            "2026-09-28": 33
+        },
+        "167125": {
+            "url": "https://www.cifraclub.com/seru-giran/seminare/",
+            "nome": "Seminare",
+            "artista": "Serú Girán",
+            "2026-09-28": 34
+        },
+        "473486": {
+            "url": "https://www.cifraclub.com/marco-barrientos/hossana/",
+            "nome": "Hosanna",
+            "artista": "Marco Barrientos",
             "2026-09-28": 35
         },
         "504232": {
@@ -225,10 +225,10 @@
             "artista": "Elvis Presley",
             "2026-09-28": 37
         },
-        "71045": {
-            "url": "https://www.cifraclub.com/intoxicados/nunca-quise/",
-            "nome": "Nunca Quise",
-            "artista": "Intoxicados",
+        "82230": {
+            "url": "https://www.cifraclub.com/aleks-syntek-e-la-gente-normal/intocable/",
+            "nome": "Intocable",
+            "artista": "Aleks Syntek",
             "2026-09-28": 38
         },
         "599386": {
@@ -243,28 +243,28 @@
             "artista": "Gustavo Cerati",
             "2026-09-28": 40
         },
+        "71045": {
+            "url": "https://www.cifraclub.com/intoxicados/nunca-quise/",
+            "nome": "Nunca Quise",
+            "artista": "Intoxicados",
+            "2026-09-28": 41
+        },
         "75704": {
             "url": "https://www.cifraclub.com/cafe-tacuba/eres/",
             "nome": "Eres",
             "artista": "Café Tacvba",
-            "2026-09-28": 41
-        },
-        "82230": {
-            "url": "https://www.cifraclub.com/aleks-syntek-e-la-gente-normal/intocable/",
-            "nome": "Intocable",
-            "artista": "Aleks Syntek",
             "2026-09-28": 42
-        },
-        "211232": {
-            "url": "https://www.cifraclub.com/sui-generis/cancion-para-mi-muerte/",
-            "nome": "Canción Para Mi Muerte",
-            "artista": "Sui Generis",
-            "2026-09-28": 43
         },
         "855": {
             "url": "https://www.cifraclub.com/the-eagles/hotel-california/",
             "nome": "Hotel California",
             "artista": "Eagles",
+            "2026-09-28": 43
+        },
+        "11084": {
+            "url": "https://www.cifraclub.com/mana/en-el-muelle-de-san-blas/",
+            "nome": "En El Muelle de San Blas",
+            "artista": "Maná",
             "2026-09-28": 44
         },
         "470201": {
@@ -273,28 +273,28 @@
             "artista": "Julio Melgar",
             "2026-09-28": 45
         },
+        "43939": {
+            "url": "https://www.cifraclub.com/rata-blanca/mujer-amante/",
+            "nome": "Mujer Amante",
+            "artista": "Rata Blanca",
+            "2026-09-28": 46
+        },
         "1529": {
             "url": "https://www.cifraclub.com/pink-floyd/wish-you-were-here/",
             "nome": "Wish You Were Here",
             "artista": "Pink Floyd",
-            "2026-09-28": 46
-        },
-        "11084": {
-            "url": "https://www.cifraclub.com/mana/en-el-muelle-de-san-blas/",
-            "nome": "En El Muelle de San Blas",
-            "artista": "Maná",
             "2026-09-28": 47
+        },
+        "211232": {
+            "url": "https://www.cifraclub.com/sui-generis/cancion-para-mi-muerte/",
+            "nome": "Canción Para Mi Muerte",
+            "artista": "Sui Generis",
+            "2026-09-28": 48
         },
         "374947": {
             "url": "https://www.cifraclub.com/miel-san-marcos/no-hay-lugar-mas-grande/",
             "nome": "No Hay Lugar Mas Grande",
             "artista": "Miel San Marcos",
-            "2026-09-28": 48
-        },
-        "43939": {
-            "url": "https://www.cifraclub.com/rata-blanca/mujer-amante/",
-            "nome": "Mujer Amante",
-            "artista": "Rata Blanca",
             "2026-09-28": 49
         },
         "380999": {
@@ -981,16 +981,16 @@
             "artista": "Priscilla & Luis Bueno",
             "2026-09-28": 163
         },
-        "73706": {
-            "url": "https://www.cifraclub.com/marcos-witt/quiero-levantar-mis-manos/",
-            "nome": "Quiero Levantar Mis Manos",
-            "artista": "Marcos Witt",
-            "2026-09-28": 164
-        },
         "438179": {
             "url": "https://www.cifraclub.com/castro-cristian/por-amarte-asi/",
             "nome": "Por Amarte Así",
             "artista": "Cristian Castro",
+            "2026-09-28": 164
+        },
+        "73706": {
+            "url": "https://www.cifraclub.com/marcos-witt/quiero-levantar-mis-manos/",
+            "nome": "Quiero Levantar Mis Manos",
+            "artista": "Marcos Witt",
             "2026-09-28": 165
         },
         "402546": {
@@ -1191,16 +1191,16 @@
             "artista": "Disney",
             "2026-09-28": 198
         },
-        "1287": {
-            "url": "https://www.cifraclub.com/nirvana/the-man-who-sold-the-world/",
-            "nome": "The Man Who Sold The World",
-            "artista": "Nirvana",
-            "2026-09-28": 199
-        },
         "247083": {
             "url": "https://www.cifraclub.com/jorge-fandermole/oracion-del-remanso/",
             "nome": "Oración Del Remanso",
             "artista": "Jorge Fandermole",
+            "2026-09-28": 199
+        },
+        "1287": {
+            "url": "https://www.cifraclub.com/nirvana/the-man-who-sold-the-world/",
+            "nome": "The Man Who Sold The World",
+            "artista": "Nirvana",
             "2026-09-28": 200
         },
         "21134": {
@@ -1803,172 +1803,172 @@
             "artista": "Marcos Brunet",
             "2026-09-28": 300
         },
+        "3108189": {
+            "url": "https://www.cifraclub.com/danicher-pol/inexplicable/",
+            "nome": "Inexplicable",
+            "artista": "Denicher Pol",
+            "2026-09-28": 301
+        },
         "3390577": {
             "url": "https://www.cifraclub.com/olivia-rodrigo/less/",
             "nome": "less",
             "artista": "Olivia Rodrigo",
-            "2026-09-28": 301
+            "2026-09-28": 302
         },
         "665020": {
             "url": "https://www.cifraclub.com/coalo-zamorano/eres-fiel/",
             "nome": "Eres fiel",
             "artista": "Coalo Zamorano",
-            "2026-09-28": 302
+            "2026-09-28": 303
         },
         "316190": {
             "url": "https://www.cifraclub.com/evan-craft/oceanos/",
             "nome": "Oceanos",
             "artista": "Evan Craft",
-            "2026-09-28": 303
+            "2026-09-28": 304
         },
         "190359": {
             "url": "https://www.cifraclub.com/jesus-adrian-romero/tengo-hambre-de-ti/",
             "nome": "Tengo Hambre de Tí",
             "artista": "Jesús Adrián Romero",
-            "2026-09-28": 304
+            "2026-09-28": 305
         },
         "47974": {
             "url": "https://www.cifraclub.com/soda-stereo/profugos/",
             "nome": "Prófugos",
             "artista": "Soda Stereo",
-            "2026-09-28": 305
+            "2026-09-28": 306
         },
         "694235": {
             "url": "https://www.cifraclub.com/dahiara/yo-navegare/",
             "nome": "Yo Navegaré",
             "artista": "Dahiara",
-            "2026-09-28": 306
+            "2026-09-28": 307
         },
         "52762": {
             "url": "https://www.cifraclub.com/trio-los-panchos/besame-mucho/",
             "nome": "Bésame Mucho",
             "artista": "Los Panchos",
-            "2026-09-28": 307
+            "2026-09-28": 308
         },
         "4340": {
             "url": "https://www.cifraclub.com/coldplay/sparks/",
             "nome": "Sparks",
             "artista": "Coldplay",
-            "2026-09-28": 308
+            "2026-09-28": 309
         },
         "21163": {
             "url": "https://www.cifraclub.com/green-day/wake-me-up-when-september-ends/",
             "nome": "Wake Me Up When September Ends",
             "artista": "Green Day",
-            "2026-09-28": 309
+            "2026-09-28": 310
         },
         "69412": {
             "url": "https://www.cifraclub.com/jose-jose/amar-querer/",
             "nome": "Amar Y Querer",
             "artista": "José José",
-            "2026-09-28": 310
+            "2026-09-28": 311
         },
         "331416": {
             "url": "https://www.cifraclub.com/los-bunkers/nada-nuevo-bajo-el-sol/",
             "nome": "Nada Nuevo Bajo El Sol",
             "artista": "Los Bunkers",
-            "2026-09-28": 311
+            "2026-09-28": 312
         },
         "48795": {
             "url": "https://www.cifraclub.com/alejandro-fernandez/me-dedique-perderte/",
             "nome": "Me Dedique a Perderte",
             "artista": "Alejandro Fernández",
-            "2026-09-28": 312
+            "2026-09-28": 313
         },
         "735645": {
             "url": "https://www.cifraclub.com/gateway-worship-espanol/danzando-part-christine-d-clario-travy-joe-y-daniel-calveti/",
             "nome": "Danzando (part. Christine D'Clario, Travy Joe y Daniel Calveti)",
             "artista": "Gateway Worship Español",
-            "2026-09-28": 313
+            "2026-09-28": 314
         },
         "35128": {
             "url": "https://www.cifraclub.com/marcos-witt/yo-te-busco/",
             "nome": "Yo te Busco",
             "artista": "Marcos Witt",
-            "2026-09-28": 314
+            "2026-09-28": 315
         },
         "4679": {
             "url": "https://www.cifraclub.com/queen/love-of-my-life/",
             "nome": "Love of My Life",
             "artista": "Queen",
-            "2026-09-28": 315
+            "2026-09-28": 316
         },
         "2650": {
             "url": "https://www.cifraclub.com/radiohead/no-surprises/",
             "nome": "No Surprises",
             "artista": "Radiohead",
-            "2026-09-28": 316
+            "2026-09-28": 317
         },
         "26772": {
             "url": "https://www.cifraclub.com/the-animals/house-of-the-rising-sun/",
             "nome": "House of The Rising Sun",
             "artista": "The Animals",
-            "2026-09-28": 317
+            "2026-09-28": 318
         },
         "51206": {
             "url": "https://www.cifraclub.com/charly-garcia/desarma-sangra/",
             "nome": "Desarma Y Sangra",
             "artista": "Charly García",
-            "2026-09-28": 318
+            "2026-09-28": 319
         },
         "38257": {
             "url": "https://www.cifraclub.com/fito-paez/un-vestido-un-amor/",
             "nome": "Un Vestido Y Un Amor",
             "artista": "Fito Páez",
-            "2026-09-28": 319
+            "2026-09-28": 320
         },
         "170836": {
             "url": "https://www.cifraclub.com/alvarado/el-borde-de-su-manto/",
             "nome": "El Borde de Su Manto",
             "artista": "Alvarado",
-            "2026-09-28": 320
+            "2026-09-28": 321
         },
         "243535": {
             "url": "https://www.cifraclub.com/rocio-durcal/amor-eterno/",
             "nome": "Amor Eterno",
             "artista": "Rocío Durcal",
-            "2026-09-28": 321
+            "2026-09-28": 322
         },
         "176046": {
             "url": "https://www.cifraclub.com/danilo-montero/hay-momentos/",
             "nome": "Hay Momentos",
             "artista": "Danilo Montero",
-            "2026-09-28": 322
+            "2026-09-28": 323
         },
         "238701": {
             "url": "https://www.cifraclub.com/pappo/juntos-la-par/",
             "nome": "Juntos a La Par",
             "artista": "Pappo",
-            "2026-09-28": 323
+            "2026-09-28": 324
         },
         "630271": {
             "url": "https://www.cifraclub.com/trio-los-panchos/sabor-a-mi/",
             "nome": "Sabor A Mí",
             "artista": "Los Panchos",
-            "2026-09-28": 324
+            "2026-09-28": 325
         },
         "413630": {
             "url": "https://www.cifraclub.com/harry-styles/sign-of-the-times/",
             "nome": "Sign Of The Times",
             "artista": "Harry Styles",
-            "2026-09-28": 325
+            "2026-09-28": 326
         },
         "632080": {
             "url": "https://www.cifraclub.com/las-pelotas/sera/",
             "nome": "Será",
             "artista": "Las Pelotas",
-            "2026-09-28": 326
+            "2026-09-28": 327
         },
         "1027833": {
             "url": "https://www.cifraclub.com/rita-payes/algo-contigo/",
             "nome": "Algo Contigo",
             "artista": "Rita Payés",
-            "2026-09-28": 327
-        },
-        "7813": {
-            "url": "https://www.cifraclub.com/a-ha/take-on-me/",
-            "nome": "Take On Me",
-            "artista": "a-ha",
             "2026-09-28": 328
         },
         "23430": {
@@ -1977,796 +1977,796 @@
             "artista": "Israel Kamakawiwo'ole",
             "2026-09-28": 329
         },
+        "7813": {
+            "url": "https://www.cifraclub.com/a-ha/take-on-me/",
+            "nome": "Take On Me",
+            "artista": "a-ha",
+            "2026-09-28": 330
+        },
         "622762": {
             "url": "https://www.cifraclub.com/julio-jaramillo/que-nadie-sepa-mi-sufrir/",
             "nome": "Que nadie sepa mi sufrir",
             "artista": "Julio Jaramillo",
-            "2026-09-28": 330
+            "2026-09-28": 331
         },
         "376279": {
             "url": "https://www.cifraclub.com/marcos-brunet/deseable/",
             "nome": "Deseable",
             "artista": "Marcos Brunet",
-            "2026-09-28": 331
+            "2026-09-28": 332
         },
         "386861": {
             "url": "https://www.cifraclub.com/shawn-mendes/treat-you-better/",
             "nome": "Treat You Better",
             "artista": "Shawn Mendes",
-            "2026-09-28": 332
+            "2026-09-28": 333
         },
         "721203": {
             "url": "https://www.cifraclub.com/marcos-vidal/cara-a-cara/",
             "nome": "Cara a Cara",
             "artista": "Marcos Vidal",
-            "2026-09-28": 333
+            "2026-09-28": 334
         },
         "3144067": {
             "url": "https://www.cifraclub.com/toma-tu-lugar/que-ruja-el-leon/",
             "nome": "Que Ruja el León",
             "artista": "TOMATULUGAR",
-            "2026-09-28": 334
+            "2026-09-28": 335
         },
         "489023": {
             "url": "https://www.cifraclub.com/mon-laferte/pa-donde-se-fue/",
             "nome": "Pa' Dónde Se Fue",
             "artista": "Mon Laferte",
-            "2026-09-28": 335
+            "2026-09-28": 336
         },
         "390020": {
             "url": "https://www.cifraclub.com/marco-barrientos/lo-nico-que-quiero/",
             "nome": "Lo Único Que Quiero",
             "artista": "Marco Barrientos",
-            "2026-09-28": 336
+            "2026-09-28": 337
         },
         "650230": {
             "url": "https://www.cifraclub.com/marcos-witt/poderoso-dios/",
             "nome": "Poderoso Dios",
             "artista": "Marcos Witt",
-            "2026-09-28": 337
+            "2026-09-28": 338
         },
         "685054": {
             "url": "https://www.cifraclub.com/chaqueno-palavecino/amor-salvaje/",
             "nome": "Amor Salvaje",
             "artista": "Chaqueño Palavecino",
-            "2026-09-28": 338
+            "2026-09-28": 339
         },
         "84643": {
             "url": "https://www.cifraclub.com/amy-winehouse/back-to-black/",
             "nome": "Back To Black",
             "artista": "Amy Winehouse",
-            "2026-09-28": 339
+            "2026-09-28": 340
         },
         "539": {
             "url": "https://www.cifraclub.com/bee-gees/how-deep-is-your-love/",
             "nome": "How Deep Is Your Love",
             "artista": "Bee Gees",
-            "2026-09-28": 340
+            "2026-09-28": 341
         },
         "63351": {
             "url": "https://www.cifraclub.com/abel-zavala/enamorame/",
             "nome": "Enamórame",
             "artista": "Abel Zavala",
-            "2026-09-28": 341
+            "2026-09-28": 342
         },
         "889069": {
             "url": "https://www.cifraclub.com/los-redonditos-de-ricota/jijiji/",
             "nome": "Ji Ji Ji",
             "artista": "Patricio Rey y Sus Redonditos de Ricota",
-            "2026-09-28": 342
+            "2026-09-28": 343
         },
         "3108085": {
             "url": "https://www.cifraclub.com/laufey/from-the-start/",
             "nome": "From The Start",
             "artista": "Laufey",
-            "2026-09-28": 343
+            "2026-09-28": 344
         },
         "465304": {
             "url": "https://www.cifraclub.com/guitarricadelafuente/guantanamera/",
             "nome": "Guantanamera",
             "artista": "Guitarricadelafuente",
-            "2026-09-28": 344
+            "2026-09-28": 345
         },
         "103773": {
             "url": "https://www.cifraclub.com/abel-zavala/de-tal-manera/",
             "nome": "De Tal Manera",
             "artista": "Abel Zavala",
-            "2026-09-28": 345
+            "2026-09-28": 346
         },
         "20655": {
             "url": "https://www.cifraclub.com/babasonicos/putita/",
             "nome": "Putita",
             "artista": "Babasónicos",
-            "2026-09-28": 346
+            "2026-09-28": 347
         },
         "22312": {
             "url": "https://www.cifraclub.com/frank-sinatra/my-way/",
             "nome": "My Way",
             "artista": "Frank Sinatra",
-            "2026-09-28": 347
+            "2026-09-28": 348
         },
         "185455": {
             "url": "https://www.cifraclub.com/los-piojos/bicho-de-ciudad/",
             "nome": "Bicho de Ciudad",
             "artista": "Los Piojos",
-            "2026-09-28": 348
+            "2026-09-28": 349
         },
         "654341": {
             "url": "https://www.cifraclub.com/musica-catolica/alma-misionera/",
             "nome": "Alma misionera",
             "artista": "Música Católica",
-            "2026-09-28": 349
+            "2026-09-28": 350
         },
         "3104022": {
             "url": "https://www.cifraclub.com/majo-y-dan/fiel/",
             "nome": "Fiel",
             "artista": "Majo y Dan",
-            "2026-09-28": 350
+            "2026-09-28": 351
         },
         "63485": {
             "url": "https://www.cifraclub.com/joao-neto-frederico/pra-dizer-adeus/",
             "nome": "Pra Dizer Adeus",
             "artista": "João Neto & Frederico",
-            "2026-09-28": 351
+            "2026-09-28": 352
         },
         "880": {
             "url": "https://www.cifraclub.com/extreme/more-than-words/",
             "nome": "More Than Words",
             "artista": "Extreme",
-            "2026-09-28": 352
+            "2026-09-28": 353
         },
         "454637": {
             "url": "https://www.cifraclub.com/callejeros/rocanroles-sin-destino/",
             "nome": "Rocanroles Sin Destino",
             "artista": "Callejeros",
-            "2026-09-28": 353
+            "2026-09-28": 354
         },
         "83065": {
             "url": "https://www.cifraclub.com/belanova/rosa-pastel/",
             "nome": "Rosa Pastel",
             "artista": "Belanova",
-            "2026-09-28": 354
+            "2026-09-28": 355
         },
         "266187": {
             "url": "https://www.cifraclub.com/dread-mar-i/tu-sin-mi/",
             "nome": "Tú Sin Mi",
             "artista": "Dread Mar I",
-            "2026-09-28": 355
+            "2026-09-28": 356
         },
         "8019": {
             "url": "https://www.cifraclub.com/michael-jackson/billie-jean/",
             "nome": "Billie Jean",
             "artista": "Michael Jackson",
-            "2026-09-28": 356
+            "2026-09-28": 357
         },
         "3098523": {
             "url": "https://www.cifraclub.com/averly-morillo/quien-podra/",
             "nome": "¿Quién Podrá?",
             "artista": "Averly Morillo",
-            "2026-09-28": 357
+            "2026-09-28": 358
         },
         "351098": {
             "url": "https://www.cifraclub.com/andres-calamaro/cuando-no-estas/",
             "nome": "Cuando No Estás",
             "artista": "Andrés Calamaro",
-            "2026-09-28": 358
+            "2026-09-28": 359
         },
         "597583": {
             "url": "https://www.cifraclub.com/espinoza-paz/un-hombre-normal/",
             "nome": "Un hombre normal",
             "artista": "Espinoza Paz",
-            "2026-09-28": 359
+            "2026-09-28": 360
         },
         "118088": {
             "url": "https://www.cifraclub.com/enanitos-verdes/mariposas/",
             "nome": "Mariposas",
             "artista": "Los Enanitos Verdes",
-            "2026-09-28": 360
+            "2026-09-28": 361
         },
         "317763": {
             "url": "https://www.cifraclub.com/christine-dclario/el-nos-ama/",
             "nome": "El Nos Ama",
             "artista": "Christine D'Clario",
-            "2026-09-28": 361
+            "2026-09-28": 362
         },
         "451568": {
             "url": "https://www.cifraclub.com/ha-ash-musicas/ex-de-verdade/",
             "nome": "Ex de Verdade",
             "artista": "Ha*Ash",
-            "2026-09-28": 362
+            "2026-09-28": 363
         },
         "3374595": {
             "url": "https://www.cifraclub.com/grupo-grace/que-vuelva-lo-santo-al-altar-part-montesanto/",
             "nome": "Que Vuelva Lo Santo Al Altar (Part. Montesanto)",
             "artista": "Grupo Grace",
-            "2026-09-28": 363
+            "2026-09-28": 364
         },
         "664081": {
             "url": "https://www.cifraclub.com/chico-trujillo/los-continentales/",
             "nome": "Los Continentales",
             "artista": "Chico Trujillo",
-            "2026-09-28": 364
+            "2026-09-28": 365
         },
         "436146": {
             "url": "https://www.cifraclub.com/mon-laferte/flaco/",
             "nome": "Flaco",
             "artista": "Mon Laferte",
-            "2026-09-28": 365
+            "2026-09-28": 366
         },
         "386566": {
             "url": "https://www.cifraclub.com/reik/ya-me-entere/",
             "nome": "Ya Me Enteré",
             "artista": "Reik",
-            "2026-09-28": 366
+            "2026-09-28": 367
         },
         "649740": {
             "url": "https://www.cifraclub.com/marco-barrientos/dios-de-lo-imposible/",
             "nome": "Dios De Lo Imposible",
             "artista": "Marco Barrientos",
-            "2026-09-28": 367
+            "2026-09-28": 368
         },
         "157912": {
             "url": "https://www.cifraclub.com/abel-pintos/la-llave/",
             "nome": "La Llave",
             "artista": "Abel Pintos",
-            "2026-09-28": 368
+            "2026-09-28": 369
         },
         "3116515": {
             "url": "https://www.cifraclub.com/kevin-kaarl/me-va-a-costar/",
             "nome": "Me Va a Costar",
             "artista": "Kevin Kaarl",
-            "2026-09-28": 369
+            "2026-09-28": 370
         },
         "229": {
             "url": "https://www.cifraclub.com/alice-in-chains/nutshell/",
             "nome": "Nutshell",
             "artista": "Alice In Chains",
-            "2026-09-28": 370
+            "2026-09-28": 371
         },
         "223914": {
             "url": "https://www.cifraclub.com/fito-paez/al-lado-del-camino/",
             "nome": "Al Lado Del Camino",
             "artista": "Fito Páez",
-            "2026-09-28": 371
+            "2026-09-28": 372
         },
         "38373": {
             "url": "https://www.cifraclub.com/airbag/solo-aqui/",
             "nome": "Solo Aqui",
             "artista": "AIRBAG",
-            "2026-09-28": 372
+            "2026-09-28": 373
         },
         "79403": {
             "url": "https://www.cifraclub.com/las-pastillas-del-abuelo/el-sensei/",
             "nome": "El Sensei",
             "artista": "Las Pastillas del Abuelo",
-            "2026-09-28": 373
+            "2026-09-28": 374
         },
         "70231": {
             "url": "https://www.cifraclub.com/luis-alberto-spinetta/muchacha-ojos-de-papel/",
             "nome": "Muchacha Ojos de Papel",
             "artista": "Luis Alberto Spinetta",
-            "2026-09-28": 374
+            "2026-09-28": 375
         },
         "897253": {
             "url": "https://www.cifraclub.com/danna-paola/veo-en-ti-la-luz/",
             "nome": "Veo En Tí La Luz",
             "artista": "DANNA",
-            "2026-09-28": 375
+            "2026-09-28": 376
         },
         "475110": {
             "url": "https://www.cifraclub.com/tan-bionica/loca/",
             "nome": "Loca",
             "artista": "Tan Bionica",
-            "2026-09-28": 376
+            "2026-09-28": 377
         },
         "333764": {
             "url": "https://www.cifraclub.com/tan-bionica/arruinarse/",
             "nome": "Arruinarse",
             "artista": "Tan Bionica",
-            "2026-09-28": 377
+            "2026-09-28": 378
         },
         "335407": {
             "url": "https://www.cifraclub.com/centro-mundial-de-avivamiento/aleluya/",
             "nome": "Aleluya",
             "artista": "Centro Mundial de Avivamiento",
-            "2026-09-28": 378
+            "2026-09-28": 379
         },
         "175486": {
             "url": "https://www.cifraclub.com/alex-campos/tu-poeta/",
             "nome": "Tu Poeta",
             "artista": "Alex Campos",
-            "2026-09-28": 379
+            "2026-09-28": 380
         },
         "3133987": {
             "url": "https://www.cifraclub.com/emanuel-cortes/amor/",
             "nome": "Amor",
             "artista": "Emmanuel Cortes",
-            "2026-09-28": 380
+            "2026-09-28": 381
         },
         "257963": {
             "url": "https://www.cifraclub.com/marcos-brunet/atrae-mi-corazon/",
             "nome": "Atrae Mi Corazón",
             "artista": "Marcos Brunet",
-            "2026-09-28": 381
+            "2026-09-28": 382
         },
         "426144": {
             "url": "https://www.cifraclub.com/los-chalchareros/luna-cautiva/",
             "nome": "Luna Cautiva",
             "artista": "Los Chalchareros",
-            "2026-09-28": 382
+            "2026-09-28": 383
         },
         "36242": {
             "url": "https://www.cifraclub.com/coti/nada-fue-un-error/",
             "nome": "Nada Fue Un Error",
             "artista": "Coti",
-            "2026-09-28": 383
+            "2026-09-28": 384
         },
         "476202": {
             "url": "https://www.cifraclub.com/abel-pintos/oncemil/",
             "nome": "Oncemil",
             "artista": "Abel Pintos",
-            "2026-09-28": 384
+            "2026-09-28": 385
         },
         "2648": {
             "url": "https://www.cifraclub.com/radiohead/fake-plastic-trees/",
             "nome": "Fake Plastic Trees",
             "artista": "Radiohead",
-            "2026-09-28": 385
+            "2026-09-28": 386
         },
         "663201": {
             "url": "https://www.cifraclub.com/los-chalchaleros/zamba-de-mi-esperanza/",
             "nome": "Zamba de mi Esperanza",
             "artista": "Los Chalchaleros",
-            "2026-09-28": 386
+            "2026-09-28": 387
         },
         "3114290": {
             "url": "https://www.cifraclub.com/montesanto/bautizados-en-fuego/",
             "nome": "Bautizados En Fuego",
             "artista": "Montesanto",
-            "2026-09-28": 387
+            "2026-09-28": 388
         },
         "51185": {
             "url": "https://www.cifraclub.com/victor-jara/te-recuerdo-amanda/",
             "nome": "Te Recuerdo Amanda",
             "artista": "Victor Jara",
-            "2026-09-28": 388
+            "2026-09-28": 389
         },
         "455116": {
             "url": "https://www.cifraclub.com/israel-houghton-new-breed/jesus-es-el-centro/",
             "nome": "Jesús Es El Centro",
             "artista": "Israel & New Breed",
-            "2026-09-28": 389
+            "2026-09-28": 390
         },
         "397758": {
             "url": "https://www.cifraclub.com/christine-dclario/rey/",
             "nome": "Rey",
             "artista": "Christine D'Clario",
-            "2026-09-28": 390
+            "2026-09-28": 391
         },
         "468018": {
             "url": "https://www.cifraclub.com/ed-maverick/acurrucar/",
             "nome": "Acurrucar",
             "artista": "Ed Maverick",
-            "2026-09-28": 391
+            "2026-09-28": 392
         },
         "1579": {
             "url": "https://www.cifraclub.com/red-hot-chili-peppers/californication/",
             "nome": "Californication",
             "artista": "Red Hot Chili Peppers",
-            "2026-09-28": 392
+            "2026-09-28": 393
         },
         "220265": {
             "url": "https://www.cifraclub.com/marcos-witt/temprano-yo-te-buscare/",
             "nome": "Temprano Yo Te Buscaré",
             "artista": "Marcos Witt",
-            "2026-09-28": 393
+            "2026-09-28": 394
         },
         "4109": {
             "url": "https://www.cifraclub.com/the-beatles/all-my-loving/",
             "nome": "All My Loving",
             "artista": "The Beatles",
-            "2026-09-28": 394
+            "2026-09-28": 395
         },
         "376550": {
             "url": "https://www.cifraclub.com/catolicas/pescador-de-hombres/",
             "nome": "Pescador de Hombres",
             "artista": "Músicas Católicas",
-            "2026-09-28": 395
+            "2026-09-28": 396
         },
         "3395563": {
             "url": "https://www.cifraclub.com/carin-leon/desde-que-te-tengo/",
             "nome": "Desde Que Te Tengo",
             "artista": "Carín León",
-            "2026-09-28": 396
+            "2026-09-28": 397
         },
         "354074": {
             "url": "https://www.cifraclub.com/ingrid-rosario/que-se-llene-tu-casa/",
             "nome": "Que Se Llene Tu Casa",
             "artista": "Ingrid Rosario",
-            "2026-09-28": 397
+            "2026-09-28": 398
         },
         "506149": {
             "url": "https://www.cifraclub.com/el-mato-un-policia-motorizado/el-tesoro/",
             "nome": "El Tesoro",
             "artista": "El Mató a un Policía Motorizado",
-            "2026-09-28": 398
+            "2026-09-28": 399
         },
         "483": {
             "url": "https://www.cifraclub.com/the-beatles/here-comes-the-sun-483/",
             "nome": "Here Comes The Sun",
             "artista": "The Beatles",
-            "2026-09-28": 399
+            "2026-09-28": 400
         },
         "46883": {
             "url": "https://www.cifraclub.com/floricienta/mi-vestido-azul/",
             "nome": "Mi Vestido Azul",
             "artista": "Floricienta",
-            "2026-09-28": 400
+            "2026-09-28": 401
         },
         "372005": {
             "url": "https://www.cifraclub.com/sui-generis/quizas-porque/",
             "nome": "Quizás, Porque",
             "artista": "Sui Generis",
-            "2026-09-28": 401
+            "2026-09-28": 402
         },
         "360700": {
             "url": "https://www.cifraclub.com/miel-san-marcos/fiesta/",
             "nome": "Fiesta",
             "artista": "Miel San Marcos",
-            "2026-09-28": 402
+            "2026-09-28": 403
         },
         "503331": {
             "url": "https://www.cifraclub.com/indio-solari/habia-una-vez/",
             "nome": "Había Una Vez",
             "artista": "Indio Solari",
-            "2026-09-28": 403
+            "2026-09-28": 404
         },
         "49311": {
             "url": "https://www.cifraclub.com/enanitos-verdes/luz-de-dia/",
             "nome": "Luz De Dia",
             "artista": "Los Enanitos Verdes",
-            "2026-09-28": 404
+            "2026-09-28": 405
         },
         "725545": {
             "url": "https://www.cifraclub.com/generacion-12/vuelvo-a-casa/",
             "nome": "Vuelvo a Casa",
             "artista": "Generación 12",
-            "2026-09-28": 405
+            "2026-09-28": 406
         },
         "3132978": {
             "url": "https://www.cifraclub.com/tuyo/tu-el-unico-rey/",
             "nome": "(Tú) El Único Rey",
             "artista": "TUYO",
-            "2026-09-28": 406
+            "2026-09-28": 407
         },
         "343004": {
             "url": "https://www.cifraclub.com/no-te-va-gustar/tan-lejos/",
             "nome": "Tan Lejos",
             "artista": "No Te Va Gustar",
-            "2026-09-28": 407
+            "2026-09-28": 408
         },
         "21156": {
             "url": "https://www.cifraclub.com/green-day/boulevard-of-broken-dreams/",
             "nome": "Boulevard Of Broken Dreams",
             "artista": "Green Day",
-            "2026-09-28": 408
+            "2026-09-28": 409
         },
         "82799": {
             "url": "https://www.cifraclub.com/atahualpa-yupanqui/luna-tucumana/",
             "nome": "Luna Tucumana",
             "artista": "Atahualpa Yupanqui",
-            "2026-09-28": 409
+            "2026-09-28": 410
         },
         "57129": {
             "url": "https://www.cifraclub.com/alex-ubago/sin-miedo-nada/",
             "nome": "Sin Miedo a Nada",
             "artista": "Alex Ubago",
-            "2026-09-28": 410
+            "2026-09-28": 411
         },
         "371862": {
             "url": "https://www.cifraclub.com/leon-larregui/brillas/",
             "nome": "Brillas",
             "artista": "León Larregui",
-            "2026-09-28": 411
+            "2026-09-28": 412
         },
         "49459": {
             "url": "https://www.cifraclub.com/fernel-monroy/remolineando/",
             "nome": "Remolineando",
             "artista": "Fernel Monroy",
-            "2026-09-28": 412
+            "2026-09-28": 413
         },
         "1664": {
             "url": "https://www.cifraclub.com/sixpence-none-the-richer/kiss-me/",
             "nome": "Kiss Me",
             "artista": "Sixpence None The Richer",
-            "2026-09-28": 413
+            "2026-09-28": 414
         },
         "388022": {
             "url": "https://www.cifraclub.com/los-pericos/pupilas-lejanas/",
             "nome": "Pupilas Lejanas",
             "artista": "Los Pericos",
-            "2026-09-28": 414
+            "2026-09-28": 415
         },
         "15182": {
             "url": "https://www.cifraclub.com/juanes/es-por-ti/",
             "nome": "Es Por Ti",
             "artista": "Juanes",
-            "2026-09-28": 415
+            "2026-09-28": 416
         },
         "486908": {
             "url": "https://www.cifraclub.com/abel-pintos/motivos/",
             "nome": "Motivos",
             "artista": "Abel Pintos",
-            "2026-09-28": 416
+            "2026-09-28": 417
         },
         "5117": {
             "url": "https://www.cifraclub.com/bryan-adams/heaven/",
             "nome": "Heaven",
             "artista": "Bryan Adams",
-            "2026-09-28": 417
+            "2026-09-28": 418
         },
         "93285": {
             "url": "https://www.cifraclub.com/plain-white-ts/hey-there-delilah/",
             "nome": "Hey There Delilah",
             "artista": "Plain White T's",
-            "2026-09-28": 418
+            "2026-09-28": 419
         },
         "167131": {
             "url": "https://www.cifraclub.com/lerner-alejandro/despues-de-ti/",
             "nome": "Despues de Ti",
             "artista": "Alejandro Lerner",
-            "2026-09-28": 419
+            "2026-09-28": 420
         },
         "42113": {
             "url": "https://www.cifraclub.com/soda-stereo/cuando-pase-el-temblor/",
             "nome": "Cuando Pase El Temblor",
             "artista": "Soda Stereo",
-            "2026-09-28": 420
+            "2026-09-28": 421
         },
         "469273": {
             "url": "https://www.cifraclub.com/marcos-witt/dios-imparable/",
             "nome": "Dios Imparable",
             "artista": "Marcos Witt",
-            "2026-09-28": 421
+            "2026-09-28": 422
         },
         "948": {
             "url": "https://www.cifraclub.com/guns-n-roses/november-rain/",
             "nome": "November Rain",
             "artista": "Guns N' Roses",
-            "2026-09-28": 422
+            "2026-09-28": 423
         },
         "267340": {
             "url": "https://www.cifraclub.com/no-te-va-gustar/chau/",
             "nome": "Chau",
             "artista": "No Te Va Gustar",
-            "2026-09-28": 423
+            "2026-09-28": 424
         },
         "18577": {
             "url": "https://www.cifraclub.com/chayanne/dejaria-todo/",
             "nome": "Dejaria Todo",
             "artista": "Chayanne",
-            "2026-09-28": 424
+            "2026-09-28": 425
         },
         "467375": {
             "url": "https://www.cifraclub.com/marco-barrientos/preciosa-sangre/",
             "nome": "Preciosa Sangre",
             "artista": "Marco Barrientos",
-            "2026-09-28": 425
+            "2026-09-28": 426
         },
         "97220": {
             "url": "https://www.cifraclub.com/union-la/un-hombre-lobo-en-paris/",
             "nome": "Un Hombre Lobo En Paris",
             "artista": "La Unión",
-            "2026-09-28": 426
+            "2026-09-28": 427
         },
         "3414067": {
             "url": "https://www.cifraclub.com/quevedo/la-graciosa-part-elvis-crespo/",
             "nome": "LA GRACIOSA (part. Elvis Crespo)",
             "artista": "Quevedo",
-            "2026-09-28": 427
+            "2026-09-28": 428
         },
         "276136": {
             "url": "https://www.cifraclub.com/zoe/labios-rotos/",
             "nome": "Lábios Rotos",
             "artista": "Zoé",
-            "2026-09-28": 428
+            "2026-09-28": 429
         },
         "472988": {
             "url": "https://www.cifraclub.com/charly-garcia/promesas-sobre-el-bidet/",
             "nome": "Promesas Sobre El Bidet",
             "artista": "Charly García",
-            "2026-09-28": 429
+            "2026-09-28": 430
         },
         "170276": {
             "url": "https://www.cifraclub.com/babasonicos/puesto/",
             "nome": "Puesto",
             "artista": "Babasónicos",
-            "2026-09-28": 430
+            "2026-09-28": 431
         },
         "377682": {
             "url": "https://www.cifraclub.com/gustavo-cerati/lago-en-el-cielo/",
             "nome": "Lago En El Cielo",
             "artista": "Gustavo Cerati",
-            "2026-09-28": 431
+            "2026-09-28": 432
         },
         "6746": {
             "url": "https://www.cifraclub.com/george-harrison/my-sweet-lord/",
             "nome": "My Sweet Lord",
             "artista": "George Harrison",
-            "2026-09-28": 432
+            "2026-09-28": 433
         },
         "395009": {
             "url": "https://www.cifraclub.com/juan-carlos-alvarado/dios-el-mas-grande/",
             "nome": "Dios El Más Grande",
             "artista": "Juan Carlos Alvarado",
-            "2026-09-28": 433
+            "2026-09-28": 434
         },
         "2651": {
             "url": "https://www.cifraclub.com/radiohead/karma-police/",
             "nome": "Karma Police",
             "artista": "Radiohead",
-            "2026-09-28": 434
+            "2026-09-28": 435
         },
         "615227": {
             "url": "https://www.cifraclub.com/bersuit-vergarabat/la-soledad/",
             "nome": "La Soledad",
             "artista": "Bersuit Vergarabat",
-            "2026-09-28": 435
+            "2026-09-28": 436
         },
         "65306": {
             "url": "https://www.cifraclub.com/fito-paez/yo-vengo-ofrecer-mi-corazon/",
             "nome": "Yo Vengo a Ofrecer Mi Corazón",
             "artista": "Fito Páez",
-            "2026-09-28": 436
+            "2026-09-28": 437
         },
         "615772": {
             "url": "https://www.cifraclub.com/bobby-pulido/desvelado/",
             "nome": "Desvelado",
             "artista": "Bobby Pulido",
-            "2026-09-28": 437
+            "2026-09-28": 438
         },
         "18080": {
             "url": "https://www.cifraclub.com/hoobastank/the-reason/",
             "nome": "The Reason",
             "artista": "Hoobastank",
-            "2026-09-28": 438
+            "2026-09-28": 439
         },
         "60399": {
             "url": "https://www.cifraclub.com/bose-miguel/si-tu-no-vuelves/",
             "nome": "Si Tu No Vuelves",
             "artista": "Miguel Bosé",
-            "2026-09-28": 439
+            "2026-09-28": 440
         },
         "43711": {
             "url": "https://www.cifraclub.com/la-oreja-de-van-gogh-musicas/la-playa/",
             "nome": "La Playa",
             "artista": "La Oreja de Van Gogh",
-            "2026-09-28": 440
+            "2026-09-28": 441
         },
         "626821": {
             "url": "https://www.cifraclub.com/los-ronaldos/no-puedo-vivir-sin-ti/",
             "nome": "No Puedo Vivir Sin Tí",
             "artista": "Los Ronaldos",
-            "2026-09-28": 441
+            "2026-09-28": 442
         },
         "43537": {
             "url": "https://www.cifraclub.com/los-tres/he-barrido-el-sol/",
             "nome": "He Barrido El Sol",
             "artista": "Los Tres",
-            "2026-09-28": 442
+            "2026-09-28": 443
         },
         "59152": {
             "url": "https://www.cifraclub.com/los-redonditos-de-ricota/esa-estrella-era-mi-lujo/",
             "nome": "Esa Estrella Era Mi Lujo",
             "artista": "Patricio Rey y Sus Redonditos de Ricota",
-            "2026-09-28": 443
+            "2026-09-28": 444
         },
         "129991": {
             "url": "https://www.cifraclub.com/los-autenticos-decadentes/un-osito-de-peluche-de-taiwan/",
             "nome": "Un Osito De Peluche De Taiwan",
             "artista": "Los Auténticos Decadentes",
-            "2026-09-28": 444
+            "2026-09-28": 445
         },
         "8727": {
             "url": "https://www.cifraclub.com/robbie-williams/angels/",
             "nome": "Angels",
             "artista": "Robbie Williams",
-            "2026-09-28": 445
+            "2026-09-28": 446
         },
         "710024": {
             "url": "https://www.cifraclub.com/hillsong-en-espaol/hosanna/",
             "nome": "Hosanna",
             "artista": "Hillsong en Español",
-            "2026-09-28": 446
+            "2026-09-28": 447
         },
         "130003": {
             "url": "https://www.cifraclub.com/los-fabulosos-cadillacs/vasos-vacios/",
             "nome": "Vasos Vacíos",
             "artista": "Los Fabulosos Cadillacs",
-            "2026-09-28": 447
+            "2026-09-28": 448
         },
         "3273551": {
             "url": "https://www.cifraclub.com/silvana-estrada/como-un-pajaro/",
             "nome": "Como Un Pájaro",
             "artista": "Silvana Estrada",
-            "2026-09-28": 448
+            "2026-09-28": 449
         },
         "272761": {
             "url": "https://www.cifraclub.com/danny-berrios/a-dios-sea-la-gloria/",
             "nome": "A Dios Sea La Gloria",
             "artista": "Danny Berrios",
-            "2026-09-28": 449
+            "2026-09-28": 450
         },
         "473950": {
             "url": "https://www.cifraclub.com/kany-garcia/confieso/",
             "nome": "Confieso",
             "artista": "Kany García",
-            "2026-09-28": 450
+            "2026-09-28": 451
         },
         "57548": {
             "url": "https://www.cifraclub.com/viejas-locas/homero/",
             "nome": "Homero",
             "artista": "Viejas Locas",
-            "2026-09-28": 451
+            "2026-09-28": 452
         },
         "14348": {
             "url": "https://www.cifraclub.com/kansas/dust-in-the-wind/",
             "nome": "Dust In The Wind",
             "artista": "Kansas",
-            "2026-09-28": 452
+            "2026-09-28": 453
         },
         "36264": {
             "url": "https://www.cifraclub.com/venegas-julieta/me-voy/",
             "nome": "Me Voy",
             "artista": "Julieta Venegas",
-            "2026-09-28": 453
+            "2026-09-28": 454
         },
         "169294": {
             "url": "https://www.cifraclub.com/coldplay/viva-la-vida/",
             "nome": "Viva La Vida",
             "artista": "Coldplay",
-            "2026-09-28": 454
+            "2026-09-28": 455
         },
         "429335": {
             "url": "https://www.cifraclub.com/natalia-lafourcade/nunca-es-suficiente/",
             "nome": "Nunca Es Suficiente",
             "artista": "Natalia Lafourcade",
-            "2026-09-28": 455
+            "2026-09-28": 456
         },
         "427529": {
             "url": "https://www.cifraclub.com/vino-nuevo/en-totalidad-a-ti/",
             "nome": "En Totalidad a Ti",
             "artista": "Vino Nuevo",
-            "2026-09-28": 456
+            "2026-09-28": 457
         },
         "94369": {
             "url": "https://www.cifraclub.com/sin-bandera/entra-en-mi-vida/",
             "nome": "Entra En Mi Vida",
             "artista": "Sin Bandera",
-            "2026-09-28": 457
+            "2026-09-28": 458
         },
         "372185": {
             "url": "https://www.cifraclub.com/danilo-montero/digno-y-santo/",
             "nome": "Digno y Santo",
             "artista": "Danilo Montero",
-            "2026-09-28": 458
+            "2026-09-28": 459
         },
         "3229829": {
             "url": "https://www.cifraclub.com/factor-de-cambio/declaro-a-cristo/",
             "nome": "Declaro a Cristo",
             "artista": "Factor de Cambio",
-            "2026-09-28": 459
+            "2026-09-28": 460
         },
         "3096592": {
             "url": "https://www.cifraclub.com/milo-j/el-bolero/",
             "nome": "El Bolero (part. Yami Safdie)",
             "artista": "Milo j",
-            "2026-09-28": 460
-        },
-        "389984": {
-            "url": "https://www.cifraclub.com/dread-mar-i/hoja-en-blanco/",
-            "nome": "Hoja En Blanco",
-            "artista": "Dread Mar I",
             "2026-09-28": 461
         },
         "81049": {
@@ -2775,856 +2775,856 @@
             "artista": "Arctic Monkeys",
             "2026-09-28": 462
         },
+        "389984": {
+            "url": "https://www.cifraclub.com/dread-mar-i/hoja-en-blanco/",
+            "nome": "Hoja En Blanco",
+            "artista": "Dread Mar I",
+            "2026-09-28": 463
+        },
         "471064": {
             "url": "https://www.cifraclub.com/alejandro-del-bosque/al-estar-ante-ti/",
             "nome": "Al Estar Ante Tí",
             "artista": "Alejandro Del Bosque",
-            "2026-09-28": 463
+            "2026-09-28": 464
         },
         "459721": {
             "url": "https://www.cifraclub.com/ingrid-rosario/en-el-nombre-de-jesus/",
             "nome": "En El Nombre de Jesús",
             "artista": "Ingrid Rosario",
-            "2026-09-28": 464
+            "2026-09-28": 465
         },
         "1418": {
             "url": "https://www.cifraclub.com/oasis/live-forever/",
             "nome": "Live Forever",
             "artista": "Oasis",
-            "2026-09-28": 465
+            "2026-09-28": 466
         },
         "6973": {
             "url": "https://www.cifraclub.com/oasis/stop-crying-your-heart-out/",
             "nome": "Stop Crying Your Heart Out",
             "artista": "Oasis",
-            "2026-09-28": 466
+            "2026-09-28": 467
         },
         "7564": {
             "url": "https://www.cifraclub.com/the-beatles/while-my-guitar-gently-weeps/",
             "nome": "While My Guitar Gently Weeps",
             "artista": "The Beatles",
-            "2026-09-28": 467
+            "2026-09-28": 468
         },
         "6887": {
             "url": "https://www.cifraclub.com/the-beatles/dont-let-me-down/",
             "nome": "Don't Let Me Down",
             "artista": "The Beatles",
-            "2026-09-28": 468
+            "2026-09-28": 469
         },
         "177603": {
             "url": "https://www.cifraclub.com/frank-sinatra/fly-me-to-the-moon/",
             "nome": "Fly Me To The Moon",
             "artista": "Frank Sinatra",
-            "2026-09-28": 469
+            "2026-09-28": 470
         },
         "56414": {
             "url": "https://www.cifraclub.com/los-rodriguez/sin-documentos/",
             "nome": "Sin Documentos",
             "artista": "Los Rodríguez",
-            "2026-09-28": 470
+            "2026-09-28": 471
         },
         "207740": {
             "url": "https://www.cifraclub.com/paramore/the-only-exception/",
             "nome": "The Only Exception",
             "artista": "Paramore",
-            "2026-09-28": 471
+            "2026-09-28": 472
         },
         "325272": {
             "url": "https://www.cifraclub.com/john-legend/all-of-me/",
             "nome": "All Of Me",
             "artista": "John Legend",
-            "2026-09-28": 472
+            "2026-09-28": 473
         },
         "442061": {
             "url": "https://www.cifraclub.com/raly-barrionuevo/zamba-y-acuarela/",
             "nome": "Zamba Y Acuarela",
             "artista": "Raly Barrionuevo",
-            "2026-09-28": 473
+            "2026-09-28": 474
         },
         "645206": {
             "url": "https://www.cifraclub.com/antonio-banderas/cancion-del-mariachi/",
             "nome": "Cancion Del Mariachi",
             "artista": "Antonio Banderas",
-            "2026-09-28": 474
+            "2026-09-28": 475
         },
         "584986": {
             "url": "https://www.cifraclub.com/fito-paez/fue-por-amor/",
             "nome": "Fue Amor",
             "artista": "Fito Páez",
-            "2026-09-28": 475
+            "2026-09-28": 476
         },
         "87559": {
             "url": "https://www.cifraclub.com/enanitos-verdes/amores-lejanos/",
             "nome": "Amores Lejanos",
             "artista": "Los Enanitos Verdes",
-            "2026-09-28": 476
+            "2026-09-28": 477
         },
         "495238": {
             "url": "https://www.cifraclub.com/castro-cristian/no-podras/",
             "nome": "No Podrás",
             "artista": "Cristian Castro",
-            "2026-09-28": 477
+            "2026-09-28": 478
         },
         "723332": {
             "url": "https://www.cifraclub.com/camilo-echeverry/manos-de-tijera/",
             "nome": "Manos de Tijera",
             "artista": "Camilo",
-            "2026-09-28": 478
+            "2026-09-28": 479
         },
         "887": {
             "url": "https://www.cifraclub.com/foo-fighters/everlong/",
             "nome": "Everlong",
             "artista": "Foo Fighters",
-            "2026-09-28": 479
+            "2026-09-28": 480
         },
         "605329": {
             "url": "https://www.cifraclub.com/gustavo-cerati/vivo/",
             "nome": "Vivo",
             "artista": "Gustavo Cerati",
-            "2026-09-28": 480
+            "2026-09-28": 481
         },
         "615642": {
             "url": "https://www.cifraclub.com/bj-putnam/glorioso/",
             "nome": "Glorioso",
             "artista": "BJ Putnam",
-            "2026-09-28": 481
+            "2026-09-28": 482
         },
         "312492": {
             "url": "https://www.cifraclub.com/no-te-va-gustar/esse-maldito-momento/",
             "nome": "Ese Maldito Momento",
             "artista": "No Te Va Gustar",
-            "2026-09-28": 482
+            "2026-09-28": 483
         },
         "729740": {
             "url": "https://www.cifraclub.com/airbag/ganas-de-verte/",
             "nome": "Ganas de Verte",
             "artista": "AIRBAG",
-            "2026-09-28": 483
+            "2026-09-28": 484
         },
         "50830": {
             "url": "https://www.cifraclub.com/sui-generis/rasgua-las-piedras/",
             "nome": "Rasguña Las Piedras",
             "artista": "Sui Generis",
-            "2026-09-28": 484
+            "2026-09-28": 485
         },
         "5706": {
             "url": "https://www.cifraclub.com/alejandro-sanz/amiga-mia/",
             "nome": "Amiga Mía",
             "artista": "Alejandro Sanz",
-            "2026-09-28": 485
+            "2026-09-28": 486
         },
         "355591": {
             "url": "https://www.cifraclub.com/marco-barrientos/nada-es-imposible/",
             "nome": "Nada Es Imposible",
             "artista": "Marco Barrientos",
-            "2026-09-28": 486
+            "2026-09-28": 487
         },
         "3095681": {
             "url": "https://www.cifraclub.com/toma-tu-lugar/hay-un-rey/",
             "nome": "Hay Un Rey",
             "artista": "TOMATULUGAR",
-            "2026-09-28": 487
+            "2026-09-28": 488
         },
         "290645": {
             "url": "https://www.cifraclub.com/dragon-ball-gt/mi-corazon-encantado/",
             "nome": "Mi Corazón Encantado",
             "artista": "Dragon Ball GT",
-            "2026-09-28": 488
+            "2026-09-28": 489
         },
         "620734": {
             "url": "https://www.cifraclub.com/jose-jose/el-reloj/",
             "nome": "El reloj",
             "artista": "José José",
-            "2026-09-28": 489
+            "2026-09-28": 490
         },
         "106276": {
             "url": "https://www.cifraclub.com/andres-calamaro/paloma/",
             "nome": "Paloma",
             "artista": "Andrés Calamaro",
-            "2026-09-28": 490
+            "2026-09-28": 491
         },
         "3304947": {
             "url": "https://www.cifraclub.com/efecto-elegante/ebrio-de-amor/",
             "nome": "Ebrio de Amor",
             "artista": "Efecto Elegante",
-            "2026-09-28": 491
+            "2026-09-28": 492
         },
         "267451": {
             "url": "https://www.cifraclub.com/danilo-montero/bendito-jesus/",
             "nome": "Bendito Jesús",
             "artista": "Danilo Montero",
-            "2026-09-28": 492
+            "2026-09-28": 493
         },
         "653810": {
             "url": "https://www.cifraclub.com/mon-laferte/amarrame/",
             "nome": "Amárrame",
             "artista": "Mon Laferte",
-            "2026-09-28": 493
+            "2026-09-28": 494
         },
         "158967": {
             "url": "https://www.cifraclub.com/marco-barrientos/seor-eres-fiel/",
             "nome": "Señor Eres Fiel",
             "artista": "Marco Barrientos",
-            "2026-09-28": 494
+            "2026-09-28": 495
         },
         "384031": {
             "url": "https://www.cifraclub.com/los-autenticos-decadentes/corazon/",
             "nome": "Corazón",
             "artista": "Los Auténticos Decadentes",
-            "2026-09-28": 495
+            "2026-09-28": 496
         },
         "685118": {
             "url": "https://www.cifraclub.com/chaqueno-palavecino/la-ley-y-la-trampa/",
             "nome": "La ley y la trampa",
             "artista": "Chaqueño Palavecino",
-            "2026-09-28": 496
+            "2026-09-28": 497
         },
         "484": {
             "url": "https://www.cifraclub.com/the-beatles/here-there-and-everywhere/",
             "nome": "Here, There and Everywhere",
             "artista": "The Beatles",
-            "2026-09-28": 497
+            "2026-09-28": 498
         },
         "11360": {
             "url": "https://www.cifraclub.com/los-prisioneros/paramar/",
             "nome": "Paramar",
             "artista": "Los Prisioneros",
-            "2026-09-28": 498
+            "2026-09-28": 499
         },
         "29043": {
             "url": "https://www.cifraclub.com/diego-torres-musicas/color-esperanza/",
             "nome": "Color Esperanza",
             "artista": "Diego Torres",
-            "2026-09-28": 499
+            "2026-09-28": 500
         },
         "711467": {
             "url": "https://www.cifraclub.com/la-la-love-you/el-fin-del-mundo/",
             "nome": "El Fin Del Mundo (Part. Olaya Axolotes Mexicanos)",
             "artista": "La La Love You",
-            "2026-09-28": 500
+            "2026-09-28": 501
         },
         "3118046": {
             "url": "https://www.cifraclub.com/hakuna-group-music/huracan/",
             "nome": "Huracán",
             "artista": "Hakuna Group Music",
-            "2026-09-28": 501
+            "2026-09-28": 502
         },
         "3192948": {
             "url": "https://www.cifraclub.com/sharon-y-los-camperos-del-chamame/cuidado-que-te-supero/",
             "nome": "Cuidado Que Te Supero",
             "artista": "Sharon y los Camperos del Chamame",
-            "2026-09-28": 502
+            "2026-09-28": 503
         },
         "170565": {
             "url": "https://www.cifraclub.com/alabanzas-llamada-final/el-espiritu-de-dios-esta-en-este-lugar/",
             "nome": "El Espiritu De Dios Esta En Este Lugar",
             "artista": "Alabanzas Llamada Final",
-            "2026-09-28": 503
+            "2026-09-28": 504
         },
         "414619": {
             "url": "https://www.cifraclub.com/banda-barak/ven-espiritu-santo/",
             "nome": "Ven Espiritu Santo",
             "artista": "Banda Barak",
-            "2026-09-28": 504
+            "2026-09-28": 505
         },
         "55302": {
             "url": "https://www.cifraclub.com/la-vela-puerca/zafar/",
             "nome": "Zafar",
             "artista": "La Vela Puerca",
-            "2026-09-28": 505
+            "2026-09-28": 506
         },
         "843": {
             "url": "https://www.cifraclub.com/dire-straits/sultans-of-swing/",
             "nome": "Sultans of Swing",
             "artista": "Dire Straits",
-            "2026-09-28": 506
+            "2026-09-28": 507
         },
         "111620": {
             "url": "https://www.cifraclub.com/camila/todo-cambio/",
             "nome": "Todo Cambio",
             "artista": "Camila",
-            "2026-09-28": 507
+            "2026-09-28": 508
         },
         "3116246": {
             "url": "https://www.cifraclub.com/humbe/fantasmas/",
             "nome": "Fantasmas",
             "artista": "HUMBE",
-            "2026-09-28": 508
+            "2026-09-28": 509
         },
         "41426": {
             "url": "https://www.cifraclub.com/los-redonditos-de-ricota/todo-un-palo/",
             "nome": "Todo Un Palo",
             "artista": "Patricio Rey y Sus Redonditos de Ricota",
-            "2026-09-28": 509
+            "2026-09-28": 510
         },
         "70707": {
             "url": "https://www.cifraclub.com/danilo-montero/la-casa-de-dios/",
             "nome": "La Casa de Dios",
             "artista": "Danilo Montero",
-            "2026-09-28": 510
+            "2026-09-28": 511
         },
         "3846": {
             "url": "https://www.cifraclub.com/eric-clapton/tears-in-heaven/",
             "nome": "Tears in Heaven",
             "artista": "Eric Clapton",
-            "2026-09-28": 511
+            "2026-09-28": 512
         },
         "313653": {
             "url": "https://www.cifraclub.com/en-espiritu-en-verdad/en-tu-luz/",
             "nome": "En Tu Luz",
             "artista": "En Espiritu Y En Verdad",
-            "2026-09-28": 512
+            "2026-09-28": 513
         },
         "642625": {
             "url": "https://www.cifraclub.com/alex-ubago/me-muero-por-conocerte/",
             "nome": "Me muero por conocerte",
             "artista": "Alex Ubago",
-            "2026-09-28": 513
+            "2026-09-28": 514
         },
         "341489": {
             "url": "https://www.cifraclub.com/ed-sheeran/photograph/",
             "nome": "Photograph",
             "artista": "Ed Sheeran",
-            "2026-09-28": 514
+            "2026-09-28": 515
         },
         "21483": {
             "url": "https://www.cifraclub.com/trio-los-panchos/historia-de-un-amor/",
             "nome": "Historia de un Amor",
             "artista": "Los Panchos",
-            "2026-09-28": 515
+            "2026-09-28": 516
         },
         "70994": {
             "url": "https://www.cifraclub.com/los-bunkers/mio/",
             "nome": "Miño",
             "artista": "Los Bunkers",
-            "2026-09-28": 516
+            "2026-09-28": 517
         },
         "295502": {
             "url": "https://www.cifraclub.com/reik/creo-en-ti/",
             "nome": "Creo En Tí",
             "artista": "Reik",
-            "2026-09-28": 517
+            "2026-09-28": 518
         },
         "619469": {
             "url": "https://www.cifraclub.com/job-gonzalez/estar-contigo/",
             "nome": "Estar Contigo",
             "artista": "Job Gonzalez",
-            "2026-09-28": 518
+            "2026-09-28": 519
         },
         "686722": {
             "url": "https://www.cifraclub.com/cuecas-chilenas/la-consentida/",
             "nome": "La Consentida",
             "artista": "Cuecas Chilenas",
-            "2026-09-28": 519
+            "2026-09-28": 520
         },
         "211098": {
             "url": "https://www.cifraclub.com/the-beatles/in-my-life/",
             "nome": "In My Life",
             "artista": "The Beatles",
-            "2026-09-28": 520
+            "2026-09-28": 521
         },
         "407361": {
             "url": "https://www.cifraclub.com/luis-fonsi/despacito/",
             "nome": "Despacito",
             "artista": "Luis Fonsi",
-            "2026-09-28": 521
+            "2026-09-28": 522
         },
         "8779": {
             "url": "https://www.cifraclub.com/mana/clavado-en-um-bar/",
             "nome": "Clavado En Um Bar",
             "artista": "Maná",
-            "2026-09-28": 522
+            "2026-09-28": 523
         },
         "478486": {
             "url": "https://www.cifraclub.com/morat/no-se-va/",
             "nome": "No Se Va",
             "artista": "Morat",
-            "2026-09-28": 523
+            "2026-09-28": 524
         },
         "685068": {
             "url": "https://www.cifraclub.com/chaqueno-palavecino/chacarera-del-olvido/",
             "nome": "Chacarera Del Olvido",
             "artista": "Chaqueño Palavecino",
-            "2026-09-28": 524
+            "2026-09-28": 525
         },
         "173643": {
             "url": "https://www.cifraclub.com/fito-paez/a-rodar-mi-vida/",
             "nome": "A Rodar Mi Vida",
             "artista": "Fito Páez",
-            "2026-09-28": 525
+            "2026-09-28": 526
         },
         "3276043": {
             "url": "https://www.cifraclub.com/mon-laferte/my-one-and-only-love-feat-natalia-lafourcade-silvana-estrada/",
             "nome": "My One And Only Love (feat. Natalia Lafourcade & Silvana Estrada)",
             "artista": "Mon Laferte",
-            "2026-09-28": 526
+            "2026-09-28": 527
         },
         "39427": {
             "url": "https://www.cifraclub.com/juan-gabriel/hasta-que-te-conoci/",
             "nome": "Hasta Que Te Conocí",
             "artista": "Juan Gabriel",
-            "2026-09-28": 527
+            "2026-09-28": 528
         },
         "415430": {
             "url": "https://www.cifraclub.com/morat/aprender-a-quererte/",
             "nome": "Aprender a Quererte",
             "artista": "Morat",
-            "2026-09-28": 528
+            "2026-09-28": 529
         },
         "708697": {
             "url": "https://www.cifraclub.com/disney/lava-i-lava-you/",
             "nome": "Lava",
             "artista": "Disney",
-            "2026-09-28": 529
+            "2026-09-28": 530
         },
         "38201": {
             "url": "https://www.cifraclub.com/ov7/te-quiero-tanto/",
             "nome": "Te Quiero Tanto",
             "artista": "Ov7",
-            "2026-09-28": 530
+            "2026-09-28": 531
         },
         "319625": {
             "url": "https://www.cifraclub.com/david-bisbal/digale/",
             "nome": "Dígale",
             "artista": "David Bisbal",
-            "2026-09-28": 531
+            "2026-09-28": 532
         },
         "502495": {
             "url": "https://www.cifraclub.com/coro-pascua-joven-san-isidro/vida-en-abundancia/",
             "nome": "Vida En Abundancia",
             "artista": "Coro Pascua Joven San Isidro",
-            "2026-09-28": 532
+            "2026-09-28": 533
         },
         "400041": {
             "url": "https://www.cifraclub.com/airbag/bajos-instintos/",
             "nome": "Bajos Instintos",
             "artista": "AIRBAG",
-            "2026-09-28": 533
+            "2026-09-28": 534
         },
         "17266": {
             "url": "https://www.cifraclub.com/mana/mariposa-traicionera/",
             "nome": "Mariposa Traicionera",
             "artista": "Maná",
-            "2026-09-28": 534
+            "2026-09-28": 535
         },
         "631712": {
             "url": "https://www.cifraclub.com/pedro-infante/cielito-lindo/",
             "nome": "Cielito Lindo",
             "artista": "Pedro Infante",
-            "2026-09-28": 535
+            "2026-09-28": 536
         },
         "722284": {
             "url": "https://www.cifraclub.com/new-wine/incomprensible-amor/",
             "nome": "Incomprensible Amor",
             "artista": "New Wine",
-            "2026-09-28": 536
+            "2026-09-28": 537
         },
         "468938": {
             "url": "https://www.cifraclub.com/david-rees/de-ellos-aprendi/",
             "nome": "De Ellos Aprendí",
             "artista": "David Rees",
-            "2026-09-28": 537
+            "2026-09-28": 538
         },
         "619285": {
             "url": "https://www.cifraclub.com/joan-sebastian/un-idiota/",
             "nome": "Un idiota",
             "artista": "Joan Sebastian",
-            "2026-09-28": 538
+            "2026-09-28": 539
         },
         "63978": {
             "url": "https://www.cifraclub.com/los-autenticos-decadentes/la-guitarra/",
             "nome": "La Guitarra",
             "artista": "Los Auténticos Decadentes",
-            "2026-09-28": 539
+            "2026-09-28": 540
         },
         "399394": {
             "url": "https://www.cifraclub.com/marcos-brunet/padre-nuestro/",
             "nome": "Padre Nuestro",
             "artista": "Marcos Brunet",
-            "2026-09-28": 540
+            "2026-09-28": 541
         },
         "3239034": {
             "url": "https://www.cifraclub.com/kidd-voodoo/destello/",
             "nome": "Destello...",
             "artista": "Kidd Voodoo",
-            "2026-09-28": 541
+            "2026-09-28": 542
         },
         "939": {
             "url": "https://www.cifraclub.com/guns-n-roses/patience/",
             "nome": "Patience",
             "artista": "Guns N' Roses",
-            "2026-09-28": 542
+            "2026-09-28": 543
         },
         "174416": {
             "url": "https://www.cifraclub.com/aleks-syntek-e-la-gente-normal/te-soe/",
             "nome": "Te Soñé",
             "artista": "Aleks Syntek",
-            "2026-09-28": 543
+            "2026-09-28": 544
         },
         "258919": {
             "url": "https://www.cifraclub.com/zoe/soe/",
             "nome": "Soñe",
             "artista": "Zoé",
-            "2026-09-28": 544
+            "2026-09-28": 545
         },
         "661419": {
             "url": "https://www.cifraclub.com/los-carabajal/lagrimas-de-amor/",
             "nome": "Lagrimas de amor",
             "artista": "Los Carabajal",
-            "2026-09-28": 545
+            "2026-09-28": 546
         },
         "688303": {
             "url": "https://www.cifraclub.com/nestor-garnica/el-olvidao/",
             "nome": "El Olvidao",
             "artista": "Nestor Garnica",
-            "2026-09-28": 546
+            "2026-09-28": 547
         },
         "70614": {
             "url": "https://www.cifraclub.com/billy-joel/piano-man/",
             "nome": "Piano Man",
             "artista": "Billy Joel",
-            "2026-09-28": 547
+            "2026-09-28": 548
         },
         "433476": {
             "url": "https://www.cifraclub.com/danny-berrios/hay-una-uncion-aqui/",
             "nome": "Hay Una Uncion Aqui",
             "artista": "Danny Berrios",
-            "2026-09-28": 548
+            "2026-09-28": 549
         },
         "3139973": {
             "url": "https://www.cifraclub.com/grupo-frontera/hecha-pa-mi/",
             "nome": "Hecha Pa' Mí",
             "artista": "Grupo Frontera",
-            "2026-09-28": 549
+            "2026-09-28": 550
         },
         "602808": {
             "url": "https://www.cifraclub.com/los-gardelitos/amor-de-contramano/",
             "nome": "Amor de Contramano",
             "artista": "Los Gardelitos",
-            "2026-09-28": 550
+            "2026-09-28": 551
         },
         "45462": {
             "url": "https://www.cifraclub.com/sui-generis/confesiones-de-invierno/",
             "nome": "Confesiones de Invierno",
             "artista": "Sui Generis",
-            "2026-09-28": 551
+            "2026-09-28": 552
         },
         "346993": {
             "url": "https://www.cifraclub.com/marcos-witt/exaltate/",
             "nome": "Exaltate",
             "artista": "Marcos Witt",
-            "2026-09-28": 552
+            "2026-09-28": 553
         },
         "311393": {
             "url": "https://www.cifraclub.com/marcela-gandara/supe-que-me-amabas/",
             "nome": "Supe Que Me Amabas",
             "artista": "Marcela Gandara",
-            "2026-09-28": 553
+            "2026-09-28": 554
         },
         "3256674": {
             "url": "https://www.cifraclub.com/david-scarpeta/dios-de-generaciones/",
             "nome": "Dios de Generaciones",
             "artista": "David Scarpeta",
-            "2026-09-28": 554
+            "2026-09-28": 555
         },
         "58073": {
             "url": "https://www.cifraclub.com/david-bowie/a-space-oddity/",
             "nome": "Space Oddity",
             "artista": "David Bowie",
-            "2026-09-28": 555
+            "2026-09-28": 556
         },
         "466278": {
             "url": "https://www.cifraclub.com/ed-maverick/del-rio/",
             "nome": "Del Río",
             "artista": "Ed Maverick",
-            "2026-09-28": 556
+            "2026-09-28": 557
         },
         "725412": {
             "url": "https://www.cifraclub.com/oasis-ministry/pablo-y-silas/",
             "nome": "Pablo Y Silas",
             "artista": "Oasis Ministry",
-            "2026-09-28": 557
+            "2026-09-28": 558
         },
         "3274888": {
             "url": "https://www.cifraclub.com/mon-laferte/melancolia/",
             "nome": "Melancolía",
             "artista": "Mon Laferte",
-            "2026-09-28": 558
+            "2026-09-28": 559
         },
         "4909": {
             "url": "https://www.cifraclub.com/no-doubt/dont-speak/",
             "nome": "Don't Speak",
             "artista": "No Doubt",
-            "2026-09-28": 559
+            "2026-09-28": 560
         },
         "91340": {
             "url": "https://www.cifraclub.com/los-bunkers/no-me-hables-de-sufrir/",
             "nome": "No Me Hables De Sufrir",
             "artista": "Los Bunkers",
-            "2026-09-28": 560
+            "2026-09-28": 561
         },
         "485559": {
             "url": "https://www.cifraclub.com/new-wine/aceite-fresco/",
             "nome": "Aceite Fresco",
             "artista": "New Wine",
-            "2026-09-28": 561
+            "2026-09-28": 562
         },
         "637915": {
             "url": "https://www.cifraclub.com/silvio-rodriguez/oleo-de-una-mujer-con-sombrero/",
             "nome": "Oleo de una mujer con sombrero",
             "artista": "Silvio Rodriguez",
-            "2026-09-28": 562
+            "2026-09-28": 563
         },
         "172945": {
             "url": "https://www.cifraclub.com/leo-dan/te-he-prometido/",
             "nome": "Te He Prometido",
             "artista": "Leo Dan",
-            "2026-09-28": 563
+            "2026-09-28": 564
         },
         "3125964": {
             "url": "https://www.cifraclub.com/rels-b/lo-que-hay-x-aqui/",
             "nome": "Lo Que Hay X Aquí",
             "artista": "Rels B",
-            "2026-09-28": 564
+            "2026-09-28": 565
         },
         "3400207": {
             "url": "https://www.cifraclub.com/sienna-spiro/pure/",
             "nome": "Pure",
             "artista": "SIENNA SPIRO",
-            "2026-09-28": 565
+            "2026-09-28": 566
         },
         "398370": {
             "url": "https://www.cifraclub.com/airbag/vivamos-el-momento/",
             "nome": "Vivamos El Momento",
             "artista": "AIRBAG",
-            "2026-09-28": 566
+            "2026-09-28": 567
         },
         "4309": {
             "url": "https://www.cifraclub.com/bob-marley/redemption-song/",
             "nome": "Redemption Song",
             "artista": "Bob Marley",
-            "2026-09-28": 567
+            "2026-09-28": 568
         },
         "14015": {
             "url": "https://www.cifraclub.com/los-lobos/la-bamba/",
             "nome": "La Bamba",
             "artista": "Los Lobos",
-            "2026-09-28": 568
+            "2026-09-28": 569
         },
         "280916": {
             "url": "https://www.cifraclub.com/facundo-cabral/no-soy-de-aqui/",
             "nome": "No Soy De Aqui",
             "artista": "Facundo Cabral",
-            "2026-09-28": 569
+            "2026-09-28": 570
         },
         "729037": {
             "url": "https://www.cifraclub.com/mon-laferte/supermercado/",
             "nome": "Supermercado",
             "artista": "Mon Laferte",
-            "2026-09-28": 570
+            "2026-09-28": 571
         },
         "66247": {
             "url": "https://www.cifraclub.com/andres-calamaro/crimenes-perfectos/",
             "nome": "Crimenes Perfectos",
             "artista": "Andrés Calamaro",
-            "2026-09-28": 571
+            "2026-09-28": 572
         },
         "428989": {
             "url": "https://www.cifraclub.com/tan-bionica/la-melodia-de-dios/",
             "nome": "La Melodia de Dios",
             "artista": "Tan Bionica",
-            "2026-09-28": 572
+            "2026-09-28": 573
         },
         "70774": {
             "url": "https://www.cifraclub.com/andres-calamaro/te-quiero-igual/",
             "nome": "Te Quiero Igual",
             "artista": "Andrés Calamaro",
-            "2026-09-28": 573
+            "2026-09-28": 574
         },
         "57910": {
             "url": "https://www.cifraclub.com/jose-jose/almohada/",
             "nome": "Almohada",
             "artista": "José José",
-            "2026-09-28": 574
+            "2026-09-28": 575
         },
         "3321645": {
             "url": "https://www.cifraclub.com/enoc-parra/lo-que-necesito/",
             "nome": "Lo Que Necesito",
             "artista": "Enoc Parra",
-            "2026-09-28": 575
+            "2026-09-28": 576
         },
         "45814": {
             "url": "https://www.cifraclub.com/danilo-montero/el-es-el-rey/",
             "nome": "El Es El Rey",
             "artista": "Danilo Montero",
-            "2026-09-28": 576
+            "2026-09-28": 577
         },
         "292618": {
             "url": "https://www.cifraclub.com/los-redonditos-de-ricota/etiqueta-negra/",
             "nome": "Etiqueta Negra",
             "artista": "Patricio Rey y Sus Redonditos de Ricota",
-            "2026-09-28": 577
+            "2026-09-28": 578
         },
         "411425": {
             "url": "https://www.cifraclub.com/la-ibi/hay-libertad/",
             "nome": "Hay Libertad",
             "artista": "Adoración La IBI",
-            "2026-09-28": 578
+            "2026-09-28": 579
         },
         "28641": {
             "url": "https://www.cifraclub.com/sin-bandera/kilometros/",
             "nome": "Kilometros",
             "artista": "Sin Bandera",
-            "2026-09-28": 579
+            "2026-09-28": 580
         },
         "50835": {
             "url": "https://www.cifraclub.com/los-rancheros/el-che-los-rolling-stones/",
             "nome": "El Che Y Los Rolling Stones",
             "artista": "Los Rancheros",
-            "2026-09-28": 580
+            "2026-09-28": 581
         },
         "294446": {
             "url": "https://www.cifraclub.com/jesse-joy/la-de-la-mala-suerte/",
             "nome": "La de La Mala Suerte",
             "artista": "Jesse & Joy",
-            "2026-09-28": 581
+            "2026-09-28": 582
         },
         "309888": {
             "url": "https://www.cifraclub.com/generacion-12/dios-incomparable/",
             "nome": "Dios Incomparable",
             "artista": "Generación 12",
-            "2026-09-28": 582
+            "2026-09-28": 583
         },
         "508313": {
             "url": "https://www.cifraclub.com/intoxicados/fuiste-lo-mejor/",
             "nome": "Fuiste Lo Mejor",
             "artista": "Intoxicados",
-            "2026-09-28": 583
+            "2026-09-28": 584
         },
         "52367": {
             "url": "https://www.cifraclub.com/caifanes/no-dejes-que/",
             "nome": "No Dejes Que",
             "artista": "Caifanes",
-            "2026-09-28": 584
+            "2026-09-28": 585
         },
         "685087": {
             "url": "https://www.cifraclub.com/chaqueno-palavecino/dejame-que-me-vaya/",
             "nome": "Déjame que me vaya",
             "artista": "Chaqueño Palavecino",
-            "2026-09-28": 585
+            "2026-09-28": 586
         },
         "690195": {
             "url": "https://www.cifraclub.com/los-terricolas/te-juro-que-te-amo/",
             "nome": "Te Juro Que Te Amo",
             "artista": "Los Terricolas",
-            "2026-09-28": 586
+            "2026-09-28": 587
         },
         "9117": {
             "url": "https://www.cifraclub.com/oasis/slide-away/",
             "nome": "Slide Away",
             "artista": "Oasis",
-            "2026-09-28": 587
+            "2026-09-28": 588
         },
         "276963": {
             "url": "https://www.cifraclub.com/pablo-alboran/solamente-tu/",
             "nome": "Solamente Tú",
             "artista": "Pablo Alborán",
-            "2026-09-28": 588
+            "2026-09-28": 589
         },
         "237968": {
             "url": "https://www.cifraclub.com/katy-perry/the-one-that-got-away/",
             "nome": "The One That Got Away",
             "artista": "Katy Perry",
-            "2026-09-28": 589
+            "2026-09-28": 590
         },
         "390488": {
             "url": "https://www.cifraclub.com/manuel-medrano/bajo-el-agua/",
             "nome": "Bajo El Agua",
             "artista": "Manuel Medrano",
-            "2026-09-28": 590
+            "2026-09-28": 591
         },
         "171982": {
             "url": "https://www.cifraclub.com/turf/magia-blanca/",
             "nome": "Magia Blanca",
             "artista": "Turf",
-            "2026-09-28": 591
+            "2026-09-28": 592
         },
         "603652": {
             "url": "https://www.cifraclub.com/gilda/no-me-arrepiento-de-este-amor/",
             "nome": "No Me Arrepiento de Este Amor",
             "artista": "Gilda",
-            "2026-09-28": 592
+            "2026-09-28": 593
         },
         "229382": {
             "url": "https://www.cifraclub.com/camila/mientes/",
             "nome": "Mientes",
             "artista": "Camila",
-            "2026-09-28": 593
+            "2026-09-28": 594
         },
         "588588": {
             "url": "https://www.cifraclub.com/oasis-ministry/algo-esta-pasando/",
             "nome": "Algo está pasando",
             "artista": "Oasis Ministry",
-            "2026-09-28": 594
+            "2026-09-28": 595
         },
         "3138475": {
             "url": "https://www.cifraclub.com/oscar-maydon/tu-boda-part-fuerza-regida/",
             "nome": "Tu Boda (part. Fuerza Regida)",
             "artista": "Oscar Maydon",
-            "2026-09-28": 595
+            "2026-09-28": 596
         },
         "3116441": {
             "url": "https://www.cifraclub.com/milo-j/carencias-de-cordura/",
             "nome": "Carencias de Cordura",
             "artista": "Milo j",
-            "2026-09-28": 596
+            "2026-09-28": 597
         },
         "79068": {
             "url": "https://www.cifraclub.com/miranda/perfecta/",
             "nome": "Perfecta",
             "artista": "Miranda!",
-            "2026-09-28": 597
+            "2026-09-28": 598
         },
         "3143498": {
             "url": "https://www.cifraclub.com/marcos-brunet/dame-a-cristo/",
             "nome": "Dame a Cristo",
             "artista": "Marcos Brunet",
-            "2026-09-28": 598
+            "2026-09-28": 599
         },
         "256038": {
             "url": "https://www.cifraclub.com/adele/rolling-in-the-deep/",
             "nome": "Rolling In The Deep",
             "artista": "Adele",
-            "2026-09-28": 599
+            "2026-09-28": 600
         },
         "476025": {
             "url": "https://www.cifraclub.com/marco-barrientos/ven-es-hora-de-adorarle/",
             "nome": "Ven, Es Hora de Adorarle",
             "artista": "Marco Barrientos",
-            "2026-09-28": 600
+            "2026-09-28": 601
         },
         "730849": {
             "url": "https://www.cifraclub.com/miel-san-marcos/jubilo-part-maverick-city-musica/",
             "nome": "Júbilo (part. Maverick City Música)",
             "artista": "Miel San Marcos",
-            "2026-09-28": 601
+            "2026-09-28": 602
         },
         "413535": {
             "url": "https://www.cifraclub.com/hillsong-worship/vasijas-rotas/",
             "nome": "Vasijas Rotas",
             "artista": "Hillsong Worship",
-            "2026-09-28": 602
+            "2026-09-28": 603
         },
         "729929": {
             "url": "https://www.cifraclub.com/stephen-sanchez/until-i-found-you/",
             "nome": "Until I Found You",
             "artista": "Stephen Sanchez",
-            "2026-09-28": 603
-        },
-        "66713": {
-            "url": "https://www.cifraclub.com/nacha-pop/lucha-de-gigantes/",
-            "nome": "Lucha de Gigantes",
-            "artista": "Nacha Pop",
             "2026-09-28": 604
         },
         "369019": {
@@ -3633,28 +3633,28 @@
             "artista": "Jesse & Joy",
             "2026-09-28": 605
         },
+        "66713": {
+            "url": "https://www.cifraclub.com/nacha-pop/lucha-de-gigantes/",
+            "nome": "Lucha de Gigantes",
+            "artista": "Nacha Pop",
+            "2026-09-28": 606
+        },
         "5162": {
             "url": "https://www.cifraclub.com/pink-floyd/time/",
             "nome": "Time",
             "artista": "Pink Floyd",
-            "2026-09-28": 606
+            "2026-09-28": 607
         },
         "3105889": {
             "url": "https://www.cifraclub.com/majo-y-dan/ofrenda/",
             "nome": "Ofrenda",
             "artista": "Majo y Dan",
-            "2026-09-28": 607
+            "2026-09-28": 608
         },
         "26535": {
             "url": "https://www.cifraclub.com/coldplay/fix-you/",
             "nome": "Fix You",
             "artista": "Coldplay",
-            "2026-09-28": 608
-        },
-        "288893": {
-            "url": "https://www.cifraclub.com/turf/loco-un-poco/",
-            "nome": "Loco Un Poco",
-            "artista": "Turf",
             "2026-09-28": 609
         },
         "439136": {
@@ -3663,118 +3663,118 @@
             "artista": "Juan Carlos Alvarado",
             "2026-09-28": 610
         },
+        "288893": {
+            "url": "https://www.cifraclub.com/turf/loco-un-poco/",
+            "nome": "Loco Un Poco",
+            "artista": "Turf",
+            "2026-09-28": 611
+        },
         "71044": {
             "url": "https://www.cifraclub.com/intoxicados/esta-saliendo-el-sol/",
             "nome": "Esta Saliendo El Sol",
             "artista": "Intoxicados",
-            "2026-09-28": 611
+            "2026-09-28": 612
         },
         "100236": {
             "url": "https://www.cifraclub.com/abel-pintos/bailando-con-tu-sombra/",
             "nome": "Bailando Con Tu Sombra",
             "artista": "Abel Pintos",
-            "2026-09-28": 612
+            "2026-09-28": 613
         },
         "494659": {
             "url": "https://www.cifraclub.com/los-manseros-santiagueos/puente-carretero/",
             "nome": "Puente Carretero",
             "artista": "Los Manseros Santiagueños",
-            "2026-09-28": 613
+            "2026-09-28": 614
         },
         "977332": {
             "url": "https://www.cifraclub.com/himnos-de-gloria-y-triunfo/he-decidido-seguir-a-cristo/",
             "nome": "He Decidido Seguir A Cristo",
             "artista": "Himnos de Gloria y Triunfo",
-            "2026-09-28": 614
+            "2026-09-28": 615
         },
         "447699": {
             "url": "https://www.cifraclub.com/barak/a-danzar/",
             "nome": "A Danzar",
             "artista": "Barak",
-            "2026-09-28": 615
+            "2026-09-28": 616
         },
         "18047": {
             "url": "https://www.cifraclub.com/the-smiths/there-is-light-that-never-goes-out/",
             "nome": "There Is A Light That Never Goes Out",
             "artista": "The Smiths",
-            "2026-09-28": 616
+            "2026-09-28": 617
         },
         "67149": {
             "url": "https://www.cifraclub.com/los-redonditos-de-ricota/un-poco-de-amor-frances/",
             "nome": "Un Poco De Amor Francés",
             "artista": "Patricio Rey y Sus Redonditos de Ricota",
-            "2026-09-28": 617
+            "2026-09-28": 618
         },
         "443443": {
             "url": "https://www.cifraclub.com/los-tipitos/silncio/",
             "nome": "Silencio",
             "artista": "Los Tipitos",
-            "2026-09-28": 618
+            "2026-09-28": 619
         },
         "376278": {
             "url": "https://www.cifraclub.com/sebastian-yatra/como-mirarte/",
             "nome": "Como Mirarte",
             "artista": "Sebastian Yatra",
-            "2026-09-28": 619
+            "2026-09-28": 620
         },
         "456671": {
             "url": "https://www.cifraclub.com/un-corazon/salmo-23-part-marco-barrientos/",
             "nome": "Salmo 23 (part. Marco Barrientos)",
             "artista": "Un Corazón",
-            "2026-09-28": 620
+            "2026-09-28": 621
         },
         "44390": {
             "url": "https://www.cifraclub.com/prince/purple-rain/",
             "nome": "Purple Rain",
             "artista": "Prince",
-            "2026-09-28": 621
+            "2026-09-28": 622
         },
         "13296": {
             "url": "https://www.cifraclub.com/luis-miguel/hasta-que-me-olvides/",
             "nome": "Hasta Que Me Olvides",
             "artista": "Luis Miguel",
-            "2026-09-28": 622
+            "2026-09-28": 623
         },
         "456641": {
             "url": "https://www.cifraclub.com/marcos-brunet/deseo-eterno/",
             "nome": "Deseo Eterno",
             "artista": "Marcos Brunet",
-            "2026-09-28": 623
+            "2026-09-28": 624
         },
         "609492": {
             "url": "https://www.cifraclub.com/lazaro-caballero/lindo-adorno-pa-mi-apero/",
             "nome": "Lindo Adorno Pa´ Mi Apero",
             "artista": "Lázaro Caballero",
-            "2026-09-28": 624
+            "2026-09-28": 625
         },
         "702004": {
             "url": "https://www.cifraclub.com/cruzando-el-charco/el-trato/",
             "nome": "El Trato",
             "artista": "Cruzando El Charco",
-            "2026-09-28": 625
+            "2026-09-28": 626
         },
         "310773": {
             "url": "https://www.cifraclub.com/ciro-los-persas/mirenla/",
             "nome": "Mirenla",
             "artista": "Ciro y los Persas",
-            "2026-09-28": 626
+            "2026-09-28": 627
         },
         "1568": {
             "url": "https://www.cifraclub.com/red-hot-chili-peppers/under-the-bridge/",
             "nome": "Under The Bridge",
             "artista": "Red Hot Chili Peppers",
-            "2026-09-28": 627
+            "2026-09-28": 628
         },
         "649562": {
             "url": "https://www.cifraclub.com/marcos-brunet/beso-tus-pies/",
             "nome": "Beso Tus Pies",
             "artista": "Marcos Brunet",
-            "2026-09-28": 628
-        },
-        "6603": {
-            "url": "https://www.cifraclub.com/elton-john/your-song/",
-            "nome": "Your Song",
-            "artista": "Elton John",
             "2026-09-28": 629
         },
         "8151": {
@@ -3783,748 +3783,748 @@
             "artista": "The Beatles",
             "2026-09-28": 630
         },
+        "6603": {
+            "url": "https://www.cifraclub.com/elton-john/your-song/",
+            "nome": "Your Song",
+            "artista": "Elton John",
+            "2026-09-28": 631
+        },
         "458648": {
             "url": "https://www.cifraclub.com/disney/un-poco-loco/",
             "nome": "Un Poco Loco",
             "artista": "Disney",
-            "2026-09-28": 631
+            "2026-09-28": 632
         },
         "9551": {
             "url": "https://www.cifraclub.com/the-beatles/do-you-want-to-know-secret/",
             "nome": "Do You Want To Know A Secret",
             "artista": "The Beatles",
-            "2026-09-28": 632
+            "2026-09-28": 633
         },
         "3113471": {
             "url": "https://www.cifraclub.com/kidd-voodoo/confortas-pero-danas/",
             "nome": "Confortas Pero Dañas (part. Resonancia Etérea)",
             "artista": "Kidd Voodoo",
-            "2026-09-28": 633
+            "2026-09-28": 634
         },
         "432835": {
             "url": "https://www.cifraclub.com/natalia-lafourcade/soledad-y-el-mar/",
             "nome": "Soledad Y El Mar",
             "artista": "Natalia Lafourcade",
-            "2026-09-28": 634
+            "2026-09-28": 635
         },
         "426249": {
             "url": "https://www.cifraclub.com/leandro-e-leonardo/piensa-en-mi/",
             "nome": "Piensa En Mi",
             "artista": "Leandro & Leonardo",
-            "2026-09-28": 635
+            "2026-09-28": 636
         },
         "680291": {
             "url": "https://www.cifraclub.com/alexis-pena/como-zaqueo/",
             "nome": "Como Zaqueo",
             "artista": "Alexis Peña",
-            "2026-09-28": 636
+            "2026-09-28": 637
         },
         "466722": {
             "url": "https://www.cifraclub.com/sebastian-yatra/un-ao/",
             "nome": "Un Año",
             "artista": "Sebastian Yatra",
-            "2026-09-28": 637
+            "2026-09-28": 638
         },
         "452897": {
             "url": "https://www.cifraclub.com/hillsong-worship/no-hay-otro-nombre/",
             "nome": "No Hay Otro Nombre",
             "artista": "Hillsong Worship",
-            "2026-09-28": 638
+            "2026-09-28": 639
         },
         "3100971": {
             "url": "https://www.cifraclub.com/grupo-hope/rodeado-part-tba-worship-misael-j-y-carolina-ponciano/",
             "nome": "Rodeado (part. Tba Worship, Misael J y Carolina Ponciano)",
             "artista": "Grupo Hope",
-            "2026-09-28": 639
+            "2026-09-28": 640
         },
         "462203": {
             "url": "https://www.cifraclub.com/miel-san-marcos/danzo-en-el-rio/",
             "nome": "Danzo En El Río",
             "artista": "Miel San Marcos",
-            "2026-09-28": 640
+            "2026-09-28": 641
         },
         "498860": {
             "url": "https://www.cifraclub.com/los-nocheros/chacarera-del-rancho/",
             "nome": "Chacarera Del Rancho",
             "artista": "Los Nocheros",
-            "2026-09-28": 641
+            "2026-09-28": 642
         },
         "458930": {
             "url": "https://www.cifraclub.com/tarzan/en-mi-corazon-tu-viviras/",
             "nome": "En Mi Corazón Tu Vivirás",
             "artista": "Tarzan",
-            "2026-09-28": 642
+            "2026-09-28": 643
         },
         "11717": {
             "url": "https://www.cifraclub.com/radiohead/let-down/",
             "nome": "Let Down",
             "artista": "Radiohead",
-            "2026-09-28": 643
+            "2026-09-28": 644
         },
         "17537": {
             "url": "https://www.cifraclub.com/mercedes-sosa/como-la-cigarra/",
             "nome": "Como La Cigarra",
             "artista": "Mercedes Sosa",
-            "2026-09-28": 644
+            "2026-09-28": 645
         },
         "3330591": {
             "url": "https://www.cifraclub.com/amigo-de-artistas/punaladas/",
             "nome": "Puñaladas (Part. Lauta y Tote)",
             "artista": "Amigo de Artistas",
-            "2026-09-28": 645
+            "2026-09-28": 646
         },
         "619271": {
             "url": "https://www.cifraclub.com/joan-sebastian/tatuajes/",
             "nome": "Tatuajes",
             "artista": "Joan Sebastian",
-            "2026-09-28": 646
+            "2026-09-28": 647
         },
         "71203": {
             "url": "https://www.cifraclub.com/los-bunkers/llueve-sobre-la-ciudad/",
             "nome": "Llueve Sobre La Ciudad",
             "artista": "Los Bunkers",
-            "2026-09-28": 647
+            "2026-09-28": 648
         },
         "142847": {
             "url": "https://www.cifraclub.com/selena/como-la-flor/",
             "nome": "Como La Flor",
             "artista": "Selena",
-            "2026-09-28": 648
+            "2026-09-28": 649
         },
         "3122598": {
             "url": "https://www.cifraclub.com/averly-morillo/mesias/",
             "nome": "Mesías",
             "artista": "Averly Morillo",
-            "2026-09-28": 649
+            "2026-09-28": 650
         },
         "487": {
             "url": "https://www.cifraclub.com/the-beatles/if-fell/",
             "nome": "If I Fell",
             "artista": "The Beatles",
-            "2026-09-28": 650
+            "2026-09-28": 651
         },
         "167123": {
             "url": "https://www.cifraclub.com/leon-gieco/solo-le-pido-dios/",
             "nome": "Solo le pido a Dios",
             "artista": "León Gieco",
-            "2026-09-28": 651
+            "2026-09-28": 652
         },
         "31487": {
             "url": "https://www.cifraclub.com/system-of-a-down/lonely-day/",
             "nome": "Lonely Day",
             "artista": "System Of A Down",
-            "2026-09-28": 652
+            "2026-09-28": 653
         },
         "124759": {
             "url": "https://www.cifraclub.com/intoxicados/no-tengo-ganas/",
             "nome": "No Tengo Ganas",
             "artista": "Intoxicados",
-            "2026-09-28": 653
+            "2026-09-28": 654
         },
         "649553": {
             "url": "https://www.cifraclub.com/marcos-brunet/abba/",
             "nome": "Abba",
             "artista": "Marcos Brunet",
-            "2026-09-28": 654
+            "2026-09-28": 655
         },
         "3133991": {
             "url": "https://www.cifraclub.com/manuel-turizo/una-cerveza-part-fuerza-regida/",
             "nome": "Una Cerveza (Part. Fuerza Regida)",
             "artista": "Manuel Turizo",
-            "2026-09-28": 655
+            "2026-09-28": 656
         },
         "3327909": {
             "url": "https://www.cifraclub.com/enoc-parra/el-fuego-ardera/",
             "nome": "El Fuego Arderá (Part. Aaron Perona)",
             "artista": "Enoc Parra",
-            "2026-09-28": 656
+            "2026-09-28": 657
         },
         "3320438": {
             "url": "https://www.cifraclub.com/milo-j/jangadero-part-mercedes-sosa/",
             "nome": "Jangadero (Part. Mercedes Sosa)",
             "artista": "Milo j",
-            "2026-09-28": 657
+            "2026-09-28": 658
         },
         "78952": {
             "url": "https://www.cifraclub.com/rata-blanca/aun-estas-en-mi-sueos/",
             "nome": "Aún Estás En Mis Sueños",
             "artista": "Rata Blanca",
-            "2026-09-28": 658
+            "2026-09-28": 659
         },
         "592854": {
             "url": "https://www.cifraclub.com/vertical/cambiare-mi-tristeza/",
             "nome": "Cambiare mi tristeza",
             "artista": "Vertical",
-            "2026-09-28": 659
+            "2026-09-28": 660
         },
         "915": {
             "url": "https://www.cifraclub.com/green-day/basket-case/",
             "nome": "Basket Case",
             "artista": "Green Day",
-            "2026-09-28": 660
+            "2026-09-28": 661
         },
         "482170": {
             "url": "https://www.cifraclub.com/babasonicos/vampi/",
             "nome": "Vampi",
             "artista": "Babasónicos",
-            "2026-09-28": 661
+            "2026-09-28": 662
         },
         "331417": {
             "url": "https://www.cifraclub.com/los-bunkers/bailando-solo/",
             "nome": "Bailando Solo",
             "artista": "Los Bunkers",
-            "2026-09-28": 662
+            "2026-09-28": 663
         },
         "6003": {
             "url": "https://www.cifraclub.com/pixies/where-is-my-mind/",
             "nome": "Where Is My Mind",
             "artista": "Pixies",
-            "2026-09-28": 663
+            "2026-09-28": 664
         },
         "475403": {
             "url": "https://www.cifraclub.com/iglesia-de-cristo-ebenezer-honduras/asi-como-david-danzaba/",
             "nome": "Asi Como David Danzaba",
             "artista": "Iglesia de Cristo Ebenezer Honduras",
-            "2026-09-28": 664
+            "2026-09-28": 665
         },
         "3119954": {
             "url": "https://www.cifraclub.com/world-worship/uncion-en-el-aire-part-cales-louima/",
             "nome": "Unción En El Aire (part. Cales Louima)",
             "artista": "World Worship",
-            "2026-09-28": 665
+            "2026-09-28": 666
         },
         "38885": {
             "url": "https://www.cifraclub.com/jason-mraz/im-yours/",
             "nome": "I'm Yours",
             "artista": "Jason Mraz",
-            "2026-09-28": 666
+            "2026-09-28": 667
         },
         "314144": {
             "url": "https://www.cifraclub.com/en-espiritu-en-verdad/el-gran-yo-soy/",
             "nome": "El Gran Yo Soy",
             "artista": "En Espiritu Y En Verdad",
-            "2026-09-28": 667
+            "2026-09-28": 668
         },
         "650249": {
             "url": "https://www.cifraclub.com/marcos-witt/quiero-llenar-tu-trono-de-alabanzas/",
             "nome": "Quiero llenar tu trono de alabanzas",
             "artista": "Marcos Witt",
-            "2026-09-28": 668
+            "2026-09-28": 669
         },
         "450314": {
             "url": "https://www.cifraclub.com/luis-miguel/culpable-o-no/",
             "nome": "Culpable o No",
             "artista": "Luis Miguel",
-            "2026-09-28": 669
+            "2026-09-28": 670
         },
         "458727": {
             "url": "https://www.cifraclub.com/lady-gaga/always-remember-us-this-way/",
             "nome": "Always Remember Us This Way",
             "artista": "Lady Gaga",
-            "2026-09-28": 670
+            "2026-09-28": 671
         },
         "663739": {
             "url": "https://www.cifraclub.com/charly-garcia/tu-amor/",
             "nome": "Tu Amor",
             "artista": "Charly García",
-            "2026-09-28": 671
+            "2026-09-28": 672
         },
         "633625": {
             "url": "https://www.cifraclub.com/los-piojos/vine-hasta-aqui/",
             "nome": "Vine hasta aqui",
             "artista": "Los Piojos",
-            "2026-09-28": 672
+            "2026-09-28": 673
         },
         "459283": {
             "url": "https://www.cifraclub.com/ingrid-rosario/cante-al-seor/",
             "nome": "Cante Al Señor",
             "artista": "Ingrid Rosario",
-            "2026-09-28": 673
+            "2026-09-28": 674
         },
         "3104630": {
             "url": "https://www.cifraclub.com/barak/tu-hijo-soy/",
             "nome": "Tu Hijo Soy",
             "artista": "Barak",
-            "2026-09-28": 674
+            "2026-09-28": 675
         },
         "12317": {
             "url": "https://www.cifraclub.com/the-white-stripes/seven-nation-army/",
             "nome": "Seven Nation Army",
             "artista": "The White Stripes",
-            "2026-09-28": 675
+            "2026-09-28": 676
         },
         "1512": {
             "url": "https://www.cifraclub.com/pink-floyd/comfortably-numb/",
             "nome": "Comfortably Numb",
             "artista": "Pink Floyd",
-            "2026-09-28": 676
+            "2026-09-28": 677
         },
         "469913": {
             "url": "https://www.cifraclub.com/marcos-witt/al-que-es-digno/",
             "nome": "Al Que Es Digno",
             "artista": "Marcos Witt",
-            "2026-09-28": 677
+            "2026-09-28": 678
         },
         "46882": {
             "url": "https://www.cifraclub.com/floricienta/un-enorme-dragon/",
             "nome": "Un Enorme Dragón",
             "artista": "Floricienta",
-            "2026-09-28": 678
+            "2026-09-28": 679
         },
         "471708": {
             "url": "https://www.cifraclub.com/sebastian-yatra/cristina/",
             "nome": "Cristina",
             "artista": "Sebastian Yatra",
-            "2026-09-28": 679
+            "2026-09-28": 680
         },
         "290054": {
             "url": "https://www.cifraclub.com/guasones/reyes-de-la-noche/",
             "nome": "Reyes de La Noche",
             "artista": "Guasones",
-            "2026-09-28": 680
+            "2026-09-28": 681
         },
         "74311": {
             "url": "https://www.cifraclub.com/carlos-gardel/por-una-cabeza/",
             "nome": "Por Una Cabeza",
             "artista": "Carlos Gardel",
-            "2026-09-28": 681
+            "2026-09-28": 682
         },
         "212141": {
             "url": "https://www.cifraclub.com/mercedes-sosa/balderrama/",
             "nome": "Balderrama",
             "artista": "Mercedes Sosa",
-            "2026-09-28": 682
+            "2026-09-28": 683
         },
         "584979": {
             "url": "https://www.cifraclub.com/fito-paez/el-amor-despues-del-amor/",
             "nome": "El Amor Después Del Amor",
             "artista": "Fito Páez",
-            "2026-09-28": 683
+            "2026-09-28": 684
         },
         "17749": {
             "url": "https://www.cifraclub.com/marcos-witt/hermoso-heres/",
             "nome": "Hermoso Eres",
             "artista": "Marcos Witt",
-            "2026-09-28": 684
+            "2026-09-28": 685
         },
         "177558": {
             "url": "https://www.cifraclub.com/luis-fonsi/no-me-doy-por-vencido/",
             "nome": "No Me Doy Por Vencido",
             "artista": "Luis Fonsi",
-            "2026-09-28": 685
+            "2026-09-28": 686
         },
         "3234554": {
             "url": "https://www.cifraclub.com/duo-orellana-lucca/milagro-del-tiempo/",
             "nome": "Milagro Del Tiempo",
             "artista": "Duo Orellana Lucca",
-            "2026-09-28": 686
+            "2026-09-28": 687
         },
         "648813": {
             "url": "https://www.cifraclub.com/los-manseros-santiagueos/mi-nueva-primavera/",
             "nome": "Mi nueva primavera",
             "artista": "Los Manseros Santiagueños",
-            "2026-09-28": 687
+            "2026-09-28": 688
         },
         "660896": {
             "url": "https://www.cifraclub.com/canciones-para-nios/estrellita/",
             "nome": "Estrellita",
             "artista": "Canciones Infantiles",
-            "2026-09-28": 688
+            "2026-09-28": 689
         },
         "3128928": {
             "url": "https://www.cifraclub.com/averly-morillo/estoy-convencido/",
             "nome": "Estoy Convencido",
             "artista": "Averly Morillo",
-            "2026-09-28": 689
+            "2026-09-28": 690
         },
         "651938": {
             "url": "https://www.cifraclub.com/mercedes-sosa/entre-a-mi-pago-sin-golpear/",
             "nome": "Entre a mi pago sin golpear",
             "artista": "Mercedes Sosa",
-            "2026-09-28": 690
+            "2026-09-28": 691
         },
         "111511": {
             "url": "https://www.cifraclub.com/caifanes/viento/",
             "nome": "Viento",
             "artista": "Caifanes",
-            "2026-09-28": 691
+            "2026-09-28": 692
         },
         "3127329": {
             "url": "https://www.cifraclub.com/apostoclic-assembly/jubilo-medley/",
             "nome": "Jubilo Medley",
             "artista": "Apostolic Assembly",
-            "2026-09-28": 692
+            "2026-09-28": 693
         },
         "78055": {
             "url": "https://www.cifraclub.com/bon-jovi/como-yo-nadie-te-amado/",
             "nome": "Como Yo Nadie Te Ha Amado",
             "artista": "Bon Jovi",
-            "2026-09-28": 693
+            "2026-09-28": 694
         },
         "17536": {
             "url": "https://www.cifraclub.com/mercedes-sosa/todo-cambia/",
             "nome": "Todo Cambia",
             "artista": "Mercedes Sosa",
-            "2026-09-28": 694
+            "2026-09-28": 695
         },
         "11359": {
             "url": "https://www.cifraclub.com/los-prisioneros/estrechez-de-corazon/",
             "nome": "Estrechez de Corazón",
             "artista": "Los Prisioneros",
-            "2026-09-28": 695
+            "2026-09-28": 696
         },
         "91362": {
             "url": "https://www.cifraclub.com/los-prisioneros/el-baile-de-los-que-sobran/",
             "nome": "El Baile De Los Que Sobran",
             "artista": "Los Prisioneros",
-            "2026-09-28": 696
+            "2026-09-28": 697
         },
         "735018": {
             "url": "https://www.cifraclub.com/upper-room-music/mover-tu-corazon-espanol/",
             "nome": "Mover Tu Corazón Espanol",
             "artista": "UPPERROOM",
-            "2026-09-28": 697
+            "2026-09-28": 698
         },
         "9576": {
             "url": "https://www.cifraclub.com/the-beatles/across-the-universe/",
             "nome": "Across The Universe",
             "artista": "The Beatles",
-            "2026-09-28": 698
+            "2026-09-28": 699
         },
         "403590": {
             "url": "https://www.cifraclub.com/castro-cristian/yo-queria/",
             "nome": "Yo Quería",
             "artista": "Cristian Castro",
-            "2026-09-28": 699
+            "2026-09-28": 700
         },
         "54182": {
             "url": "https://www.cifraclub.com/estopa/como-camaron/",
             "nome": "Como Camarón",
             "artista": "Estopa",
-            "2026-09-28": 700
+            "2026-09-28": 701
         },
         "474773": {
             "url": "https://www.cifraclub.com/cacho-castaa/garganta-con-arena/",
             "nome": "Garganta Con Arena",
             "artista": "Cacho Castaña",
-            "2026-09-28": 701
+            "2026-09-28": 702
         },
         "617948": {
             "url": "https://www.cifraclub.com/los-jaivas/mira-ninita/",
             "nome": "Mira niñita",
             "artista": "Los Jaivas",
-            "2026-09-28": 702
+            "2026-09-28": 703
         },
         "3390727": {
             "url": "https://www.cifraclub.com/olivia-rodrigo/cigarette-smoke/",
             "nome": "cigarette smoke",
             "artista": "Olivia Rodrigo",
-            "2026-09-28": 703
+            "2026-09-28": 704
         },
         "45815": {
             "url": "https://www.cifraclub.com/danilo-montero/eres-todopoderoso/",
             "nome": "Eres Todopoderoso",
             "artista": "Danilo Montero",
-            "2026-09-28": 704
+            "2026-09-28": 705
         },
         "467992": {
             "url": "https://www.cifraclub.com/living/inagotable/",
             "nome": "Inagotable",
             "artista": "Living",
-            "2026-09-28": 705
+            "2026-09-28": 706
         },
         "212070": {
             "url": "https://www.cifraclub.com/jesus-adrian-romero/que-seria-de-mi/",
             "nome": "Que Seria De Mi",
             "artista": "Jesús Adrián Romero",
-            "2026-09-28": 706
+            "2026-09-28": 707
         },
         "61813": {
             "url": "https://www.cifraclub.com/danilo-montero/la-unica-razon/",
             "nome": "La Unica Razon",
             "artista": "Danilo Montero",
-            "2026-09-28": 707
+            "2026-09-28": 708
         },
         "275845": {
             "url": "https://www.cifraclub.com/christina-perri/a-thousand-years/",
             "nome": "A Thousand Years",
             "artista": "Christina Perri",
-            "2026-09-28": 708
+            "2026-09-28": 709
         },
         "438231": {
             "url": "https://www.cifraclub.com/luis-miguel/la-incondicional/",
             "nome": "La Incondicional",
             "artista": "Luis Miguel",
-            "2026-09-28": 709
+            "2026-09-28": 710
         },
         "51099": {
             "url": "https://www.cifraclub.com/juanes/para-tu-amor/",
             "nome": "Para Tu Amor",
             "artista": "Juanes",
-            "2026-09-28": 710
+            "2026-09-28": 711
         },
         "3335175": {
             "url": "https://www.cifraclub.com/enoc-parra/volvamos-al-inicio/",
             "nome": "Volvamos Al Inicio",
             "artista": "Enoc Parra",
-            "2026-09-28": 711
+            "2026-09-28": 712
         },
         "468900": {
             "url": "https://www.cifraclub.com/banda-ms/el-color-de-tus-ojos/",
             "nome": "El Color de Tus Ojos",
             "artista": "Banda MS de Sergio Lizárraga",
-            "2026-09-28": 712
+            "2026-09-28": 713
         },
         "646631": {
             "url": "https://www.cifraclub.com/attaque-77/chance/",
             "nome": "Chance",
             "artista": "Attaque 77",
-            "2026-09-28": 713
+            "2026-09-28": 714
         },
         "737061": {
             "url": "https://www.cifraclub.com/lasso/ojos-marrones/",
             "nome": "Ojos Marrones",
             "artista": "Lasso",
-            "2026-09-28": 714
+            "2026-09-28": 715
         },
         "3337593": {
             "url": "https://www.cifraclub.com/mayo-music/hablame-papa/",
             "nome": "Háblame Papá",
             "artista": "Mayo Music",
-            "2026-09-28": 715
+            "2026-09-28": 716
         },
         "192282": {
             "url": "https://www.cifraclub.com/antonio-vega/el-sitio-de-mi-recreo/",
             "nome": "El Sitio de Mi Recreo",
             "artista": "Antonio Vega",
-            "2026-09-28": 716
+            "2026-09-28": 717
         },
         "372245": {
             "url": "https://www.cifraclub.com/justin-bieber/love-yourself/",
             "nome": "Love Yourself",
             "artista": "Justin Bieber",
-            "2026-09-28": 717
+            "2026-09-28": 718
         },
         "656021": {
             "url": "https://www.cifraclub.com/danilo-montero/el-senor-es-mi-pastor/",
             "nome": "El Señor Es Mi Pastor",
             "artista": "Danilo Montero",
-            "2026-09-28": 718
+            "2026-09-28": 719
         },
         "656002": {
             "url": "https://www.cifraclub.com/danilo-montero/bueno-es-alabar/",
             "nome": "Bueno es alabar",
             "artista": "Danilo Montero",
-            "2026-09-28": 719
+            "2026-09-28": 720
         },
         "28029": {
             "url": "https://www.cifraclub.com/charly-garcia/los-dinosaurios/",
             "nome": "Los Dinosaurios",
             "artista": "Charly García",
-            "2026-09-28": 720
+            "2026-09-28": 721
         },
         "33346": {
             "url": "https://www.cifraclub.com/andres-calamaro/mi-enfermedad/",
             "nome": "Mi Enfermedad",
             "artista": "Andrés Calamaro",
-            "2026-09-28": 721
+            "2026-09-28": 722
         },
         "417608": {
             "url": "https://www.cifraclub.com/babasonicos/irresponsables/",
             "nome": "Irresponsables",
             "artista": "Babasónicos",
-            "2026-09-28": 722
+            "2026-09-28": 723
         },
         "159053": {
             "url": "https://www.cifraclub.com/castro-cristian/lloviendo-estrellas/",
             "nome": "Lloviendo Estrellas",
             "artista": "Cristian Castro",
-            "2026-09-28": 723
+            "2026-09-28": 724
         },
         "167674": {
             "url": "https://www.cifraclub.com/marcela-gandara/tu-palabra/",
             "nome": "Tu Palabra",
             "artista": "Marcela Gandara",
-            "2026-09-28": 724
+            "2026-09-28": 725
         },
         "615804": {
             "url": "https://www.cifraclub.com/bloque-depresivo/aunque-no-sea-conmigo/",
             "nome": "Aunque no sea conmigo",
             "artista": "Macha y El Bloque Depresivo",
-            "2026-09-28": 725
+            "2026-09-28": 726
         },
         "78171": {
             "url": "https://www.cifraclub.com/aerosmith/i-dont-wanna-miss-thing/",
             "nome": "I Don't Want To Miss A Thing",
             "artista": "Aerosmith",
-            "2026-09-28": 726
+            "2026-09-28": 727
         },
         "142570": {
             "url": "https://www.cifraclub.com/scorpions/still-lovin-you/",
             "nome": "Still Loving You",
             "artista": "Scorpions",
-            "2026-09-28": 727
+            "2026-09-28": 728
         },
         "450786": {
             "url": "https://www.cifraclub.com/nek/laura-no-esta/",
             "nome": "Laura No Está",
             "artista": "Nek (IT)",
-            "2026-09-28": 728
+            "2026-09-28": 729
         },
         "612173": {
             "url": "https://www.cifraclub.com/luciano-pereyra/si-no-es-muy-tarde/",
             "nome": "Si no es muy tarde",
             "artista": "Luciano Pereyra",
-            "2026-09-28": 729
+            "2026-09-28": 730
         },
         "412208": {
             "url": "https://www.cifraclub.com/kaleth-morales/todo-de-cabeza/",
             "nome": "Lo Mejor Para Los Dos (Todo de Cabeza)",
             "artista": "Kaleth Morales",
-            "2026-09-28": 730
+            "2026-09-28": 731
         },
         "426787": {
             "url": "https://www.cifraclub.com/hillsong-united/oceanos-donde-mis-pies-pueden-fallar/",
             "nome": "Océanos (Donde Mis Pies Pueden Fallar)",
             "artista": "Hillsong UNITED",
-            "2026-09-28": 731
+            "2026-09-28": 732
         },
         "615256": {
             "url": "https://www.cifraclub.com/bersuit-vergarabat/toco-y-me-voy/",
             "nome": "Toco y me voy",
             "artista": "Bersuit Vergarabat",
-            "2026-09-28": 732
+            "2026-09-28": 733
         },
         "396233": {
             "url": "https://www.cifraclub.com/jesus-adrian-romero/con-mi-dios/",
             "nome": "Con Mi Dios",
             "artista": "Jesús Adrián Romero",
-            "2026-09-28": 733
+            "2026-09-28": 734
         },
         "179483": {
             "url": "https://www.cifraclub.com/rosana/si-tu-no-estas-aqui/",
             "nome": "Sí Tu No Estás Aqui",
             "artista": "Rosana",
-            "2026-09-28": 734
+            "2026-09-28": 735
         },
         "3413353": {
             "url": "https://www.cifraclub.com/santiago-caete/quien-me-devuelve-el-tiempo/",
             "nome": "Quien Me Devuelve El Tiempo",
             "artista": "Santiago Cañete",
-            "2026-09-28": 735
+            "2026-09-28": 736
         },
         "482": {
             "url": "https://www.cifraclub.com/the-beatles/help/",
             "nome": "Help!",
             "artista": "The Beatles",
-            "2026-09-28": 736
+            "2026-09-28": 737
         },
         "636927": {
             "url": "https://www.cifraclub.com/seru-giran/cinema-verite/",
             "nome": "Cinema Vérité",
             "artista": "Serú Girán",
-            "2026-09-28": 737
+            "2026-09-28": 738
         },
         "290175": {
             "url": "https://www.cifraclub.com/callejeros/una-nueva-noche-fria/",
             "nome": "Una Nueva Noche Fria",
             "artista": "Callejeros",
-            "2026-09-28": 738
+            "2026-09-28": 739
         },
         "664636": {
             "url": "https://www.cifraclub.com/ciro-los-persas/astros/",
             "nome": "Astros",
             "artista": "Ciro y los Persas",
-            "2026-09-28": 739
+            "2026-09-28": 740
         },
         "718149": {
             "url": "https://www.cifraclub.com/mision/el-fuego-de-tus-ojos-cover/",
             "nome": "El Fuego de Tus Ojos",
             "artista": "MiSion",
-            "2026-09-28": 740
+            "2026-09-28": 741
         },
         "424537": {
             "url": "https://www.cifraclub.com/las-pastillas-del-abuelo/que-es-dios/",
             "nome": "¿Qué es Dios?",
             "artista": "Las Pastillas del Abuelo",
-            "2026-09-28": 741
+            "2026-09-28": 742
         },
         "126130": {
             "url": "https://www.cifraclub.com/joan-sebastian/secreto-de-amor/",
             "nome": "Secreto De Amor",
             "artista": "Joan Sebastian",
-            "2026-09-28": 742
+            "2026-09-28": 743
         },
         "477067": {
             "url": "https://www.cifraclub.com/josean-log/alguien-como-tu/",
             "nome": "Alguien Como Tú",
             "artista": "Jósean Log",
-            "2026-09-28": 743
+            "2026-09-28": 744
         },
         "506956": {
             "url": "https://www.cifraclub.com/manuel-medrano/la-distancia/",
             "nome": "La Distancia",
             "artista": "Manuel Medrano",
-            "2026-09-28": 744
+            "2026-09-28": 745
         },
         "3184093": {
             "url": "https://www.cifraclub.com/hakuna-group-music/a-ti-te-alabo/",
             "nome": "A Ti Te Alabo",
             "artista": "Hakuna Group Music",
-            "2026-09-28": 745
+            "2026-09-28": 746
         },
         "424731": {
             "url": "https://www.cifraclub.com/julio-jaramillo/odiame/",
             "nome": "Odiame",
             "artista": "Julio Jaramillo",
-            "2026-09-28": 746
+            "2026-09-28": 747
         },
         "1414": {
             "url": "https://www.cifraclub.com/oasis/champagne-supernova/",
             "nome": "Champagne Supernova",
             "artista": "Oasis",
-            "2026-09-28": 747
+            "2026-09-28": 748
         },
         "33993": {
             "url": "https://www.cifraclub.com/virus/pronta-entrega/",
             "nome": "Pronta Entrega",
             "artista": "Virus",
-            "2026-09-28": 748
+            "2026-09-28": 749
         },
         "440053": {
             "url": "https://www.cifraclub.com/gustavo-cerati/me-quedo-aqui/",
             "nome": "Me Quedo Aquí",
             "artista": "Gustavo Cerati",
-            "2026-09-28": 749
+            "2026-09-28": 750
         },
         "41421": {
             "url": "https://www.cifraclub.com/los-redonditos-de-ricota/la-bestia-pop/",
             "nome": "La Bestia Pop",
             "artista": "Patricio Rey y Sus Redonditos de Ricota",
-            "2026-09-28": 750
+            "2026-09-28": 751
         },
         "396072": {
             "url": "https://www.cifraclub.com/christine-dclario/yahweh/",
             "nome": "Yahweh",
             "artista": "Christine D'Clario",
-            "2026-09-28": 751
+            "2026-09-28": 752
         },
         "3128983": {
             "url": "https://www.cifraclub.com/majo-y-dan/tu-proveeras-part-christine-d-clario/",
             "nome": "Tú Proveerás (part. Christine D'Clario)",
             "artista": "Majo y Dan",
-            "2026-09-28": 752
+            "2026-09-28": 753
         },
         "45516": {
             "url": "https://www.cifraclub.com/attaque-77/hacelo-por-mi/",
             "nome": "Hacelo Por Mi",
             "artista": "Attaque 77",
-            "2026-09-28": 753
-        },
-        "3111113": {
-            "url": "https://www.cifraclub.com/benjamin-amadeo/para-siempre/",
-            "nome": "Para Siempre",
-            "artista": "Benjamín Amadeo",
             "2026-09-28": 754
         },
         "3146937": {
@@ -4533,196 +4533,196 @@
             "artista": "Blanca",
             "2026-09-28": 755
         },
+        "3111113": {
+            "url": "https://www.cifraclub.com/benjamin-amadeo/para-siempre/",
+            "nome": "Para Siempre",
+            "artista": "Benjamín Amadeo",
+            "2026-09-28": 756
+        },
         "268314": {
             "url": "https://www.cifraclub.com/luis-alberto-spinetta/durazno-sangrando/",
             "nome": "Durazno Sangrando",
             "artista": "Luis Alberto Spinetta",
-            "2026-09-28": 756
+            "2026-09-28": 757
         },
         "412614": {
             "url": "https://www.cifraclub.com/christian-nodal/adios-amor/",
             "nome": "Adios Amor",
             "artista": "Christian Nodal",
-            "2026-09-28": 757
+            "2026-09-28": 758
         },
         "628408": {
             "url": "https://www.cifraclub.com/hernan-figueroa-reyes/el-corralero/",
             "nome": "El corralero",
             "artista": "Hernan Figueroa Reyes",
-            "2026-09-28": 758
+            "2026-09-28": 759
         },
         "3142938": {
             "url": "https://www.cifraclub.com/el-plan-de-la-mariposa/tunel-de-la-vida/",
             "nome": "Tunel de La Vida",
             "artista": "El Plan de La Mariposa",
-            "2026-09-28": 759
-        },
-        "158885": {
-            "url": "https://www.cifraclub.com/joan-sebastian/eso-mas/",
-            "nome": "Eso Y Más",
-            "artista": "Joan Sebastian",
             "2026-09-28": 760
-        },
-        "159269": {
-            "url": "https://www.cifraclub.com/enrique-bunbury/aunque-no-sea-conmigo/",
-            "nome": "Aunque No Sea Conmigo",
-            "artista": "Bunbury",
-            "2026-09-28": 761
         },
         "33645": {
             "url": "https://www.cifraclub.com/bacilos/tabaco-chanel/",
             "nome": "Tabaco y Chanel",
             "artista": "Bacilos",
+            "2026-09-28": 761
+        },
+        "158885": {
+            "url": "https://www.cifraclub.com/joan-sebastian/eso-mas/",
+            "nome": "Eso Y Más",
+            "artista": "Joan Sebastian",
             "2026-09-28": 762
+        },
+        "159269": {
+            "url": "https://www.cifraclub.com/enrique-bunbury/aunque-no-sea-conmigo/",
+            "nome": "Aunque No Sea Conmigo",
+            "artista": "Bunbury",
+            "2026-09-28": 763
         },
         "480056": {
             "url": "https://www.cifraclub.com/rata-blanca/talisman/",
             "nome": "Talismán",
             "artista": "Rata Blanca",
-            "2026-09-28": 763
+            "2026-09-28": 764
         },
         "608096": {
             "url": "https://www.cifraclub.com/los-tres/amor-violento/",
             "nome": "Amor Violento",
             "artista": "Los Tres",
-            "2026-09-28": 764
+            "2026-09-28": 765
         },
         "180028": {
             "url": "https://www.cifraclub.com/las-pastillas-del-abuelo/loco-por-volverla-ver/",
             "nome": "Loco Por Volverla a Ver",
             "artista": "Las Pastillas del Abuelo",
-            "2026-09-28": 765
+            "2026-09-28": 766
         },
         "1190": {
             "url": "https://www.cifraclub.com/metallica/master-of-puppets/",
             "nome": "Master Of Puppets",
             "artista": "Metallica",
-            "2026-09-28": 766
+            "2026-09-28": 767
         },
         "84147": {
             "url": "https://www.cifraclub.com/jesse-joy/espacio-sideral/",
             "nome": "Espacio Sideral",
             "artista": "Jesse & Joy",
-            "2026-09-28": 767
+            "2026-09-28": 768
         },
         "391158": {
             "url": "https://www.cifraclub.com/marcos-witt/enciende-una-luz/",
             "nome": "Enciende Una Luz",
             "artista": "Marcos Witt",
-            "2026-09-28": 768
+            "2026-09-28": 769
         },
         "3300656": {
             "url": "https://www.cifraclub.com/montesanto/yo-soy-la-ofrenda/",
             "nome": "Yo Soy La Ofrenda",
             "artista": "Montesanto",
-            "2026-09-28": 769
+            "2026-09-28": 770
         },
         "56804": {
             "url": "https://www.cifraclub.com/bersuit-vergarabat/vuelos/",
             "nome": "Vuelos",
             "artista": "Bersuit Vergarabat",
-            "2026-09-28": 770
+            "2026-09-28": 771
         },
         "60590": {
             "url": "https://www.cifraclub.com/enanitos-verdes/mi-primer-dia-sin-ti/",
             "nome": "Mi Primer Dia Sin Ti",
             "artista": "Los Enanitos Verdes",
-            "2026-09-28": 771
+            "2026-09-28": 772
         },
         "69718": {
             "url": "https://www.cifraclub.com/danilo-montero/con-mis-manos-levantadas/",
             "nome": "Con mis manos levantadas",
             "artista": "Danilo Montero",
-            "2026-09-28": 772
+            "2026-09-28": 773
         },
         "93587": {
             "url": "https://www.cifraclub.com/reik/sabes/",
             "nome": "Sabes",
             "artista": "Reik",
-            "2026-09-28": 773
+            "2026-09-28": 774
         },
         "234282": {
             "url": "https://www.cifraclub.com/jesus-adrian-romero/sumergeme/",
             "nome": "Sumergeme",
             "artista": "Jesús Adrián Romero",
-            "2026-09-28": 774
+            "2026-09-28": 775
         },
         "585005": {
             "url": "https://www.cifraclub.com/fito-paez/giros/",
             "nome": "Giros",
             "artista": "Fito Páez",
-            "2026-09-28": 775
+            "2026-09-28": 776
         },
         "57972": {
             "url": "https://www.cifraclub.com/gloria-estefan/hoy/",
             "nome": "Hoy",
             "artista": "Gloria Estefan",
-            "2026-09-28": 776
+            "2026-09-28": 777
         },
         "427499": {
             "url": "https://www.cifraclub.com/grover-washington-jr/just-the-two-of-us/",
             "nome": "Just The Two Of Us",
             "artista": "Grover Washington Jr.",
-            "2026-09-28": 777
+            "2026-09-28": 778
         },
         "3381085": {
             "url": "https://www.cifraclub.com/milo-j/cuestiones/",
             "nome": "Cuestiones",
             "artista": "Milo j",
-            "2026-09-28": 778
+            "2026-09-28": 779
         },
         "33870": {
             "url": "https://www.cifraclub.com/soda-stereo/signos/",
             "nome": "Signos",
             "artista": "Soda Stereo",
-            "2026-09-28": 779
+            "2026-09-28": 780
         },
         "412047": {
             "url": "https://www.cifraclub.com/los-angeles-azules/como-te-voy-a-olvidad/",
             "nome": "Como Te Voy a Olvidar",
             "artista": "Los Ángeles Azules",
-            "2026-09-28": 780
+            "2026-09-28": 781
         },
         "667280": {
             "url": "https://www.cifraclub.com/neway/a-donde-ire/",
             "nome": "A donde iré",
             "artista": "Neway Music",
-            "2026-09-28": 781
+            "2026-09-28": 782
         },
         "50832": {
             "url": "https://www.cifraclub.com/andres-calamaro/donde-manda-marinero/",
             "nome": "Donde Manda Marinero",
             "artista": "Andrés Calamaro",
-            "2026-09-28": 782
+            "2026-09-28": 783
         },
         "598440": {
             "url": "https://www.cifraclub.com/extremoduro/la-vereda-de-la-puerta-de-atras/",
             "nome": "La Vereda De La Puerta De Atrás",
             "artista": "Extremoduro",
-            "2026-09-28": 783
+            "2026-09-28": 784
         },
         "24790": {
             "url": "https://www.cifraclub.com/jorge-drexler/todo-se-transforma/",
             "nome": "Todo se transforma",
             "artista": "Jorge Drexler",
-            "2026-09-28": 784
+            "2026-09-28": 785
         },
         "3390649": {
             "url": "https://www.cifraclub.com/elevation-rhythm/washed/",
             "nome": "Washed",
             "artista": "ELEVATION RHYTHM",
-            "2026-09-28": 785
+            "2026-09-28": 786
         },
         "3144426": {
             "url": "https://www.cifraclub.com/hakuna-group-music/un-segundo/",
             "nome": "Un Segundo",
             "artista": "Hakuna Group Music",
-            "2026-09-28": 786
-        },
-        "83092": {
-            "url": "https://www.cifraclub.com/bersuit-vergarabat/mi-caramelo/",
-            "nome": "Mi Caramelo",
-            "artista": "Bersuit Vergarabat",
             "2026-09-28": 787
         },
         "34803": {
@@ -4731,124 +4731,124 @@
             "artista": "Ricardo Arjona",
             "2026-09-28": 788
         },
+        "83092": {
+            "url": "https://www.cifraclub.com/bersuit-vergarabat/mi-caramelo/",
+            "nome": "Mi Caramelo",
+            "artista": "Bersuit Vergarabat",
+            "2026-09-28": 789
+        },
         "652025": {
             "url": "https://www.cifraclub.com/mercedes-sosa/zamba-para-olvidar/",
             "nome": "Zamba para olvidar",
             "artista": "Mercedes Sosa",
-            "2026-09-28": 789
+            "2026-09-28": 790
         },
         "3379269": {
             "url": "https://www.cifraclub.com/enoc-parra/vale-la-pena/",
             "nome": "Vale La Pena",
             "artista": "Enoc Parra",
-            "2026-09-28": 790
+            "2026-09-28": 791
         },
         "47988": {
             "url": "https://www.cifraclub.com/ricardo-montaner/tan-enamorados/",
             "nome": "Tan Enamorados",
             "artista": "Ricardo Montaner",
-            "2026-09-28": 791
+            "2026-09-28": 792
         },
         "70756": {
             "url": "https://www.cifraclub.com/el-tri/triste-cancion-de-amor/",
             "nome": "Triste Cancion de Amor",
             "artista": "El Tri",
-            "2026-09-28": 792
+            "2026-09-28": 793
         },
         "3230963": {
             "url": "https://www.cifraclub.com/coral-la-luz/vuelve-arder/",
             "nome": "Vuelve Arder",
             "artista": "Coral La Luz",
-            "2026-09-28": 793
+            "2026-09-28": 794
         },
         "431260": {
             "url": "https://www.cifraclub.com/temas-infantis/yo-soy-tu-amigo-fiel/",
             "nome": "Yo Soy Tu Amigo Fiel",
             "artista": "Músicas Infantis",
-            "2026-09-28": 794
+            "2026-09-28": 795
         },
         "486371": {
             "url": "https://www.cifraclub.com/barak/dios-hablame/",
             "nome": "Dios Háblame",
             "artista": "Barak",
-            "2026-09-28": 795
+            "2026-09-28": 796
         },
         "3188930": {
             "url": "https://www.cifraclub.com/averly-morillo/danzare/",
             "nome": "Danzaré",
             "artista": "Averly Morillo",
-            "2026-09-28": 796
+            "2026-09-28": 797
         },
         "29628": {
             "url": "https://www.cifraclub.com/armando-manzanero/contigo-aprendi/",
             "nome": "Contigo Aprendi",
             "artista": "Armando Manzanero",
-            "2026-09-28": 797
+            "2026-09-28": 798
         },
         "337330": {
             "url": "https://www.cifraclub.com/juan-gabriel/abrazame-muy-fuerte/",
             "nome": "Abrázame Muy Fuerte",
             "artista": "Juan Gabriel",
-            "2026-09-28": 798
-        },
-        "422921": {
-            "url": "https://www.cifraclub.com/enanitos-verdes/igual-que-ayer/",
-            "nome": "Igual Que Ayer",
-            "artista": "Los Enanitos Verdes",
             "2026-09-28": 799
+        },
+        "375975": {
+            "url": "https://www.cifraclub.com/danny-berrios/himno-de-victoria/",
+            "nome": "Himno de Victoria",
+            "artista": "Danny Berrios",
+            "2026-09-28": 800
         },
         "68970": {
             "url": "https://www.cifraclub.com/soda-stereo/un-misil-en-mi-placard/",
             "nome": "Un Misil En Mi Placard",
             "artista": "Soda Stereo",
-            "2026-09-28": 800
+            "2026-09-28": 801
         },
         "5691": {
             "url": "https://www.cifraclub.com/alejandro-sanz/y-si-fuera-ella/",
             "nome": "Y si fuera ella",
             "artista": "Alejandro Sanz",
-            "2026-09-28": 801
+            "2026-09-28": 802
         },
         "61793": {
             "url": "https://www.cifraclub.com/no-te-va-gustar/clara/",
             "nome": "Clara",
             "artista": "No Te Va Gustar",
-            "2026-09-28": 802
+            "2026-09-28": 803
         },
         "177021": {
             "url": "https://www.cifraclub.com/los-bunkers/la-exiliada-del-sur/",
             "nome": "La Exiliada Del Sur",
             "artista": "Los Bunkers",
-            "2026-09-28": 803
+            "2026-09-28": 804
         },
         "3132605": {
             "url": "https://www.cifraclub.com/gigi-perez/sailor-song/",
             "nome": "Sailor Song",
             "artista": "Gigi Perez",
-            "2026-09-28": 804
+            "2026-09-28": 805
         },
         "422021": {
             "url": "https://www.cifraclub.com/generacion-12/tu-amor-no-tiene-fin/",
             "nome": "Tu Amor No Tiene Fin (part. Redimi2)",
             "artista": "Generación 12",
-            "2026-09-28": 805
+            "2026-09-28": 806
         },
         "477539": {
             "url": "https://www.cifraclub.com/leiva/como-si-fueras-a-morir-maana/",
             "nome": "Como Si Fueras a Morir Mañana",
             "artista": "Leiva",
-            "2026-09-28": 806
+            "2026-09-28": 807
         },
         "495818": {
             "url": "https://www.cifraclub.com/conan-gray/heather/",
             "nome": "Heather",
             "artista": "Conan Gray",
-            "2026-09-28": 807
-        },
-        "407694": {
-            "url": "https://www.cifraclub.com/morat/como-te-atreves/",
-            "nome": "Como Te Atreves",
-            "artista": "Morat",
             "2026-09-28": 808
         },
         "324981": {
@@ -4857,70 +4857,70 @@
             "artista": "The Neighbourhood",
             "2026-09-28": 809
         },
+        "407694": {
+            "url": "https://www.cifraclub.com/morat/como-te-atreves/",
+            "nome": "Como Te Atreves",
+            "artista": "Morat",
+            "2026-09-28": 810
+        },
         "333538": {
             "url": "https://www.cifraclub.com/luis-alberto-spinetta/todas-las-hojas-son-del-viento/",
             "nome": "Todas Las Hojas Son Del Viento",
             "artista": "Luis Alberto Spinetta",
-            "2026-09-28": 810
+            "2026-09-28": 811
         },
         "641264": {
             "url": "https://www.cifraclub.com/airbag/perdido/",
             "nome": "Perdido",
             "artista": "AIRBAG",
-            "2026-09-28": 811
+            "2026-09-28": 812
         },
         "3115925": {
             "url": "https://www.cifraclub.com/los-abuelos-de-la-nada/lunes-por-la-madrugada/",
             "nome": "Lunes Por La Madrugada",
             "artista": "Los Abuelos de La Nada",
-            "2026-09-28": 812
+            "2026-09-28": 813
         },
         "268632": {
             "url": "https://www.cifraclub.com/calle-13/muerte-en-hawaii/",
             "nome": "Muerte En Hawaii",
             "artista": "Calle 13",
-            "2026-09-28": 813
+            "2026-09-28": 814
         },
         "451130": {
             "url": "https://www.cifraclub.com/martina-stoessel/consejo-de-amor/",
             "nome": "Consejo de Amor (part. Morat)",
             "artista": "TINI",
-            "2026-09-28": 814
+            "2026-09-28": 815
         },
         "257580": {
             "url": "https://www.cifraclub.com/no-te-va-gustar/angel-con-campera/",
             "nome": "Angel Con Campera",
             "artista": "No Te Va Gustar",
-            "2026-09-28": 815
+            "2026-09-28": 816
         },
         "679960": {
             "url": "https://www.cifraclub.com/abuelos-de-la-nada/costumbres-argentinas/",
             "nome": "Costumbres Argentinas",
             "artista": "Abuelos de la Nada",
-            "2026-09-28": 816
+            "2026-09-28": 817
         },
         "725883": {
             "url": "https://www.cifraclub.com/grace-rodriguez/nadie-puede-detenerle/",
             "nome": "Nadie Puede Detenerle",
             "artista": "Grace Rodríguez",
-            "2026-09-28": 817
+            "2026-09-28": 818
         },
         "3411577": {
             "url": "https://www.cifraclub.com/latin-mafia/te-estoy-correteando-part-fred-again/",
             "nome": "Te Estoy Correteando (part. Fred again..)",
             "artista": "LATIN MAFIA",
-            "2026-09-28": 818
+            "2026-09-28": 819
         },
         "620812": {
             "url": "https://www.cifraclub.com/jose-jose/preso/",
             "nome": "Preso",
             "artista": "José José",
-            "2026-09-28": 819
-        },
-        "614286": {
-            "url": "https://www.cifraclub.com/barak/tu-eres-rey/",
-            "nome": "Tu eres rey",
-            "artista": "Barak",
             "2026-09-28": 820
         },
         "633122": {
@@ -4929,34 +4929,34 @@
             "artista": "Peteco Carabajal",
             "2026-09-28": 821
         },
+        "614286": {
+            "url": "https://www.cifraclub.com/barak/tu-eres-rey/",
+            "nome": "Tu eres rey",
+            "artista": "Barak",
+            "2026-09-28": 822
+        },
         "121099": {
             "url": "https://www.cifraclub.com/george-michael/careless-whisper/",
             "nome": "Careless Whisper",
             "artista": "George Michael",
-            "2026-09-28": 822
+            "2026-09-28": 823
         },
         "307177": {
             "url": "https://www.cifraclub.com/jesse-joy/llorar/",
             "nome": "Llorar (Part. Mario Domm)",
             "artista": "Jesse & Joy",
-            "2026-09-28": 823
+            "2026-09-28": 824
         },
         "375981": {
             "url": "https://www.cifraclub.com/juan-carlos-alvarado/eres-seor-vencedor/",
             "nome": "Eres Señor Vencedor",
             "artista": "Juan Carlos Alvarado",
-            "2026-09-28": 824
+            "2026-09-28": 825
         },
         "617789": {
             "url": "https://www.cifraclub.com/jaime-murrel/oh-moradora-de-sion/",
             "nome": "Oh moradora de sion",
             "artista": "Jaime Murrell",
-            "2026-09-28": 825
-        },
-        "343828": {
-            "url": "https://www.cifraclub.com/los-prisioneros/por-que-no-se-van/",
-            "nome": "Por Que No Se Van?",
-            "artista": "Los Prisioneros",
             "2026-09-28": 826
         },
         "43382": {
@@ -4965,310 +4965,310 @@
             "artista": "Reik",
             "2026-09-28": 827
         },
+        "343828": {
+            "url": "https://www.cifraclub.com/los-prisioneros/por-que-no-se-van/",
+            "nome": "Por Que No Se Van?",
+            "artista": "Los Prisioneros",
+            "2026-09-28": 828
+        },
         "461044": {
             "url": "https://www.cifraclub.com/marcos-witt/de-gloria-en-gloria/",
             "nome": "De Gloria En Gloria",
             "artista": "Marcos Witt",
-            "2026-09-28": 828
+            "2026-09-28": 829
         },
         "403682": {
             "url": "https://www.cifraclub.com/prince-royce/la-carretera/",
             "nome": "La Carretera",
             "artista": "Prince Royce",
-            "2026-09-28": 829
+            "2026-09-28": 830
         },
         "3320618": {
             "url": "https://www.cifraclub.com/milo-j/cuando-el-agua-hirviendo/",
             "nome": "Cuando El Agua Hirviendo",
             "artista": "Milo j",
-            "2026-09-28": 830
+            "2026-09-28": 831
         },
         "14848": {
             "url": "https://www.cifraclub.com/juan-luis-guerra/te-regalo-una-rosa/",
             "nome": "Bachata Rosa",
             "artista": "Juan Luis Guerra 4.40",
-            "2026-09-28": 831
+            "2026-09-28": 832
         },
         "35712": {
             "url": "https://www.cifraclub.com/arjona-ricardo/historia-de-taxi/",
             "nome": "Historia De Taxi",
             "artista": "Ricardo Arjona",
-            "2026-09-28": 832
+            "2026-09-28": 833
         },
         "57228": {
             "url": "https://www.cifraclub.com/gustavo-cerati/te-llevo-para-que-me-lleves/",
             "nome": "Te Llevo Para Que Me Lleves",
             "artista": "Gustavo Cerati",
-            "2026-09-28": 833
+            "2026-09-28": 834
         },
         "281320": {
             "url": "https://www.cifraclub.com/chico-trujillo/loca/",
             "nome": "Loca",
             "artista": "Chico Trujillo",
-            "2026-09-28": 834
+            "2026-09-28": 835
         },
         "505540": {
             "url": "https://www.cifraclub.com/juan-gabriel/amor-eterno/",
             "nome": "Amor Eterno",
             "artista": "Juan Gabriel",
-            "2026-09-28": 835
+            "2026-09-28": 836
         },
         "242783": {
             "url": "https://www.cifraclub.com/los-tres-caballeros/noche-no-te-vayas/",
             "nome": "Noche No Te Vayas",
             "artista": "Los Tres Caballeros",
-            "2026-09-28": 836
+            "2026-09-28": 837
         },
         "1849": {
             "url": "https://www.cifraclub.com/u2/with-or-without-you/",
             "nome": "With Or Without You",
             "artista": "U2",
-            "2026-09-28": 837
+            "2026-09-28": 838
         },
         "347994": {
             "url": "https://www.cifraclub.com/sam-smith/im-not-the-only-one/",
             "nome": "I'm Not The Only One",
             "artista": "Sam Smith",
-            "2026-09-28": 838
+            "2026-09-28": 839
         },
         "9909": {
             "url": "https://www.cifraclub.com/cat-stevens/father-and-son/",
             "nome": "Father And Son",
             "artista": "Cat Stevens",
-            "2026-09-28": 839
+            "2026-09-28": 840
         },
         "363476": {
             "url": "https://www.cifraclub.com/pepe-aguilar/prometiste-unplugged/",
             "nome": "Prometiste",
             "artista": "Pepe Aguilar",
-            "2026-09-28": 840
+            "2026-09-28": 841
         },
         "176791": {
             "url": "https://www.cifraclub.com/rojo/no-me-soltaras/",
             "nome": "No Me Soltarás",
             "artista": "Rojo",
-            "2026-09-28": 841
+            "2026-09-28": 842
         },
         "3137800": {
             "url": "https://www.cifraclub.com/bloque-depresivo/amiga/",
             "nome": "Amiga",
             "artista": "Macha y El Bloque Depresivo",
-            "2026-09-28": 842
+            "2026-09-28": 843
         },
         "41509": {
             "url": "https://www.cifraclub.com/jeff-buckley/lover-you-shouldve-come-over/",
             "nome": "Lover, You Should've Come Over",
             "artista": "Jeff Buckley",
-            "2026-09-28": 843
+            "2026-09-28": 844
         },
         "40070": {
             "url": "https://www.cifraclub.com/luis-miguel/la-bikina/",
             "nome": "La Bikina",
             "artista": "Luis Miguel",
-            "2026-09-28": 844
+            "2026-09-28": 845
         },
         "89270": {
             "url": "https://www.cifraclub.com/heroes-del-silencio/maldito-duende/",
             "nome": "Maldito Duende",
             "artista": "Héroes Del Silencio",
-            "2026-09-28": 845
+            "2026-09-28": 846
         },
         "471904": {
             "url": "https://www.cifraclub.com/jeanette/porque-te-vas/",
             "nome": "Porque Te Vas",
             "artista": "Jeanette",
-            "2026-09-28": 846
+            "2026-09-28": 847
         },
         "457220": {
             "url": "https://www.cifraclub.com/el-libro-de-la-vida/si-puedes-perdonar/",
             "nome": "Si Puedes Perdonar",
             "artista": "El Libro de La Vida",
-            "2026-09-28": 847
+            "2026-09-28": 848
         },
         "456750": {
             "url": "https://www.cifraclub.com/jesus-adrian-romero/un-destello-de-tu-gloria/",
             "nome": "Un Destello de Tu Gloria",
             "artista": "Jesús Adrián Romero",
-            "2026-09-28": 848
+            "2026-09-28": 849
         },
         "704669": {
             "url": "https://www.cifraclub.com/kevin-kaarl/abrazado-a-ti/",
             "nome": "Abrazado a Ti",
             "artista": "Kevin Kaarl",
-            "2026-09-28": 849
+            "2026-09-28": 850
         },
         "4881": {
             "url": "https://www.cifraclub.com/ac-dc/highway-to-hell/",
             "nome": "Highway To Hell",
             "artista": "AC/DC",
-            "2026-09-28": 850
+            "2026-09-28": 851
         },
         "17175": {
             "url": "https://www.cifraclub.com/depeche-mode/enjoy-the-silence/",
             "nome": "Enjoy the silence",
             "artista": "Depeche Mode",
-            "2026-09-28": 851
+            "2026-09-28": 852
         },
         "661411": {
             "url": "https://www.cifraclub.com/los-carabajal/la-pucha-con-el-hombre/",
             "nome": "La pucha con el hombre",
             "artista": "Los Carabajal",
-            "2026-09-28": 852
+            "2026-09-28": 853
         },
         "4678": {
             "url": "https://www.cifraclub.com/eric-clapton/layla/",
             "nome": "Layla",
             "artista": "Eric Clapton",
-            "2026-09-28": 853
+            "2026-09-28": 854
         },
         "47950": {
             "url": "https://www.cifraclub.com/billy-joel/vienna/",
             "nome": "Vienna",
             "artista": "Billy Joel",
-            "2026-09-28": 854
+            "2026-09-28": 855
         },
         "379162": {
             "url": "https://www.cifraclub.com/soy-luna/eres/",
             "nome": "Eres",
             "artista": "Soy Luna",
-            "2026-09-28": 855
+            "2026-09-28": 856
         },
         "664795": {
             "url": "https://www.cifraclub.com/claudio-freidzon/este-es-mi-deseo/",
             "nome": "Este es mi deseo",
             "artista": "Claudio Freidzon",
-            "2026-09-28": 856
+            "2026-09-28": 857
         },
         "678432": {
             "url": "https://www.cifraclub.com/ricardo-iorio/justo-que-te-vas/",
             "nome": "Justo que te vas",
             "artista": "Ricardo Iorio",
-            "2026-09-28": 857
+            "2026-09-28": 858
         },
         "630276": {
             "url": "https://www.cifraclub.com/trio-los-panchos/sin-ti/",
             "nome": "Sin Tí",
             "artista": "Los Panchos",
-            "2026-09-28": 858
+            "2026-09-28": 859
         },
         "729744": {
             "url": "https://www.cifraclub.com/airbag/va-a-ser-dificil-olvidar/",
             "nome": "Va a Ser Difícil Olvidar",
             "artista": "AIRBAG",
-            "2026-09-28": 859
+            "2026-09-28": 860
         },
         "478683": {
             "url": "https://www.cifraclub.com/kevin-kaarl/si-supieras/",
             "nome": "Si Supieras",
             "artista": "Kevin Kaarl",
-            "2026-09-28": 860
+            "2026-09-28": 861
         },
         "593177": {
             "url": "https://www.cifraclub.com/vicente-fernandez/mujeres-divinas/",
             "nome": "Mujeres Divinas",
             "artista": "Vicente Fernández",
-            "2026-09-28": 861
+            "2026-09-28": 862
         },
         "502468": {
             "url": "https://www.cifraclub.com/marcos-yaroide/todo-se-lo-debo-a-el/",
             "nome": "Todo Se Lo Debo a El",
             "artista": "Marcos Yaroide",
-            "2026-09-28": 862
+            "2026-09-28": 863
         },
         "25424": {
             "url": "https://www.cifraclub.com/gorillaz/feel-good-inc/",
             "nome": "Feel Good Inc.",
             "artista": "Gorillaz",
-            "2026-09-28": 863
+            "2026-09-28": 864
         },
         "13089": {
             "url": "https://www.cifraclub.com/luis-miguel/la-barca/",
             "nome": "La Barca",
             "artista": "Luis Miguel",
-            "2026-09-28": 864
+            "2026-09-28": 865
         },
         "140254": {
             "url": "https://www.cifraclub.com/los-redonditos-de-ricota/tarea-fina/",
             "nome": "Tarea Fina",
             "artista": "Patricio Rey y Sus Redonditos de Ricota",
-            "2026-09-28": 865
+            "2026-09-28": 866
         },
         "745206": {
             "url": "https://www.cifraclub.com/radiohead/exit-music-for-a-film/",
             "nome": "Exit Music (For A Film)",
             "artista": "Radiohead",
-            "2026-09-28": 866
+            "2026-09-28": 867
         },
         "3251907": {
             "url": "https://www.cifraclub.com/milo-j/bajo-de-la-piel/",
             "nome": "Bajo De La Piel",
             "artista": "Milo j",
-            "2026-09-28": 867
+            "2026-09-28": 868
         },
         "5412": {
             "url": "https://www.cifraclub.com/radiohead/high-and-dry/",
             "nome": "High And Dry",
             "artista": "Radiohead",
-            "2026-09-28": 868
+            "2026-09-28": 869
         },
         "613221": {
             "url": "https://www.cifraclub.com/babasonicos/en-privado/",
             "nome": "En Privado",
             "artista": "Babasónicos",
-            "2026-09-28": 869
+            "2026-09-28": 870
         },
         "704988": {
             "url": "https://www.cifraclub.com/olivia-rodrigo/drivers-license/",
             "nome": "Drivers License",
             "artista": "Olivia Rodrigo",
-            "2026-09-28": 870
+            "2026-09-28": 871
         },
         "3133968": {
             "url": "https://www.cifraclub.com/marcos-brunet/una-vez/",
             "nome": "Una Vez",
             "artista": "Marcos Brunet",
-            "2026-09-28": 871
+            "2026-09-28": 872
         },
         "3390067": {
             "url": "https://www.cifraclub.com/olivia-rodrigo/maggots-for-brains/",
             "nome": "maggots for brains",
             "artista": "Olivia Rodrigo",
-            "2026-09-28": 872
+            "2026-09-28": 873
         },
         "729949": {
             "url": "https://www.cifraclub.com/dominic-fike/babydoll/",
             "nome": "Babydoll",
             "artista": "Dominic Fike",
-            "2026-09-28": 873
+            "2026-09-28": 874
         },
         "418988": {
             "url": "https://www.cifraclub.com/victor-jara/el-derecho-de-vivir-en-paz/",
             "nome": "El Derecho de Vivir En Paz",
             "artista": "Victor Jara",
-            "2026-09-28": 874
+            "2026-09-28": 875
         },
         "461120": {
             "url": "https://www.cifraclub.com/coalo-zamorano/eres-mi-amigo-fiel/",
             "nome": "Eres Mi Amigo Fiel",
             "artista": "Coalo Zamorano",
-            "2026-09-28": 875
+            "2026-09-28": 876
         },
         "625192": {
             "url": "https://www.cifraclub.com/rey-de-reyes/anhelo-conocerte-espiritu-santo/",
             "nome": "Anhelo conocerte Espíritu Santo",
             "artista": "Iglesia Rey de Reyes",
-            "2026-09-28": 876
+            "2026-09-28": 877
         },
         "475942": {
             "url": "https://www.cifraclub.com/natalia-lacunza/nana-triste/",
             "nome": "Nana Triste",
             "artista": "Natalia Lacunza",
-            "2026-09-28": 877
-        },
-        "3388489": {
-            "url": "https://www.cifraclub.com/olivia-rodrigo/what-s-wrong-with-me/",
-            "nome": "what’s wrong with me (feat. Robert Smith)",
-            "artista": "Olivia Rodrigo",
             "2026-09-28": 878
         },
         "668137": {
@@ -5283,82 +5283,82 @@
             "artista": "iñigo quintero",
             "2026-09-28": 880
         },
+        "3388489": {
+            "url": "https://www.cifraclub.com/olivia-rodrigo/what-s-wrong-with-me/",
+            "nome": "what’s wrong with me (feat. Robert Smith)",
+            "artista": "Olivia Rodrigo",
+            "2026-09-28": 881
+        },
         "221404": {
             "url": "https://www.cifraclub.com/callejeros/9-de-julio/",
             "nome": "9 de Julio",
             "artista": "Callejeros",
-            "2026-09-28": 881
+            "2026-09-28": 882
         },
         "601000": {
             "url": "https://www.cifraclub.com/new-wine/necesito-un-encuentro/",
             "nome": "Necesito un encuentro",
             "artista": "New Wine",
-            "2026-09-28": 882
+            "2026-09-28": 883
         },
         "3108481": {
             "url": "https://www.cifraclub.com/oasis-ministry/un-encuentro-contigo/",
             "nome": "Un Encuentro Contigo",
             "artista": "Oasis Ministry",
-            "2026-09-28": 883
+            "2026-09-28": 884
         },
         "3170214": {
             "url": "https://www.cifraclub.com/mon-laferte/otra-noche-de-llorar/",
             "nome": "Otra Noche de Llorar",
             "artista": "Mon Laferte",
-            "2026-09-28": 884
+            "2026-09-28": 885
         },
         "1177": {
             "url": "https://www.cifraclub.com/metallica/enter-sandman/",
             "nome": "Enter Sandman",
             "artista": "Metallica",
-            "2026-09-28": 885
+            "2026-09-28": 886
         },
         "35402": {
             "url": "https://www.cifraclub.com/marcos-witt/dios-ha-sido-bueno/",
             "nome": "Dios ha Sido Bueno",
             "artista": "Marcos Witt",
-            "2026-09-28": 886
+            "2026-09-28": 887
         },
         "480823": {
             "url": "https://www.cifraclub.com/new-west/those-eyes/",
             "nome": "Those Eyes",
             "artista": "New West",
-            "2026-09-28": 887
+            "2026-09-28": 888
         },
         "18996": {
             "url": "https://www.cifraclub.com/sting/shape-of-my-heart/",
             "nome": "Shape Of My Heart",
             "artista": "Sting",
-            "2026-09-28": 888
+            "2026-09-28": 889
         },
         "1285": {
             "url": "https://www.cifraclub.com/nirvana/about-girl/",
             "nome": "About a Girl",
             "artista": "Nirvana",
-            "2026-09-28": 889
+            "2026-09-28": 890
         },
         "15699": {
             "url": "https://www.cifraclub.com/america/a-horse-with-no-name/",
             "nome": "A Horse With No Name",
             "artista": "America",
-            "2026-09-28": 890
+            "2026-09-28": 891
         },
         "471997": {
             "url": "https://www.cifraclub.com/fito-paez/petalo-de-sal/",
             "nome": "Pétalo de Sal",
             "artista": "Fito Páez",
-            "2026-09-28": 891
+            "2026-09-28": 892
         },
         "43973": {
             "url": "https://www.cifraclub.com/almafuerte/se-vos/",
             "nome": "Se Vos",
             "artista": "Almafuerte",
-            "2026-09-28": 892
-        },
-        "100660": {
-            "url": "https://www.cifraclub.com/amy-winehouse/valerie/",
-            "nome": "Valerie",
-            "artista": "Amy Winehouse",
             "2026-09-28": 893
         },
         "175348": {
@@ -5367,640 +5367,640 @@
             "artista": "Andrés Calamaro",
             "2026-09-28": 894
         },
+        "100660": {
+            "url": "https://www.cifraclub.com/amy-winehouse/valerie/",
+            "nome": "Valerie",
+            "artista": "Amy Winehouse",
+            "2026-09-28": 895
+        },
         "636957": {
             "url": "https://www.cifraclub.com/seru-giran/viernes-3-am/",
             "nome": "Viernes 3am",
             "artista": "Serú Girán",
-            "2026-09-28": 895
+            "2026-09-28": 896
         },
         "3151583": {
             "url": "https://www.cifraclub.com/junior-h/las-noches/",
             "nome": "LAS NOCHES",
             "artista": "Junior H",
-            "2026-09-28": 896
+            "2026-09-28": 897
         },
         "3382761": {
             "url": "https://www.cifraclub.com/gateway-worship-espanol/gozo-aunque-lo-llamen-locura/",
             "nome": "Gozo (Aunque Lo Llamen Locura)",
             "artista": "Gateway Worship Español",
-            "2026-09-28": 897
+            "2026-09-28": 898
         },
         "410632": {
             "url": "https://www.cifraclub.com/victor-heredia/sobreviviendo/",
             "nome": "Sobreviviendo",
             "artista": "Victor Heredia",
-            "2026-09-28": 898
+            "2026-09-28": 899
         },
         "3130723": {
             "url": "https://www.cifraclub.com/karol-g/si-antes-te-hubiera-conocido/",
             "nome": "Si Antes Te Hubiera Conocido",
             "artista": "KAROL G",
-            "2026-09-28": 899
+            "2026-09-28": 900
         },
         "1577": {
             "url": "https://www.cifraclub.com/red-hot-chili-peppers/otherside/",
             "nome": "Otherside",
             "artista": "Red Hot Chili Peppers",
-            "2026-09-28": 900
+            "2026-09-28": 901
         },
         "698458": {
             "url": "https://www.cifraclub.com/pedro-tata-barahona/te-vas-de-mi/",
             "nome": "Te vas de mí",
             "artista": "Pedro Tata Barahona",
-            "2026-09-28": 901
+            "2026-09-28": 902
         },
         "40060": {
             "url": "https://www.cifraclub.com/luis-miguel/la-media-vuelta/",
             "nome": "La Media Vuelta",
             "artista": "Luis Miguel",
-            "2026-09-28": 902
+            "2026-09-28": 903
         },
         "3144176": {
             "url": "https://www.cifraclub.com/eccos/santo-por-siempre/",
             "nome": "Santo Por Siempre",
             "artista": "ECCOS",
-            "2026-09-28": 903
+            "2026-09-28": 904
         },
         "271204": {
             "url": "https://www.cifraclub.com/rojo/eres-todo-poderoso/",
             "nome": "Eres Todo Poderoso",
             "artista": "Rojo",
-            "2026-09-28": 904
+            "2026-09-28": 905
         },
         "457999": {
             "url": "https://www.cifraclub.com/arjona-ricardo/te-conozco/",
             "nome": "Te Conozco",
             "artista": "Ricardo Arjona",
-            "2026-09-28": 905
+            "2026-09-28": 906
         },
         "3213134": {
             "url": "https://www.cifraclub.com/emi-valenzuela/ahi-viene-yeshua/",
             "nome": "Ahí Viene Yeshua",
             "artista": "Emi Valenzuela",
-            "2026-09-28": 906
+            "2026-09-28": 907
         },
         "739479": {
             "url": "https://www.cifraclub.com/nahuel-pennisi/universo-paralelo/",
             "nome": "Universo Paralelo",
             "artista": "Nahuel Pennisi",
-            "2026-09-28": 907
+            "2026-09-28": 908
         },
         "378448": {
             "url": "https://www.cifraclub.com/los-bunkers/quien-fuera/",
             "nome": "Quien Fuera",
             "artista": "Los Bunkers",
-            "2026-09-28": 908
+            "2026-09-28": 909
         },
         "685126": {
             "url": "https://www.cifraclub.com/chaqueno-palavecino/la-sin-corazon/",
             "nome": "La sin corazón",
             "artista": "Chaqueño Palavecino",
-            "2026-09-28": 909
+            "2026-09-28": 910
         },
         "342326": {
             "url": "https://www.cifraclub.com/jaime-murrel/aqui-estoy/",
             "nome": "Aqui Estoy",
             "artista": "Jaime Murrell",
-            "2026-09-28": 910
+            "2026-09-28": 911
         },
         "681088": {
             "url": "https://www.cifraclub.com/ariel-camacho/hablemos/",
             "nome": "Hablemos",
             "artista": "Ariel Camacho",
-            "2026-09-28": 911
+            "2026-09-28": 912
         },
         "458": {
             "url": "https://www.cifraclub.com/the-beatles/love-me-do/",
             "nome": "Love Me Do",
             "artista": "The Beatles",
-            "2026-09-28": 912
+            "2026-09-28": 913
         },
         "237686": {
             "url": "https://www.cifraclub.com/elefante/angel/",
             "nome": "Ángel",
             "artista": "Elefante",
-            "2026-09-28": 913
+            "2026-09-28": 914
         },
         "726491": {
             "url": "https://www.cifraclub.com/sebastian-yatra/dos-oruguitas/",
             "nome": "Dos Oruguitas",
             "artista": "Sebastian Yatra",
-            "2026-09-28": 914
+            "2026-09-28": 915
         },
         "727921": {
             "url": "https://www.cifraclub.com/meredith-andrews/espacio-te-hare-make-room/",
             "nome": "Espacio Te Haré (Make Room)",
             "artista": "Meredith Andrews",
-            "2026-09-28": 915
+            "2026-09-28": 916
         },
         "3101683": {
             "url": "https://www.cifraclub.com/generacion-12/gratitud-gracias-medley/",
             "nome": "Gratitud / Gracias (Medley)",
             "artista": "Generación 12",
-            "2026-09-28": 916
+            "2026-09-28": 917
         },
         "158107": {
             "url": "https://www.cifraclub.com/charly-garcia/ojos-de-video-tape/",
             "nome": "Ojos de Video Tape",
             "artista": "Charly García",
-            "2026-09-28": 917
+            "2026-09-28": 918
         },
         "36491": {
             "url": "https://www.cifraclub.com/caifanes/afuera/",
             "nome": "Afuera",
             "artista": "Caifanes",
-            "2026-09-28": 918
+            "2026-09-28": 919
         },
         "372039": {
             "url": "https://www.cifraclub.com/jesse-joy/con-quien-se-queda-el-perro/",
             "nome": "Con Quién Se Queda El Perro?",
             "artista": "Jesse & Joy",
-            "2026-09-28": 919
+            "2026-09-28": 920
         },
         "1013266": {
             "url": "https://www.cifraclub.com/rauw-alejandro/tiroteo-remix/",
             "nome": "Tiroteo Remix",
             "artista": "Rauw Alejandro",
-            "2026-09-28": 920
+            "2026-09-28": 921
         },
         "628624": {
             "url": "https://www.cifraclub.com/hillsong-united/aqui-estoy/",
             "nome": "Aquí Estoy",
             "artista": "Hillsong UNITED",
-            "2026-09-28": 921
+            "2026-09-28": 922
         },
         "328007": {
             "url": "https://www.cifraclub.com/tom-odell/another-love/",
             "nome": "Another love",
             "artista": "Tom Odell",
-            "2026-09-28": 922
+            "2026-09-28": 923
         },
         "631512": {
             "url": "https://www.cifraclub.com/pedro-aznar/a-primera-vista/",
             "nome": "A primera vista",
             "artista": "Pedro Aznar",
-            "2026-09-28": 923
+            "2026-09-28": 924
         },
         "652002": {
             "url": "https://www.cifraclub.com/mercedes-sosa/soy-pan-soy-paz-soy-mas/",
             "nome": "Soy pan, soy paz, soy más",
             "artista": "Mercedes Sosa",
-            "2026-09-28": 924
+            "2026-09-28": 925
         },
         "590510": {
             "url": "https://www.cifraclub.com/inspiracion/el-senor-es-mi-rey/",
             "nome": "El señor es mi rey",
             "artista": "Inspiracion",
-            "2026-09-28": 925
+            "2026-09-28": 926
         },
         "631060": {
             "url": "https://www.cifraclub.com/los-redonditos-de-ricota/el-pibe-de-los-astilleros/",
             "nome": "El pibe de los astilleros",
             "artista": "Patricio Rey y Sus Redonditos de Ricota",
-            "2026-09-28": 926
+            "2026-09-28": 927
         },
         "22215": {
             "url": "https://www.cifraclub.com/john-denver/take-me-home-country-roads/",
             "nome": "Take Me Home, Country Roads",
             "artista": "John Denver",
-            "2026-09-28": 927
+            "2026-09-28": 928
         },
         "36262": {
             "url": "https://www.cifraclub.com/venegas-julieta/andar-conmigo/",
             "nome": "Andar Conmigo",
             "artista": "Julieta Venegas",
-            "2026-09-28": 928
+            "2026-09-28": 929
         },
         "405662": {
             "url": "https://www.cifraclub.com/las-pelotas/personalmente/",
             "nome": "Personalmente",
             "artista": "Las Pelotas",
-            "2026-09-28": 929
+            "2026-09-28": 930
         },
         "648729": {
             "url": "https://www.cifraclub.com/los-manseros-santiagueos/chacarera-para-mi-vuelta/",
             "nome": "Chacarera Para Mi Vuelta",
             "artista": "Los Manseros Santiagueños",
-            "2026-09-28": 930
+            "2026-09-28": 931
         },
         "112279": {
             "url": "https://www.cifraclub.com/charly-garcia/de-mi/",
             "nome": "De Mi",
             "artista": "Charly García",
-            "2026-09-28": 931
+            "2026-09-28": 932
         },
         "734396": {
             "url": "https://www.cifraclub.com/miel-san-marcos/levantate-senor/",
             "nome": "Levántate Señor",
             "artista": "Miel San Marcos",
-            "2026-09-28": 932
+            "2026-09-28": 933
         },
         "7838": {
             "url": "https://www.cifraclub.com/avril-lavigne/complicated/",
             "nome": "Complicated",
             "artista": "Avril Lavigne",
-            "2026-09-28": 933
+            "2026-09-28": 934
         },
         "242666": {
             "url": "https://www.cifraclub.com/la-vela-puerca/va-escampar/",
             "nome": "Va a Escampar",
             "artista": "La Vela Puerca",
-            "2026-09-28": 934
+            "2026-09-28": 935
         },
         "652270": {
             "url": "https://www.cifraclub.com/miel-san-marcos/amamos-tu-presencia/",
             "nome": "Amamos tu presencia",
             "artista": "Miel San Marcos",
-            "2026-09-28": 935
+            "2026-09-28": 936
         },
         "46672": {
             "url": "https://www.cifraclub.com/el-soldado/angel-de-los-perdedores/",
             "nome": "Angel de los perdedores",
             "artista": "El Soldado",
-            "2026-09-28": 936
+            "2026-09-28": 937
         },
         "500846": {
             "url": "https://www.cifraclub.com/las-pastillas-del-abuelo/rompecabezas-de-amor/",
             "nome": "Rompecabezas de Amor",
             "artista": "Las Pastillas del Abuelo",
-            "2026-09-28": 937
+            "2026-09-28": 938
         },
         "641261": {
             "url": "https://www.cifraclub.com/airbag/noches-de-insomnio/",
             "nome": "Noches de insomnio",
             "artista": "AIRBAG",
-            "2026-09-28": 938
+            "2026-09-28": 939
         },
         "620359": {
             "url": "https://www.cifraclub.com/jorge-rojas/mujer-nina-y-amiga/",
             "nome": "Mujer, niña y amiga",
             "artista": "Jorge Rojas",
-            "2026-09-28": 939
+            "2026-09-28": 940
         },
         "17949": {
             "url": "https://www.cifraclub.com/queen/dont-stop-me-now/",
             "nome": "Don't Stop Me Now",
             "artista": "Queen",
-            "2026-09-28": 940
+            "2026-09-28": 941
         },
         "648969": {
             "url": "https://www.cifraclub.com/manuel-garcia/la-danza-de-las-libelulas/",
             "nome": "La danza de las libélulas",
             "artista": "Manuel Garcia",
-            "2026-09-28": 941
+            "2026-09-28": 942
         },
         "3265767": {
             "url": "https://www.cifraclub.com/milo-j/llora-llora-part-akriila/",
             "nome": "Llora Llora (part. AKRIILA)",
             "artista": "Milo j",
-            "2026-09-28": 942
+            "2026-09-28": 943
         },
         "251563": {
             "url": "https://www.cifraclub.com/soda-stereo/corazon-delator/",
             "nome": "Corazón Delator",
             "artista": "Soda Stereo",
-            "2026-09-28": 943
+            "2026-09-28": 944
         },
         "336228": {
             "url": "https://www.cifraclub.com/jesus-adrian-romero/a-el-alto-y-sublime/",
             "nome": "A el alto y sublime",
             "artista": "Jesús Adrián Romero",
-            "2026-09-28": 944
+            "2026-09-28": 945
         },
         "34306": {
             "url": "https://www.cifraclub.com/sin-bandera/suelta-mi-mano/",
             "nome": "Suelta Mi Mano",
             "artista": "Sin Bandera",
-            "2026-09-28": 945
+            "2026-09-28": 946
         },
         "3418159": {
             "url": "https://www.cifraclub.com/rosario-garcia-montero/la-catalina/",
             "nome": "La Catalina",
             "artista": "Rosario Garcia Montero",
-            "2026-09-28": 946
+            "2026-09-28": 947
         },
         "595752": {
             "url": "https://www.cifraclub.com/elefante/sabor-a-chocolate/",
             "nome": "Sabor a chocolate",
             "artista": "Elefante",
-            "2026-09-28": 947
+            "2026-09-28": 948
         },
         "4603": {
             "url": "https://www.cifraclub.com/stone-temple-pilots/plush/",
             "nome": "Plush",
             "artista": "Stone Temple Pilots",
-            "2026-09-28": 948
+            "2026-09-28": 949
         },
         "24840": {
             "url": "https://www.cifraclub.com/jorge-drexler/me-haces-bien/",
             "nome": "Me Haces Bien",
             "artista": "Jorge Drexler",
-            "2026-09-28": 949
+            "2026-09-28": 950
         },
         "3106380": {
             "url": "https://www.cifraclub.com/olivia-rodrigo/vampire/",
             "nome": "Vampire",
             "artista": "Olivia Rodrigo",
-            "2026-09-28": 950
+            "2026-09-28": 951
         },
         "201714": {
             "url": "https://www.cifraclub.com/bersuit-vergarabat/negra-murguera/",
             "nome": "Negra Murguera",
             "artista": "Bersuit Vergarabat",
-            "2026-09-28": 951
+            "2026-09-28": 952
         },
         "125436": {
             "url": "https://www.cifraclub.com/jarabe-de-palo/el-lado-oscuro/",
             "nome": "El Lado Oscuro",
             "artista": "Jarabe de Palo",
-            "2026-09-28": 952
+            "2026-09-28": 953
         },
         "498836": {
             "url": "https://www.cifraclub.com/conociendo-rusia/cabildo-y-juramento/",
             "nome": "Cabildo Y Juramento",
             "artista": "Conociendo Rusia",
-            "2026-09-28": 953
+            "2026-09-28": 954
         },
         "125842": {
             "url": "https://www.cifraclub.com/jesus-adrian-romero/mi-universo/",
             "nome": "Mi Universo",
             "artista": "Jesús Adrián Romero",
-            "2026-09-28": 954
+            "2026-09-28": 955
         },
         "461458": {
             "url": "https://www.cifraclub.com/hillsong-worship/a-ti-me-rindo/",
             "nome": "A Ti Me Rindo",
             "artista": "Hillsong Worship",
-            "2026-09-28": 955
+            "2026-09-28": 956
         },
         "22479": {
             "url": "https://www.cifraclub.com/billy-idol/eyes-without-face/",
             "nome": "Eyes without a face",
             "artista": "Billy Idol",
-            "2026-09-28": 956
+            "2026-09-28": 957
         },
         "4537": {
             "url": "https://www.cifraclub.com/the-smiths/please-please-please-let-me-get-what-want-4537/",
             "nome": "Please, Please, Please, Let Me Get What I Want",
             "artista": "The Smiths",
-            "2026-09-28": 957
+            "2026-09-28": 958
         },
         "71476": {
             "url": "https://www.cifraclub.com/jose-luis-perales/un-velero-llamado-libertad/",
             "nome": "Un Velero Llamado Libertad",
             "artista": "José Luis Perales",
-            "2026-09-28": 958
+            "2026-09-28": 959
         },
         "483503": {
             "url": "https://www.cifraclub.com/amen/te-quiero/",
             "nome": "Te Quiero",
             "artista": "Amen",
-            "2026-09-28": 959
+            "2026-09-28": 960
         },
         "3207122": {
             "url": "https://www.cifraclub.com/aitana/cuando-hables-con-el/",
             "nome": "CUANDO HABLES CON ÉL",
             "artista": "Aitana",
-            "2026-09-28": 960
+            "2026-09-28": 961
         },
         "93027": {
             "url": "https://www.cifraclub.com/pappo/desconfio/",
             "nome": "Desconfio",
             "artista": "Pappo",
-            "2026-09-28": 961
+            "2026-09-28": 962
         },
         "511029": {
             "url": "https://www.cifraclub.com/tercer-cielo/en-el-monte-calvario/",
             "nome": "En El Monte Calvario",
             "artista": "Tercer Cielo",
-            "2026-09-28": 962
+            "2026-09-28": 963
         },
         "476857": {
             "url": "https://www.cifraclub.com/pablo-martinez/hasta-la-locura/",
             "nome": "Hasta La Locura",
             "artista": "Pablo Martinez",
-            "2026-09-28": 963
+            "2026-09-28": 964
         },
         "474805": {
             "url": "https://www.cifraclub.com/los-hijos-del-sol/cariito/",
             "nome": "Cariñito",
             "artista": "Los Hijos del Sol",
-            "2026-09-28": 964
+            "2026-09-28": 965
         },
         "615474": {
             "url": "https://www.cifraclub.com/billy-bunster/fuego/",
             "nome": "Fuego",
             "artista": "Billy Bunster",
-            "2026-09-28": 965
+            "2026-09-28": 966
         },
         "8679": {
             "url": "https://www.cifraclub.com/mana/vivir-sin-aire/",
             "nome": "Vivir Sin Aire",
             "artista": "Maná",
-            "2026-09-28": 966
+            "2026-09-28": 967
         },
         "3121868": {
             "url": "https://www.cifraclub.com/djo/end-of-beginning/",
             "nome": "End Of Beginning",
             "artista": "Djo",
-            "2026-09-28": 967
+            "2026-09-28": 968
         },
         "3280832": {
             "url": "https://www.cifraclub.com/rosalia/la-perla-part-yahritza-y-su-esencia/",
             "nome": "La Perla (part. Yahritza Y Su Esencia)",
             "artista": "ROSALÍA",
-            "2026-09-28": 968
+            "2026-09-28": 969
         },
         "3295370": {
             "url": "https://www.cifraclub.com/carafea/la-despedida/",
             "nome": "La Despedida",
             "artista": "CARAFEA",
-            "2026-09-28": 969
+            "2026-09-28": 970
         },
         "49586": {
             "url": "https://www.cifraclub.com/juanes/a-dios-le-pido/",
             "nome": "A Dios Le Pido",
             "artista": "Juanes",
-            "2026-09-28": 970
+            "2026-09-28": 971
         },
         "191322": {
             "url": "https://www.cifraclub.com/andres-calamaro/loco/",
             "nome": "Loco",
             "artista": "Andrés Calamaro",
-            "2026-09-28": 971
+            "2026-09-28": 972
         },
         "9390": {
             "url": "https://www.cifraclub.com/tears-for-fears/everybody-wants-to-rule-the-world/",
             "nome": "Everybody Wants To Rule The World",
             "artista": "Tears For Fears",
-            "2026-09-28": 972
+            "2026-09-28": 973
         },
         "93006": {
             "url": "https://www.cifraclub.com/panda/los-malaventurados-no-lloran/",
             "nome": "Los Malaventurados No Lloran",
             "artista": "Panda",
-            "2026-09-28": 973
+            "2026-09-28": 974
         },
         "598073": {
             "url": "https://www.cifraclub.com/evan-craft/cordero-y-leon/",
             "nome": "Cordero y León",
             "artista": "Evan Craft",
-            "2026-09-28": 974
+            "2026-09-28": 975
         },
         "657218": {
             "url": "https://www.cifraclub.com/los-delinquentes/el-aire-de-la-calle/",
             "nome": "El aire de la calle",
             "artista": "Los Delinqüentes",
-            "2026-09-28": 975
+            "2026-09-28": 976
         },
         "3376251": {
             "url": "https://www.cifraclub.com/olivia-rodrigo/begged/",
             "nome": "begged",
             "artista": "Olivia Rodrigo",
-            "2026-09-28": 976
+            "2026-09-28": 977
         },
         "7820": {
             "url": "https://www.cifraclub.com/abba/chiquitita/",
             "nome": "Chiquitita",
             "artista": "ABBA",
-            "2026-09-28": 977
+            "2026-09-28": 978
         },
         "5114": {
             "url": "https://www.cifraclub.com/queen/crazy-little-thing-called-love/",
             "nome": "Crazy Little Thing Called Love",
             "artista": "Queen",
-            "2026-09-28": 978
+            "2026-09-28": 979
         },
         "8331": {
             "url": "https://www.cifraclub.com/the-outfield/your-love/",
             "nome": "Your Love",
             "artista": "The Outfield",
-            "2026-09-28": 979
+            "2026-09-28": 980
         },
         "621650": {
             "url": "https://www.cifraclub.com/juan-carlos-alvarado/celebra-victorioso/",
             "nome": "Celebra victorioso",
             "artista": "Juan Carlos Alvarado",
-            "2026-09-28": 980
+            "2026-09-28": 981
         },
         "21286": {
             "url": "https://www.cifraclub.com/alicia-keys/if-aint-got-you/",
             "nome": "If I Ain't Got You",
             "artista": "Alicia Keys",
-            "2026-09-28": 981
+            "2026-09-28": 982
         },
         "36301": {
             "url": "https://www.cifraclub.com/floricienta/hay-un-cuento/",
             "nome": "Hay Un Cuento",
             "artista": "Floricienta",
-            "2026-09-28": 982
+            "2026-09-28": 983
         },
         "485747": {
             "url": "https://www.cifraclub.com/colon-willie/idilio/",
             "nome": "Idilio",
             "artista": "Willie Colón",
-            "2026-09-28": 983
+            "2026-09-28": 984
         },
         "7718": {
             "url": "https://www.cifraclub.com/the-rolling-stones/angie/",
             "nome": "Angie",
             "artista": "The Rolling Stones",
-            "2026-09-28": 984
+            "2026-09-28": 985
         },
         "102528": {
             "url": "https://www.cifraclub.com/trio-los-panchos/quizas-quizas-quizas/",
             "nome": "Quizás, Quizás, Quizás!",
             "artista": "Los Panchos",
-            "2026-09-28": 985
+            "2026-09-28": 986
         },
         "221407": {
             "url": "https://www.cifraclub.com/la-mancha-de-rolando/arde-la-ciudad/",
             "nome": "Arde La Ciudad",
             "artista": "La Mancha de Rolando",
-            "2026-09-28": 986
+            "2026-09-28": 987
         },
         "427724": {
             "url": "https://www.cifraclub.com/daniel-caesar/best-part-feat-her/",
             "nome": "Best Part (feat. H.E.R)",
             "artista": "Daniel Caesar",
-            "2026-09-28": 987
+            "2026-09-28": 988
         },
         "3302994": {
             "url": "https://www.cifraclub.com/iglesia-de-cristo-ebenezer-honduras/desierto-en-paraiso/",
             "nome": "Desierto En Paraiso",
             "artista": "Iglesia de Cristo Ebenezer Honduras",
-            "2026-09-28": 988
+            "2026-09-28": 989
         },
         "411316": {
             "url": "https://www.cifraclub.com/morat/amor-con-hielo/",
             "nome": "Amor Con Hielo",
             "artista": "Morat",
-            "2026-09-28": 989
+            "2026-09-28": 990
         },
         "455287": {
             "url": "https://www.cifraclub.com/carla-morrison/eres-tu/",
             "nome": "Eres tú",
             "artista": "Carla Morrison",
-            "2026-09-28": 990
+            "2026-09-28": 991
         },
         "592119": {
             "url": "https://www.cifraclub.com/william-luna/vienes-y-te-vas/",
             "nome": "Vienes y  te vas",
             "artista": "William Luna",
-            "2026-09-28": 991
+            "2026-09-28": 992
         },
         "313654": {
             "url": "https://www.cifraclub.com/en-espiritu-en-verdad/en-tu-presencia/",
             "nome": "En Tu Presencia",
             "artista": "En Espiritu Y En Verdad",
-            "2026-09-28": 992
+            "2026-09-28": 993
         },
         "3158628": {
             "url": "https://www.cifraclub.com/fuerza-regida/me-jalo-part-grupo-frontera/",
             "nome": "ME JALO (part. Grupo Frontera)",
             "artista": "Fuerza Regida",
-            "2026-09-28": 993
+            "2026-09-28": 994
         },
         "174410": {
             "url": "https://www.cifraclub.com/alex-campos/el-taller-del-maestro/",
             "nome": "El Taller Del Maestro",
             "artista": "Alex Campos",
-            "2026-09-28": 994
+            "2026-09-28": 995
         },
         "57549": {
             "url": "https://www.cifraclub.com/viejas-locas/me-gustas-mucho/",
             "nome": "Me Gustas Mucho",
             "artista": "Viejas Locas",
-            "2026-09-28": 995
+            "2026-09-28": 996
         },
         "8018": {
             "url": "https://www.cifraclub.com/michael-jackson/beat-it/",
             "nome": "Beat It",
             "artista": "Michael Jackson",
-            "2026-09-28": 996
+            "2026-09-28": 997
         },
         "154241": {
             "url": "https://www.cifraclub.com/whitesnake/is-this-love/",
             "nome": "Is This Love",
             "artista": "Whitesnake",
-            "2026-09-28": 997
+            "2026-09-28": 998
         },
         "490823": {
             "url": "https://www.cifraclub.com/james-blunt/monsters/",
             "nome": "Monsters",
             "artista": "James Blunt",
-            "2026-09-28": 998
+            "2026-09-28": 999
         },
         "594258": {
             "url": "https://www.cifraclub.com/vilma-palma-e-vampiros/bye-bye/",
             "nome": "Bye Bye",
             "artista": "Vilma Palma e Vampiros",
-            "2026-09-28": 999
-        },
-        "11803": {
-            "url": "https://www.cifraclub.com/robbie-williams/feel/",
-            "nome": "Feel",
-            "artista": "Robbie Williams",
             "2026-09-28": 1000
         }
     }

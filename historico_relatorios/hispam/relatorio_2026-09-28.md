@@ -13,4 +13,4 @@ As movimentações e gráficos interativos começarão a rodar a partir do próx
 7º. **Santo Por Siempre** — *Adoración La IBI*
 8º. **Lamento Boliviano** — *Los Enanitos Verdes*
 9º. **Wonderwall** — *Oasis*
-10º. **Quiero Conocer a Jesús (Yeshua) / Nuestro Dios (part. Sofía Mancipe)** — *Generación 12*
+10º. **Niño** — *Milo j*
