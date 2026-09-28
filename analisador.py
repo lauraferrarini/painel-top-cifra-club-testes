@@ -53,9 +53,16 @@ REGIOES = {
     },
 }
 
+# User-Agent liberado pelo backend do Cifra Club para o robô passar pelo
+# bloqueio de bots. Ele NÃO fica no código: vem do secret CIFRA_USER_AGENT
+# do GitHub (Settings → Secrets and variables → Actions), que o workflow
+# repassa como variável de ambiente.
+USER_AGENT_PADRAO = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36'
+USER_AGENT_ROBO = (os.environ.get('CIFRA_USER_AGENT') or '').strip()
+
 def headers_padrao(config, accept):
     return {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36',
+        'User-Agent': USER_AGENT_ROBO or USER_AGENT_PADRAO,
         'Accept': accept,
         'Accept-Language': config['accept_language'],
         'Referer': config['pagina'],
@@ -352,6 +359,10 @@ if __name__ == "__main__":
             regioes_para_processar = list(REGIOES.keys())
 
         print(f"🚀 Iniciando módulo de análise para o alvo: {alvo.upper()}")
+        if USER_AGENT_ROBO:
+            print("🔑 Usando o User-Agent do secret CIFRA_USER_AGENT.")
+        else:
+            print("⚠️ Secret CIFRA_USER_AGENT não encontrado — usando User-Agent genérico (o site pode bloquear com 403).")
 
         sucesso_geral = True
         for regiao in regioes_para_processar:
