@@ -109,6 +109,33 @@
             width: 14px;
             height: 14px;
         }
+        .filter-label input[type="checkbox"]:disabled {
+            cursor: not-allowed;
+        }
+        .date-compare-input {
+            padding: 4px 6px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 11px;
+            font-family: inherit;
+            color: var(--text-main);
+            cursor: pointer;
+        }
+        .date-compare-input:focus {
+            border-color: #999;
+            outline: none;
+        }
+        .clear-compare-btn {
+            cursor: pointer;
+            color: var(--text-muted);
+            font-weight: 800;
+            font-size: 13px;
+            margin-left: 4px;
+            transition: color 0.15s;
+        }
+        .clear-compare-btn:hover {
+            color: #c0392b;
+        }
 
         /* ⚡ ENGENHARIA DO TOOLTIP INSTANTÂNEO EM CSS PURO */
         .tooltip-container {
@@ -280,12 +307,26 @@
         
         <span style="color: var(--border-light); margin: 0 2px;">|</span>
         
-        <label class="filter-label" style="font-weight: 600; color: var(--text-main);">
+        <label class="filter-label" id="label-fds" style="font-weight: 600; color: var(--text-main);">
             <input type="checkbox" id="chk-fds" checked onchange="processarEMontarTabelaCorrida()"> Considerar fim de semana
         </label>
         <div class="tooltip-container">
             <span class="tooltip-icon">ⓘ</span>
             <div class="tooltip-box">Quando desativado, as movimentações de segunda-feira serão calculadas comparando o ranking atual com o de sexta-feira, ignorando as oscilações de sábado e domingo.</div>
+        </div>
+
+        <span style="color: var(--border-light); margin: 0 2px;">|</span>
+
+        <label class="filter-label" style="font-weight: 600; color: var(--text-main); cursor: default;">
+            Comparar datas:
+            <input type="date" id="data-comparar-1" class="date-compare-input" onchange="processarEMontarTabelaCorrida()">
+            <span style="color: var(--text-muted); font-weight: 500;">→</span>
+            <input type="date" id="data-comparar-2" class="date-compare-input" onchange="processarEMontarTabelaCorrida()">
+            <span class="clear-compare-btn" title="Sair da comparação e voltar ao padrão automático" onclick="limparComparacaoDatas()">✕</span>
+        </label>
+        <div class="tooltip-container">
+            <span class="tooltip-icon">ⓘ</span>
+            <div class="tooltip-box">Escolha duas datas para comparar as posições do ranking entre elas. Os indicadores de alteração no top e os cards acima passam a refletir essa comparação em vez de hoje vs. ontem. Clique no ✕ para voltar ao padrão automático.</div>
         </div>
     </div>
 
@@ -311,11 +352,16 @@
     </div>
 
     <div class="search-container">
-        <span style="font-weight: 600; color: var(--text-muted); text-transform: uppercase; font-size: 9px;">Busca Direta:</span>
+        <span style="font-weight: 600; color: var(--text-muted); text-transform: uppercase; font-size: 9px;">Busca no histórico:</span>
         <div style="position: relative; display: inline-block;">
             <input type="text" id="musica-input" class="search-input" placeholder="Procurar outra faixa do histórico...">
             <div id="search-matches" class="search-matches-dropdown"></div>
         </div>
+    </div>
+
+    <div class="search-container">
+        <span style="font-weight: 600; color: var(--text-muted); text-transform: uppercase; font-size: 9px;">Filtrar por Artista:</span>
+        <input type="text" id="filtro-artista-input" class="search-input" placeholder="Digite o nome do artista..." oninput="aplicarFiltrosNaTela()">
     </div>
 
     <div class="table-container">
@@ -337,8 +383,9 @@
     let dadosGlobais = null;
     let chartInstance = null;
     let faixaSelecionadaAtualmente = null;
-    let diasFiltroAtivo = 0; 
+    let diasFiltroAtivo = 0;
     let regiaoAtiva = 'br';
+    let hojeAtivo = null; // ⚡ data "hoje" efetiva (considerando fim de semana/comparação custom) usada pela tabela, busca e gráfico
     const categoriesLista = ['absurda', 'grandes', 'moderadas', 'pequenas', 'novas'];
 
     const nomesRegioes = {
@@ -379,6 +426,15 @@
 
         // Reseta o seletor de fim de semana para o estado padrão ativado ao alternar regiões
         document.getElementById('chk-fds').checked = true;
+        document.getElementById('chk-fds').disabled = false;
+        document.getElementById('label-fds').style.opacity = '1';
+
+        // Reseta o comparador de datas personalizado ao alternar regiões
+        document.getElementById('data-comparar-1').value = '';
+        document.getElementById('data-comparar-2').value = '';
+
+        // Reseta o filtro por artista ao alternar regiões
+        document.getElementById('filtro-artista-input').value = '';
 
         diasFiltroAtivo = 0;
         document.querySelectorAll('.period-selector span').forEach(el => el.classList.remove('current'));
@@ -399,6 +455,15 @@
             if (!dadosGlobais) throw new Error(`Arquivo 'dados_dashboard_${regiao}.json' ausente.`);
             if (!dadosGlobais.datas || dadosGlobais.datas.length === 0) return;
 
+            // ⚡ LIMITES DO COMPARADOR DE DATAS: restringe o seletor ao intervalo de dados desta região
+            const primeiraDataDisponivel = dadosGlobais.datas[0];
+            const ultimaDataDisponivel = dadosGlobais.datas[dadosGlobais.datas.length - 1];
+            ['data-comparar-1', 'data-comparar-2'].forEach(elId => {
+                const el = document.getElementById(elId);
+                el.min = primeiraDataDisponivel;
+                el.max = ultimaDataDisponivel;
+            });
+
             processarEMontarTabelaCorrida();
             inicializarMecanismoBusca();
         }).catch(err => {
@@ -409,30 +474,71 @@
         });
     }
 
+    // ⚡ Limpa as duas datas escolhidas e volta ao par hoje/ontem automático
+    function limparComparacaoDatas() {
+        document.getElementById('data-comparar-1').value = '';
+        document.getElementById('data-comparar-2').value = '';
+        processarEMontarTabelaCorrida();
+    }
+
+    // ⚡ COMPARADOR DE DATAS PERSONALIZADO: se as duas datas escolhidas existirem nos dados,
+    // elas substituem o par hoje/ontem calculado automaticamente.
+    function obterDatasComparacaoCustom() {
+        const datas = dadosGlobais.datas;
+        const v1 = document.getElementById('data-comparar-1').value;
+        const v2 = document.getElementById('data-comparar-2').value;
+        if (!v1 || !v2 || v1 === v2) return null;
+        if (!datas.includes(v1) || !datas.includes(v2)) return null;
+        return v1 < v2 ? { hoje: v2, ontem: v1 } : { hoje: v1, ontem: v2 };
+    }
+
     function processarEMontarTabelaCorrida() {
         const datas = dadosGlobais.datas;
-        const hoje = datas[datas.length - 1];
+        let hoje = datas[datas.length - 1];
         let ontem = datas.length > 1 ? datas[datas.length - 2] : null;
+        let modoComparacaoCustom = false;
 
-        // ⚡ AUDITORIA DE FIM DE SEMANA NA SEGUNDA-FEIRA: Puxa os dados de sexta se desmarcado
-        const considerarFds = document.getElementById('chk-fds').checked;
-        if (!considerarFds && hoje) {
-            const partesHoje = hoje.split('-');
-            const dataHojeObj = new Date(partesHoje[0], partesHoje[1] - 1, partesHoje[2]);
-            if (dataHojeObj.getDay() === 1) { // 1 = Segunda-feira
-                for (let idx = datas.length - 2; idx >= 0; idx--) {
-                    const dStr = datas[idx];
-                    const p = dStr.split('-');
-                    const dCheck = new Date(p[0], p[1] - 1, p[2]);
-                    if (dCheck.getDay() === 5) { // 5 = Sexta-feira
-                        ontem = dStr;
-                        break;
+        const chkFds = document.getElementById('chk-fds');
+        const labelFds = document.getElementById('label-fds');
+        const datasCustom = obterDatasComparacaoCustom();
+
+        if (datasCustom) {
+            hoje = datasCustom.hoje;
+            ontem = datasCustom.ontem;
+            modoComparacaoCustom = true;
+            chkFds.disabled = true;
+            labelFds.style.opacity = '0.45';
+        } else {
+            chkFds.disabled = false;
+            labelFds.style.opacity = '1';
+
+            // ⚡ AUDITORIA DE FIM DE SEMANA NA SEGUNDA-FEIRA: Puxa os dados de sexta se desmarcado
+            const considerarFds = chkFds.checked;
+            if (!considerarFds && hoje) {
+                const partesHoje = hoje.split('-');
+                const dataHojeObj = new Date(partesHoje[0], partesHoje[1] - 1, partesHoje[2]);
+                if (dataHojeObj.getDay() === 1) { // 1 = Segunda-feira
+                    for (let idx = datas.length - 2; idx >= 0; idx--) {
+                        const dStr = datas[idx];
+                        const p = dStr.split('-');
+                        const dCheck = new Date(p[0], p[1] - 1, p[2]);
+                        if (dCheck.getDay() === 5) { // 5 = Sexta-feira
+                            ontem = dStr;
+                            break;
+                        }
                     }
                 }
             }
         }
 
-        document.getElementById('report-date').innerText = `Relatório Diário Top 1000 ${nomesRegioes[regiaoAtiva]} — ${hoje.split('-').reverse().join('/')}`;
+        if (modoComparacaoCustom) {
+            document.getElementById('report-date').innerText = `Comparando Top 1000 ${nomesRegioes[regiaoAtiva]} — ${ontem.split('-').reverse().join('/')} → ${hoje.split('-').reverse().join('/')}`;
+        } else {
+            document.getElementById('report-date').innerText = `Relatório Diário Top 1000 ${nomesRegioes[regiaoAtiva]} — ${hoje.split('-').reverse().join('/')}`;
+        }
+
+        // ⚡ Guarda o "hoje" efetivo para reaproveitar (busca direta e posição atual no gráfico)
+        hojeAtivo = hoje;
 
         let listaGeral = [];
         let cAbsurda = 0, cGrandes = 0, cModeradas = 0, cNovas = 0;
@@ -500,6 +606,7 @@
             tr.className = "clickable-row";
             tr.setAttribute('data-categoria', item.estado);
             tr.setAttribute('data-fullname', item.id);
+            tr.setAttribute('data-artista', artistaMusica.toLowerCase());
 
             tr.onclick = function(e) {
                 selecionarFaixa(item.id, this);
@@ -531,7 +638,7 @@
 
     function inicializarMecanismoBusca() {
         if (window.buscaInicializada) return;
-        window.buscaInitialized = true;
+        window.buscaInicializada = true;
 
         const inputBusca = document.getElementById('musica-input');
         const containerMatches = document.getElementById('search-matches');
@@ -547,6 +654,7 @@
 
             // ⚡ ID ESTÁVEL: a chave agora é o link, então o texto buscável/exibido vem
             // de nome/artista guardados no histórico (com fallback pro id só se faltarem).
+            // Busca Direta considera o histórico inteiro (não só o top de hoje).
             let entradasGlobais = Object.entries(dadosGlobais.musicas).map(([id, historico]) => {
                 let nome = historico.nome || id;
                 let artista = historico.artista || '';
@@ -598,17 +706,21 @@
     }
 
     // ⚡ SUPORTE A MÚLTIPLAS CATEGORIAS (Mapeamento de strings espaciais para o filtro reativo)
+    // + FILTRO POR ARTISTA (texto livre, combinado por AND com o filtro de estado acima)
     function aplicarFiltrosNaTela() {
         const todasAsMusicas = document.getElementById('chk-todas').checked;
+        const filtroArtista = document.getElementById('filtro-artista-input').value.trim().toLowerCase();
         const rows = document.querySelectorAll('#tbody-corrido .clickable-row');
 
         rows.forEach(row => {
+            let visivelPorEstado;
+
             if (todasAsMusicas) {
-                row.style.display = "";
+                visivelPorEstado = true;
             } else {
                 const cat = row.getAttribute('data-categoria');
                 if (cat === 'normal') {
-                    row.style.display = "none";
+                    visivelPorEstado = false;
                 } else {
                     const cats = cat.split(' ');
                     let boxMarcado = false;
@@ -618,9 +730,13 @@
                             boxMarcado = true;
                         }
                     });
-                    row.style.display = boxMarcado ? "" : "none";
+                    visivelPorEstado = boxMarcado;
                 }
             }
+
+            const visivelPorArtista = !filtroArtista || row.getAttribute('data-artista').includes(filtroArtista);
+
+            row.style.display = (visivelPorEstado && visivelPorArtista) ? "" : "none";
         });
     }
 
@@ -656,9 +772,13 @@
             ? `<a href="${trackUrl}" target="_blank" class="track-hyperlink">${tituloClean}</a>`
             : `<span>${tituloClean}</span>`;
 
+        // ⚡ POSIÇÃO ATUAL NA REGIÃO: usa o mesmo "hoje" efetivo da tabela (respeita fim de semana / comparação custom)
+        const posAtualNaRegiao = (trackData && hojeAtivo) ? trackData[hojeAtivo] : null;
+        const badgePosHTML = posAtualNaRegiao ? `<span class="badge-pos" style="margin-right: 8px;">${posAtualNaRegiao}º</span>` : '';
+
         const titleBox = document.getElementById('chart-dynamic-title');
         titleBox.style.display = 'block';
-        titleBox.innerHTML = `${dynamicLinkHTML} <span style="color: var(--text-muted); font-size: 11px; font-weight: 500;">— ${artistaClean}</span>`;
+        titleBox.innerHTML = `${badgePosHTML}${dynamicLinkHTML} <span style="color: var(--text-muted); font-size: 11px; font-weight: 500;">— ${artistaClean}</span>`;
 
         // ⚡ ENGENHARIA DE VERIFICAÇÃO CRUZADA COM INJEÇÃO DE STATUS REGIONAIS EM TEMPO REAL
         let presencias = [];
