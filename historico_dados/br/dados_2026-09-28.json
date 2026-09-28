@@ -3419,17 +3419,17 @@
         "artista": "Sarah Farias",
         "url": "https://www.cifraclub.com.br/sarah-farias/renovo/"
     },
-    "42114": {
-        "posicao": 571,
-        "nome": "De Música Ligera",
-        "artista": "Soda Stereo",
-        "url": "https://www.cifraclub.com.br/soda-stereo/de-musica-ligera/"
-    },
     "3835": {
-        "posicao": 572,
+        "posicao": 571,
         "nome": "Declaração de Amor",
         "artista": "Daniel",
         "url": "https://www.cifraclub.com.br/daniel/declaracao-de-amor/"
+    },
+    "42114": {
+        "posicao": 572,
+        "nome": "De Música Ligera",
+        "artista": "Soda Stereo",
+        "url": "https://www.cifraclub.com.br/soda-stereo/de-musica-ligera/"
     },
     "3107706": {
         "posicao": 573,
@@ -4583,17 +4583,17 @@
         "artista": "Legião Urbana",
         "url": "https://www.cifraclub.com.br/legiao-urbana/que-pais-e-esse/"
     },
-    "20281": {
-        "posicao": 765,
-        "nome": "Lugar Santo",
-        "artista": "Bruna Karla",
-        "url": "https://www.cifraclub.com.br/bruna-karla/lugar-santo/"
-    },
     "396254": {
-        "posicao": 766,
+        "posicao": 765,
         "nome": "Te Assumi Pro Brasil",
         "artista": "Matheus & Kauan",
         "url": "https://www.cifraclub.com.br/matheus-kauan/te-assumi-pro-brasil/"
+    },
+    "20281": {
+        "posicao": 766,
+        "nome": "Lugar Santo",
+        "artista": "Bruna Karla",
+        "url": "https://www.cifraclub.com.br/bruna-karla/lugar-santo/"
     },
     "28949": {
         "posicao": 767,
@@ -4853,17 +4853,17 @@
         "artista": "Zeca Pagodinho",
         "url": "https://www.cifraclub.com.br/zeca-pagodinho/deixa-vida-me-levar/"
     },
-    "2225": {
-        "posicao": 810,
-        "nome": "Sonífera Ilha",
-        "artista": "Titãs",
-        "url": "https://www.cifraclub.com.br/titas/sonifera-ilha/"
-    },
     "2368": {
-        "posicao": 811,
+        "posicao": 810,
         "nome": "Detalhes",
         "artista": "Roberto Carlos",
         "url": "https://www.cifraclub.com.br/roberto-carlos/detalhes/"
+    },
+    "2225": {
+        "posicao": 811,
+        "nome": "Sonífera Ilha",
+        "artista": "Titãs",
+        "url": "https://www.cifraclub.com.br/titas/sonifera-ilha/"
     },
     "3106136": {
         "posicao": 812,
@@ -5057,17 +5057,17 @@
         "artista": "Engenheiros do Hawaii",
         "url": "https://www.cifraclub.com.br/engenheiros-do-hawaii/o-preco-acustico-mtv/"
     },
-    "3417637": {
-        "posicao": 844,
-        "nome": "Para que todo Brasil ouça",
-        "artista": "JMN - Missões Nacionais",
-        "url": "https://www.cifraclub.com.br/jmn-missoes-nacionais/para-que-todo-brasil-ouca/"
-    },
     "1015227": {
-        "posicao": 845,
+        "posicao": 844,
         "nome": "Jane",
         "artista": "The Long Faces",
         "url": "https://www.cifraclub.com.br/the-long-faces/jane/"
+    },
+    "3417637": {
+        "posicao": 845,
+        "nome": "Para que todo Brasil ouça",
+        "artista": "JMN - Missões Nacionais",
+        "url": "https://www.cifraclub.com.br/jmn-missoes-nacionais/para-que-todo-brasil-ouca/"
     },
     "191883": {
         "posicao": 846,
