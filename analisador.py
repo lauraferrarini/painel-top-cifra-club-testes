@@ -13,8 +13,8 @@ PASTA_RELATORIOS = "historico_relatorios"
 MARGEM_OSCILACAO = 2
 
 # Fonte: API do Explorar do Cifra Club (fornecida pelo backend)
-#   BR:     https://solr.sscdn.co/cifraclub-explore/v1/songs?_sort=pt_hits_last_7_days&_page=1
-#   HISPAM: https://solr.sscdn.co/cifraclub-explore/v1/songs?_sort=es_hits_last_7_days&_page=1
+#   BR:     https://solr.sscdn.co/cifraclub-explore/v1/songs?_sort=pt_hits_last_7_days&_page=1&version_transcription_type=1
+#   HISPAM: https://solr.sscdn.co/cifraclub-explore/v1/songs?_sort=es_hits_last_7_days&_page=1&version_transcription_type=1
 # Cada página traz 50 músicas, na ordem do top. O robô:
 #   1. Busca as páginas 1, 2, 3… em sequência.
 #   2. Emenda cada página no fim da lista. Se uma música já apareceu numa
@@ -53,7 +53,11 @@ def buscar_pagina_da_api(config, pagina):
         'Accept': 'application/json',
         'Accept-Language': config['accept_language'],
     }
-    params = {"_sort": config['sort'], "_page": pagina}
+    # version_transcription_type=1 = só cifras (é o filtro da aba padrão do
+    # site). Sem ele, a API devolve músicas que o top do site não mostra e
+    # empurra todo o resto pra baixo (em 02/10: 36 músicas a mais e ~35
+    # posições de diferença). Com ele, bateu 100% com o top do Cifra Club.
+    params = {"_sort": config['sort'], "_page": pagina, "version_transcription_type": 1}
     response = requests.get(API_EXPLORAR, params=params, headers=headers, timeout=30)
     if response.status_code != 200:
         trecho = (response.text or "")[:200].replace("\n", " ")
