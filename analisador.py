@@ -1,6 +1,5 @@
 import requests
 import json
-import re
 import os
 import glob
 import sys
@@ -13,23 +12,15 @@ PASTA_DADOS = "historico_dados"
 PASTA_RELATORIOS = "historico_relatorios"
 MARGEM_OSCILACAO = 2
 
-# Mapeamento de Regiões — a fonte é a página pública "Explorar > Músicas"
-# (aba "Em alta na semana" / "En tendencia esta semana"):
-#   BR:     https://www.cifraclub.com.br/explorar/musicas/
-#   HISPAM: https://www.cifraclub.com/explorar/musicas/ com o site em espanhol
-#           (es-ES, o que o site guarda no cookie "locale=es")
-#
-# O robô monta a lista EXATAMENTE como o site monta quando a pessoa rola a
-# página (mesma lógica do código do próprio site):
-#   1. As 50 primeiras vêm prontas no HTML da página ("initialResults").
-#   2. As próximas levas vêm da API, uma página de 50 por vez (_page=2, 3, 4…),
-#      com o mesmo endereço que o site usa.
-#   3. Cada leva é emendada no fim da lista. Se uma música já apareceu antes
-#      (mesmo id), o site não mostra de novo — fica valendo a primeira vez.
-#   4. A numeração (01, 02, 03…) é a ordem final da lista.
-# Como o site pode esconder repetições, pode ser preciso ir além da página 20
-# pra chegar nas 1000 que aparecem na tela — o robô continua carregando levas
-# até ter 1000.
+# Fonte: API do Explorar do Cifra Club (fornecida pelo backend)
+#   BR:     https://solr.sscdn.co/cifraclub-explore/v1/songs?_sort=pt_hits_last_7_days&_page=1
+#   HISPAM: https://solr.sscdn.co/cifraclub-explore/v1/songs?_sort=es_hits_last_7_days&_page=1
+# Cada página traz 50 músicas, na ordem do top. O robô:
+#   1. Busca as páginas 1, 2, 3… em sequência.
+#   2. Emenda cada página no fim da lista. Se uma música já apareceu numa
+#      página anterior (mesmo id), ela não entra de novo.
+#   3. A posição é a ordem final da lista (1 a 1000).
+#   4. Continua até ter 1000 músicas.
 API_EXPLORAR = "https://solr.sscdn.co/cifraclub-explore/v1/songs"
 TAMANHO_TOP = 1000
 MAX_PAGINAS = 60  # só uma trava de segurança pra não rodar pra sempre
@@ -37,18 +28,14 @@ MAX_PAGINAS = 60  # só uma trava de segurança pra não rodar pra sempre
 REGIOES = {
     "br": {
         "nome": "Brasil",
-        "pagina": "https://www.cifraclub.com.br/explorar/musicas/",
+        "sort": "pt_hits_last_7_days",
         "dominio": "https://www.cifraclub.com.br",
-        "idioma": "pt",
-        "cookies": {"locale": "pt"},
         "accept_language": "pt-BR,pt;q=0.9",
     },
     "hispam": {
         "nome": "Hispam",
-        "pagina": "https://www.cifraclub.com/explorar/musicas/",
+        "sort": "es_hits_last_7_days",
         "dominio": "https://www.cifraclub.com",
-        "idioma": "es",
-        "cookies": {"locale": "es"},
         "accept_language": "es-ES,es;q=0.9",
     },
 }
@@ -60,92 +47,43 @@ REGIOES = {
 USER_AGENT_PADRAO = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36'
 USER_AGENT_ROBO = (os.environ.get('CIFRA_USER_AGENT') or '').strip()
 
-def headers_padrao(config, accept):
-    return {
+def buscar_pagina_da_api(config, pagina):
+    headers = {
         'User-Agent': USER_AGENT_ROBO or USER_AGENT_PADRAO,
-        'Accept': accept,
+        'Accept': 'application/json',
         'Accept-Language': config['accept_language'],
-        'Referer': config['pagina'],
     }
-
-def ler_primeira_leva_do_html(config):
-    """Baixa a página Explorar e lê as 50 músicas que o site já entrega no HTML."""
-    response = requests.get(
-        config['pagina'],
-        headers=headers_padrao(config, 'text/html,application/xhtml+xml'),
-        cookies=config['cookies'],
-        timeout=30,
-    )
-    response.raise_for_status()
-    html = response.text
-
-    # O Next.js manda os dados da página em pedaços: self.__next_f.push([1,"..."])
-    payload = ""
-    for trecho in re.findall(r'self\.__next_f\.push\((\[.*?\])\)</script>', html, flags=re.S):
-        try:
-            item = json.loads(trecho)
-        except ValueError:
-            continue
-        if len(item) > 1 and isinstance(item[1], str):
-            payload += item[1]
-
-    marcador = '"initialResults":'
-    inicio = payload.find(marcador)
-    if inicio < 0:
-        raise RuntimeError(f"Não achei a lista inicial (initialResults) no HTML de {config['pagina']}")
-    resultados, _ = json.JSONDecoder().raw_decode(payload[inicio + len(marcador):])
-
-    # Confere se a página veio no idioma certo (ex.: HISPAM precisa estar em espanhol)
-    lang = re.search(r'<html[^>]*\blang="([^"]+)"', html)
-    if lang and not lang.group(1).lower().startswith(config['idioma']):
-        raise RuntimeError(f"Página veio no idioma '{lang.group(1)}', esperado '{config['idioma']}'")
-
-    return resultados
-
-def buscar_leva_da_api(config, pagina):
-    """Busca a próxima leva, com o mesmo endereço que o site usa ao rolar a página."""
-    params = {
-        "_sort": f"{config['idioma']}_hits_last_7_days",
-        "_page": pagina,
-        # 1 = cifras (aba padrão da página, sem filtro "transcription")
-        "version_transcription_type": 1,
-    }
-    headers = headers_padrao(config, 'application/json')
-    headers['Origin'] = config['dominio']
+    params = {"_sort": config['sort'], "_page": pagina}
     response = requests.get(API_EXPLORAR, params=params, headers=headers, timeout=30)
-    response.raise_for_status()
+    if response.status_code != 200:
+        trecho = (response.text or "")[:200].replace("\n", " ")
+        raise RuntimeError(f"API respondeu {response.status_code} na página {pagina}: {trecho!r}")
     return response.json().get('songs', []) or []
 
 def extrair_musicas(config):
-    lista_site = []   # a lista na ordem em que o site mostra (sem repetição)
+    lista = []
     ids_vistos = set()
     repetidas = 0
+    pagina = 1
 
-    def emendar(leva):
-        nonlocal repetidas
-        for item in leva:
+    while len(lista) < TAMANHO_TOP and pagina <= MAX_PAGINAS:
+        songs = buscar_pagina_da_api(config, pagina)
+        if not songs:
+            break
+        for item in songs:
             song_id = item.get('id')
             chave_id = song_id if song_id is not None else f"{item.get('artist_slug')}/{item.get('slug')}"
             if chave_id in ids_vistos:
-                repetidas += 1   # o site não mostra de novo
+                repetidas += 1
                 continue
             ids_vistos.add(chave_id)
-            lista_site.append(item)
-
-    emendar(ler_primeira_leva_do_html(config))
-
-    pagina = 2
-    while len(lista_site) < TAMANHO_TOP and pagina <= MAX_PAGINAS:
-        leva = buscar_leva_da_api(config, pagina)
-        if not leva:
-            break
-        emendar(leva)
+            lista.append(item)
         pagina += 1
 
-    print(f"   📄 {pagina - 1} levas carregadas; {repetidas} música(s) que o site esconde por já ter aparecido")
+    print(f"   📄 {pagina - 1} páginas da API; {repetidas} repetida(s) ignorada(s)")
 
     musicas_atuais = {}
-    for posicao, item in enumerate(lista_site[:TAMANHO_TOP], start=1):
+    for posicao, item in enumerate(lista[:TAMANHO_TOP], start=1):
         nome = (item.get('name') or "Desconhecido").strip()
         artista = (item.get('artist_name') or "Desconhecido").strip()
 
@@ -154,9 +92,8 @@ def extrair_musicas(config):
         musica_slug = item.get('slug') or ""
         link_absoluto = f"{config['dominio']}/{artista_slug}/{musica_slug}/" if (artista_slug and musica_slug) else ""
 
-        # ⚡ ID ESTÁVEL: o "id" da página Explorar é o mesmo id de música que a
-        # API antiga entregava, então o histórico já salvo continua casando dia
-        # a dia, e o mesmo id aparece no BR e no Hispam ("Também aparece em").
+        # ⚡ ID ESTÁVEL: o "id" da música é a chave do histórico (o mesmo no BR
+        # e no Hispam, o que permite o "Também aparece em" do painel).
         song_id = item.get('id')
         if song_id is not None:
             chave = str(song_id)
@@ -173,7 +110,7 @@ def extrair_musicas(config):
         }
 
     if len(musicas_atuais) < TAMANHO_TOP:
-        print(f"   ⚠️ Só {len(musicas_atuais)} músicas carregadas (o site acabou antes de {TAMANHO_TOP}).")
+        print(f"   ⚠️ Só {len(musicas_atuais)} músicas (a API acabou antes de {TAMANHO_TOP}).")
 
     return musicas_atuais
 
