@@ -1,116 +1,331 @@
-name: Analisador Diário de Músicas - Cifra Club
+import requests
+import json
+import os
+import glob
+import sys
+import traceback
+from datetime import datetime
+from urllib.parse import urlparse
 
-on:
-  schedule:
-    # Roda às 11:30 UTC (08:30 no Horário de Brasília) para o Brasil
-    - cron: '30 11 * * *'
-    # Roda às 13:11 UTC (10:11 no Horário de Brasília) para o Hispam
-    - cron: '11 13 * * *'
-  workflow_dispatch:
-    # Opção pra escolher o que rodar manualmente
-    inputs:
-      regiao:
-        description: 'Qual bloco processar? (br, hispam, all)'
-        required: true
-        default: 'all'
+# Configurações Gerais
+PASTA_DADOS = "historico_dados"
+PASTA_RELATORIOS = "historico_relatorios"
+MARGEM_OSCILACAO = 2
 
-jobs:
-  analisar_dados:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+# Fonte: API do Explorar do Cifra Club (fornecida pelo backend)
+#   BR:     https://solr.sscdn.co/cifraclub-explore/v1/songs?_sort=pt_hits_last_7_days&_page=1&version_transcription_type=1
+#   HISPAM: https://solr.sscdn.co/cifraclub-explore/v1/songs?_sort=es_hits_last_7_days&_page=1&version_transcription_type=1
+# Cada página traz 50 músicas, na ordem do top. O robô:
+#   1. Busca as páginas 1, 2, 3… em sequência.
+#   2. Emenda cada página no fim da lista. Se uma música já apareceu numa
+#      página anterior (mesmo id), ela não entra de novo.
+#   3. A posição é a ordem final da lista (1 a 1000).
+#   4. Continua até ter 1000 músicas.
+API_EXPLORAR = "https://solr.sscdn.co/cifraclub-explore/v1/songs"
+TAMANHO_TOP = 1000
+MAX_PAGINAS = 60  # só uma trava de segurança pra não rodar pra sempre
 
-    # ⚡ FORÇA O SERVIDOR DO GITHUB A USAR O HORÁRIO DO BRASIL
-    env:
-      TZ: "America/Sao_Paulo"
+REGIOES = {
+    "br": {
+        "nome": "Brasil",
+        "sort": "pt_hits_last_7_days",
+        "dominio": "https://www.cifraclub.com.br",
+        "accept_language": "pt-BR,pt;q=0.9",
+    },
+    "hispam": {
+        "nome": "Hispam",
+        "sort": "es_hits_last_7_days",
+        "dominio": "https://www.cifraclub.com",
+        "accept_language": "es-ES,es;q=0.9",
+    },
+}
 
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+# User-Agent liberado pelo backend do Cifra Club para o robô passar pelo
+# bloqueio de bots. Ele NÃO fica no código: vem do secret CIFRA_USER_AGENT
+# do GitHub (Settings → Secrets and variables → Actions), que o workflow
+# repassa como variável de ambiente.
+USER_AGENT_PADRAO = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36'
+USER_AGENT_ROBO = (os.environ.get('CIFRA_USER_AGENT') or '').strip()
 
-      - name: Configurar o Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+def buscar_pagina_da_api(config, pagina):
+    headers = {
+        'User-Agent': USER_AGENT_ROBO or USER_AGENT_PADRAO,
+        'Accept': 'application/json',
+        'Accept-Language': config['accept_language'],
+    }
+    # version_transcription_type=1 = só cifras (é o filtro da aba padrão do
+    # site). Sem ele, a API devolve músicas que o top do site não mostra e
+    # empurra todo o resto pra baixo (em 02/10: 36 músicas a mais e ~35
+    # posições de diferença). Com ele, bateu 100% com o top do Cifra Club.
+    params = {"_sort": config['sort'], "_page": pagina, "version_transcription_type": 1}
+    response = requests.get(API_EXPLORAR, params=params, headers=headers, timeout=30)
+    if response.status_code != 200:
+        trecho = (response.text or "")[:200].replace("\n", " ")
+        raise RuntimeError(f"API respondeu {response.status_code} na página {pagina}: {trecho!r}")
+    return response.json().get('songs', []) or []
 
-      - name: Instalar dependências
-        run: pip install requests
+def extrair_musicas(config):
+    lista = []
+    ids_vistos = set()
+    repetidas = 0
+    pagina = 1
 
-      - name: Definir Alvo da Análise
-        id: set_target
-        run: |
-          # Checa qual foi o gatilho que iniciou o robô e define o alvo
-          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-            echo "TARGET=${{ github.event.inputs.regiao }}" >> $GITHUB_ENV
-          elif [[ "${{ github.event.schedule }}" == "30 11 * * *" ]]; then
-            echo "TARGET=br" >> $GITHUB_ENV
-          elif [[ "${{ github.event.schedule }}" == "11 13 * * *" ]]; then
-            echo "TARGET=hispam" >> $GITHUB_ENV
-          else
-            echo "TARGET=all" >> $GITHUB_ENV
-          fi
+    while len(lista) < TAMANHO_TOP and pagina <= MAX_PAGINAS:
+        songs = buscar_pagina_da_api(config, pagina)
+        if not songs:
+            break
+        for item in songs:
+            song_id = item.get('id')
+            chave_id = song_id if song_id is not None else f"{item.get('artist_slug')}/{item.get('slug')}"
+            if chave_id in ids_vistos:
+                repetidas += 1
+                continue
+            ids_vistos.add(chave_id)
+            lista.append(item)
+        pagina += 1
 
-      - name: Verificar se já rodou hoje (trava contra rodada manual)
-        id: check_ja_rodou
-        run: |
-          # ⚡ Se você já processou o dia de hoje na mão (subindo os arquivos
-          # pelo "Add files via upload", por exemplo), esse robô não deve rodar
-          # sozinho no horário programado e pisar em cima do que você já fez.
-          # Só vale pra disparo AGENDADO — se você aperta "Run workflow" na
-          # mão, sempre roda (é o seu botão de forçar).
-          HOJE=$(date +%F)
+    print(f"   📄 {pagina - 1} páginas da API; {repetidas} repetida(s) ignorada(s)")
 
-          case "${{ env.TARGET }}" in
-            br) REGIOES="br" ;;
-            hispam) REGIOES="hispam" ;;
-            all) REGIOES="br hispam" ;;
-            *) REGIOES="${{ env.TARGET }}" ;;
-          esac
+    musicas_atuais = {}
+    for posicao, item in enumerate(lista[:TAMANHO_TOP], start=1):
+        nome = (item.get('name') or "Desconhecido").strip()
+        artista = (item.get('artist_name') or "Desconhecido").strip()
 
-          PULAR=false
-          if [[ "${{ github.event_name }}" == "schedule" ]]; then
-            TODAS_JA_EXISTEM=true
-            for r in $REGIOES; do
-              if [[ ! -f "historico_dados/$r/dados_${HOJE}.json" ]]; then
-                TODAS_JA_EXISTEM=false
-                break
-              fi
-            done
-            if [[ "$TODAS_JA_EXISTEM" == "true" ]]; then
-              PULAR=true
-            fi
-          fi
+        # URL da música no domínio da própria região: /{artista}/{musica}/
+        artista_slug = item.get('artist_slug') or ""
+        musica_slug = item.get('slug') or ""
+        link_absoluto = f"{config['dominio']}/{artista_slug}/{musica_slug}/" if (artista_slug and musica_slug) else ""
 
-          echo "PULAR=$PULAR" >> $GITHUB_ENV
-          if [[ "$PULAR" == "true" ]]; then
-            echo "⏭️  Dia $HOJE já tem dados pra [$REGIOES] (rodada manual anterior). Pulando a rodada agendada."
-          else
-            echo "▶️  Seguindo com a rodada normal pra [$REGIOES]."
-          fi
+        # ⚡ ID ESTÁVEL: o "id" da música é a chave do histórico (o mesmo no BR
+        # e no Hispam, o que permite o "Também aparece em" do painel).
+        song_id = item.get('id')
+        if song_id is not None:
+            chave = str(song_id)
+        elif link_absoluto:
+            chave = urlparse(link_absoluto).path
+        else:
+            chave = f"{nome} - {artista}"
 
-      - name: Rodar script de análise
-        # Repassa o alvo (br, hispam ou all) para o Python
-        # e o User-Agent liberado pelo backend (guardado como secret)
-        if: env.PULAR != 'true'
-        env:
-          CIFRA_USER_AGENT: ${{ secrets.CIFRA_USER_AGENT }}
-        run: python analisador.py ${{ env.TARGET }}
+        musicas_atuais[chave] = {
+            "posicao": posicao,
+            "nome": nome,
+            "artista": artista,
+            "url": link_absoluto
+        }
 
-      - name: Salvar alterações no GitHub (Git Puro)
-        if: env.PULAR != 'true'
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    if len(musicas_atuais) < TAMANHO_TOP:
+        print(f"   ⚠️ Só {len(musicas_atuais)} músicas (a API acabou antes de {TAMANHO_TOP}).")
 
-          # Mapeia todas as subpastas e os arquivos dinâmicos de cada região (*.md e *.json)
-          git add historico_dados/ historico_relatorios/ relatorio_diario_*.md dados_dashboard_*.json || true
+    return musicas_atuais
 
-          if ! git diff --cached --quiet; then
-            git commit -m "📊 Histórico, relatórios e dados do painel updated (${{ env.TARGET }})"
-            git pull origin main --rebase -X theirs
-            git push origin main
-          else
-            echo "Nenhuma mudança nos dados estruturados detectada hoje."
-          fi
+def buscar_dados_anteriores(regiao):
+    data_hoje_iso = datetime.now().strftime("%Y-%m-%d")
+    pasta_regiao = os.path.join(PASTA_DADOS, regiao)
+
+    if os.path.exists(pasta_regiao):
+        arquivos = sorted([
+            f for f in os.listdir(pasta_regiao)
+            if f.endswith('.json') and f != f"dados_{data_hoje_iso}.json"
+        ])
+        if arquivos:
+            ultimo_arquivo = os.path.join(pasta_regiao, arquivos[-1])
+            with open(ultimo_arquivo, 'r', encoding='utf-8') as f:
+                return json.load(f)
+    return {}
+
+def atualizar_dados_dashboard(regiao):
+    pasta_regiao = os.path.join(PASTA_DADOS, regiao)
+    arquivos = sorted(glob.glob(os.path.join(pasta_regiao, "dados_*.json")))
+    historico_global = {}
+    todas_datas = []
+
+    for arq in arquivos:
+        nome_base = os.path.basename(arq)
+        data_str = nome_base.replace("dados_", "").replace(".json", "")
+        todas_datas.append(data_str)
+
+        with open(arq, 'r', encoding='utf-8') as f:
+            dados_dia = json.load(f)
+
+        # A chave do dia já é o id estável da música (vindo direto da API),
+        # então ela mesma é a "bucket" definitiva dentro de historico_global
+        # — sem precisar da lógica de casamento por caminho/texto que o robô
+        # antigo usava pra compensar o scraping de HTML sem id.
+        for chave, info in dados_dia.items():
+            if chave not in historico_global:
+                historico_global[chave] = {}
+
+            if info.get("url"):
+                historico_global[chave]["url"] = info["url"]
+            if info.get("nome"):
+                historico_global[chave]["nome"] = info["nome"]
+            if info.get("artista"):
+                historico_global[chave]["artista"] = info["artista"]
+
+            historico_global[chave][data_str] = info["posicao"]
+
+    dados_finais = {
+        "datas": todas_datas,
+        "musicas": historico_global
+    }
+
+    with open(f"dados_dashboard_{regiao}.json", "w", encoding="utf-8") as f:
+        json.dump(dados_finais, f, ensure_ascii=False, indent=4)
+
+def processar_regiao(regiao, config):
+    print(f"🎸 Coletando dados da região: {config['nome']} ({regiao})...")
+
+    pasta_dados_regiao = os.path.join(PASTA_DADOS, regiao)
+    pasta_relatorios_regiao = os.path.join(PASTA_RELATORIOS, regiao)
+    os.makedirs(pasta_dados_regiao, exist_ok=True)
+    os.makedirs(pasta_relatorios_regiao, exist_ok=True)
+
+    atuais = extrair_musicas(config)
+    if not atuais:
+        print(f"⚠️ Alerta: Nenhuma música coletada para {config['nome']}. página Explorar/API mudou ou bloqueio.")
+        return False
+
+    anteriores = buscar_dados_anteriores(regiao)
+
+    data_hoje_iso = datetime.now().strftime("%Y-%m-%d")
+    data_hoje_br = datetime.now().strftime("%d/%m/%Y")
+
+    novas_entradas = []
+    subidas_absurdas = []
+    grandes_saltos = []
+    subidas_moderadas = []
+    pequenas_subidas = []
+
+    if not anteriores:
+        conteudo_md = f"# 📊 Relatório Cifra Club - {config['nome']} - {data_hoje_br}\n\n"
+        conteudo_md += f"ℹ️ **Base de dados de {config['nome']} estruturada com sucesso hoje!**\n"
+        conteudo_md += "As movimentações e gráficos interativos começarão a rodar a partir do próximo ciclo de coleta.\n\n"
+        conteudo_md += "### 📋 Prévia do Top 10 Atual:\n"
+        for i, (chave, m) in enumerate(atuais.items(), start=1):
+            if i > 10: break
+            conteudo_md += f"{i}º. **{m['nome']}** — *{m['artista']}*\n"
+    else:
+        for chave, dados_atuais in atuais.items():
+            pos_atual = dados_atuais['posicao']
+            info_anterior = anteriores.get(chave)
+
+            if info_anterior is None:
+                novas_entradas.append(dados_atuais)
+            else:
+                pos_anterior = info_anterior['posicao']
+                diferenca = pos_anterior - pos_atual
+
+                dados_item = {
+                    "dados": dados_atuais,
+                    "pos_anterior": pos_anterior,
+                    "pos_atual": pos_atual,
+                    "posicoes_ganhas": diferenca
+                }
+
+                if diferenca > 400:
+                    subidas_absurdas.append(dados_item)
+                elif diferenca > 200:
+                    grandes_saltos.append(dados_item)
+                elif diferenca >= 100:
+                    subidas_moderadas.append(dados_item)
+                elif diferenca > MARGEM_OSCILACAO:
+                    pequenas_subidas.append(dados_item)
+
+        subidas_absurdas.sort(key=lambda x: x['posicoes_ganhas'], reverse=True)
+        grandes_saltos.sort(key=lambda x: x['posicoes_ganhas'], reverse=True)
+        subidas_moderadas.sort(key=lambda x: x['posicoes_ganhas'], reverse=True)
+        pequenas_subidas.sort(key=lambda x: x['posicoes_ganhas'], reverse=True)
+
+        conteudo_md = f"# 📊 Relatório Cifra Club - {config['nome']} - {data_hoje_br}\n\n"
+
+        if subidas_absurdas:
+            conteudo_md += "## 🚨 🚨 EXPLOSÃO NO TOP: SUBIDAS ABSURDAS (+400 posições) 🚨 🚨\n"
+            for m in subidas_absurdas:
+                conteudo_md += f"> ### 💥 **{m['dados']['nome']}** — *{m['dados']['artista']}*\n"
+                conteudo_md += f"> 🛑 **Subida histórica!** Saltou de {m['pos_anterior']}º direto para **{m['pos_atual']}º** (🔼 **+{m['posicoes_ganhas']}** posições)\n\n"
+
+        conteudo_md += "## 🔥 Grandes Saltos (+200 a 400 posições)\n"
+        if grandes_saltos:
+            for m in grandes_saltos:
+                conteudo_md += f"- **{m['dados']['nome']}** ({m['dados']['artista']}): Subiu de {m['pos_anterior']}º para **{m['pos_atual']}º** (🔥 +{m['posicoes_ganhas']} posições)\n"
+        else:
+            conteudo_md += "- Nenhuma música com grande salto nesta faixa hoje.\n"
+
+        conteudo_md += "\n## 📈 Subidas Significativas (100 a 200 posições)\n"
+        if subidas_moderadas:
+            for m in subidas_moderadas:
+                conteudo_md += f"- **{m['dados']['nome']}** ({m['dados']['artista']}): Subiu de {m['pos_anterior']}º para **{m['pos_atual']}º** (📈 +{m['posicoes_ganhas']} posições)\n"
+        else:
+            conteudo_md += "- Nenhuma subida nesta faixa hoje.\n"
+
+        conteudo_md += f"\n## 🌱 Pequenas Subidas (Abaixo de 100 posições)\n"
+        conteudo_md += f"> Omitindo oscilações menores ou iguais a {MARGEM_OSCILACAO} posições.\n\n"
+        if pequenas_subidas:
+            for m in pequenas_subidas:
+                conteudo_md += f"- **{m['dados']['nome']}** ({m['dados']['artista']}): {m['pos_anterior']}º → **{m['pos_atual']}º** (+{m['posicoes_ganhas']})\n"
+        else:
+            conteudo_md += "- Sem oscilações relevantes para cima hoje.\n"
+
+        conteudo_md += "\n## 🚀 Novas Entradas no Top\n"
+        if novas_entradas:
+            for m in novas_entradas:
+                conteudo_md += f"- **{m['nome']}** ({m['artista']}) - Apareceu direto na posição **{m['posicao']}º**\n"
+        else:
+            conteudo_md += "- Nenhuma música inédita detectada hoje.\n"
+
+    # Salva os relatórios específicos da região
+    with open(os.path.join(pasta_relatorios_regiao, f"relatorio_{data_hoje_iso}.md"), 'w', encoding='utf-8') as f:
+        f.write(conteudo_md)
+
+    # Relatório raiz específico da região (ex: relatorio_diario_hispam.md)
+    with open(f"relatorio_diario_{regiao}.md", 'w', encoding='utf-8') as f:
+        f.write(conteudo_md)
+
+    # Salva o JSON na subpasta correspondente
+    with open(os.path.join(pasta_dados_regiao, f"dados_{data_hoje_iso}.json"), 'w', encoding='utf-8') as f:
+        json.dump(atuais, f, ensure_ascii=False, indent=4)
+
+    return True
+
+if __name__ == "__main__":
+    try:
+        # Define o alvo baseado no argumento do terminal (ex: "br", "hispam", ou "all")
+        alvo = sys.argv[1].lower() if len(sys.argv) > 1 else "all"
+
+        if alvo == "br":
+            regioes_para_processar = ["br"]
+        elif alvo == "hispam":
+            regioes_para_processar = ["hispam"]
+        else:
+            regioes_para_processar = list(REGIOES.keys())
+
+        print(f"🚀 Iniciando módulo de análise para o alvo: {alvo.upper()}")
+        if USER_AGENT_ROBO:
+            print("🔑 Usando o User-Agent do secret CIFRA_USER_AGENT.")
+        else:
+            print("⚠️ Secret CIFRA_USER_AGENT não encontrado — usando User-Agent genérico (o site pode bloquear com 403).")
+
+        sucesso_geral = True
+        for regiao in regioes_para_processar:
+            config = REGIOES[regiao]
+            try:
+                if processar_regiao(regiao, config):
+                    atualizar_dados_dashboard(regiao)
+                    print(f"✅ Região {regiao.upper()} processada com sucesso.\n")
+                else:
+                    sucesso_geral = False
+            except Exception as e:
+                print(f"\n💥 Erro ao processar a região {regiao.upper()}:")
+                traceback.print_exc()
+                sucesso_geral = False
+
+        if sucesso_geral:
+            print(f"🚀 Módulo executado com sucesso total para as regiões ({alvo.upper()})!")
+        else:
+            print("⚠️ Execução concluída com falhas parciais em algumas regiões.")
+            sys.exit(1)
+
+    except Exception as e:
+        print("\n💥 --- ERRO CRÍTICO INESPERADO NO SCRIPT --- 💥")
+        traceback.print_exc()
+        sys.exit(1)
