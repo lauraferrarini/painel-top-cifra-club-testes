@@ -52,14 +52,54 @@ jobs:
             echo "TARGET=all" >> $GITHUB_ENV
           fi
 
+      - name: Verificar se já rodou hoje (trava contra rodada manual)
+        id: check_ja_rodou
+        run: |
+          # ⚡ Se você já processou o dia de hoje na mão (subindo os arquivos
+          # pelo "Add files via upload", por exemplo), esse robô não deve rodar
+          # sozinho no horário programado e pisar em cima do que você já fez.
+          # Só vale pra disparo AGENDADO — se você aperta "Run workflow" na
+          # mão, sempre roda (é o seu botão de forçar).
+          HOJE=$(date +%F)
+
+          case "${{ env.TARGET }}" in
+            br) REGIOES="br" ;;
+            hispam) REGIOES="hispam" ;;
+            all) REGIOES="br hispam" ;;
+            *) REGIOES="${{ env.TARGET }}" ;;
+          esac
+
+          PULAR=false
+          if [[ "${{ github.event_name }}" == "schedule" ]]; then
+            TODAS_JA_EXISTEM=true
+            for r in $REGIOES; do
+              if [[ ! -f "historico_dados/$r/dados_${HOJE}.json" ]]; then
+                TODAS_JA_EXISTEM=false
+                break
+              fi
+            done
+            if [[ "$TODAS_JA_EXISTEM" == "true" ]]; then
+              PULAR=true
+            fi
+          fi
+
+          echo "PULAR=$PULAR" >> $GITHUB_ENV
+          if [[ "$PULAR" == "true" ]]; then
+            echo "⏭️  Dia $HOJE já tem dados pra [$REGIOES] (rodada manual anterior). Pulando a rodada agendada."
+          else
+            echo "▶️  Seguindo com a rodada normal pra [$REGIOES]."
+          fi
+
       - name: Rodar script de análise
         # Repassa o alvo (br, hispam ou all) para o Python
         # e o User-Agent liberado pelo backend (guardado como secret)
+        if: env.PULAR != 'true'
         env:
           CIFRA_USER_AGENT: ${{ secrets.CIFRA_USER_AGENT }}
         run: python analisador.py ${{ env.TARGET }}
 
       - name: Salvar alterações no GitHub (Git Puro)
+        if: env.PULAR != 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
