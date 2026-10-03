@@ -2,10 +2,8 @@ name: Analisador Diário de Músicas - Cifra Club
 
 on:
   schedule:
-    # Roda às 11:30 UTC (08:30 no Horário de Brasília) para o Brasil
-    - cron: '30 11 * * *'
-    # Roda às 13:11 UTC (10:11 no Horário de Brasília) para o Hispam
-    - cron: '11 13 * * *'
+    # Roda às 12:13 UTC (09:13 no Horário de Brasília) para as duas regiões (Brasil e Hispam)
+    - cron: '13 12 * * *'
   workflow_dispatch:
     # Opção pra escolher o que rodar manualmente
     inputs:
@@ -41,14 +39,11 @@ jobs:
       - name: Definir Alvo da Análise
         id: set_target
         run: |
-          # Checa qual foi o gatilho que iniciou o robô e define o alvo
+          # Manual: usa o que você escolheu. Agendado: roda tudo (br + hispam)
           if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
             echo "TARGET=${{ github.event.inputs.regiao }}" >> $GITHUB_ENV
-          elif [[ "${{ github.event.schedule }}" == "30 11 * * *" ]]; then
-            echo "TARGET=br" >> $GITHUB_ENV
-          elif [[ "${{ github.event.schedule }}" == "11 13 * * *" ]]; then
-            echo "TARGET=hispam" >> $GITHUB_ENV
           else
+            # Rodada agendada: as duas regiões (br e hispam) de uma vez
             echo "TARGET=all" >> $GITHUB_ENV
           fi
 
