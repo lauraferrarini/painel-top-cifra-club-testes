@@ -10,7 +10,7 @@
 ## 🔥 Grandes Saltos (+200 a 400 posições)
 - **Garota Nacional** (Skank): Subiu de 470º para **95º** (🔥 +375 posições)
 - **Mala** (Hugo Henrique): Subiu de 904º para **535º** (🔥 +369 posições)
-- **Caça e Caçador** (Fábio Jr.): Subiu de 932º para **565º** (🔥 +367 posições)
+- **Caça e Caçador** (Fábio Jr.): Subiu de 932º para **564º** (🔥 +368 posições)
 - **Vida Boa** (Victor & Leo): Subiu de 898º para **537º** (🔥 +361 posições)
 - **A Mesa Santa** (Músicas Católicas): Subiu de 995º para **635º** (🔥 +360 posições)
 - **Caquinho** (Hinos Avulsos CCB): Subiu de 942º para **585º** (🔥 +357 posições)
@@ -18,7 +18,7 @@
 - **Vem Cear - 301** (Harpa Cristã): Subiu de 593º para **241º** (🔥 +352 posições)
 - **Tremenda Graça** (Fred Arrais): Subiu de 933º para **581º** (🔥 +352 posições)
 - **Vai Valer A Pena** (Juliano Son): Subiu de 968º para **616º** (🔥 +352 posições)
-- **Agarrada Em Mim** (Bruno & Marrone): Subiu de 871º para **523º** (🔥 +348 posições)
+- **Agarrada Em Mim** (Bruno & Marrone): Subiu de 871º para **522º** (🔥 +349 posições)
 - **Devolva-me** (Adriana Calcanhotto): Subiu de 878º para **534º** (🔥 +344 posições)
 - **Palco** (Gilberto Gil): Subiu de 943º para **599º** (🔥 +344 posições)
 - **A Carta** (Exaltasamba): Subiu de 981º para **637º** (🔥 +344 posições)
@@ -126,7 +126,7 @@
 - **Pode Morar Aqui** (Theo Rubia): Subiu de 192º para **70º** (📈 +122 posições)
 - **Galileu** (Fernandinho): Subiu de 180º para **59º** (📈 +121 posições)
 - **Malandragem** (Cássia Eller): Subiu de 194º para **76º** (📈 +118 posições)
-- **Jeová Jireh** (Aline Barros): Subiu de 187º para **73º** (📈 +114 posições)
+- **Jeová Jireh** (Aline Barros): Subiu de 187º para **72º** (📈 +115 posições)
 - **Jesus Em Tua Presença** (MORADA): Subiu de 168º para **55º** (📈 +113 posições)
 - **Oração de São Francisco** (Músicas Católicas): Subiu de 846º para **736º** (📈 +110 posições)
 - **Preciso de Ti** (Diante do Trono): Subiu de 162º para **56º** (📈 +106 posições)
@@ -231,7 +231,7 @@
 - **Like a Stone** (Audioslave) - Apareceu direto na posição **517º**
 - **Saudade Bandida** (Zezé Di Camargo & Luciano) - Apareceu direto na posição **518º**
 - **Poder Pra Salvar** (Aline Barros) - Apareceu direto na posição **520º**
-- **Canção Que Não Envelhece (part. Lukas Agustinho)** (Julliany Souza) - Apareceu direto na posição **522º**
+- **Canção Que Não Envelhece (part. Lukas Agustinho)** (Julliany Souza) - Apareceu direto na posição **523º**
 - **Renova-me** (Aline Barros) - Apareceu direto na posição **532º**
 - **Desperta** (Colo de Deus) - Apareceu direto na posição **536º**
 - **Me Leva** (Colo de Deus) - Apareceu direto na posição **542º**
@@ -291,7 +291,7 @@
 - **Isaias 6** (MORADA) - Apareceu direto na posição **818º**
 - **Termina Comigo Antes** (Gusttavo Lima) - Apareceu direto na posição **821º**
 - **Desamarrem As Sandálias** (Músicas Católicas) - Apareceu direto na posição **824º**
-- **Guia-me Sempre, Meu Senhor - 141** (Harpa Cristã) - Apareceu direto na posição **826º**
+- **Guia-me Sempre, Meu Senhor - 141** (Harpa Cristã) - Apareceu direto na posição **825º**
 - **Convívio Dos Eleitos** (Juninho Cassimiro) - Apareceu direto na posição **827º**
 - **Muitos Grãos de Trigo** (Músicas Católicas) - Apareceu direto na posição **830º**
 - **Garoto de Rua** (Zezé Di Camargo & Luciano) - Apareceu direto na posição **833º**
@@ -306,7 +306,7 @@
 - **Te Amo Cada Vez Mais** (João Paulo e Daniel) - Apareceu direto na posição **872º**
 - **Is This Love** (Whitesnake) - Apareceu direto na posição **873º**
 - **Meu Respirar** (Vineyard) - Apareceu direto na posição **876º**
-- **Em Jesus - 400** (Harpa Cristã) - Apareceu direto na posição **880º**
+- **Em Jesus - 400** (Harpa Cristã) - Apareceu direto na posição **879º**
 - **Santo** (Ministério Amor e Adoração) - Apareceu direto na posição **881º**
 - **Grande É o Senhor** (Eli Soares) - Apareceu direto na posição **884º**
 - **Meu Mundo e Nada Mais** (Guilherme Arantes) - Apareceu direto na posição **885º**
@@ -314,7 +314,7 @@
 - **Cegos do Castelo** (Nando Reis) - Apareceu direto na posição **900º**
 - **Cigana** (Luan Santana) - Apareceu direto na posição **907º**
 - **Alma Transparente** (Chico Rey e Paraná) - Apareceu direto na posição **909º**
-- **Eu Quero Sempre Mais** (Ira!) - Apareceu direto na posição **913º**
+- **Eu Quero Sempre Mais** (Ira!) - Apareceu direto na posição **912º**
 - **Sonho Por Sonho** (Leandro & Leonardo) - Apareceu direto na posição **914º**
 - **Nada Mudou** (Di Paullo e Paulino) - Apareceu direto na posição **915º**
 - **Lembra Senhor** (Ministério Apascentar de Louvor (Toque No Altar)) - Apareceu direto na posição **918º**
@@ -326,15 +326,15 @@
 - **Kyrie Eleison** (Comunidade Católica Shalom) - Apareceu direto na posição **932º**
 - **Outra Vez** (Roberto Carlos) - Apareceu direto na posição **934º**
 - **Fale Com Jesus** (Shirley Carvalhaes) - Apareceu direto na posição **937º**
-- **Venho Senhor Minha Vida Oferecer** (Músicas Católicas) - Apareceu direto na posição **938º**
+- **Minha Vida Tem Sentido** (Padre Zezinho) - Apareceu direto na posição **938º**
 - **Um Século Sem Ti** (Matogrosso & Mathias) - Apareceu direto na posição **939º**
-- **Minha Vida Tem Sentido** (Padre Zezinho) - Apareceu direto na posição **940º**
+- **Venho Senhor Minha Vida Oferecer** (Músicas Católicas) - Apareceu direto na posição **940º**
 - **Fly Me To The Moon** (Frank Sinatra) - Apareceu direto na posição **944º**
 - **Depois do Prazer** (Só Pra Contrariar (SPC)) - Apareceu direto na posição **945º**
 - **Imagine** (Cassiane) - Apareceu direto na posição **947º**
 - **Quem de Nós Dois** (Victor & Leo) - Apareceu direto na posição **951º**
 - **Pensando Bem** (J Neto) - Apareceu direto na posição **953º**
-- **Leilão** (César Menotti & Fabiano) - Apareceu direto na posição **964º**
+- **Leilão** (César Menotti & Fabiano) - Apareceu direto na posição **965º**
 - **Garotas Não Merecem Chorar** (Luan Santana) - Apareceu direto na posição **966º**
 - **Só Você** (Fábio Jr.) - Apareceu direto na posição **967º**
 - **Ave Maria** (Músicas Católicas) - Apareceu direto na posição **969º**
