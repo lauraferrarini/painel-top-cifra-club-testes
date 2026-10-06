@@ -31,11 +31,11 @@
 > ### 💥 **Ele Vem** — *Gabriel Guedes*
 > 🛑 **Subida histórica!** Saltou de 911º direto para **483º** (🔼 **+428** posições)
 
-> ### 💥 **Depois do Prazer** — *Só Pra Contrariar (SPC)*
-> 🛑 **Subida histórica!** Saltou de 945º direto para **520º** (🔼 **+425** posições)
-
 > ### 💥 **Até Que Durou** — *Péricles*
 > 🛑 **Subida histórica!** Saltou de 891º direto para **467º** (🔼 **+424** posições)
+
+> ### 💥 **Depois do Prazer** — *Só Pra Contrariar (SPC)*
+> 🛑 **Subida histórica!** Saltou de 945º direto para **521º** (🔼 **+424** posições)
 
 > ### 💥 **O Encontro (part. Valesca Mayssa)** — *Jefferson & Suellen*
 > 🛑 **Subida histórica!** Saltou de 993º direto para **570º** (🔼 **+423** posições)
@@ -65,7 +65,7 @@
 - **Don't Cry** (Guns N' Roses): Subiu de 763º para **394º** (🔥 +369 posições)
 - **Você Mudou** (Cristiano Araújo): Subiu de 762º para **395º** (🔥 +367 posições)
 - **A Tua Glória** (Fernanda Brum): Subiu de 897º para **532º** (🔥 +365 posições)
-- **Ovelha Negra** (Rita Lee): Subiu de 754º para **392º** (🔥 +362 posições)
+- **Ovelha Negra** (Rita Lee): Subiu de 754º para **391º** (🔥 +363 posições)
 - **Aleluia (Hallelujah)** (Gabriela Rocha): Subiu de 758º para **400º** (🔥 +358 posições)
 - **Teu Toque (Part. Lukas Agustinho e Melk Villar)** (Get Worship): Subiu de 775º para **417º** (🔥 +358 posições)
 - **A Thousand Years** (Christina Perri): Subiu de 731º para **376º** (🔥 +355 posições)
@@ -184,7 +184,7 @@
 - **Eu Navegarei** (Gabriela Rocha): 94º → **25º** (+69)
 - **Alvo Mais Que a Neve - 39** (Harpa Cristã): 123º → **56º** (+67)
 - **Arranhão** (Henrique & Juliano): 823º → **757º** (+66)
-- **Ave Maria** (Músicas Católicas): 969º → **904º** (+65)
+- **Ave Maria** (Músicas Católicas): 969º → **903º** (+66)
 - **Sangue Latino** (Secos & Molhados): 602º → **539º** (+63)
 - **Heather** (Conan Gray): 809º → **751º** (+58)
 - **A Ele A Glória / Porque Ele Vive (Pot-Pourri)** (Gabriela Rocha): 508º → **452º** (+56)
@@ -202,18 +202,18 @@
 - **A Dois Passos do Paraíso** (Blitz): 811º → **769º** (+42)
 - **O Que Sobrou do Céu** (O Rappa): 929º → **887º** (+42)
 - **Vira-Vira** (Mamonas Assassinas): 605º → **565º** (+40)
+- **Nada Por Mim** (Kid Abelha): 733º → **694º** (+39)
 - **Terra de Gigantes / Números (Pot-Pourri)** (Engenheiros do Hawaii): 744º → **705º** (+39)
-- **Nada Por Mim** (Kid Abelha): 733º → **695º** (+38)
 - **Quando a Chuva Passar** (Ivete Sangalo): 848º → **810º** (+38)
 - **Maria, Maria** (Milton Nascimento): 856º → **818º** (+38)
 - **Meteoro** (Luan Santana): 875º → **838º** (+37)
 - **24 Horas de Amor** (Matogrosso & Mathias): 905º → **868º** (+37)
 - **Garota Nacional** (Skank): 95º → **59º** (+36)
 - **Digno É o Senhor (Worthy Is The Lamb)** (Aline Barros): 119º → **84º** (+35)
+- **O Rei Está Voltando - 547** (Harpa Cristã): 611º → **577º** (+34)
 - **Aliança** (Tribalistas): 816º → **782º** (+34)
 - **Foi Por Conveniência** (Marília Mendonça): 968º → **934º** (+34)
 - **Tu Mandas No Meu Coração** (Os Travessos): 512º → **479º** (+33)
-- **O Rei Está Voltando - 547** (Harpa Cristã): 611º → **578º** (+33)
 - **Um Século Sem Ti** (Matogrosso & Mathias): 939º → **906º** (+33)
 - **Nada Além do Sangue** (Fernandinho): 53º → **21º** (+32)
 - **I Don't Want To Miss A Thing** (Aerosmith): 547º → **515º** (+32)
@@ -337,7 +337,6 @@
 - **Azul da Cor do Mar** (Tim Maia): 756º → **744º** (+12)
 - **Take Me Home, Country Roads** (John Denver): 878º → **866º** (+12)
 - **Sutilmente** (Skank): 359º → **348º** (+11)
-- **No Céu Dos Braços Teus (El Condor Pasa)** (Di Paullo e Paulino): 402º → **391º** (+11)
 - **Último Adeus** (Trio Parada Dura): 438º → **427º** (+11)
 - **Lamento Boliviano** (Los Enanitos Verdes): 444º → **433º** (+11)
 - **Maranata** (Alessandro Vilas Boas): 482º → **471º** (+11)
@@ -348,6 +347,7 @@
 - **Tudo Que Você Quiser** (Luan Santana): 895º → **884º** (+11)
 - **Vilarejo** (Marisa Monte): 150º → **140º** (+10)
 - **O Caderno** (Toquinho): 397º → **387º** (+10)
+- **No Céu Dos Braços Teus (El Condor Pasa)** (Di Paullo e Paulino): 402º → **392º** (+10)
 - **Sinto Sua Falta** (Ferrugem): 521º → **511º** (+10)
 - **Liguei pra te dizer que eu te amo** (Chico Rey e Paraná): 545º → **535º** (+10)
 - **Quase Um Segundo** (Gal Costa): 739º → **729º** (+10)
@@ -361,7 +361,6 @@
 - **Seu Amor Ainda é Tudo** (João Mineiro e Marciano): 505º → **496º** (+9)
 - **Vida Boa** (Victor & Leo): 537º → **528º** (+9)
 - **Chora Israel** (Hinos Avulsos CCB): 560º → **551º** (+9)
-- **Alô Porteiro** (Marília Mendonça): 586º → **577º** (+9)
 - **Blusa Vermelha** (Trio Parada Dura): 727º → **718º** (+9)
 - **Te Assumi Pro Brasil** (Matheus & Kauan): 790º → **781º** (+9)
 - **Do Fundo da Grota** (Baitaca): 808º → **799º** (+9)
@@ -371,6 +370,7 @@
 - **Aonde Quer Que Eu Vá** (Os Paralamas do Sucesso): 100º → **92º** (+8)
 - **Fácil** (Jota Quest): 406º → **398º** (+8)
 - **Sinônimos (part. Zé Ramalho)** (Chitãozinho & Xororó): 412º → **404º** (+8)
+- **Alô Porteiro** (Marília Mendonça): 586º → **578º** (+8)
 - **Knockin' On Heaven's Door** (Guns N' Roses): 604º → **596º** (+8)
 - **Aos Pés da Cruz** (Eli Soares): 652º → **644º** (+8)
 - **Sultans of Swing** (Dire Straits): 761º → **753º** (+8)
@@ -461,7 +461,7 @@
 - **Eu Sei Que Vou Te Amar** (Tom Jobim) - Apareceu direto na posição **659º**
 - **Meu Universo** (PG) - Apareceu direto na posição **660º**
 - **Os Guerreiros Se Preparam - 212** (Harpa Cristã) - Apareceu direto na posição **661º**
-- **Plush** (Stone Temple Pilots) - Apareceu direto na posição **664º**
+- **Plush** (Stone Temple Pilots) - Apareceu direto na posição **663º**
 - **Quero Que Valorize** (Corinhos Evangélicos) - Apareceu direto na posição **665º**
 - **It's My Life** (Bon Jovi) - Apareceu direto na posição **678º**
 - **Amargurado** (Tião Carreiro e Pardinho) - Apareceu direto na posição **683º**
@@ -501,7 +501,7 @@
 - **Quem É Esta Que Avança Como Aurora** (Padre Marcelo Rossi) - Apareceu direto na posição **869º**
 - **Me Apaixonei** (Eduardo Costa) - Apareceu direto na posição **870º**
 - **Enquanto Houver Sol** (Titãs) - Apareceu direto na posição **875º**
-- **Beautiful Things** (Benson Boone) - Apareceu direto na posição **880º**
+- **Beautiful Things** (Benson Boone) - Apareceu direto na posição **881º**
 - **Cordeiro e Leão** (Jefferson & Suellen) - Apareceu direto na posição **882º**
 - **Retrovisor** (Gusttavo Lima) - Apareceu direto na posição **888º**
 - **Canarinho Prisioneiro** (Chico Rey e Paraná) - Apareceu direto na posição **896º**
@@ -509,7 +509,7 @@
 - **Promessas (part. Samuel Messias)** (Sarah Beatriz) - Apareceu direto na posição **900º**
 - **Jesus, Manso e Humilde de Coração** (Juninho Cassimiro) - Apareceu direto na posição **907º**
 - **Um Milhão de Anos** (Theo Rubia) - Apareceu direto na posição **914º**
-- **Nossa Canção** (Vanessa da Mata) - Apareceu direto na posição **915º**
+- **Nossa Canção** (Vanessa da Mata) - Apareceu direto na posição **916º**
 - **Bem Aventurado** (Aline Barros) - Apareceu direto na posição **919º**
 - **Hino de São Francisco - Salve, Ó Francisco** (Músicas Católicas) - Apareceu direto na posição **920º**
 - **O Rosto de Cristo** (Sarah Farias) - Apareceu direto na posição **921º**

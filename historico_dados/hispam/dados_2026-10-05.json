@@ -611,17 +611,17 @@
         "artista": "Shakira",
         "url": "https://www.cifraclub.com/shakira/dia-de-enero/"
     },
-    "478637": {
-        "posicao": 103,
-        "nome": "La Llorona",
-        "artista": "Ángela Aguilar",
-        "url": "https://www.cifraclub.com/angela-aguilar/la-llorona/"
-    },
     "49381": {
-        "posicao": 104,
+        "posicao": 103,
         "nome": "Yo Quisiera",
         "artista": "Reik",
         "url": "https://www.cifraclub.com/reik/yo-quisiera/"
+    },
+    "478637": {
+        "posicao": 104,
+        "nome": "La Llorona",
+        "artista": "Ángela Aguilar",
+        "url": "https://www.cifraclub.com/angela-aguilar/la-llorona/"
     },
     "313645": {
         "posicao": 105,
@@ -653,17 +653,17 @@
         "artista": "Guitarricadelafuente",
         "url": "https://www.cifraclub.com/guitarricadelafuente/guantanamera/"
     },
-    "3106579": {
-        "posicao": 110,
-        "nome": "Hermoso Momento",
-        "artista": "Kairo Worship",
-        "url": "https://www.cifraclub.com/kairo-worship/hermoso-momento/"
-    },
     "314148": {
-        "posicao": 111,
+        "posicao": 110,
         "nome": "Vamos a Cantar",
         "artista": "En Espiritu Y En Verdad",
         "url": "https://www.cifraclub.com/en-espiritu-en-verdad/vamos-a-cantar/"
+    },
+    "3106579": {
+        "posicao": 111,
+        "nome": "Hermoso Momento",
+        "artista": "Kairo Worship",
+        "url": "https://www.cifraclub.com/kairo-worship/hermoso-momento/"
     },
     "308721": {
         "posicao": 112,
@@ -707,17 +707,17 @@
         "artista": "Julio Melgar",
         "url": "https://www.cifraclub.com/julio-melgar/ya-no-soy-esclavo/"
     },
-    "478662": {
-        "posicao": 119,
-        "nome": "Creo",
-        "artista": "Callejeros",
-        "url": "https://www.cifraclub.com/callejeros/creo/"
-    },
     "314150": {
-        "posicao": 120,
+        "posicao": 119,
         "nome": "Te Doy Gloria",
         "artista": "En Espiritu Y En Verdad",
         "url": "https://www.cifraclub.com/en-espiritu-en-verdad/te-doy-gloria/"
+    },
+    "478662": {
+        "posicao": 120,
+        "nome": "Creo",
+        "artista": "Callejeros",
+        "url": "https://www.cifraclub.com/callejeros/creo/"
     },
     "314168": {
         "posicao": 121,
@@ -1073,23 +1073,23 @@
         "artista": "Chris Isaak",
         "url": "https://www.cifraclub.com/chris-isaak/wicked-game/"
     },
-    "446427": {
-        "posicao": 180,
-        "nome": "Te Amo Y Más",
-        "artista": "Diego Luna",
-        "url": "https://www.cifraclub.com/diego-luna/te-amo-y-mas/"
-    },
     "317797": {
-        "posicao": 181,
+        "posicao": 180,
         "nome": "Puente",
         "artista": "Gustavo Cerati",
         "url": "https://www.cifraclub.com/gustavo-cerati/puente/"
     },
     "432271": {
-        "posicao": 182,
+        "posicao": 181,
         "nome": "Besos En Guerra (feat. Juanes)",
         "artista": "Morat",
         "url": "https://www.cifraclub.com/morat/besos-en-guerra-feat-juanes/"
+    },
+    "446427": {
+        "posicao": 182,
+        "nome": "Te Amo Y Más",
+        "artista": "Diego Luna",
+        "url": "https://www.cifraclub.com/diego-luna/te-amo-y-mas/"
     },
     "3278290": {
         "posicao": 183,
@@ -1199,269 +1199,269 @@
         "artista": "Polo Montañez",
         "url": "https://www.cifraclub.com/polo-montaez/un-monton-de-estrellas/"
     },
-    "38687": {
+    "455627": {
         "posicao": 201,
+        "nome": "Jesucristo Basta (Part. Living)",
+        "artista": "Un Corazón",
+        "url": "https://www.cifraclub.com/un-corazon/jesucristo-basta/"
+    },
+    "38687": {
+        "posicao": 202,
         "nome": "Balada Del Diablo Y La Muerte",
         "artista": "La Renga",
         "url": "https://www.cifraclub.com/la-renga/la-balada-del-diablo-la-muerte/"
     },
     "73706": {
-        "posicao": 202,
+        "posicao": 203,
         "nome": "Quiero Levantar Mis Manos",
         "artista": "Marcos Witt",
         "url": "https://www.cifraclub.com/marcos-witt/quiero-levantar-mis-manos/"
     },
     "3321033": {
-        "posicao": 203,
+        "posicao": 204,
         "nome": "Solifican12",
         "artista": "Milo j",
         "url": "https://www.cifraclub.com/milo-j/solifican12/"
     },
     "445464": {
-        "posicao": 204,
+        "posicao": 205,
         "nome": "Disfruto",
         "artista": "Carla Morrison",
         "url": "https://www.cifraclub.com/carla-morrison/disfruto/"
     },
     "469169": {
-        "posicao": 205,
+        "posicao": 206,
         "nome": "Amor Sin Condición",
         "artista": "TWICE",
         "url": "https://www.cifraclub.com/twice-musica/amor-sin-condicion/"
     },
     "21134": {
-        "posicao": 206,
+        "posicao": 207,
         "nome": "Somewhere Only We Know",
         "artista": "Keane",
         "url": "https://www.cifraclub.com/keane/somewhere-only-we-know/"
     },
     "54024": {
-        "posicao": 207,
+        "posicao": 208,
         "nome": "El Fantasma",
         "artista": "Árbol",
         "url": "https://www.cifraclub.com/arbol/el-fantasma/"
     },
     "10924": {
-        "posicao": 208,
+        "posicao": 209,
         "nome": "Like a Stone",
         "artista": "Audioslave",
         "url": "https://www.cifraclub.com/audioslave/like-stone/"
     },
     "408139": {
-        "posicao": 209,
+        "posicao": 210,
         "nome": "Barro Tal Vez",
         "artista": "Luis Alberto Spinetta",
         "url": "https://www.cifraclub.com/luis-alberto-spinetta/barro-tal-vez/"
     },
     "318506": {
-        "posicao": 210,
+        "posicao": 211,
         "nome": "Zona de Promesas",
         "artista": "Gustavo Cerati",
         "url": "https://www.cifraclub.com/gustavo-cerati/zona-de-promesas/"
     },
     "451623": {
-        "posicao": 211,
+        "posicao": 212,
         "nome": "Zamba de Amor En Vuelo",
         "artista": "Tamara Castro",
         "url": "https://www.cifraclub.com/tamara-castro/zamba-de-amor-en-vuelo/"
     },
     "3139214": {
-        "posicao": 212,
+        "posicao": 213,
         "nome": "Mi Gozo",
         "artista": "Barak",
         "url": "https://www.cifraclub.com/barak/mi-gozo/"
     },
     "67122": {
-        "posicao": 213,
+        "posicao": 214,
         "nome": "Algo Contigo",
         "artista": "Vicentico",
         "url": "https://www.cifraclub.com/vicentico/algo-contigo/"
     },
     "275976": {
-        "posicao": 214,
+        "posicao": 215,
         "nome": "Corre",
         "artista": "Jesse & Joy",
         "url": "https://www.cifraclub.com/jesse-joy/corre/"
     },
     "448007": {
-        "posicao": 215,
+        "posicao": 216,
         "nome": "Si No Te Hubieras Ido",
         "artista": "Marco Antonio Solís",
         "url": "https://www.cifraclub.com/marco-antonio-solis/si-no-te-hubieras-ido/"
     },
     "8727": {
-        "posicao": 216,
+        "posicao": 217,
         "nome": "Angels",
         "artista": "Robbie Williams",
         "url": "https://www.cifraclub.com/robbie-williams/angels/"
     },
     "40741": {
-        "posicao": 217,
+        "posicao": 218,
         "nome": "En Algun Lugar",
         "artista": "Duncan Dhu",
         "url": "https://www.cifraclub.com/duncan-dhu/en-algun-lugar/"
     },
     "814875": {
-        "posicao": 218,
+        "posicao": 219,
         "nome": "Duvet",
         "artista": "bôa",
         "url": "https://www.cifraclub.com/boa-inglesa/duvet/"
     },
     "3325827": {
-        "posicao": 219,
+        "posicao": 220,
         "nome": "Risk It All",
         "artista": "Bruno Mars",
         "url": "https://www.cifraclub.com/bruno-mars/risk-it-all/"
     },
     "43710": {
-        "posicao": 220,
+        "posicao": 221,
         "nome": "Rosas",
         "artista": "La Oreja de Van Gogh",
         "url": "https://www.cifraclub.com/la-oreja-de-van-gogh-musicas/rosas/"
     },
     "8608": {
-        "posicao": 221,
+        "posicao": 222,
         "nome": "Mariposa Tecknicolor",
         "artista": "Fito Páez",
         "url": "https://www.cifraclub.com/fito-paez/mariposa-tecknicolor/"
     },
     "450932": {
-        "posicao": 222,
+        "posicao": 223,
         "nome": "Lo Harás Otra Vez",
         "artista": "Elevation Worship",
         "url": "https://www.cifraclub.com/elevation-worship/lo-haras-otra-vez/"
     },
     "632080": {
-        "posicao": 223,
+        "posicao": 224,
         "nome": "Será",
         "artista": "Las Pelotas",
         "url": "https://www.cifraclub.com/las-pelotas/sera/"
     },
     "652313": {
-        "posicao": 224,
+        "posicao": 225,
         "nome": "Los Muros Caerán",
         "artista": "Miel San Marcos",
         "url": "https://www.cifraclub.com/miel-san-marcos/los-muros-caeran/"
     },
     "3390577": {
-        "posicao": 225,
+        "posicao": 226,
         "nome": "less",
         "artista": "Olivia Rodrigo",
         "url": "https://www.cifraclub.com/olivia-rodrigo/less/"
     },
     "145208": {
-        "posicao": 226,
+        "posicao": 227,
         "nome": "A Puro Dolor",
         "artista": "Son By Four",
         "url": "https://www.cifraclub.com/son-by-four/a-puro-dolor/"
     },
     "1472": {
-        "posicao": 227,
+        "posicao": 228,
         "nome": "Black",
         "artista": "Pearl Jam",
         "url": "https://www.cifraclub.com/pearl-jam/black/"
     },
     "409923": {
-        "posicao": 228,
+        "posicao": 229,
         "nome": "El Dios Que Adoramos",
         "artista": "Sovereign Grace Music",
         "url": "https://www.cifraclub.com/sovereign-grace-music/el-dios-que-adoramos/"
     },
     "3126884": {
-        "posicao": 229,
+        "posicao": 230,
         "nome": "WILDFLOWER",
         "artista": "Billie Eilish",
         "url": "https://www.cifraclub.com/billie-eilish/wildflower/"
     },
     "91361": {
-        "posicao": 230,
+        "posicao": 231,
         "nome": "Campanas En La Noche",
         "artista": "Los Tipitos",
         "url": "https://www.cifraclub.com/los-tipitos/campanas-en-la-noche/"
     },
     "21143": {
-        "posicao": 231,
+        "posicao": 232,
         "nome": "Oye Mi Amor",
         "artista": "Maná",
         "url": "https://www.cifraclub.com/mana/oye-mi-amor/"
     },
     "17747": {
-        "posicao": 232,
+        "posicao": 233,
         "nome": "Tu Mirada",
         "artista": "Marcos Witt",
         "url": "https://www.cifraclub.com/marcos-witt/tu-mirada/"
     },
     "1246": {
-        "posicao": 233,
+        "posicao": 234,
         "nome": "Smells Like Teen Spirit",
         "artista": "Nirvana",
         "url": "https://www.cifraclub.com/nirvana/smells-like-teen-spirit/"
     },
     "739929": {
-        "posicao": 234,
+        "posicao": 235,
         "nome": "Te Quiero Tanto",
         "artista": "Kevin Kaarl",
         "url": "https://www.cifraclub.com/kevin-kaarl/te-quiero-tanto/"
     },
     "80138": {
-        "posicao": 235,
+        "posicao": 236,
         "nome": "Mi Enfermedad",
         "artista": "Fabiana Cantilo",
         "url": "https://www.cifraclub.com/fabiana-cantilo/mi-enfermedad/"
     },
     "21163": {
-        "posicao": 236,
+        "posicao": 237,
         "nome": "Wake Me Up When September Ends",
         "artista": "Green Day",
         "url": "https://www.cifraclub.com/green-day/wake-me-up-when-september-ends/"
     },
     "315484": {
-        "posicao": 237,
+        "posicao": 238,
         "nome": "Somos El Pueblo de Dios",
         "artista": "Marcos Witt",
         "url": "https://www.cifraclub.com/marcos-witt/somos-el-pueblo-de-dios/"
     },
     "440727": {
-        "posicao": 238,
+        "posicao": 239,
         "nome": "El Poderoso de Israel",
         "artista": "Juan Carlos Alvarado",
         "url": "https://www.cifraclub.com/juan-carlos-alvarado/el-poderoso-de-israel/"
     },
     "65069": {
-        "posicao": 239,
+        "posicao": 240,
         "nome": "Sabor a Mi",
         "artista": "Luis Miguel",
         "url": "https://www.cifraclub.com/luis-miguel/sabor-mi/"
     },
     "237934": {
-        "posicao": 240,
+        "posicao": 241,
         "nome": "Cien Años",
         "artista": "Pedro Infante",
         "url": "https://www.cifraclub.com/pedro-infante/cien-aos/"
     },
     "3390727": {
-        "posicao": 241,
+        "posicao": 242,
         "nome": "cigarette smoke",
         "artista": "Olivia Rodrigo",
         "url": "https://www.cifraclub.com/olivia-rodrigo/cigarette-smoke/"
     },
     "649730": {
-        "posicao": 242,
+        "posicao": 243,
         "nome": "Dame De Beber",
         "artista": "Marco Barrientos",
         "url": "https://www.cifraclub.com/marco-barrientos/dame-de-beber/"
     },
     "67213": {
-        "posicao": 243,
+        "posicao": 244,
         "nome": "Persiana Americana",
         "artista": "Soda Stereo",
         "url": "https://www.cifraclub.com/soda-stereo/persiana-americana-67213/"
-    },
-    "595788": {
-        "posicao": 244,
-        "nome": "Tumbas a Jardines (Feat. Brandon Lake)",
-        "artista": "Elevation Worship",
-        "url": "https://www.cifraclub.com/elevation-worship/tumbas-a-jardines/"
     },
     "57281": {
         "posicao": 245,
@@ -1469,491 +1469,491 @@
         "artista": "Piero",
         "url": "https://www.cifraclub.com/piero/mi-viejo/"
     },
-    "685130": {
+    "595788": {
         "posicao": 246,
+        "nome": "Tumbas a Jardines (Feat. Brandon Lake)",
+        "artista": "Elevation Worship",
+        "url": "https://www.cifraclub.com/elevation-worship/tumbas-a-jardines/"
+    },
+    "685130": {
+        "posicao": 247,
         "nome": "La Taleñita",
         "artista": "Chaqueño Palavecino",
         "url": "https://www.cifraclub.com/chaqueno-palavecino/la-talenita/"
     },
     "105549": {
-        "posicao": 247,
+        "posicao": 248,
         "nome": "Duele El Amor",
         "artista": "Aleks Syntek",
         "url": "https://www.cifraclub.com/aleks-syntek-e-la-gente-normal/duele-el-amor/"
     },
     "944": {
-        "posicao": 248,
+        "posicao": 249,
         "nome": "Don't Cry",
         "artista": "Guns N' Roses",
         "url": "https://www.cifraclub.com/guns-n-roses/dont-cry/"
     },
     "626407": {
-        "posicao": 249,
+        "posicao": 250,
         "nome": "La Gata Bajo La Lluvia",
         "artista": "Rocío Durcal",
         "url": "https://www.cifraclub.com/rocio-durcal/la-gata-bajo-la-lluvia/"
     },
     "3390061": {
-        "posicao": 250,
+        "posicao": 251,
         "nome": "honeybee",
         "artista": "Olivia Rodrigo",
         "url": "https://www.cifraclub.com/olivia-rodrigo/honeybee/"
     },
     "43957": {
-        "posicao": 251,
+        "posicao": 252,
         "nome": "Spaghetti Del Rock",
         "artista": "Divididos",
         "url": "https://www.cifraclub.com/divididos/spaghetti-del-rock/"
     },
     "4741": {
-        "posicao": 252,
+        "posicao": 253,
         "nome": "Inevitable",
         "artista": "Shakira",
         "url": "https://www.cifraclub.com/shakira/inevitable/"
     },
     "49859": {
-        "posicao": 253,
+        "posicao": 254,
         "nome": "Nuestro Juramento",
         "artista": "Julio Jaramillo",
         "url": "https://www.cifraclub.com/julio-jaramillo/nuestro-juramento/"
     },
     "173640": {
-        "posicao": 254,
+        "posicao": 255,
         "nome": "Soldadito Marinero",
         "artista": "Fito & Fitipaldis",
         "url": "https://www.cifraclub.com/fito-fitipaldis/soldadito-marinero-173640/"
     },
     "1032987": {
-        "posicao": 255,
+        "posicao": 256,
         "nome": "Los Brazos De Papá",
         "artista": "Grupo Grace",
         "url": "https://www.cifraclub.com/grupo-grace/los-brazos-de-papa/"
     },
     "93285": {
-        "posicao": 256,
+        "posicao": 257,
         "nome": "Hey There Delilah",
         "artista": "Plain White T's",
         "url": "https://www.cifraclub.com/plain-white-ts/hey-there-delilah/"
     },
     "5233": {
-        "posicao": 257,
+        "posicao": 258,
         "nome": "Linger",
         "artista": "The Cranberries",
         "url": "https://www.cifraclub.com/the-cranberries/linger/"
     },
     "48854": {
-        "posicao": 258,
+        "posicao": 259,
         "nome": "Y Cómo Es El?",
         "artista": "José Luis Perales",
         "url": "https://www.cifraclub.com/jose-luis-perales/y-como-es-el/"
     },
     "70251": {
-        "posicao": 259,
+        "posicao": 260,
         "nome": "Te Alabare Mi Buen Jesus",
         "artista": "Danilo Montero",
         "url": "https://www.cifraclub.com/danilo-montero/te-alabare-mi-buen-jesus/"
     },
     "446588": {
-        "posicao": 260,
+        "posicao": 261,
         "nome": "El Triste",
         "artista": "José José",
         "url": "https://www.cifraclub.com/jose-jose/el-triste/"
     },
     "94370": {
-        "posicao": 261,
+        "posicao": 262,
         "nome": "Mientes Tan Bien",
         "artista": "Sin Bandera",
         "url": "https://www.cifraclub.com/sin-bandera/mientes-tan-bien/"
     },
     "43036": {
-        "posicao": 262,
+        "posicao": 263,
         "nome": "Ojalá",
         "artista": "Silvio Rodriguez",
         "url": "https://www.cifraclub.com/silvio-rodriguez/ojala/"
     },
     "631154": {
-        "posicao": 263,
+        "posicao": 264,
         "nome": "Un Ángel Para Tu Soledad",
         "artista": "Patricio Rey y Sus Redonditos de Ricota",
         "url": "https://www.cifraclub.com/los-redonditos-de-ricota/un-angel-para-tu-soledad/"
     },
     "618923": {
-        "posicao": 264,
+        "posicao": 265,
         "nome": "Yo me rindo a el",
         "artista": "Jesús Adrián Romero",
         "url": "https://www.cifraclub.com/jesus-adrian-romero/yo-me-rindo-a-el/"
     },
     "49549": {
-        "posicao": 265,
+        "posicao": 266,
         "nome": "Te Vi Venir",
         "artista": "Sin Bandera",
         "url": "https://www.cifraclub.com/sin-bandera/te-vi-venir/"
     },
     "1592": {
-        "posicao": 266,
+        "posicao": 267,
         "nome": "Losing My Religion",
         "artista": "R.E.M.",
         "url": "https://www.cifraclub.com/rem/losing-my-religion/"
     },
     "617191": {
-        "posicao": 267,
+        "posicao": 268,
         "nome": "Ángel Para Un Final",
         "artista": "Los Bunkers",
         "url": "https://www.cifraclub.com/los-bunkers/angel-para-un-final/"
     },
     "369043": {
-        "posicao": 268,
+        "posicao": 269,
         "nome": "Ella Dijo",
         "artista": "Estelares",
         "url": "https://www.cifraclub.com/estelares/ella-dijo/"
     },
     "731982": {
-        "posicao": 269,
+        "posicao": 270,
         "nome": "Arrancarmelo",
         "artista": "WOS",
         "url": "https://www.cifraclub.com/wos/arrancarmelo/"
     },
     "42578": {
-        "posicao": 270,
+        "posicao": 271,
         "nome": "Tren Al Sur",
         "artista": "Los Prisioneros",
         "url": "https://www.cifraclub.com/los-prisioneros/tren-al-sur/"
     },
     "432620": {
-        "posicao": 271,
+        "posicao": 272,
         "nome": "Tú Jardín Con Enanitos",
         "artista": "Melendi",
         "url": "https://www.cifraclub.com/melendi/tu-jardin-con-enanitos/"
     },
     "8799": {
-        "posicao": 272,
+        "posicao": 273,
         "nome": "The Scientist",
         "artista": "Coldplay",
         "url": "https://www.cifraclub.com/coldplay/the-scientist/"
     },
     "316299": {
-        "posicao": 273,
+        "posicao": 274,
         "nome": "Do I Wanna Know",
         "artista": "Arctic Monkeys",
         "url": "https://www.cifraclub.com/arctic-monkeys/do-i-wanna-know/"
     },
     "423002": {
-        "posicao": 274,
+        "posicao": 275,
         "nome": "And I Love Her",
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com/the-beatles/and-i-love-her/"
     },
     "377388": {
-        "posicao": 275,
+        "posicao": 276,
         "nome": "Cactus",
         "artista": "Gustavo Cerati",
         "url": "https://www.cifraclub.com/gustavo-cerati/cactus/"
     },
     "41802": {
-        "posicao": 276,
+        "posicao": 277,
         "nome": "El Sol No Regresa",
         "artista": "La Quinta Estación",
         "url": "https://www.cifraclub.com/la-quinta-estacion/el-sol-no-regresa/"
     },
     "450533": {
-        "posicao": 277,
+        "posicao": 278,
         "nome": "La Tierra Canta",
         "artista": "Barak",
         "url": "https://www.cifraclub.com/barak/la-tierra-canta/"
     },
     "274634": {
-        "posicao": 278,
+        "posicao": 279,
         "nome": "No Me Olvides",
         "artista": "Abel Pintos",
         "url": "https://www.cifraclub.com/abel-pintos/no-me-olvides/"
     },
     "5219": {
-        "posicao": 279,
+        "posicao": 280,
         "nome": "Every Breath You Take",
         "artista": "The Police",
         "url": "https://www.cifraclub.com/the-police/every-breath-you-take/"
     },
     "243319": {
-        "posicao": 280,
+        "posicao": 281,
         "nome": "Desde Mi Interior",
         "artista": "Hillsong UNITED",
         "url": "https://www.cifraclub.com/hillsong-united/desde-mi-interior/"
     },
     "1430": {
-        "posicao": 281,
+        "posicao": 282,
         "nome": "Stand By Me",
         "artista": "Oasis",
         "url": "https://www.cifraclub.com/oasis/stand-by-me/"
     },
     "457953": {
-        "posicao": 282,
+        "posicao": 283,
         "nome": "Shallow (feat. Bradley Cooper)",
         "artista": "Lady Gaga",
         "url": "https://www.cifraclub.com/lady-gaga/shallow/"
     },
     "721203": {
-        "posicao": 283,
+        "posicao": 284,
         "nome": "Cara a Cara",
         "artista": "Marcos Vidal",
         "url": "https://www.cifraclub.com/marcos-vidal/cara-a-cara/"
     },
     "654341": {
-        "posicao": 284,
+        "posicao": 285,
         "nome": "Alma misionera",
         "artista": "Música Católica",
         "url": "https://www.cifraclub.com/musica-catolica/alma-misionera/"
     },
     "400223": {
-        "posicao": 285,
+        "posicao": 286,
         "nome": "Que Se Abra El Cielo (part. Marcos Brunet)",
         "artista": "Christine D'Clario",
         "url": "https://www.cifraclub.com/christine-dclario/que-se-abra-el-cielo/"
     },
     "430088": {
-        "posicao": 286,
+        "posicao": 287,
         "nome": "La Niña de Tus Ojos",
         "artista": "Daniel Calveti",
         "url": "https://www.cifraclub.com/daniel-calveti/la-nia-de-tus-ojos/"
     },
     "43657": {
-        "posicao": 287,
+        "posicao": 288,
         "nome": "Labios Compartidos",
         "artista": "Maná",
         "url": "https://www.cifraclub.com/mana/labios-compartidos/"
     },
     "56794": {
-        "posicao": 288,
+        "posicao": 289,
         "nome": "La Parte de Adelante",
         "artista": "Andrés Calamaro",
         "url": "https://www.cifraclub.com/andres-calamaro/la-parte-de-adelante/"
     },
     "195031": {
-        "posicao": 289,
+        "posicao": 290,
         "nome": "Stairway To Heaven",
         "artista": "Led Zeppelin",
         "url": "https://www.cifraclub.com/led-zeppelin/stairway-to-heaven/"
     },
     "317763": {
-        "posicao": 290,
+        "posicao": 291,
         "nome": "El Nos Ama",
         "artista": "Christine D'Clario",
         "url": "https://www.cifraclub.com/christine-dclario/el-nos-ama/"
     },
     "590204": {
-        "posicao": 291,
+        "posicao": 292,
         "nome": "El poder de tu amor",
         "artista": "Ingrid Rosario",
         "url": "https://www.cifraclub.com/ingrid-rosario/el-poder-de-tu-amor/"
     },
     "238701": {
-        "posicao": 292,
+        "posicao": 293,
         "nome": "Juntos a La Par",
         "artista": "Pappo",
         "url": "https://www.cifraclub.com/pappo/juntos-la-par/"
     },
     "3103855": {
-        "posicao": 293,
+        "posicao": 294,
         "nome": "Un x100to (part. Grupo Frontera)",
         "artista": "Bad Bunny",
         "url": "https://www.cifraclub.com/bad-bunny/un-x100to-part-grupo-frontera/"
     },
     "598469": {
-        "posicao": 294,
+        "posicao": 295,
         "nome": "Si Te Vas...",
         "artista": "Extremoduro",
         "url": "https://www.cifraclub.com/extremoduro/si-te-vas/"
     },
     "4679": {
-        "posicao": 295,
+        "posicao": 296,
         "nome": "Love of My Life",
         "artista": "Queen",
         "url": "https://www.cifraclub.com/queen/love-of-my-life/"
     },
     "49825": {
-        "posicao": 296,
+        "posicao": 297,
         "nome": "La Camisa Negra",
         "artista": "Juanes",
         "url": "https://www.cifraclub.com/juanes/la-camisa-negra/"
     },
     "539": {
-        "posicao": 297,
+        "posicao": 298,
         "nome": "How Deep Is Your Love",
         "artista": "Bee Gees",
         "url": "https://www.cifraclub.com/bee-gees/how-deep-is-your-love/"
     },
     "103773": {
-        "posicao": 298,
+        "posicao": 299,
         "nome": "De Tal Manera",
         "artista": "Abel Zavala",
         "url": "https://www.cifraclub.com/abel-zavala/de-tal-manera/"
     },
     "14784": {
-        "posicao": 299,
+        "posicao": 300,
         "nome": "El Loco",
         "artista": "Babasónicos",
         "url": "https://www.cifraclub.com/babasonicos/el-loco/"
     },
     "954": {
-        "posicao": 300,
+        "posicao": 301,
         "nome": "Knockin' On Heaven's Door",
         "artista": "Guns N' Roses",
         "url": "https://www.cifraclub.com/guns-n-roses/knocking-on-heavens-door/"
     },
     "7814": {
-        "posicao": 301,
+        "posicao": 302,
         "nome": "The Winner Takes It All",
         "artista": "ABBA",
         "url": "https://www.cifraclub.com/abba/the-winner-takes-it-all/"
     },
     "503331": {
-        "posicao": 302,
+        "posicao": 303,
         "nome": "Había Una Vez",
         "artista": "Indio Solari",
         "url": "https://www.cifraclub.com/indio-solari/habia-una-vez/"
     },
     "397795": {
-        "posicao": 303,
+        "posicao": 304,
         "nome": "Indudablemente",
         "artista": "Rescate",
         "url": "https://www.cifraclub.com/rescate/indudablemente/"
     },
+    "649793": {
+        "posicao": 305,
+        "nome": "La Cosecha",
+        "artista": "Marco Barrientos",
+        "url": "https://www.cifraclub.com/marco-barrientos/la-cosecha/"
+    },
     "3104022": {
-        "posicao": 304,
+        "posicao": 306,
         "nome": "Fiel",
         "artista": "Majo y Dan",
         "url": "https://www.cifraclub.com/majo-y-dan/fiel/"
     },
     "3138475": {
-        "posicao": 305,
+        "posicao": 307,
         "nome": "Tu Boda (part. Fuerza Regida)",
         "artista": "Oscar Maydon",
         "url": "https://www.cifraclub.com/oscar-maydon/tu-boda-part-fuerza-regida/"
     },
-    "649793": {
-        "posicao": 306,
-        "nome": "La Cosecha",
-        "artista": "Marco Barrientos",
-        "url": "https://www.cifraclub.com/marco-barrientos/la-cosecha/"
-    },
     "331416": {
-        "posicao": 307,
+        "posicao": 308,
         "nome": "Nada Nuevo Bajo El Sol",
         "artista": "Los Bunkers",
         "url": "https://www.cifraclub.com/los-bunkers/nada-nuevo-bajo-el-sol/"
     },
     "694235": {
-        "posicao": 308,
+        "posicao": 309,
         "nome": "Yo Navegaré",
         "artista": "Dahiara",
         "url": "https://www.cifraclub.com/dahiara/yo-navegare/"
     },
     "170836": {
-        "posicao": 309,
+        "posicao": 310,
         "nome": "El Borde de Su Manto",
         "artista": "Alvarado",
         "url": "https://www.cifraclub.com/alvarado/el-borde-de-su-manto/"
     },
     "376279": {
-        "posicao": 310,
+        "posicao": 311,
         "nome": "Deseable",
         "artista": "Marcos Brunet",
         "url": "https://www.cifraclub.com/marcos-brunet/deseable/"
     },
     "3108085": {
-        "posicao": 311,
+        "posicao": 312,
         "nome": "From The Start",
         "artista": "Laufey",
         "url": "https://www.cifraclub.com/laufey/from-the-start/"
     },
     "593261": {
-        "posicao": 312,
+        "posicao": 313,
         "nome": "Un Millón de Primaveras",
         "artista": "Vicente Fernández",
         "url": "https://www.cifraclub.com/vicente-fernandez/un-millon-de-primaveras/"
     },
     "372905": {
-        "posicao": 313,
+        "posicao": 314,
         "nome": "Rey de Reyes",
         "artista": "Marco Barrientos",
         "url": "https://www.cifraclub.com/marco-barrientos/rey-de-reyes/"
     },
     "50535": {
-        "posicao": 314,
+        "posicao": 315,
         "nome": "Hijo de La Luna",
         "artista": "Mecano (ES)",
         "url": "https://www.cifraclub.com/mecano/hijo-de-la-luna/"
     },
     "47974": {
-        "posicao": 315,
+        "posicao": 316,
         "nome": "Prófugos",
         "artista": "Soda Stereo",
         "url": "https://www.cifraclub.com/soda-stereo/profugos/"
     },
     "48795": {
-        "posicao": 316,
+        "posicao": 317,
         "nome": "Me Dedique a Perderte",
         "artista": "Alejandro Fernández",
         "url": "https://www.cifraclub.com/alejandro-fernandez/me-dedique-perderte/"
     },
     "454637": {
-        "posicao": 317,
+        "posicao": 318,
         "nome": "Rocanroles Sin Destino",
         "artista": "Callejeros",
         "url": "https://www.cifraclub.com/callejeros/rocanroles-sin-destino/"
     },
     "889069": {
-        "posicao": 318,
+        "posicao": 319,
         "nome": "Ji Ji Ji",
         "artista": "Patricio Rey y Sus Redonditos de Ricota",
         "url": "https://www.cifraclub.com/los-redonditos-de-ricota/jijiji/"
     },
     "4340": {
-        "posicao": 319,
+        "posicao": 320,
         "nome": "Sparks",
         "artista": "Coldplay",
         "url": "https://www.cifraclub.com/coldplay/sparks/"
     },
     "595785": {
-        "posicao": 320,
+        "posicao": 321,
         "nome": "La Bendición",
         "artista": "Elevation Worship",
         "url": "https://www.cifraclub.com/elevation-worship/la-bendicion/"
     },
     "622762": {
-        "posicao": 321,
+        "posicao": 322,
         "nome": "Que nadie sepa mi sufrir",
         "artista": "Julio Jaramillo",
         "url": "https://www.cifraclub.com/julio-jaramillo/que-nadie-sepa-mi-sufrir/"
     },
     "351098": {
-        "posicao": 322,
+        "posicao": 323,
         "nome": "Cuando No Estás",
         "artista": "Andrés Calamaro",
         "url": "https://www.cifraclub.com/andres-calamaro/cuando-no-estas/"
     },
     "3399895": {
-        "posicao": 323,
+        "posicao": 324,
         "nome": "Mírenlo",
         "artista": "Marcos Brunet",
         "url": "https://www.cifraclub.com/marcos-brunet/mirenlo/"
     },
     "69412": {
-        "posicao": 324,
+        "posicao": 325,
         "nome": "Amar Y Querer",
         "artista": "José José",
         "url": "https://www.cifraclub.com/jose-jose/amar-querer/"
     },
     "665020": {
-        "posicao": 325,
+        "posicao": 326,
         "nome": "Eres fiel",
         "artista": "Coalo Zamorano",
         "url": "https://www.cifraclub.com/coalo-zamorano/eres-fiel/"
-    },
-    "479083": {
-        "posicao": 326,
-        "nome": "Bienvenido Espíritu Santo (Part. Marco Barrientos)",
-        "artista": "Miel San Marcos",
-        "url": "https://www.cifraclub.com/miel-san-marcos/bienvenido-espiritu-santo/"
     },
     "4740": {
         "posicao": 327,
@@ -1961,95 +1961,95 @@
         "artista": "Shakira",
         "url": "https://www.cifraclub.com/shakira/si-te-vas/"
     },
-    "38373": {
+    "479083": {
         "posicao": 328,
+        "nome": "Bienvenido Espíritu Santo (Part. Marco Barrientos)",
+        "artista": "Miel San Marcos",
+        "url": "https://www.cifraclub.com/miel-san-marcos/bienvenido-espiritu-santo/"
+    },
+    "38373": {
+        "posicao": 329,
         "nome": "Solo Aqui",
         "artista": "AIRBAG",
         "url": "https://www.cifraclub.com/airbag/solo-aqui/"
     },
     "663201": {
-        "posicao": 329,
+        "posicao": 330,
         "nome": "Zamba de mi Esperanza",
         "artista": "Los Chalchaleros",
         "url": "https://www.cifraclub.com/los-chalchaleros/zamba-de-mi-esperanza/"
     },
     "316190": {
-        "posicao": 330,
+        "posicao": 331,
         "nome": "Oceanos",
         "artista": "Evan Craft",
         "url": "https://www.cifraclub.com/evan-craft/oceanos/"
     },
     "701686": {
-        "posicao": 331,
+        "posicao": 332,
         "nome": "Jesús mi fiel amigo",
         "artista": "Abel Zabala",
         "url": "https://www.cifraclub.com/abel-zabala/jesus-mi-fiel-amigo/"
     },
     "650230": {
-        "posicao": 332,
+        "posicao": 333,
         "nome": "Poderoso Dios",
         "artista": "Marcos Witt",
         "url": "https://www.cifraclub.com/marcos-witt/poderoso-dios/"
     },
     "880": {
-        "posicao": 333,
+        "posicao": 334,
         "nome": "More Than Words",
         "artista": "Extreme",
         "url": "https://www.cifraclub.com/extreme/more-than-words/"
     },
     "84643": {
-        "posicao": 334,
+        "posicao": 335,
         "nome": "Back To Black",
         "artista": "Amy Winehouse",
         "url": "https://www.cifraclub.com/amy-winehouse/back-to-black/"
     },
     "18080": {
-        "posicao": 335,
+        "posicao": 336,
         "nome": "The Reason",
         "artista": "Hoobastank",
         "url": "https://www.cifraclub.com/hoobastank/the-reason/"
     },
     "476202": {
-        "posicao": 336,
+        "posicao": 337,
         "nome": "Oncemil",
         "artista": "Abel Pintos",
         "url": "https://www.cifraclub.com/abel-pintos/oncemil/"
     },
     "243535": {
-        "posicao": 337,
+        "posicao": 338,
         "nome": "Amor Eterno",
         "artista": "Rocío Durcal",
         "url": "https://www.cifraclub.com/rocio-durcal/amor-eterno/"
     },
     "7813": {
-        "posicao": 338,
+        "posicao": 339,
         "nome": "Take On Me",
         "artista": "a-ha",
         "url": "https://www.cifraclub.com/a-ha/take-on-me/"
     },
     "1027833": {
-        "posicao": 339,
+        "posicao": 340,
         "nome": "Algo Contigo",
         "artista": "Rita Payés",
         "url": "https://www.cifraclub.com/rita-payes/algo-contigo/"
     },
     "420097": {
-        "posicao": 340,
+        "posicao": 341,
         "nome": "Canción de Las Simples Cosas",
         "artista": "Mercedes Sosa",
         "url": "https://www.cifraclub.com/mercedes-sosa/cancion-de-las-simples-cosas/"
     },
     "8019": {
-        "posicao": 341,
+        "posicao": 342,
         "nome": "Billie Jean",
         "artista": "Michael Jackson",
         "url": "https://www.cifraclub.com/michael-jackson/billie-jean/"
-    },
-    "489023": {
-        "posicao": 342,
-        "nome": "Pa' Dónde Se Fue",
-        "artista": "Mon Laferte",
-        "url": "https://www.cifraclub.com/mon-laferte/pa-donde-se-fue/"
     },
     "335407": {
         "posicao": 343,
@@ -2057,11 +2057,11 @@
         "artista": "Centro Mundial de Avivamiento",
         "url": "https://www.cifraclub.com/centro-mundial-de-avivamiento/aleluya/"
     },
-    "3144067": {
+    "489023": {
         "posicao": 344,
-        "nome": "Que Ruja el León",
-        "artista": "TOMATULUGAR",
-        "url": "https://www.cifraclub.com/toma-tu-lugar/que-ruja-el-leon/"
+        "nome": "Pa' Dónde Se Fue",
+        "artista": "Mon Laferte",
+        "url": "https://www.cifraclub.com/mon-laferte/pa-donde-se-fue/"
     },
     "413630": {
         "posicao": 345,
@@ -2069,23 +2069,23 @@
         "artista": "Harry Styles",
         "url": "https://www.cifraclub.com/harry-styles/sign-of-the-times/"
     },
-    "468018": {
+    "3144067": {
         "posicao": 346,
+        "nome": "Que Ruja el León",
+        "artista": "TOMATULUGAR",
+        "url": "https://www.cifraclub.com/toma-tu-lugar/que-ruja-el-leon/"
+    },
+    "468018": {
+        "posicao": 347,
         "nome": "Acurrucar",
         "artista": "Ed Maverick",
         "url": "https://www.cifraclub.com/ed-maverick/acurrucar/"
     },
     "52762": {
-        "posicao": 347,
+        "posicao": 348,
         "nome": "Bésame Mucho",
         "artista": "Los Panchos",
         "url": "https://www.cifraclub.com/trio-los-panchos/besame-mucho/"
-    },
-    "83065": {
-        "posicao": 348,
-        "nome": "Rosa Pastel",
-        "artista": "Belanova",
-        "url": "https://www.cifraclub.com/belanova/rosa-pastel/"
     },
     "185455": {
         "posicao": 349,
@@ -2093,11 +2093,11 @@
         "artista": "Los Piojos",
         "url": "https://www.cifraclub.com/los-piojos/bicho-de-ciudad/"
     },
-    "3116515": {
+    "83065": {
         "posicao": 350,
-        "nome": "Me Va a Costar",
-        "artista": "Kevin Kaarl",
-        "url": "https://www.cifraclub.com/kevin-kaarl/me-va-a-costar/"
+        "nome": "Rosa Pastel",
+        "artista": "Belanova",
+        "url": "https://www.cifraclub.com/belanova/rosa-pastel/"
     },
     "630271": {
         "posicao": 351,
@@ -2105,17 +2105,17 @@
         "artista": "Los Panchos",
         "url": "https://www.cifraclub.com/trio-los-panchos/sabor-a-mi/"
     },
-    "685054": {
+    "3116515": {
         "posicao": 352,
+        "nome": "Me Va a Costar",
+        "artista": "Kevin Kaarl",
+        "url": "https://www.cifraclub.com/kevin-kaarl/me-va-a-costar/"
+    },
+    "685054": {
+        "posicao": 353,
         "nome": "Amor Salvaje",
         "artista": "Chaqueño Palavecino",
         "url": "https://www.cifraclub.com/chaqueno-palavecino/amor-salvaje/"
-    },
-    "436146": {
-        "posicao": 353,
-        "nome": "Flaco",
-        "artista": "Mon Laferte",
-        "url": "https://www.cifraclub.com/mon-laferte/flaco/"
     },
     "343004": {
         "posicao": 354,
@@ -2123,245 +2123,245 @@
         "artista": "No Te Va Gustar",
         "url": "https://www.cifraclub.com/no-te-va-gustar/tan-lejos/"
     },
-    "426144": {
+    "436146": {
         "posicao": 355,
+        "nome": "Flaco",
+        "artista": "Mon Laferte",
+        "url": "https://www.cifraclub.com/mon-laferte/flaco/"
+    },
+    "426144": {
+        "posicao": 356,
         "nome": "Luna Cautiva",
         "artista": "Los Chalchareros",
         "url": "https://www.cifraclub.com/los-chalchareros/luna-cautiva/"
     },
     "167131": {
-        "posicao": 356,
+        "posicao": 357,
         "nome": "Despues de Ti",
         "artista": "Alejandro Lerner",
         "url": "https://www.cifraclub.com/lerner-alejandro/despues-de-ti/"
     },
     "26772": {
-        "posicao": 357,
+        "posicao": 358,
         "nome": "House of The Rising Sun",
         "artista": "The Animals",
         "url": "https://www.cifraclub.com/the-animals/house-of-the-rising-sun/"
     },
     "476": {
-        "posicao": 358,
+        "posicao": 359,
         "nome": "Blackbird",
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com/the-beatles/blackbird/"
     },
     "3098523": {
-        "posicao": 359,
+        "posicao": 360,
         "nome": "¿Quién Podrá?",
         "artista": "Averly Morillo",
         "url": "https://www.cifraclub.com/averly-morillo/quien-podra/"
     },
     "20655": {
-        "posicao": 360,
+        "posicao": 361,
         "nome": "Putita",
         "artista": "Babasónicos",
         "url": "https://www.cifraclub.com/babasonicos/putita/"
     },
     "3266138": {
-        "posicao": 361,
+        "posicao": 362,
         "nome": "Radamel (part. Milo J)",
         "artista": "Radamel",
         "url": "https://www.cifraclub.com/radamel/radamel-part-milo-j/"
     },
     "386861": {
-        "posicao": 362,
+        "posicao": 363,
         "nome": "Treat You Better",
         "artista": "Shawn Mendes",
         "url": "https://www.cifraclub.com/shawn-mendes/treat-you-better/"
     },
     "386566": {
-        "posicao": 363,
+        "posicao": 364,
         "nome": "Ya Me Enteré",
         "artista": "Reik",
         "url": "https://www.cifraclub.com/reik/ya-me-entere/"
     },
     "221385": {
-        "posicao": 364,
+        "posicao": 365,
         "nome": "Tómalo",
         "artista": "Hillsong UNITED",
         "url": "https://www.cifraclub.com/hillsong-united/tomalo/"
     },
     "451568": {
-        "posicao": 365,
+        "posicao": 366,
         "nome": "Ex de Verdade",
         "artista": "Ha*Ash",
         "url": "https://www.cifraclub.com/ha-ash-musicas/ex-de-verdade/"
     },
     "57129": {
-        "posicao": 366,
+        "posicao": 367,
         "nome": "Sin Miedo a Nada",
         "artista": "Alex Ubago",
         "url": "https://www.cifraclub.com/alex-ubago/sin-miedo-nada/"
     },
     "266187": {
-        "posicao": 367,
+        "posicao": 368,
         "nome": "Tú Sin Mi",
         "artista": "Dread Mar I",
         "url": "https://www.cifraclub.com/dread-mar-i/tu-sin-mi/"
     },
     "23430": {
-        "posicao": 368,
+        "posicao": 369,
         "nome": "Somewhere Over The Rainbow",
         "artista": "Israel Kamakawiwo'ole",
         "url": "https://www.cifraclub.com/isreal-kamakawiwoole/somewhere-over-the-rainbow/"
     },
     "3374595": {
-        "posicao": 369,
+        "posicao": 370,
         "nome": "Que Vuelva Lo Santo Al Altar (Part. Montesanto)",
         "artista": "Grupo Grace",
         "url": "https://www.cifraclub.com/grupo-grace/que-vuelva-lo-santo-al-altar-part-montesanto/"
     },
     "257963": {
-        "posicao": 370,
+        "posicao": 371,
         "nome": "Atrae Mi Corazón",
         "artista": "Marcos Brunet",
         "url": "https://www.cifraclub.com/marcos-brunet/atrae-mi-corazon/"
     },
     "51185": {
-        "posicao": 371,
+        "posicao": 372,
         "nome": "Te Recuerdo Amanda",
         "artista": "Victor Jara",
         "url": "https://www.cifraclub.com/victor-jara/te-recuerdo-amanda/"
     },
     "22312": {
-        "posicao": 372,
+        "posicao": 373,
         "nome": "My Way",
         "artista": "Frank Sinatra",
         "url": "https://www.cifraclub.com/frank-sinatra/my-way/"
     },
     "722284": {
-        "posicao": 373,
+        "posicao": 374,
         "nome": "Incomprensible Amor",
         "artista": "New Wine",
         "url": "https://www.cifraclub.com/new-wine/incomprensible-amor/"
     },
     "654649": {
-        "posicao": 374,
+        "posicao": 375,
         "nome": "Hazme Un Instrumento De Tu Paz",
         "artista": "Música Católica",
         "url": "https://www.cifraclub.com/musica-catolica/hazme-un-instrumento-de-tu-paz/"
     },
     "626821": {
-        "posicao": 375,
+        "posicao": 376,
         "nome": "No Puedo Vivir Sin Tí",
         "artista": "Los Ronaldos",
         "url": "https://www.cifraclub.com/los-ronaldos/no-puedo-vivir-sin-ti/"
     },
     "3108189": {
-        "posicao": 376,
+        "posicao": 377,
         "nome": "Inexplicable",
         "artista": "Denicher Pol",
         "url": "https://www.cifraclub.com/danicher-pol/inexplicable/"
     },
     "38257": {
-        "posicao": 377,
+        "posicao": 378,
         "nome": "Un Vestido Y Un Amor",
         "artista": "Fito Páez",
         "url": "https://www.cifraclub.com/fito-paez/un-vestido-un-amor/"
     },
     "376550": {
-        "posicao": 378,
+        "posicao": 379,
         "nome": "Pescador de Hombres",
         "artista": "Músicas Católicas",
         "url": "https://www.cifraclub.com/catolicas/pescador-de-hombres/"
     },
     "3133987": {
-        "posicao": 379,
+        "posicao": 380,
         "nome": "Amor",
         "artista": "Emmanuel Cortes",
         "url": "https://www.cifraclub.com/emanuel-cortes/amor/"
     },
     "2650": {
-        "posicao": 380,
+        "posicao": 381,
         "nome": "No Surprises",
         "artista": "Radiohead",
         "url": "https://www.cifraclub.com/radiohead/no-surprises/"
     },
     "79403": {
-        "posicao": 381,
+        "posicao": 382,
         "nome": "El Sensei",
         "artista": "Las Pastillas del Abuelo",
         "url": "https://www.cifraclub.com/las-pastillas-del-abuelo/el-sensei/"
     },
     "4109": {
-        "posicao": 382,
+        "posicao": 383,
         "nome": "All My Loving",
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com/the-beatles/all-my-loving/"
     },
     "3114290": {
-        "posicao": 383,
+        "posicao": 384,
         "nome": "Bautizados En Fuego",
         "artista": "Montesanto",
         "url": "https://www.cifraclub.com/montesanto/bautizados-en-fuego/"
     },
     "685118": {
-        "posicao": 384,
+        "posicao": 385,
         "nome": "La ley y la trampa",
         "artista": "Chaqueño Palavecino",
         "url": "https://www.cifraclub.com/chaqueno-palavecino/la-ley-y-la-trampa/"
     },
     "176046": {
-        "posicao": 385,
+        "posicao": 386,
         "nome": "Hay Momentos",
         "artista": "Danilo Montero",
         "url": "https://www.cifraclub.com/danilo-montero/hay-momentos/"
     },
     "49311": {
-        "posicao": 386,
+        "posicao": 387,
         "nome": "Luz De Dia",
         "artista": "Los Enanitos Verdes",
         "url": "https://www.cifraclub.com/enanitos-verdes/luz-de-dia/"
     },
-    "597583": {
-        "posicao": 387,
-        "nome": "Un hombre normal",
-        "artista": "Espinoza Paz",
-        "url": "https://www.cifraclub.com/espinoza-paz/un-hombre-normal/"
-    },
-    "444097": {
-        "posicao": 388,
-        "nome": "Dios Poderoso",
-        "artista": "Adoración La IBI",
-        "url": "https://www.cifraclub.com/la-ibi/dios-poderoso/"
-    },
     "390020": {
-        "posicao": 389,
+        "posicao": 388,
         "nome": "Lo Único Que Quiero",
         "artista": "Marco Barrientos",
         "url": "https://www.cifraclub.com/marco-barrientos/lo-nico-que-quiero/"
     },
-    "35128": {
+    "444097": {
+        "posicao": 389,
+        "nome": "Dios Poderoso",
+        "artista": "Adoración La IBI",
+        "url": "https://www.cifraclub.com/la-ibi/dios-poderoso/"
+    },
+    "597583": {
         "posicao": 390,
+        "nome": "Un hombre normal",
+        "artista": "Espinoza Paz",
+        "url": "https://www.cifraclub.com/espinoza-paz/un-hombre-normal/"
+    },
+    "35128": {
+        "posicao": 391,
         "nome": "Yo te Busco",
         "artista": "Marcos Witt",
         "url": "https://www.cifraclub.com/marcos-witt/yo-te-busco/"
     },
     "483": {
-        "posicao": 391,
+        "posicao": 392,
         "nome": "Here Comes The Sun",
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com/the-beatles/here-comes-the-sun-483/"
     },
     "42113": {
-        "posicao": 392,
+        "posicao": 393,
         "nome": "Cuando Pase El Temblor",
         "artista": "Soda Stereo",
         "url": "https://www.cifraclub.com/soda-stereo/cuando-pase-el-temblor/"
     },
     "229": {
-        "posicao": 393,
+        "posicao": 394,
         "nome": "Nutshell",
         "artista": "Alice In Chains",
         "url": "https://www.cifraclub.com/alice-in-chains/nutshell/"
-    },
-    "897253": {
-        "posicao": 394,
-        "nome": "Veo En Tí La Luz",
-        "artista": "DANNA",
-        "url": "https://www.cifraclub.com/danna-paola/veo-en-ti-la-luz/"
     },
     "442061": {
         "posicao": 395,
@@ -2369,11 +2369,11 @@
         "artista": "Raly Barrionuevo",
         "url": "https://www.cifraclub.com/raly-barrionuevo/zamba-y-acuarela/"
     },
-    "1579": {
+    "897253": {
         "posicao": 396,
-        "nome": "Californication",
-        "artista": "Red Hot Chili Peppers",
-        "url": "https://www.cifraclub.com/red-hot-chili-peppers/californication/"
+        "nome": "Veo En Tí La Luz",
+        "artista": "DANNA",
+        "url": "https://www.cifraclub.com/danna-paola/veo-en-ti-la-luz/"
     },
     "63351": {
         "posicao": 397,
@@ -2381,35 +2381,35 @@
         "artista": "Abel Zavala",
         "url": "https://www.cifraclub.com/abel-zavala/enamorame/"
     },
-    "3209912": {
+    "1579": {
         "posicao": 398,
+        "nome": "Californication",
+        "artista": "Red Hot Chili Peppers",
+        "url": "https://www.cifraclub.com/red-hot-chili-peppers/californication/"
+    },
+    "3209912": {
+        "posicao": 399,
         "nome": "Tramuntana",
         "artista": "Guitarricadelafuente",
         "url": "https://www.cifraclub.com/guitarricadelafuente/tramuntana/"
     },
     "6746": {
-        "posicao": 399,
+        "posicao": 400,
         "nome": "My Sweet Lord",
         "artista": "George Harrison",
         "url": "https://www.cifraclub.com/george-harrison/my-sweet-lord/"
     },
     "594850": {
-        "posicao": 400,
+        "posicao": 401,
         "nome": "Libros Sapienciales",
         "artista": "Vox Dei",
         "url": "https://www.cifraclub.com/vox-dei/libros-sapienciales/"
     },
     "637915": {
-        "posicao": 401,
+        "posicao": 402,
         "nome": "Oleo de una mujer con sombrero",
         "artista": "Silvio Rodriguez",
         "url": "https://www.cifraclub.com/silvio-rodriguez/oleo-de-una-mujer-con-sombrero/"
-    },
-    "475110": {
-        "posicao": 402,
-        "nome": "Loca",
-        "artista": "Tan Bionica",
-        "url": "https://www.cifraclub.com/tan-bionica/loca/"
     },
     "190359": {
         "posicao": 403,
@@ -2429,53 +2429,53 @@
         "artista": "Generación 12",
         "url": "https://www.cifraclub.com/generacion-12/vuelvo-a-casa/"
     },
-    "729740": {
+    "475110": {
         "posicao": 406,
+        "nome": "Loca",
+        "artista": "Tan Bionica",
+        "url": "https://www.cifraclub.com/tan-bionica/loca/"
+    },
+    "729740": {
+        "posicao": 407,
         "nome": "Ganas de Verte",
         "artista": "AIRBAG",
         "url": "https://www.cifraclub.com/airbag/ganas-de-verte/"
     },
     "276136": {
-        "posicao": 407,
+        "posicao": 408,
         "nome": "Lábios Rotos",
         "artista": "Zoé",
         "url": "https://www.cifraclub.com/zoe/labios-rotos/"
     },
     "82799": {
-        "posicao": 408,
+        "posicao": 409,
         "nome": "Luna Tucumana",
         "artista": "Atahualpa Yupanqui",
         "url": "https://www.cifraclub.com/atahualpa-yupanqui/luna-tucumana/"
     },
     "2648": {
-        "posicao": 409,
+        "posicao": 410,
         "nome": "Fake Plastic Trees",
         "artista": "Radiohead",
         "url": "https://www.cifraclub.com/radiohead/fake-plastic-trees/"
     },
     "130003": {
-        "posicao": 410,
+        "posicao": 411,
         "nome": "Vasos Vacíos",
         "artista": "Los Fabulosos Cadillacs",
         "url": "https://www.cifraclub.com/los-fabulosos-cadillacs/vasos-vacios/"
     },
     "5117": {
-        "posicao": 411,
+        "posicao": 412,
         "nome": "Heaven",
         "artista": "Bryan Adams",
         "url": "https://www.cifraclub.com/bryan-adams/heaven/"
     },
     "57548": {
-        "posicao": 412,
+        "posicao": 413,
         "nome": "Homero",
         "artista": "Viejas Locas",
         "url": "https://www.cifraclub.com/viejas-locas/homero/"
-    },
-    "472988": {
-        "posicao": 413,
-        "nome": "Promesas Sobre El Bidet",
-        "artista": "Charly García",
-        "url": "https://www.cifraclub.com/charly-garcia/promesas-sobre-el-bidet/"
     },
     "469273": {
         "posicao": 414,
@@ -2483,53 +2483,53 @@
         "artista": "Marcos Witt",
         "url": "https://www.cifraclub.com/marcos-witt/dios-imparable/"
     },
-    "70231": {
+    "472988": {
         "posicao": 415,
+        "nome": "Promesas Sobre El Bidet",
+        "artista": "Charly García",
+        "url": "https://www.cifraclub.com/charly-garcia/promesas-sobre-el-bidet/"
+    },
+    "70231": {
+        "posicao": 416,
         "nome": "Muchacha Ojos de Papel",
         "artista": "Luis Alberto Spinetta",
         "url": "https://www.cifraclub.com/luis-alberto-spinetta/muchacha-ojos-de-papel/"
     },
     "191844": {
-        "posicao": 416,
+        "posicao": 417,
         "nome": "Sexo, Pudor Y Lágrimas",
         "artista": "Aleks Syntek",
         "url": "https://www.cifraclub.com/aleks-syntek-e-la-gente-normal/sexo-pudor-lagrimas/"
     },
     "3096592": {
-        "posicao": 417,
+        "posicao": 418,
         "nome": "El Bolero (part. Yami Safdie)",
         "artista": "Milo j",
         "url": "https://www.cifraclub.com/milo-j/el-bolero/"
     },
     "649740": {
-        "posicao": 418,
+        "posicao": 419,
         "nome": "Dios De Lo Imposible",
         "artista": "Marco Barrientos",
         "url": "https://www.cifraclub.com/marco-barrientos/dios-de-lo-imposible/"
     },
     "3274888": {
-        "posicao": 419,
+        "posicao": 420,
         "nome": "Melancolía",
         "artista": "Mon Laferte",
         "url": "https://www.cifraclub.com/mon-laferte/melancolia/"
     },
     "157912": {
-        "posicao": 420,
+        "posicao": 421,
         "nome": "La Llave",
         "artista": "Abel Pintos",
         "url": "https://www.cifraclub.com/abel-pintos/la-llave/"
     },
     "6603": {
-        "posicao": 421,
+        "posicao": 422,
         "nome": "Your Song",
         "artista": "Elton John",
         "url": "https://www.cifraclub.com/elton-john/your-song/"
-    },
-    "486908": {
-        "posicao": 422,
-        "nome": "Motivos",
-        "artista": "Abel Pintos",
-        "url": "https://www.cifraclub.com/abel-pintos/motivos/"
     },
     "63485": {
         "posicao": 423,
@@ -2537,209 +2537,209 @@
         "artista": "João Neto & Frederico",
         "url": "https://www.cifraclub.com/joao-neto-frederico/pra-dizer-adeus/"
     },
-    "3395563": {
+    "486908": {
         "posicao": 424,
+        "nome": "Motivos",
+        "artista": "Abel Pintos",
+        "url": "https://www.cifraclub.com/abel-pintos/motivos/"
+    },
+    "3395563": {
+        "posicao": 425,
         "nome": "Desde Que Te Tengo",
         "artista": "Carín León",
         "url": "https://www.cifraclub.com/carin-leon/desde-que-te-tengo/"
     },
     "118088": {
-        "posicao": 425,
+        "posicao": 426,
         "nome": "Mariposas",
         "artista": "Los Enanitos Verdes",
         "url": "https://www.cifraclub.com/enanitos-verdes/mariposas/"
     },
     "354074": {
-        "posicao": 426,
+        "posicao": 427,
         "nome": "Que Se Llene Tu Casa",
         "artista": "Ingrid Rosario",
         "url": "https://www.cifraclub.com/ingrid-rosario/que-se-llene-tu-casa/"
     },
     "372185": {
-        "posicao": 427,
+        "posicao": 428,
         "nome": "Digno y Santo",
         "artista": "Danilo Montero",
         "url": "https://www.cifraclub.com/danilo-montero/digno-y-santo/"
     },
     "615772": {
-        "posicao": 428,
+        "posicao": 429,
         "nome": "Desvelado",
         "artista": "Bobby Pulido",
         "url": "https://www.cifraclub.com/bobby-pulido/desvelado/"
     },
     "36242": {
-        "posicao": 429,
+        "posicao": 430,
         "nome": "Nada Fue Un Error",
         "artista": "Coti",
         "url": "https://www.cifraclub.com/coti/nada-fue-un-error/"
     },
     "1664": {
-        "posicao": 430,
+        "posicao": 431,
         "nome": "Kiss Me",
         "artista": "Sixpence None The Richer",
         "url": "https://www.cifraclub.com/sixpence-none-the-richer/kiss-me/"
     },
     "21156": {
-        "posicao": 431,
+        "posicao": 432,
         "nome": "Boulevard Of Broken Dreams",
         "artista": "Green Day",
         "url": "https://www.cifraclub.com/green-day/boulevard-of-broken-dreams/"
     },
     "511029": {
-        "posicao": 432,
+        "posicao": 433,
         "nome": "En El Monte Calvario",
         "artista": "Tercer Cielo",
         "url": "https://www.cifraclub.com/tercer-cielo/en-el-monte-calvario/"
     },
     "5706": {
-        "posicao": 433,
+        "posicao": 434,
         "nome": "Amiga Mía",
         "artista": "Alejandro Sanz",
         "url": "https://www.cifraclub.com/alejandro-sanz/amiga-mia/"
     },
     "97220": {
-        "posicao": 434,
+        "posicao": 435,
         "nome": "Un Hombre Lobo En Paris",
         "artista": "La Unión",
         "url": "https://www.cifraclub.com/union-la/un-hombre-lobo-en-paris/"
     },
     "506149": {
-        "posicao": 435,
+        "posicao": 436,
         "nome": "El Tesoro",
         "artista": "El Mató a un Policía Motorizado",
         "url": "https://www.cifraclub.com/el-mato-un-policia-motorizado/el-tesoro/"
     },
     "471064": {
-        "posicao": 436,
+        "posicao": 437,
         "nome": "Al Estar Ante Tí",
         "artista": "Alejandro Del Bosque",
         "url": "https://www.cifraclub.com/alejandro-del-bosque/al-estar-ante-ti/"
     },
     "455116": {
-        "posicao": 437,
+        "posicao": 438,
         "nome": "Jesús Es El Centro",
         "artista": "Israel & New Breed",
         "url": "https://www.cifraclub.com/israel-houghton-new-breed/jesus-es-el-centro/"
     },
     "2651": {
-        "posicao": 438,
+        "posicao": 439,
         "nome": "Karma Police",
         "artista": "Radiohead",
         "url": "https://www.cifraclub.com/radiohead/karma-police/"
     },
     "633141": {
-        "posicao": 439,
+        "posicao": 440,
         "nome": "Zamba Para Un Bohemio Guitarrero",
         "artista": "Peteco Carabajal",
         "url": "https://www.cifraclub.com/peteco-carabajal/zamba-para-un-bohemio-guitarrero/"
     },
     "36264": {
-        "posicao": 440,
+        "posicao": 441,
         "nome": "Me Voy",
         "artista": "Julieta Venegas",
         "url": "https://www.cifraclub.com/venegas-julieta/me-voy/"
     },
     "948": {
-        "posicao": 441,
+        "posicao": 442,
         "nome": "November Rain",
         "artista": "Guns N' Roses",
         "url": "https://www.cifraclub.com/guns-n-roses/november-rain/"
     },
     "612274": {
-        "posicao": 442,
+        "posicao": 443,
         "nome": "Los libros de la buena memoria",
         "artista": "Luis Alberto Spinetta",
         "url": "https://www.cifraclub.com/luis-alberto-spinetta/los-libros-de-la-buena-memoria/"
     },
     "94369": {
-        "posicao": 443,
+        "posicao": 444,
         "nome": "Entra En Mi Vida",
         "artista": "Sin Bandera",
         "url": "https://www.cifraclub.com/sin-bandera/entra-en-mi-vida/"
     },
     "3251907": {
-        "posicao": 444,
+        "posicao": 445,
         "nome": "Bajo De La Piel",
         "artista": "Milo j",
         "url": "https://www.cifraclub.com/milo-j/bajo-de-la-piel/"
     },
     "175486": {
-        "posicao": 445,
+        "posicao": 446,
         "nome": "Tu Poeta",
         "artista": "Alex Campos",
         "url": "https://www.cifraclub.com/alex-campos/tu-poeta/"
     },
     "384031": {
-        "posicao": 446,
+        "posicao": 447,
         "nome": "Corazón",
         "artista": "Los Auténticos Decadentes",
         "url": "https://www.cifraclub.com/los-autenticos-decadentes/corazon/"
     },
     "475942": {
-        "posicao": 447,
+        "posicao": 448,
         "nome": "Nana Triste",
         "artista": "Natalia Lacunza",
         "url": "https://www.cifraclub.com/natalia-lacunza/nana-triste/"
     },
     "3118046": {
-        "posicao": 448,
+        "posicao": 449,
         "nome": "Huracán",
         "artista": "Hakuna Group Music",
         "url": "https://www.cifraclub.com/hakuna-group-music/huracan/"
     },
     "129991": {
-        "posicao": 449,
+        "posicao": 450,
         "nome": "Un Osito De Peluche De Taiwan",
         "artista": "Los Auténticos Decadentes",
         "url": "https://www.cifraclub.com/los-autenticos-decadentes/un-osito-de-peluche-de-taiwan/"
     },
     "41426": {
-        "posicao": 450,
+        "posicao": 451,
         "nome": "Todo Un Palo",
         "artista": "Patricio Rey y Sus Redonditos de Ricota",
         "url": "https://www.cifraclub.com/los-redonditos-de-ricota/todo-un-palo/"
     },
     "664081": {
-        "posicao": 451,
+        "posicao": 452,
         "nome": "Los Continentales",
         "artista": "Chico Trujillo",
         "url": "https://www.cifraclub.com/chico-trujillo/los-continentales/"
     },
     "735645": {
-        "posicao": 452,
+        "posicao": 453,
         "nome": "Danzando (part. Christine D'Clario, Travy Joe y Daniel Calveti)",
         "artista": "Gateway Worship Español",
         "url": "https://www.cifraclub.com/gateway-worship-espanol/danzando-part-christine-d-clario-travy-joe-y-daniel-calveti/"
     },
     "267340": {
-        "posicao": 453,
+        "posicao": 454,
         "nome": "Chau",
         "artista": "No Te Va Gustar",
         "url": "https://www.cifraclub.com/no-te-va-gustar/chau/"
     },
     "272761": {
-        "posicao": 454,
+        "posicao": 455,
         "nome": "A Dios Sea La Gloria",
         "artista": "Danny Berrios",
         "url": "https://www.cifraclub.com/danny-berrios/a-dios-sea-la-gloria/"
     },
     "685087": {
-        "posicao": 455,
+        "posicao": 456,
         "nome": "Déjame que me vaya",
         "artista": "Chaqueño Palavecino",
         "url": "https://www.cifraclub.com/chaqueno-palavecino/dejame-que-me-vaya/"
     },
     "3116246": {
-        "posicao": 456,
+        "posicao": 457,
         "nome": "Fantasmas",
         "artista": "HUMBE",
         "url": "https://www.cifraclub.com/humbe/fantasmas/"
-    },
-    "17266": {
-        "posicao": 457,
-        "nome": "Mariposa Traicionera",
-        "artista": "Maná",
-        "url": "https://www.cifraclub.com/mana/mariposa-traicionera/"
     },
     "70994": {
         "posicao": 458,
@@ -2747,119 +2747,119 @@
         "artista": "Los Bunkers",
         "url": "https://www.cifraclub.com/los-bunkers/mio/"
     },
-    "211098": {
+    "17266": {
         "posicao": 459,
+        "nome": "Mariposa Traicionera",
+        "artista": "Maná",
+        "url": "https://www.cifraclub.com/mana/mariposa-traicionera/"
+    },
+    "211098": {
+        "posicao": 460,
         "nome": "In My Life",
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com/the-beatles/in-my-life/"
     },
     "15182": {
-        "posicao": 460,
+        "posicao": 461,
         "nome": "Es Por Ti",
         "artista": "Juanes",
         "url": "https://www.cifraclub.com/juanes/es-por-ti/"
     },
     "458648": {
-        "posicao": 461,
+        "posicao": 462,
         "nome": "Un Poco Loco",
         "artista": "Disney",
         "url": "https://www.cifraclub.com/disney/un-poco-loco/"
     },
     "170276": {
-        "posicao": 462,
+        "posicao": 463,
         "nome": "Puesto",
         "artista": "Babasónicos",
         "url": "https://www.cifraclub.com/babasonicos/puesto/"
     },
     "59152": {
-        "posicao": 463,
+        "posicao": 464,
         "nome": "Esa Estrella Era Mi Lujo",
         "artista": "Patricio Rey y Sus Redonditos de Ricota",
         "url": "https://www.cifraclub.com/los-redonditos-de-ricota/esa-estrella-era-mi-lujo/"
     },
     "377682": {
-        "posicao": 464,
+        "posicao": 465,
         "nome": "Lago En El Cielo",
         "artista": "Gustavo Cerati",
         "url": "https://www.cifraclub.com/gustavo-cerati/lago-en-el-cielo/"
     },
     "688303": {
-        "posicao": 465,
+        "posicao": 466,
         "nome": "El Olvidao",
         "artista": "Nestor Garnica",
         "url": "https://www.cifraclub.com/nestor-garnica/el-olvidao/"
     },
     "312492": {
-        "posicao": 466,
+        "posicao": 467,
         "nome": "Ese Maldito Momento",
         "artista": "No Te Va Gustar",
         "url": "https://www.cifraclub.com/no-te-va-gustar/esse-maldito-momento/"
     },
     "56414": {
-        "posicao": 467,
+        "posicao": 468,
         "nome": "Sin Documentos",
         "artista": "Los Rodríguez",
         "url": "https://www.cifraclub.com/los-rodriguez/sin-documentos/"
     },
     "258919": {
-        "posicao": 468,
+        "posicao": 469,
         "nome": "Soñe",
         "artista": "Zoé",
         "url": "https://www.cifraclub.com/zoe/soe/"
     },
     "81049": {
-        "posicao": 469,
+        "posicao": 470,
         "nome": "505",
         "artista": "Arctic Monkeys",
         "url": "https://www.cifraclub.com/arctic-monkeys/505/"
     },
     "388022": {
-        "posicao": 470,
+        "posicao": 471,
         "nome": "Pupilas Lejanas",
         "artista": "Los Pericos",
         "url": "https://www.cifraclub.com/los-pericos/pupilas-lejanas/"
     },
     "14348": {
-        "posicao": 471,
+        "posicao": 472,
         "nome": "Dust In The Wind",
         "artista": "Kansas",
         "url": "https://www.cifraclub.com/kansas/dust-in-the-wind/"
     },
     "371862": {
-        "posicao": 472,
+        "posicao": 473,
         "nome": "Brillas",
         "artista": "León Larregui",
         "url": "https://www.cifraclub.com/leon-larregui/brillas/"
     },
     "407361": {
-        "posicao": 473,
+        "posicao": 474,
         "nome": "Despacito",
         "artista": "Luis Fonsi",
         "url": "https://www.cifraclub.com/luis-fonsi/despacito/"
     },
     "3239034": {
-        "posicao": 474,
+        "posicao": 475,
         "nome": "Destello...",
         "artista": "Kidd Voodoo",
         "url": "https://www.cifraclub.com/kidd-voodoo/destello/"
     },
     "8151": {
-        "posicao": 475,
+        "posicao": 476,
         "nome": "Michelle",
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com/the-beatles/michelle/"
     },
     "43711": {
-        "posicao": 476,
+        "posicao": 477,
         "nome": "La Playa",
         "artista": "La Oreja de Van Gogh",
         "url": "https://www.cifraclub.com/la-oreja-de-van-gogh-musicas/la-playa/"
-    },
-    "49459": {
-        "posicao": 477,
-        "nome": "Remolineando",
-        "artista": "Fernel Monroy",
-        "url": "https://www.cifraclub.com/fernel-monroy/remolineando/"
     },
     "6973": {
         "posicao": 478,
@@ -2867,47 +2867,47 @@
         "artista": "Oasis",
         "url": "https://www.cifraclub.com/oasis/stop-crying-your-heart-out/"
     },
-    "397758": {
+    "49459": {
         "posicao": 479,
+        "nome": "Remolineando",
+        "artista": "Fernel Monroy",
+        "url": "https://www.cifraclub.com/fernel-monroy/remolineando/"
+    },
+    "397758": {
+        "posicao": 480,
         "nome": "Rey",
         "artista": "Christine D'Clario",
         "url": "https://www.cifraclub.com/christine-dclario/rey/"
     },
     "843": {
-        "posicao": 480,
+        "posicao": 481,
         "nome": "Sultans of Swing",
         "artista": "Dire Straits",
         "url": "https://www.cifraclub.com/dire-straits/sultans-of-swing/"
     },
     "3095681": {
-        "posicao": 481,
+        "posicao": 482,
         "nome": "Hay Un Rey",
         "artista": "TOMATULUGAR",
         "url": "https://www.cifraclub.com/toma-tu-lugar/hay-un-rey/"
     },
     "11360": {
-        "posicao": 482,
+        "posicao": 483,
         "nome": "Paramar",
         "artista": "Los Prisioneros",
         "url": "https://www.cifraclub.com/los-prisioneros/paramar/"
     },
     "158967": {
-        "posicao": 483,
+        "posicao": 484,
         "nome": "Señor Eres Fiel",
         "artista": "Marco Barrientos",
         "url": "https://www.cifraclub.com/marco-barrientos/seor-eres-fiel/"
     },
     "220265": {
-        "posicao": 484,
+        "posicao": 485,
         "nome": "Temprano Yo Te Buscaré",
         "artista": "Marcos Witt",
         "url": "https://www.cifraclub.com/marcos-witt/temprano-yo-te-buscare/"
-    },
-    "39427": {
-        "posicao": 485,
-        "nome": "Hasta Que Te Conocí",
-        "artista": "Juan Gabriel",
-        "url": "https://www.cifraclub.com/juan-gabriel/hasta-que-te-conoci/"
     },
     "360700": {
         "posicao": 486,
@@ -2915,29 +2915,29 @@
         "artista": "Miel San Marcos",
         "url": "https://www.cifraclub.com/miel-san-marcos/fiesta/"
     },
-    "3273551": {
+    "39427": {
         "posicao": 487,
+        "nome": "Hasta Que Te Conocí",
+        "artista": "Juan Gabriel",
+        "url": "https://www.cifraclub.com/juan-gabriel/hasta-que-te-conoci/"
+    },
+    "3273551": {
+        "posicao": 488,
         "nome": "Como Un Pájaro",
         "artista": "Silvana Estrada",
         "url": "https://www.cifraclub.com/silvana-estrada/como-un-pajaro/"
     },
     "6887": {
-        "posicao": 488,
+        "posicao": 489,
         "nome": "Don't Let Me Down",
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com/the-beatles/dont-let-me-down/"
     },
     "415430": {
-        "posicao": 489,
+        "posicao": 490,
         "nome": "Aprender a Quererte",
         "artista": "Morat",
         "url": "https://www.cifraclub.com/morat/aprender-a-quererte/"
-    },
-    "619285": {
-        "posicao": 490,
-        "nome": "Un idiota",
-        "artista": "Joan Sebastian",
-        "url": "https://www.cifraclub.com/joan-sebastian/un-idiota/"
     },
     "311527": {
         "posicao": 491,
@@ -2945,17 +2945,17 @@
         "artista": "Marcela Gandara",
         "url": "https://www.cifraclub.com/marcela-gandara/a-ti-sea-la-gloria/"
     },
-    "609492": {
+    "619285": {
         "posicao": 492,
+        "nome": "Un idiota",
+        "artista": "Joan Sebastian",
+        "url": "https://www.cifraclub.com/joan-sebastian/un-idiota/"
+    },
+    "609492": {
+        "posicao": 493,
         "nome": "Lindo Adorno Pa´ Mi Apero",
         "artista": "Lázaro Caballero",
         "url": "https://www.cifraclub.com/lazaro-caballero/lindo-adorno-pa-mi-apero/"
-    },
-    "459721": {
-        "posicao": 493,
-        "nome": "En El Nombre de Jesús",
-        "artista": "Ingrid Rosario",
-        "url": "https://www.cifraclub.com/ingrid-rosario/en-el-nombre-de-jesus/"
     },
     "887": {
         "posicao": 494,
@@ -2963,23 +2963,23 @@
         "artista": "Foo Fighters",
         "url": "https://www.cifraclub.com/foo-fighters/everlong/"
     },
-    "685068": {
+    "459721": {
         "posicao": 495,
+        "nome": "En El Nombre de Jesús",
+        "artista": "Ingrid Rosario",
+        "url": "https://www.cifraclub.com/ingrid-rosario/en-el-nombre-de-jesus/"
+    },
+    "685068": {
+        "posicao": 496,
         "nome": "Chacarera Del Olvido",
         "artista": "Chaqueño Palavecino",
         "url": "https://www.cifraclub.com/chaqueno-palavecino/chacarera-del-olvido/"
     },
     "395009": {
-        "posicao": 496,
+        "posicao": 497,
         "nome": "Dios El Más Grande",
         "artista": "Juan Carlos Alvarado",
         "url": "https://www.cifraclub.com/juan-carlos-alvarado/dios-el-mas-grande/"
-    },
-    "584986": {
-        "posicao": 497,
-        "nome": "Fue Amor",
-        "artista": "Fito Páez",
-        "url": "https://www.cifraclub.com/fito-paez/fue-por-amor/"
     },
     "372005": {
         "posicao": 498,
@@ -2987,23 +2987,23 @@
         "artista": "Sui Generis",
         "url": "https://www.cifraclub.com/sui-generis/quizas-porque/"
     },
-    "588251": {
+    "584986": {
         "posicao": 499,
+        "nome": "Fue Amor",
+        "artista": "Fito Páez",
+        "url": "https://www.cifraclub.com/fito-paez/fue-por-amor/"
+    },
+    "588251": {
+        "posicao": 500,
         "nome": "Soldadito Español",
         "artista": "El Ultimo Ke Zierre",
         "url": "https://www.cifraclub.com/el-ultimo-ke-zierre/soldadito-espanol/"
     },
     "602808": {
-        "posicao": 500,
+        "posicao": 501,
         "nome": "Amor de Contramano",
         "artista": "Los Gardelitos",
         "url": "https://www.cifraclub.com/los-gardelitos/amor-de-contramano/"
-    },
-    "468938": {
-        "posicao": 501,
-        "nome": "De Ellos Aprendí",
-        "artista": "David Rees",
-        "url": "https://www.cifraclub.com/david-rees/de-ellos-aprendi/"
     },
     "295502": {
         "posicao": 502,
@@ -3011,77 +3011,77 @@
         "artista": "Reik",
         "url": "https://www.cifraclub.com/reik/creo-en-ti/"
     },
-    "177603": {
+    "468938": {
         "posicao": 503,
+        "nome": "De Ellos Aprendí",
+        "artista": "David Rees",
+        "url": "https://www.cifraclub.com/david-rees/de-ellos-aprendi/"
+    },
+    "177603": {
+        "posicao": 504,
         "nome": "Fly Me To The Moon",
         "artista": "Frank Sinatra",
         "url": "https://www.cifraclub.com/frank-sinatra/fly-me-to-the-moon/"
     },
     "333764": {
-        "posicao": 504,
+        "posicao": 505,
         "nome": "Arruinarse",
         "artista": "Tan Bionica",
         "url": "https://www.cifraclub.com/tan-bionica/arruinarse/"
     },
     "426249": {
-        "posicao": 505,
+        "posicao": 506,
         "nome": "Piensa En Mi",
         "artista": "Leandro & Leonardo",
         "url": "https://www.cifraclub.com/leandro-e-leonardo/piensa-en-mi/"
     },
     "18577": {
-        "posicao": 506,
+        "posicao": 507,
         "nome": "Dejaria Todo",
         "artista": "Chayanne",
         "url": "https://www.cifraclub.com/chayanne/dejaria-todo/"
     },
     "170565": {
-        "posicao": 507,
+        "posicao": 508,
         "nome": "El Espiritu De Dios Esta En Este Lugar",
         "artista": "Alabanzas Llamada Final",
         "url": "https://www.cifraclub.com/alabanzas-llamada-final/el-espiritu-de-dios-esta-en-este-lugar/"
     },
     "605329": {
-        "posicao": 508,
+        "posicao": 509,
         "nome": "Vivo",
         "artista": "Gustavo Cerati",
         "url": "https://www.cifraclub.com/gustavo-cerati/vivo/"
     },
     "730849": {
-        "posicao": 509,
+        "posicao": 510,
         "nome": "Júbilo (part. Maverick City Música)",
         "artista": "Miel San Marcos",
         "url": "https://www.cifraclub.com/miel-san-marcos/jubilo-part-maverick-city-musica/"
     },
     "3125964": {
-        "posicao": 510,
+        "posicao": 511,
         "nome": "Lo Que Hay X Aquí",
         "artista": "Rels B",
         "url": "https://www.cifraclub.com/rels-b/lo-que-hay-x-aqui/"
     },
     "661419": {
-        "posicao": 511,
+        "posicao": 512,
         "nome": "Lagrimas de amor",
         "artista": "Los Carabajal",
         "url": "https://www.cifraclub.com/los-carabajal/lagrimas-de-amor/"
     },
-    "495238": {
-        "posicao": 512,
-        "nome": "No Podrás",
-        "artista": "Cristian Castro",
-        "url": "https://www.cifraclub.com/castro-cristian/no-podras/"
-    },
-    "325272": {
-        "posicao": 513,
-        "nome": "All Of Me",
-        "artista": "John Legend",
-        "url": "https://www.cifraclub.com/john-legend/all-of-me/"
-    },
     "173643": {
-        "posicao": 514,
+        "posicao": 513,
         "nome": "A Rodar Mi Vida",
         "artista": "Fito Páez",
         "url": "https://www.cifraclub.com/fito-paez/a-rodar-mi-vida/"
+    },
+    "325272": {
+        "posicao": 514,
+        "nome": "All Of Me",
+        "artista": "John Legend",
+        "url": "https://www.cifraclub.com/john-legend/all-of-me/"
     },
     "290645": {
         "posicao": 515,
@@ -3089,53 +3089,53 @@
         "artista": "Dragon Ball GT",
         "url": "https://www.cifraclub.com/dragon-ball-gt/mi-corazon-encantado/"
     },
-    "389984": {
+    "495238": {
         "posicao": 516,
-        "nome": "Hoja En Blanco",
-        "artista": "Dread Mar I",
-        "url": "https://www.cifraclub.com/dread-mar-i/hoja-en-blanco/"
-    },
-    "498860": {
-        "posicao": 517,
-        "nome": "Chacarera Del Rancho",
-        "artista": "Los Nocheros",
-        "url": "https://www.cifraclub.com/los-nocheros/chacarera-del-rancho/"
+        "nome": "No Podrás",
+        "artista": "Cristian Castro",
+        "url": "https://www.cifraclub.com/castro-cristian/no-podras/"
     },
     "484": {
-        "posicao": 518,
+        "posicao": 517,
         "nome": "Here, There and Everywhere",
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com/the-beatles/here-there-and-everywhere/"
     },
     "427529": {
-        "posicao": 519,
+        "posicao": 518,
         "nome": "En Totalidad a Ti",
         "artista": "Vino Nuevo",
         "url": "https://www.cifraclub.com/vino-nuevo/en-totalidad-a-ti/"
     },
-    "124759": {
+    "389984": {
+        "posicao": 519,
+        "nome": "Hoja En Blanco",
+        "artista": "Dread Mar I",
+        "url": "https://www.cifraclub.com/dread-mar-i/hoja-en-blanco/"
+    },
+    "498860": {
         "posicao": 520,
+        "nome": "Chacarera Del Rancho",
+        "artista": "Los Nocheros",
+        "url": "https://www.cifraclub.com/los-nocheros/chacarera-del-rancho/"
+    },
+    "124759": {
+        "posicao": 521,
         "nome": "No Tengo Ganas",
         "artista": "Intoxicados",
         "url": "https://www.cifraclub.com/intoxicados/no-tengo-ganas/"
     },
     "207740": {
-        "posicao": 521,
+        "posicao": 522,
         "nome": "The Only Exception",
         "artista": "Paramore",
         "url": "https://www.cifraclub.com/paramore/the-only-exception/"
     },
     "615227": {
-        "posicao": 522,
+        "posicao": 523,
         "nome": "La Soledad",
         "artista": "Bersuit Vergarabat",
         "url": "https://www.cifraclub.com/bersuit-vergarabat/la-soledad/"
-    },
-    "169294": {
-        "posicao": 523,
-        "nome": "Viva La Vida",
-        "artista": "Coldplay",
-        "url": "https://www.cifraclub.com/coldplay/viva-la-vida/"
     },
     "171982": {
         "posicao": 524,
@@ -3143,77 +3143,77 @@
         "artista": "Turf",
         "url": "https://www.cifraclub.com/turf/magia-blanca/"
     },
-    "87559": {
+    "169294": {
         "posicao": 525,
+        "nome": "Viva La Vida",
+        "artista": "Coldplay",
+        "url": "https://www.cifraclub.com/coldplay/viva-la-vida/"
+    },
+    "87559": {
+        "posicao": 526,
         "nome": "Amores Lejanos",
         "artista": "Los Enanitos Verdes",
         "url": "https://www.cifraclub.com/enanitos-verdes/amores-lejanos/"
     },
     "414619": {
-        "posicao": 526,
+        "posicao": 527,
         "nome": "Ven Espiritu Santo",
         "artista": "Banda Barak",
         "url": "https://www.cifraclub.com/banda-barak/ven-espiritu-santo/"
     },
     "70707": {
-        "posicao": 527,
+        "posicao": 528,
         "nome": "La Casa de Dios",
         "artista": "Danilo Montero",
         "url": "https://www.cifraclub.com/danilo-montero/la-casa-de-dios/"
     },
     "645206": {
-        "posicao": 528,
+        "posicao": 529,
         "nome": "Cancion Del Mariachi",
         "artista": "Antonio Banderas",
         "url": "https://www.cifraclub.com/antonio-banderas/cancion-del-mariachi/"
     },
     "3139973": {
-        "posicao": 529,
+        "posicao": 530,
         "nome": "Hecha Pa' Mí",
         "artista": "Grupo Frontera",
         "url": "https://www.cifraclub.com/grupo-frontera/hecha-pa-mi/"
     },
     "3142938": {
-        "posicao": 530,
+        "posicao": 531,
         "nome": "Tunel de La Vida",
         "artista": "El Plan de La Mariposa",
         "url": "https://www.cifraclub.com/el-plan-de-la-mariposa/tunel-de-la-vida/"
     },
     "21483": {
-        "posicao": 531,
+        "posicao": 532,
         "nome": "Historia de un Amor",
         "artista": "Los Panchos",
         "url": "https://www.cifraclub.com/trio-los-panchos/historia-de-un-amor/"
     },
     "653810": {
-        "posicao": 532,
+        "posicao": 533,
         "nome": "Amárrame",
         "artista": "Mon Laferte",
         "url": "https://www.cifraclub.com/mon-laferte/amarrame/"
     },
     "14015": {
-        "posicao": 533,
+        "posicao": 534,
         "nome": "La Bamba",
         "artista": "Los Lobos",
         "url": "https://www.cifraclub.com/los-lobos/la-bamba/"
     },
     "642625": {
-        "posicao": 534,
+        "posicao": 535,
         "nome": "Me muero por conocerte",
         "artista": "Alex Ubago",
         "url": "https://www.cifraclub.com/alex-ubago/me-muero-por-conocerte/"
     },
     "649562": {
-        "posicao": 535,
+        "posicao": 536,
         "nome": "Beso Tus Pies",
         "artista": "Marcos Brunet",
         "url": "https://www.cifraclub.com/marcos-brunet/beso-tus-pies/"
-    },
-    "65306": {
-        "posicao": 536,
-        "nome": "Yo Vengo a Ofrecer Mi Corazón",
-        "artista": "Fito Páez",
-        "url": "https://www.cifraclub.com/fito-paez/yo-vengo-ofrecer-mi-corazon/"
     },
     "1512": {
         "posicao": 537,
@@ -3221,125 +3221,125 @@
         "artista": "Pink Floyd",
         "url": "https://www.cifraclub.com/pink-floyd/comfortably-numb/"
     },
-    "38201": {
+    "65306": {
         "posicao": 538,
+        "nome": "Yo Vengo a Ofrecer Mi Corazón",
+        "artista": "Fito Páez",
+        "url": "https://www.cifraclub.com/fito-paez/yo-vengo-ofrecer-mi-corazon/"
+    },
+    "38201": {
+        "posicao": 539,
         "nome": "Te Quiero Tanto",
         "artista": "Ov7",
         "url": "https://www.cifraclub.com/ov7/te-quiero-tanto/"
     },
     "8779": {
-        "posicao": 539,
+        "posicao": 540,
         "nome": "Clavado En Um Bar",
         "artista": "Maná",
         "url": "https://www.cifraclub.com/mana/clavado-en-um-bar/"
     },
     "939": {
-        "posicao": 540,
+        "posicao": 541,
         "nome": "Patience",
         "artista": "Guns N' Roses",
         "url": "https://www.cifraclub.com/guns-n-roses/patience/"
     },
     "723332": {
-        "posicao": 541,
+        "posicao": 542,
         "nome": "Manos de Tijera",
         "artista": "Camilo",
         "url": "https://www.cifraclub.com/camilo-echeverry/manos-de-tijera/"
     },
     "620734": {
-        "posicao": 542,
+        "posicao": 543,
         "nome": "El reloj",
         "artista": "José José",
         "url": "https://www.cifraclub.com/jose-jose/el-reloj/"
     },
     "5162": {
-        "posicao": 543,
+        "posicao": 544,
         "nome": "Time",
         "artista": "Pink Floyd",
         "url": "https://www.cifraclub.com/pink-floyd/time/"
     },
     "55302": {
-        "posicao": 544,
+        "posicao": 545,
         "nome": "Zafar",
         "artista": "La Vela Puerca",
         "url": "https://www.cifraclub.com/la-vela-puerca/zafar/"
     },
     "400041": {
-        "posicao": 545,
+        "posicao": 546,
         "nome": "Bajos Instintos",
         "artista": "AIRBAG",
         "url": "https://www.cifraclub.com/airbag/bajos-instintos/"
     },
     "111620": {
-        "posicao": 546,
+        "posicao": 547,
         "nome": "Todo Cambio",
         "artista": "Camila",
         "url": "https://www.cifraclub.com/camila/todo-cambio/"
     },
     "478486": {
-        "posicao": 547,
+        "posicao": 548,
         "nome": "No Se Va",
         "artista": "Morat",
         "url": "https://www.cifraclub.com/morat/no-se-va/"
     },
     "3276043": {
-        "posicao": 548,
+        "posicao": 549,
         "nome": "My One And Only Love (feat. Natalia Lafourcade & Silvana Estrada)",
         "artista": "Mon Laferte",
         "url": "https://www.cifraclub.com/mon-laferte/my-one-and-only-love-feat-natalia-lafourcade-silvana-estrada/"
     },
     "494659": {
-        "posicao": 549,
+        "posicao": 550,
         "nome": "Puente Carretero",
         "artista": "Los Manseros Santiagueños",
         "url": "https://www.cifraclub.com/los-manseros-santiagueos/puente-carretero/"
     },
     "313653": {
-        "posicao": 550,
+        "posicao": 551,
         "nome": "En Tu Luz",
         "artista": "En Espiritu Y En Verdad",
         "url": "https://www.cifraclub.com/en-espiritu-en-verdad/en-tu-luz/"
     },
     "237968": {
-        "posicao": 551,
+        "posicao": 552,
         "nome": "The One That Got Away",
         "artista": "Katy Perry",
         "url": "https://www.cifraclub.com/katy-perry/the-one-that-got-away/"
     },
     "67149": {
-        "posicao": 552,
+        "posicao": 553,
         "nome": "Un Poco De Amor Francés",
         "artista": "Patricio Rey y Sus Redonditos de Ricota",
         "url": "https://www.cifraclub.com/los-redonditos-de-ricota/un-poco-de-amor-frances/"
     },
     "341489": {
-        "posicao": 553,
+        "posicao": 554,
         "nome": "Photograph",
         "artista": "Ed Sheeran",
         "url": "https://www.cifraclub.com/ed-sheeran/photograph/"
     },
     "4909": {
-        "posicao": 554,
+        "posicao": 555,
         "nome": "Don't Speak",
         "artista": "No Doubt",
         "url": "https://www.cifraclub.com/no-doubt/dont-speak/"
     },
     "346993": {
-        "posicao": 555,
+        "posicao": 556,
         "nome": "Exaltate",
         "artista": "Marcos Witt",
         "url": "https://www.cifraclub.com/marcos-witt/exaltate/"
     },
     "57910": {
-        "posicao": 556,
+        "posicao": 557,
         "nome": "Almohada",
         "artista": "José José",
         "url": "https://www.cifraclub.com/jose-jose/almohada/"
-    },
-    "447699": {
-        "posicao": 557,
-        "nome": "A Danzar",
-        "artista": "Barak",
-        "url": "https://www.cifraclub.com/barak/a-danzar/"
     },
     "466278": {
         "posicao": 558,
@@ -3347,23 +3347,23 @@
         "artista": "Ed Maverick",
         "url": "https://www.cifraclub.com/ed-maverick/del-rio/"
     },
-    "710024": {
+    "447699": {
         "posicao": 559,
+        "nome": "A Danzar",
+        "artista": "Barak",
+        "url": "https://www.cifraclub.com/barak/a-danzar/"
+    },
+    "710024": {
+        "posicao": 560,
         "nome": "Hosanna",
         "artista": "Hillsong en Español",
         "url": "https://www.cifraclub.com/hillsong-en-espaol/hosanna/"
     },
     "433476": {
-        "posicao": 560,
+        "posicao": 561,
         "nome": "Hay Una Uncion Aqui",
         "artista": "Danny Berrios",
         "url": "https://www.cifraclub.com/danny-berrios/hay-una-uncion-aqui/"
-    },
-    "3321645": {
-        "posicao": 561,
-        "nome": "Lo Que Necesito",
-        "artista": "Enoc Parra",
-        "url": "https://www.cifraclub.com/enoc-parra/lo-que-necesito/"
     },
     "473950": {
         "posicao": 562,
@@ -3371,35 +3371,35 @@
         "artista": "Kany García",
         "url": "https://www.cifraclub.com/kany-garcia/confieso/"
     },
-    "43537": {
+    "3321645": {
         "posicao": 563,
+        "nome": "Lo Que Necesito",
+        "artista": "Enoc Parra",
+        "url": "https://www.cifraclub.com/enoc-parra/lo-que-necesito/"
+    },
+    "43537": {
+        "posicao": 564,
         "nome": "He Barrido El Sol",
         "artista": "Los Tres",
         "url": "https://www.cifraclub.com/los-tres/he-barrido-el-sol/"
     },
     "3229829": {
-        "posicao": 564,
+        "posicao": 565,
         "nome": "Declaro a Cristo",
         "artista": "Factor de Cambio",
         "url": "https://www.cifraclub.com/factor-de-cambio/declaro-a-cristo/"
     },
     "17536": {
-        "posicao": 565,
+        "posicao": 566,
         "nome": "Todo Cambia",
         "artista": "Mercedes Sosa",
         "url": "https://www.cifraclub.com/mercedes-sosa/todo-cambia/"
     },
     "450314": {
-        "posicao": 566,
+        "posicao": 567,
         "nome": "Culpable o No",
         "artista": "Luis Miguel",
         "url": "https://www.cifraclub.com/luis-miguel/culpable-o-no/"
-    },
-    "11803": {
-        "posicao": 567,
-        "nome": "Feel",
-        "artista": "Robbie Williams",
-        "url": "https://www.cifraclub.com/robbie-williams/feel/"
     },
     "3846": {
         "posicao": 568,
@@ -3407,29 +3407,29 @@
         "artista": "Eric Clapton",
         "url": "https://www.cifraclub.com/eric-clapton/tears-in-heaven/"
     },
-    "5691": {
+    "11803": {
         "posicao": 569,
+        "nome": "Feel",
+        "artista": "Robbie Williams",
+        "url": "https://www.cifraclub.com/robbie-williams/feel/"
+    },
+    "5691": {
+        "posicao": 570,
         "nome": "Y si fuera ella",
         "artista": "Alejandro Sanz",
         "url": "https://www.cifraclub.com/alejandro-sanz/y-si-fuera-ella/"
     },
     "3304947": {
-        "posicao": 570,
+        "posicao": 571,
         "nome": "Ebrio de Amor",
         "artista": "Efecto Elegante",
         "url": "https://www.cifraclub.com/efecto-elegante/ebrio-de-amor/"
     },
     "78952": {
-        "posicao": 571,
+        "posicao": 572,
         "nome": "Aún Estás En Mis Sueños",
         "artista": "Rata Blanca",
         "url": "https://www.cifraclub.com/rata-blanca/aun-estas-en-mi-sueos/"
-    },
-    "376278": {
-        "posicao": 572,
-        "nome": "Como Mirarte",
-        "artista": "Sebastian Yatra",
-        "url": "https://www.cifraclub.com/sebastian-yatra/como-mirarte/"
     },
     "3116441": {
         "posicao": 573,
@@ -3437,35 +3437,35 @@
         "artista": "Milo j",
         "url": "https://www.cifraclub.com/milo-j/carencias-de-cordura/"
     },
-    "3407893": {
+    "376278": {
         "posicao": 574,
+        "nome": "Como Mirarte",
+        "artista": "Sebastian Yatra",
+        "url": "https://www.cifraclub.com/sebastian-yatra/como-mirarte/"
+    },
+    "3407893": {
+        "posicao": 575,
         "nome": "Great Expectation",
         "artista": "SIENNA SPIRO",
         "url": "https://www.cifraclub.com/sienna-spiro/great-expectation/"
     },
     "66247": {
-        "posicao": 575,
+        "posicao": 576,
         "nome": "Crimenes Perfectos",
         "artista": "Andrés Calamaro",
         "url": "https://www.cifraclub.com/andres-calamaro/crimenes-perfectos/"
     },
     "276963": {
-        "posicao": 576,
+        "posicao": 577,
         "nome": "Solamente Tú",
         "artista": "Pablo Alborán",
         "url": "https://www.cifraclub.com/pablo-alboran/solamente-tu/"
     },
     "456641": {
-        "posicao": 577,
+        "posicao": 578,
         "nome": "Deseo Eterno",
         "artista": "Marcos Brunet",
         "url": "https://www.cifraclub.com/marcos-brunet/deseo-eterno/"
-    },
-    "413535": {
-        "posicao": 578,
-        "nome": "Vasijas Rotas",
-        "artista": "Hillsong Worship",
-        "url": "https://www.cifraclub.com/hillsong-worship/vasijas-rotas/"
     },
     "690195": {
         "posicao": 579,
@@ -3473,107 +3473,107 @@
         "artista": "Los Terricolas",
         "url": "https://www.cifraclub.com/los-terricolas/te-juro-que-te-amo/"
     },
-    "708697": {
+    "413535": {
         "posicao": 580,
+        "nome": "Vasijas Rotas",
+        "artista": "Hillsong Worship",
+        "url": "https://www.cifraclub.com/hillsong-worship/vasijas-rotas/"
+    },
+    "708697": {
+        "posicao": 581,
         "nome": "Lava",
         "artista": "Disney",
         "url": "https://www.cifraclub.com/disney/lava-i-lava-you/"
     },
     "977332": {
-        "posicao": 581,
+        "posicao": 582,
         "nome": "He Decidido Seguir A Cristo",
         "artista": "Himnos de Gloria y Triunfo",
         "url": "https://www.cifraclub.com/himnos-de-gloria-y-triunfo/he-decidido-seguir-a-cristo/"
     },
     "355591": {
-        "posicao": 582,
+        "posicao": 583,
         "nome": "Nada Es Imposible",
         "artista": "Marco Barrientos",
         "url": "https://www.cifraclub.com/marco-barrientos/nada-es-imposible/"
     },
     "633625": {
-        "posicao": 583,
+        "posicao": 584,
         "nome": "Vine hasta aqui",
         "artista": "Los Piojos",
         "url": "https://www.cifraclub.com/los-piojos/vine-hasta-aqui/"
     },
     "172945": {
-        "posicao": 584,
+        "posicao": 585,
         "nome": "Te He Prometido",
         "artista": "Leo Dan",
         "url": "https://www.cifraclub.com/leo-dan/te-he-prometido/"
     },
     "267451": {
-        "posicao": 585,
+        "posicao": 586,
         "nome": "Bendito Jesús",
         "artista": "Danilo Montero",
         "url": "https://www.cifraclub.com/danilo-montero/bendito-jesus/"
     },
     "44390": {
-        "posicao": 586,
+        "posicao": 587,
         "nome": "Purple Rain",
         "artista": "Prince",
         "url": "https://www.cifraclub.com/prince/purple-rain/"
     },
     "3327909": {
-        "posicao": 587,
+        "posicao": 588,
         "nome": "El Fuego Arderá (Part. Aaron Perona)",
         "artista": "Enoc Parra",
         "url": "https://www.cifraclub.com/enoc-parra/el-fuego-ardera/"
     },
     "1418": {
-        "posicao": 588,
+        "posicao": 589,
         "nome": "Live Forever",
         "artista": "Oasis",
         "url": "https://www.cifraclub.com/oasis/live-forever/"
     },
     "294446": {
-        "posicao": 589,
+        "posicao": 590,
         "nome": "La de La Mala Suerte",
         "artista": "Jesse & Joy",
         "url": "https://www.cifraclub.com/jesse-joy/la-de-la-mala-suerte/"
     },
     "3400207": {
-        "posicao": 590,
+        "posicao": 591,
         "nome": "Pure",
         "artista": "SIENNA SPIRO",
         "url": "https://www.cifraclub.com/sienna-spiro/pure/"
     },
     "167123": {
-        "posicao": 591,
+        "posicao": 592,
         "nome": "Solo le pido a Dios",
         "artista": "León Gieco",
         "url": "https://www.cifraclub.com/leon-gieco/solo-le-pido-dios/"
     },
     "651938": {
-        "posicao": 592,
+        "posicao": 593,
         "nome": "Entre a mi pago sin golpear",
         "artista": "Mercedes Sosa",
         "url": "https://www.cifraclub.com/mercedes-sosa/entre-a-mi-pago-sin-golpear/"
     },
     "177558": {
-        "posicao": 593,
+        "posicao": 594,
         "nome": "No Me Doy Por Vencido",
         "artista": "Luis Fonsi",
         "url": "https://www.cifraclub.com/luis-fonsi/no-me-doy-por-vencido/"
     },
     "485559": {
-        "posicao": 594,
+        "posicao": 595,
         "nome": "Aceite Fresco",
         "artista": "New Wine",
         "url": "https://www.cifraclub.com/new-wine/aceite-fresco/"
     },
     "52367": {
-        "posicao": 595,
+        "posicao": 596,
         "nome": "No Dejes Que",
         "artista": "Caifanes",
         "url": "https://www.cifraclub.com/caifanes/no-dejes-que/"
-    },
-    "3192948": {
-        "posicao": 596,
-        "nome": "Cuidado Que Te Supero",
-        "artista": "Sharon y los Camperos del Chamame",
-        "url": "https://www.cifraclub.com/sharon-y-los-camperos-del-chamame/cuidado-que-te-supero/"
     },
     "508313": {
         "posicao": 597,
@@ -3581,35 +3581,35 @@
         "artista": "Intoxicados",
         "url": "https://www.cifraclub.com/intoxicados/fuiste-lo-mejor/"
     },
-    "47988": {
+    "3192948": {
         "posicao": 598,
+        "nome": "Cuidado Que Te Supero",
+        "artista": "Sharon y los Camperos del Chamame",
+        "url": "https://www.cifraclub.com/sharon-y-los-camperos-del-chamame/cuidado-que-te-supero/"
+    },
+    "47988": {
+        "posicao": 599,
         "nome": "Tan Enamorados",
         "artista": "Ricardo Montaner",
         "url": "https://www.cifraclub.com/ricardo-montaner/tan-enamorados/"
     },
     "79068": {
-        "posicao": 599,
+        "posicao": 600,
         "nome": "Perfecta",
         "artista": "Miranda!",
         "url": "https://www.cifraclub.com/miranda/perfecta/"
     },
     "3414067": {
-        "posicao": 600,
+        "posicao": 601,
         "nome": "LA GRACIOSA (part. Elvis Crespo)",
         "artista": "Quevedo",
         "url": "https://www.cifraclub.com/quevedo/la-graciosa-part-elvis-crespo/"
     },
     "60399": {
-        "posicao": 601,
+        "posicao": 602,
         "nome": "Si Tu No Vuelves",
         "artista": "Miguel Bosé",
         "url": "https://www.cifraclub.com/bose-miguel/si-tu-no-vuelves/"
-    },
-    "3113471": {
-        "posicao": 602,
-        "nome": "Confortas Pero Dañas (part. Resonancia Etérea)",
-        "artista": "Kidd Voodoo",
-        "url": "https://www.cifraclub.com/kidd-voodoo/confortas-pero-danas/"
     },
     "309888": {
         "posicao": 603,
@@ -3617,107 +3617,107 @@
         "artista": "Generación 12",
         "url": "https://www.cifraclub.com/generacion-12/dios-incomparable/"
     },
-    "29043": {
+    "3113471": {
         "posicao": 604,
+        "nome": "Confortas Pero Dañas (part. Resonancia Etérea)",
+        "artista": "Kidd Voodoo",
+        "url": "https://www.cifraclub.com/kidd-voodoo/confortas-pero-danas/"
+    },
+    "29043": {
+        "posicao": 605,
         "nome": "Color Esperanza",
         "artista": "Diego Torres",
         "url": "https://www.cifraclub.com/diego-torres-musicas/color-esperanza/"
     },
     "476025": {
-        "posicao": 605,
+        "posicao": 606,
         "nome": "Ven, Es Hora de Adorarle",
         "artista": "Marco Barrientos",
         "url": "https://www.cifraclub.com/marco-barrientos/ven-es-hora-de-adorarle/"
     },
     "480056": {
-        "posicao": 606,
+        "posicao": 607,
         "nome": "Talismán",
         "artista": "Rata Blanca",
         "url": "https://www.cifraclub.com/rata-blanca/talisman/"
     },
     "45815": {
-        "posicao": 607,
+        "posicao": 608,
         "nome": "Eres Todopoderoso",
         "artista": "Danilo Montero",
         "url": "https://www.cifraclub.com/danilo-montero/eres-todopoderoso/"
     },
     "66713": {
-        "posicao": 608,
+        "posicao": 609,
         "nome": "Lucha de Gigantes",
         "artista": "Nacha Pop",
         "url": "https://www.cifraclub.com/nacha-pop/lucha-de-gigantes/"
     },
     "372039": {
-        "posicao": 609,
+        "posicao": 610,
         "nome": "Con Quién Se Queda El Perro?",
         "artista": "Jesse & Joy",
         "url": "https://www.cifraclub.com/jesse-joy/con-quien-se-queda-el-perro/"
     },
     "502495": {
-        "posicao": 610,
+        "posicao": 611,
         "nome": "Vida En Abundancia",
         "artista": "Coro Pascua Joven San Isidro",
         "url": "https://www.cifraclub.com/coro-pascua-joven-san-isidro/vida-en-abundancia/"
     },
     "3133991": {
-        "posicao": 611,
+        "posicao": 612,
         "nome": "Una Cerveza (Part. Fuerza Regida)",
         "artista": "Manuel Turizo",
         "url": "https://www.cifraclub.com/manuel-turizo/una-cerveza-part-fuerza-regida/"
     },
     "3234554": {
-        "posicao": 612,
+        "posicao": 613,
         "nome": "Milagro Del Tiempo",
         "artista": "Duo Orellana Lucca",
         "url": "https://www.cifraclub.com/duo-orellana-lucca/milagro-del-tiempo/"
     },
     "466722": {
-        "posicao": 613,
+        "posicao": 614,
         "nome": "Un Año",
         "artista": "Sebastian Yatra",
         "url": "https://www.cifraclub.com/sebastian-yatra/un-ao/"
     },
     "735018": {
-        "posicao": 614,
+        "posicao": 615,
         "nome": "Mover Tu Corazón Espanol",
         "artista": "UPPERROOM",
         "url": "https://www.cifraclub.com/upper-room-music/mover-tu-corazon-espanol/"
     },
     "45462": {
-        "posicao": 615,
+        "posicao": 616,
         "nome": "Confesiones de Invierno",
         "artista": "Sui Generis",
         "url": "https://www.cifraclub.com/sui-generis/confesiones-de-invierno/"
     },
     "58073": {
-        "posicao": 616,
+        "posicao": 617,
         "nome": "Space Oddity",
         "artista": "David Bowie",
         "url": "https://www.cifraclub.com/david-bowie/a-space-oddity/"
     },
     "649553": {
-        "posicao": 617,
+        "posicao": 618,
         "nome": "Abba",
         "artista": "Marcos Brunet",
         "url": "https://www.cifraclub.com/marcos-brunet/abba/"
     },
     "106276": {
-        "posicao": 618,
+        "posicao": 619,
         "nome": "Paloma",
         "artista": "Andrés Calamaro",
         "url": "https://www.cifraclub.com/andres-calamaro/paloma/"
     },
     "729037": {
-        "posicao": 619,
+        "posicao": 620,
         "nome": "Supermercado",
         "artista": "Mon Laferte",
         "url": "https://www.cifraclub.com/mon-laferte/supermercado/"
-    },
-    "280916": {
-        "posicao": 620,
-        "nome": "No Soy De Aqui",
-        "artista": "Facundo Cabral",
-        "url": "https://www.cifraclub.com/facundo-cabral/no-soy-de-aqui/"
     },
     "223914": {
         "posicao": 621,
@@ -3725,47 +3725,47 @@
         "artista": "Fito Páez",
         "url": "https://www.cifraclub.com/fito-paez/al-lado-del-camino/"
     },
-    "662700": {
+    "280916": {
         "posicao": 622,
+        "nome": "No Soy De Aqui",
+        "artista": "Facundo Cabral",
+        "url": "https://www.cifraclub.com/facundo-cabral/no-soy-de-aqui/"
+    },
+    "662700": {
+        "posicao": 623,
         "nome": "Preciosa Sangre",
         "artista": "Cesar Dario",
         "url": "https://www.cifraclub.com/cesar-dario/preciosa-sangre/"
     },
     "17537": {
-        "posicao": 623,
+        "posicao": 624,
         "nome": "Como La Cigarra",
         "artista": "Mercedes Sosa",
         "url": "https://www.cifraclub.com/mercedes-sosa/como-la-cigarra/"
     },
     "477539": {
-        "posicao": 624,
+        "posicao": 625,
         "nome": "Como Si Fueras a Morir Mañana",
         "artista": "Leiva",
         "url": "https://www.cifraclub.com/leiva/como-si-fueras-a-morir-maana/"
     },
     "50830": {
-        "posicao": 625,
+        "posicao": 626,
         "nome": "Rasguña Las Piedras",
         "artista": "Sui Generis",
         "url": "https://www.cifraclub.com/sui-generis/rasgua-las-piedras/"
     },
     "11717": {
-        "posicao": 626,
+        "posicao": 627,
         "nome": "Let Down",
         "artista": "Radiohead",
         "url": "https://www.cifraclub.com/radiohead/let-down/"
     },
     "4309": {
-        "posicao": 627,
+        "posicao": 628,
         "nome": "Redemption Song",
         "artista": "Bob Marley",
         "url": "https://www.cifraclub.com/bob-marley/redemption-song/"
-    },
-    "63978": {
-        "posicao": 628,
-        "nome": "La Guitarra",
-        "artista": "Los Auténticos Decadentes",
-        "url": "https://www.cifraclub.com/los-autenticos-decadentes/la-guitarra/"
     },
     "33870": {
         "posicao": 629,
@@ -3773,47 +3773,47 @@
         "artista": "Soda Stereo",
         "url": "https://www.cifraclub.com/soda-stereo/signos/"
     },
-    "369019": {
+    "63978": {
         "posicao": 630,
+        "nome": "La Guitarra",
+        "artista": "Los Auténticos Decadentes",
+        "url": "https://www.cifraclub.com/los-autenticos-decadentes/la-guitarra/"
+    },
+    "369019": {
+        "posicao": 631,
         "nome": "Ecos de Amor",
         "artista": "Jesse & Joy",
         "url": "https://www.cifraclub.com/jesse-joy/ecos-de-amor/"
     },
     "311393": {
-        "posicao": 631,
+        "posicao": 632,
         "nome": "Supe Que Me Amabas",
         "artista": "Marcela Gandara",
         "url": "https://www.cifraclub.com/marcela-gandara/supe-que-me-amabas/"
     },
     "70614": {
-        "posicao": 632,
+        "posicao": 633,
         "nome": "Piano Man",
         "artista": "Billy Joel",
         "url": "https://www.cifraclub.com/billy-joel/piano-man/"
     },
     "54182": {
-        "posicao": 633,
+        "posicao": 634,
         "nome": "Como Camarón",
         "artista": "Estopa",
         "url": "https://www.cifraclub.com/estopa/como-camaron/"
     },
     "411425": {
-        "posicao": 634,
+        "posicao": 635,
         "nome": "Hay Libertad",
         "artista": "Adoración La IBI",
         "url": "https://www.cifraclub.com/la-ibi/hay-libertad/"
     },
     "615642": {
-        "posicao": 635,
+        "posicao": 636,
         "nome": "Glorioso",
         "artista": "BJ Putnam",
         "url": "https://www.cifraclub.com/bj-putnam/glorioso/"
-    },
-    "619469": {
-        "posicao": 636,
-        "nome": "Estar Contigo",
-        "artista": "Job Gonzalez",
-        "url": "https://www.cifraclub.com/job-gonzalez/estar-contigo/"
     },
     "407694": {
         "posicao": 637,
@@ -3821,17 +3821,17 @@
         "artista": "Morat",
         "url": "https://www.cifraclub.com/morat/como-te-atreves/"
     },
-    "711467": {
+    "619469": {
         "posicao": 638,
+        "nome": "Estar Contigo",
+        "artista": "Job Gonzalez",
+        "url": "https://www.cifraclub.com/job-gonzalez/estar-contigo/"
+    },
+    "711467": {
+        "posicao": 639,
         "nome": "El Fin Del Mundo (Part. Olaya Axolotes Mexicanos)",
         "artista": "La La Love You",
         "url": "https://www.cifraclub.com/la-la-love-you/el-fin-del-mundo/"
-    },
-    "495818": {
-        "posicao": 639,
-        "nome": "Heather",
-        "artista": "Conan Gray",
-        "url": "https://www.cifraclub.com/conan-gray/heather/"
     },
     "331417": {
         "posicao": 640,
@@ -3839,11 +3839,11 @@
         "artista": "Los Bunkers",
         "url": "https://www.cifraclub.com/los-bunkers/bailando-solo/"
     },
-    "725412": {
+    "495818": {
         "posicao": 641,
-        "nome": "Pablo Y Silas",
-        "artista": "Oasis Ministry",
-        "url": "https://www.cifraclub.com/oasis-ministry/pablo-y-silas/"
+        "nome": "Heather",
+        "artista": "Conan Gray",
+        "url": "https://www.cifraclub.com/conan-gray/heather/"
     },
     "396072": {
         "posicao": 642,
@@ -3851,41 +3851,41 @@
         "artista": "Christine D'Clario",
         "url": "https://www.cifraclub.com/christine-dclario/yahweh/"
     },
-    "28641": {
+    "725412": {
         "posicao": 643,
+        "nome": "Pablo Y Silas",
+        "artista": "Oasis Ministry",
+        "url": "https://www.cifraclub.com/oasis-ministry/pablo-y-silas/"
+    },
+    "28641": {
+        "posicao": 644,
         "nome": "Kilometros",
         "artista": "Sin Bandera",
         "url": "https://www.cifraclub.com/sin-bandera/kilometros/"
     },
     "6003": {
-        "posicao": 644,
+        "posicao": 645,
         "nome": "Where Is My Mind",
         "artista": "Pixies",
         "url": "https://www.cifraclub.com/pixies/where-is-my-mind/"
     },
     "462203": {
-        "posicao": 645,
+        "posicao": 646,
         "nome": "Danzo En El Río",
         "artista": "Miel San Marcos",
         "url": "https://www.cifraclub.com/miel-san-marcos/danzo-en-el-rio/"
     },
     "390488": {
-        "posicao": 646,
+        "posicao": 647,
         "nome": "Bajo El Agua",
         "artista": "Manuel Medrano",
         "url": "https://www.cifraclub.com/manuel-medrano/bajo-el-agua/"
     },
     "398370": {
-        "posicao": 647,
+        "posicao": 648,
         "nome": "Vivamos El Momento",
         "artista": "AIRBAG",
         "url": "https://www.cifraclub.com/airbag/vivamos-el-momento/"
-    },
-    "256038": {
-        "posicao": 648,
-        "nome": "Rolling In The Deep",
-        "artista": "Adele",
-        "url": "https://www.cifraclub.com/adele/rolling-in-the-deep/"
     },
     "159053": {
         "posicao": 649,
@@ -3893,11 +3893,11 @@
         "artista": "Cristian Castro",
         "url": "https://www.cifraclub.com/castro-cristian/lloviendo-estrellas/"
     },
-    "372245": {
+    "256038": {
         "posicao": 650,
-        "nome": "Love Yourself",
-        "artista": "Justin Bieber",
-        "url": "https://www.cifraclub.com/justin-bieber/love-yourself/"
+        "nome": "Rolling In The Deep",
+        "artista": "Adele",
+        "url": "https://www.cifraclub.com/adele/rolling-in-the-deep/"
     },
     "3256674": {
         "posicao": 651,
@@ -3929,17 +3929,17 @@
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com/the-beatles/do-you-want-to-know-secret/"
     },
-    "71203": {
-        "posicao": 656,
-        "nome": "Llueve Sobre La Ciudad",
-        "artista": "Los Bunkers",
-        "url": "https://www.cifraclub.com/los-bunkers/llueve-sobre-la-ciudad/"
-    },
     "179483": {
-        "posicao": 657,
+        "posicao": 656,
         "nome": "Sí Tu No Estás Aqui",
         "artista": "Rosana",
         "url": "https://www.cifraclub.com/rosana/si-tu-no-estas-aqui/"
+    },
+    "71203": {
+        "posicao": 657,
+        "nome": "Llueve Sobre La Ciudad",
+        "artista": "Los Bunkers",
+        "url": "https://www.cifraclub.com/los-bunkers/llueve-sobre-la-ciudad/"
     },
     "71044": {
         "posicao": 658,
@@ -3947,29 +3947,29 @@
         "artista": "Intoxicados",
         "url": "https://www.cifraclub.com/intoxicados/esta-saliendo-el-sol/"
     },
-    "229382": {
-        "posicao": 659,
-        "nome": "Mientes",
-        "artista": "Camila",
-        "url": "https://www.cifraclub.com/camila/mientes/"
-    },
     "158885": {
-        "posicao": 660,
+        "posicao": 659,
         "nome": "Eso Y Más",
         "artista": "Joan Sebastian",
         "url": "https://www.cifraclub.com/joan-sebastian/eso-mas/"
     },
-    "603652": {
-        "posicao": 661,
-        "nome": "No Me Arrepiento de Este Amor",
-        "artista": "Gilda",
-        "url": "https://www.cifraclub.com/gilda/no-me-arrepiento-de-este-amor/"
+    "229382": {
+        "posicao": 660,
+        "nome": "Mientes",
+        "artista": "Camila",
+        "url": "https://www.cifraclub.com/camila/mientes/"
     },
     "475403": {
-        "posicao": 662,
+        "posicao": 661,
         "nome": "Asi Como David Danzaba",
         "artista": "Iglesia de Cristo Ebenezer Honduras",
         "url": "https://www.cifraclub.com/iglesia-de-cristo-ebenezer-honduras/asi-como-david-danzaba/"
+    },
+    "603652": {
+        "posicao": 662,
+        "nome": "No Me Arrepiento de Este Amor",
+        "artista": "Gilda",
+        "url": "https://www.cifraclub.com/gilda/no-me-arrepiento-de-este-amor/"
     },
     "468900": {
         "posicao": 663,
@@ -3977,17 +3977,17 @@
         "artista": "Banda MS de Sergio Lizárraga",
         "url": "https://www.cifraclub.com/banda-ms/el-color-de-tus-ojos/"
     },
-    "588588": {
-        "posicao": 664,
-        "nome": "Algo está pasando",
-        "artista": "Oasis Ministry",
-        "url": "https://www.cifraclub.com/oasis-ministry/algo-esta-pasando/"
-    },
     "679960": {
-        "posicao": 665,
+        "posicao": 664,
         "nome": "Costumbres Argentinas",
         "artista": "Abuelos de la Nada",
         "url": "https://www.cifraclub.com/abuelos-de-la-nada/costumbres-argentinas/"
+    },
+    "588588": {
+        "posicao": 665,
+        "nome": "Algo está pasando",
+        "artista": "Oasis Ministry",
+        "url": "https://www.cifraclub.com/oasis-ministry/algo-esta-pasando/"
     },
     "598440": {
         "posicao": 666,
@@ -4001,17 +4001,17 @@
         "artista": "Los Jaivas",
         "url": "https://www.cifraclub.com/los-jaivas/mira-ninita/"
     },
-    "3143498": {
-        "posicao": 668,
-        "nome": "Dame a Cristo",
-        "artista": "Marcos Brunet",
-        "url": "https://www.cifraclub.com/marcos-brunet/dame-a-cristo/"
-    },
     "702004": {
-        "posicao": 669,
+        "posicao": 668,
         "nome": "El Trato",
         "artista": "Cruzando El Charco",
         "url": "https://www.cifraclub.com/cruzando-el-charco/el-trato/"
+    },
+    "3143498": {
+        "posicao": 669,
+        "nome": "Dame a Cristo",
+        "artista": "Marcos Brunet",
+        "url": "https://www.cifraclub.com/marcos-brunet/dame-a-cristo/"
     },
     "915": {
         "posicao": 670,
@@ -4067,35 +4067,35 @@
         "artista": "Tan Bionica",
         "url": "https://www.cifraclub.com/tan-bionica/la-melodia-de-dios/"
     },
-    "459283": {
-        "posicao": 679,
-        "nome": "Cante Al Señor",
-        "artista": "Ingrid Rosario",
-        "url": "https://www.cifraclub.com/ingrid-rosario/cante-al-seor/"
-    },
     "38885": {
-        "posicao": 680,
+        "posicao": 679,
         "nome": "I'm Yours",
         "artista": "Jason Mraz",
         "url": "https://www.cifraclub.com/jason-mraz/im-yours/"
     },
     "268314": {
-        "posicao": 681,
+        "posicao": 680,
         "nome": "Durazno Sangrando",
         "artista": "Luis Alberto Spinetta",
         "url": "https://www.cifraclub.com/luis-alberto-spinetta/durazno-sangrando/"
     },
-    "619271": {
-        "posicao": 682,
-        "nome": "Tatuajes",
-        "artista": "Joan Sebastian",
-        "url": "https://www.cifraclub.com/joan-sebastian/tatuajes/"
+    "459283": {
+        "posicao": 681,
+        "nome": "Cante Al Señor",
+        "artista": "Ingrid Rosario",
+        "url": "https://www.cifraclub.com/ingrid-rosario/cante-al-seor/"
     },
     "399394": {
-        "posicao": 683,
+        "posicao": 682,
         "nome": "Padre Nuestro",
         "artista": "Marcos Brunet",
         "url": "https://www.cifraclub.com/marcos-brunet/padre-nuestro/"
+    },
+    "619271": {
+        "posicao": 683,
+        "nome": "Tatuajes",
+        "artista": "Joan Sebastian",
+        "url": "https://www.cifraclub.com/joan-sebastian/tatuajes/"
     },
     "487": {
         "posicao": 684,
@@ -4109,11 +4109,11 @@
         "artista": "Danilo Montero",
         "url": "https://www.cifraclub.com/danilo-montero/el-es-el-rey/"
     },
-    "656002": {
+    "212141": {
         "posicao": 686,
-        "nome": "Bueno es alabar",
-        "artista": "Danilo Montero",
-        "url": "https://www.cifraclub.com/danilo-montero/bueno-es-alabar/"
+        "nome": "Balderrama",
+        "artista": "Mercedes Sosa",
+        "url": "https://www.cifraclub.com/mercedes-sosa/balderrama/"
     },
     "451130": {
         "posicao": 687,
@@ -4121,11 +4121,11 @@
         "artista": "TINI",
         "url": "https://www.cifraclub.com/martina-stoessel/consejo-de-amor/"
     },
-    "212141": {
+    "656002": {
         "posicao": 688,
-        "nome": "Balderrama",
-        "artista": "Mercedes Sosa",
-        "url": "https://www.cifraclub.com/mercedes-sosa/balderrama/"
+        "nome": "Bueno es alabar",
+        "artista": "Danilo Montero",
+        "url": "https://www.cifraclub.com/danilo-montero/bueno-es-alabar/"
     },
     "7564": {
         "posicao": 689,
@@ -4133,17 +4133,17 @@
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com/the-beatles/while-my-guitar-gently-weeps/"
     },
-    "31487": {
-        "posicao": 690,
-        "nome": "Lonely Day",
-        "artista": "System Of A Down",
-        "url": "https://www.cifraclub.com/system-of-a-down/lonely-day/"
-    },
     "375975": {
-        "posicao": 691,
+        "posicao": 690,
         "nome": "Himno de Victoria",
         "artista": "Danny Berrios",
         "url": "https://www.cifraclub.com/danny-berrios/himno-de-victoria/"
+    },
+    "31487": {
+        "posicao": 691,
+        "nome": "Lonely Day",
+        "artista": "System Of A Down",
+        "url": "https://www.cifraclub.com/system-of-a-down/lonely-day/"
     },
     "100236": {
         "posicao": 692,
@@ -4163,17 +4163,17 @@
         "artista": "Majo y Dan",
         "url": "https://www.cifraclub.com/majo-y-dan/tu-proveeras-part-christine-d-clario/"
     },
-    "46883": {
-        "posicao": 695,
-        "nome": "Mi Vestido Azul",
-        "artista": "Floricienta",
-        "url": "https://www.cifraclub.com/floricienta/mi-vestido-azul/"
-    },
     "13296": {
-        "posicao": 696,
+        "posicao": 695,
         "nome": "Hasta Que Me Olvides",
         "artista": "Luis Miguel",
         "url": "https://www.cifraclub.com/luis-miguel/hasta-que-me-olvides/"
+    },
+    "46883": {
+        "posicao": 696,
+        "nome": "Mi Vestido Azul",
+        "artista": "Floricienta",
+        "url": "https://www.cifraclub.com/floricienta/mi-vestido-azul/"
     },
     "412614": {
         "posicao": 697,
@@ -4187,17 +4187,17 @@
         "artista": "Scorpions",
         "url": "https://www.cifraclub.com/scorpions/still-lovin-you/"
     },
-    "234282": {
-        "posicao": 699,
-        "nome": "Sumergeme",
-        "artista": "Jesús Adrián Romero",
-        "url": "https://www.cifraclub.com/jesus-adrian-romero/sumergeme/"
-    },
     "12317": {
-        "posicao": 700,
+        "posicao": 699,
         "nome": "Seven Nation Army",
         "artista": "The White Stripes",
         "url": "https://www.cifraclub.com/the-white-stripes/seven-nation-army/"
+    },
+    "234282": {
+        "posicao": 700,
+        "nome": "Sumergeme",
+        "artista": "Jesús Adrián Romero",
+        "url": "https://www.cifraclub.com/jesus-adrian-romero/sumergeme/"
     },
     "432835": {
         "posicao": 701,
@@ -4211,23 +4211,23 @@
         "artista": "Canciones Infantiles",
         "url": "https://www.cifraclub.com/canciones-para-nios/estrellita/"
     },
-    "74311": {
+    "3337593": {
         "posicao": 703,
+        "nome": "Háblame Papá",
+        "artista": "Mayo Music",
+        "url": "https://www.cifraclub.com/mayo-music/hablame-papa/"
+    },
+    "74311": {
+        "posicao": 704,
         "nome": "Por Una Cabeza",
         "artista": "Carlos Gardel",
         "url": "https://www.cifraclub.com/carlos-gardel/por-una-cabeza/"
     },
     "3335175": {
-        "posicao": 704,
+        "posicao": 705,
         "nome": "Volvamos Al Inicio",
         "artista": "Enoc Parra",
         "url": "https://www.cifraclub.com/enoc-parra/volvamos-al-inicio/"
-    },
-    "3337593": {
-        "posicao": 705,
-        "nome": "Háblame Papá",
-        "artista": "Mayo Music",
-        "url": "https://www.cifraclub.com/mayo-music/hablame-papa/"
     },
     "3400219": {
         "posicao": 706,
@@ -4343,11 +4343,11 @@
         "artista": "Los Rancheros",
         "url": "https://www.cifraclub.com/los-rancheros/el-che-los-rolling-stones/"
     },
-    "438231": {
+    "333538": {
         "posicao": 725,
-        "nome": "La Incondicional",
-        "artista": "Luis Miguel",
-        "url": "https://www.cifraclub.com/luis-miguel/la-incondicional/"
+        "nome": "Todas Las Hojas Son Del Viento",
+        "artista": "Luis Alberto Spinetta",
+        "url": "https://www.cifraclub.com/luis-alberto-spinetta/todas-las-hojas-son-del-viento/"
     },
     "443443": {
         "posicao": 726,
@@ -4355,11 +4355,11 @@
         "artista": "Los Tipitos",
         "url": "https://www.cifraclub.com/los-tipitos/silncio/"
     },
-    "333538": {
+    "438231": {
         "posicao": 727,
-        "nome": "Todas Las Hojas Son Del Viento",
-        "artista": "Luis Alberto Spinetta",
-        "url": "https://www.cifraclub.com/luis-alberto-spinetta/todas-las-hojas-son-del-viento/"
+        "nome": "La Incondicional",
+        "artista": "Luis Miguel",
+        "url": "https://www.cifraclub.com/luis-miguel/la-incondicional/"
     },
     "18996": {
         "posicao": 728,
@@ -4373,17 +4373,17 @@
         "artista": "Selena",
         "url": "https://www.cifraclub.com/selena/como-la-flor/"
     },
-    "121099": {
-        "posicao": 730,
-        "nome": "Careless Whisper",
-        "artista": "George Michael",
-        "url": "https://www.cifraclub.com/george-michael/careless-whisper/"
-    },
     "78171": {
-        "posicao": 731,
+        "posicao": 730,
         "nome": "I Don't Want To Miss A Thing",
         "artista": "Aerosmith",
         "url": "https://www.cifraclub.com/aerosmith/i-dont-wanna-miss-thing/"
+    },
+    "121099": {
+        "posicao": 731,
+        "nome": "Careless Whisper",
+        "artista": "George Michael",
+        "url": "https://www.cifraclub.com/george-michael/careless-whisper/"
     },
     "452897": {
         "posicao": 732,
@@ -4433,29 +4433,29 @@
         "artista": "Marcos Witt",
         "url": "https://www.cifraclub.com/marcos-witt/al-que-es-digno/"
     },
-    "584979": {
-        "posicao": 740,
-        "nome": "El Amor Después Del Amor",
-        "artista": "Fito Páez",
-        "url": "https://www.cifraclub.com/fito-paez/el-amor-despues-del-amor/"
-    },
     "403590": {
-        "posicao": 741,
+        "posicao": 740,
         "nome": "Yo Quería",
         "artista": "Cristian Castro",
         "url": "https://www.cifraclub.com/castro-cristian/yo-queria/"
     },
-    "467992": {
-        "posicao": 742,
-        "nome": "Inagotable",
-        "artista": "Living",
-        "url": "https://www.cifraclub.com/living/inagotable/"
+    "584979": {
+        "posicao": 741,
+        "nome": "El Amor Después Del Amor",
+        "artista": "Fito Páez",
+        "url": "https://www.cifraclub.com/fito-paez/el-amor-despues-del-amor/"
     },
     "663739": {
-        "posicao": 743,
+        "posicao": 742,
         "nome": "Tu Amor",
         "artista": "Charly García",
         "url": "https://www.cifraclub.com/charly-garcia/tu-amor/"
+    },
+    "467992": {
+        "posicao": 743,
+        "nome": "Inagotable",
+        "artista": "Living",
+        "url": "https://www.cifraclub.com/living/inagotable/"
     },
     "41509": {
         "posicao": 744,
@@ -4523,17 +4523,17 @@
         "artista": "Grupo Hope",
         "url": "https://www.cifraclub.com/grupo-hope/rodeado-part-tba-worship-misael-j-y-carolina-ponciano/"
     },
-    "3122598": {
-        "posicao": 755,
-        "nome": "Mesías",
-        "artista": "Averly Morillo",
-        "url": "https://www.cifraclub.com/averly-morillo/mesias/"
-    },
     "667280": {
-        "posicao": 756,
+        "posicao": 755,
         "nome": "A donde iré",
         "artista": "Neway Music",
         "url": "https://www.cifraclub.com/neway/a-donde-ire/"
+    },
+    "3122598": {
+        "posicao": 756,
+        "nome": "Mesías",
+        "artista": "Averly Morillo",
+        "url": "https://www.cifraclub.com/averly-morillo/mesias/"
     },
     "84147": {
         "posicao": 757,
@@ -4541,11 +4541,11 @@
         "artista": "Jesse & Joy",
         "url": "https://www.cifraclub.com/jesse-joy/espacio-sideral/"
     },
-    "324981": {
+    "426787": {
         "posicao": 758,
-        "nome": "Sweater Weather",
-        "artista": "The Neighbourhood",
-        "url": "https://www.cifraclub.com/the-neighbourhood/sweater-weather/"
+        "nome": "Océanos (Donde Mis Pies Pueden Fallar)",
+        "artista": "Hillsong UNITED",
+        "url": "https://www.cifraclub.com/hillsong-united/oceanos-donde-mis-pies-pueden-fallar/"
     },
     "24790": {
         "posicao": 759,
@@ -4553,11 +4553,11 @@
         "artista": "Jorge Drexler",
         "url": "https://www.cifraclub.com/jorge-drexler/todo-se-transforma/"
     },
-    "426787": {
+    "324981": {
         "posicao": 760,
-        "nome": "Océanos (Donde Mis Pies Pueden Fallar)",
-        "artista": "Hillsong UNITED",
-        "url": "https://www.cifraclub.com/hillsong-united/oceanos-donde-mis-pies-pueden-fallar/"
+        "nome": "Sweater Weather",
+        "artista": "The Neighbourhood",
+        "url": "https://www.cifraclub.com/the-neighbourhood/sweater-weather/"
     },
     "3115925": {
         "posicao": 761,
@@ -4565,17 +4565,17 @@
         "artista": "Los Abuelos de La Nada",
         "url": "https://www.cifraclub.com/los-abuelos-de-la-nada/lunes-por-la-madrugada/"
     },
-    "50832": {
-        "posicao": 762,
-        "nome": "Donde Manda Marinero",
-        "artista": "Andrés Calamaro",
-        "url": "https://www.cifraclub.com/andres-calamaro/donde-manda-marinero/"
-    },
     "91362": {
-        "posicao": 763,
+        "posicao": 762,
         "nome": "El Baile De Los Que Sobran",
         "artista": "Los Prisioneros",
         "url": "https://www.cifraclub.com/los-prisioneros/el-baile-de-los-que-sobran/"
+    },
+    "50832": {
+        "posicao": 763,
+        "nome": "Donde Manda Marinero",
+        "artista": "Andrés Calamaro",
+        "url": "https://www.cifraclub.com/andres-calamaro/donde-manda-marinero/"
     },
     "78055": {
         "posicao": 764,
@@ -4613,17 +4613,17 @@
         "artista": "Olivia Rodrigo",
         "url": "https://www.cifraclub.com/olivia-rodrigo/vampire/"
     },
-    "111511": {
-        "posicao": 770,
-        "nome": "Viento",
-        "artista": "Caifanes",
-        "url": "https://www.cifraclub.com/caifanes/viento/"
-    },
     "636927": {
-        "posicao": 771,
+        "posicao": 770,
         "nome": "Cinema Vérité",
         "artista": "Serú Girán",
         "url": "https://www.cifraclub.com/seru-giran/cinema-verite/"
+    },
+    "111511": {
+        "posicao": 771,
+        "nome": "Viento",
+        "artista": "Caifanes",
+        "url": "https://www.cifraclub.com/caifanes/viento/"
     },
     "292618": {
         "posicao": 772,
@@ -4631,17 +4631,17 @@
         "artista": "Patricio Rey y Sus Redonditos de Ricota",
         "url": "https://www.cifraclub.com/los-redonditos-de-ricota/etiqueta-negra/"
     },
-    "412208": {
-        "posicao": 773,
-        "nome": "Lo Mejor Para Los Dos (Todo de Cabeza)",
-        "artista": "Kaleth Morales",
-        "url": "https://www.cifraclub.com/kaleth-morales/todo-de-cabeza/"
-    },
     "608096": {
-        "posicao": 774,
+        "posicao": 773,
         "nome": "Amor Violento",
         "artista": "Los Tres",
         "url": "https://www.cifraclub.com/los-tres/amor-violento/"
+    },
+    "412208": {
+        "posicao": 774,
+        "nome": "Lo Mejor Para Los Dos (Todo de Cabeza)",
+        "artista": "Kaleth Morales",
+        "url": "https://www.cifraclub.com/kaleth-morales/todo-de-cabeza/"
     },
     "664636": {
         "posicao": 775,
@@ -4649,23 +4649,23 @@
         "artista": "Ciro y los Persas",
         "url": "https://www.cifraclub.com/ciro-los-persas/astros/"
     },
-    "3119954": {
-        "posicao": 776,
-        "nome": "Unción En El Aire (part. Cales Louima)",
-        "artista": "World Worship",
-        "url": "https://www.cifraclub.com/world-worship/uncion-en-el-aire-part-cales-louima/"
-    },
     "461120": {
-        "posicao": 777,
+        "posicao": 776,
         "nome": "Eres Mi Amigo Fiel",
         "artista": "Coalo Zamorano",
         "url": "https://www.cifraclub.com/coalo-zamorano/eres-mi-amigo-fiel/"
     },
     "592854": {
-        "posicao": 778,
+        "posicao": 777,
         "nome": "Cambiare mi tristeza",
         "artista": "Vertical",
         "url": "https://www.cifraclub.com/vertical/cambiare-mi-tristeza/"
+    },
+    "3119954": {
+        "posicao": 778,
+        "nome": "Unción En El Aire (part. Cales Louima)",
+        "artista": "World Worship",
+        "url": "https://www.cifraclub.com/world-worship/uncion-en-el-aire-part-cales-louima/"
     },
     "43382": {
         "posicao": 779,
@@ -4673,23 +4673,23 @@
         "artista": "Reik",
         "url": "https://www.cifraclub.com/reik/noviembre-sin-ti/"
     },
-    "22215": {
+    "1568": {
         "posicao": 780,
+        "nome": "Under The Bridge",
+        "artista": "Red Hot Chili Peppers",
+        "url": "https://www.cifraclub.com/red-hot-chili-peppers/under-the-bridge/"
+    },
+    "22215": {
+        "posicao": 781,
         "nome": "Take Me Home, Country Roads",
         "artista": "John Denver",
         "url": "https://www.cifraclub.com/john-denver/take-me-home-country-roads/"
     },
     "417608": {
-        "posicao": 781,
+        "posicao": 782,
         "nome": "Irresponsables",
         "artista": "Babasónicos",
         "url": "https://www.cifraclub.com/babasonicos/irresponsables/"
-    },
-    "1568": {
-        "posicao": 782,
-        "nome": "Under The Bridge",
-        "artista": "Red Hot Chili Peppers",
-        "url": "https://www.cifraclub.com/red-hot-chili-peppers/under-the-bridge/"
     },
     "159269": {
         "posicao": 783,
@@ -4757,17 +4757,17 @@
         "artista": "Macha y El Bloque Depresivo",
         "url": "https://www.cifraclub.com/bloque-depresivo/aunque-no-sea-conmigo/"
     },
-    "3144426": {
-        "posicao": 794,
-        "nome": "Un Segundo",
-        "artista": "Hakuna Group Music",
-        "url": "https://www.cifraclub.com/hakuna-group-music/un-segundo/"
-    },
     "471708": {
-        "posicao": 795,
+        "posicao": 794,
         "nome": "Cristina",
         "artista": "Sebastian Yatra",
         "url": "https://www.cifraclub.com/sebastian-yatra/cristina/"
+    },
+    "3144426": {
+        "posicao": 795,
+        "nome": "Un Segundo",
+        "artista": "Hakuna Group Music",
+        "url": "https://www.cifraclub.com/hakuna-group-music/un-segundo/"
     },
     "212070": {
         "posicao": 796,
@@ -4775,17 +4775,17 @@
         "artista": "Jesús Adrián Romero",
         "url": "https://www.cifraclub.com/jesus-adrian-romero/que-seria-de-mi/"
     },
-    "35712": {
-        "posicao": 797,
-        "nome": "Historia De Taxi",
-        "artista": "Ricardo Arjona",
-        "url": "https://www.cifraclub.com/arjona-ricardo/historia-de-taxi/"
-    },
     "477067": {
-        "posicao": 798,
+        "posicao": 797,
         "nome": "Alguien Como Tú",
         "artista": "Jósean Log",
         "url": "https://www.cifraclub.com/josean-log/alguien-como-tu/"
+    },
+    "35712": {
+        "posicao": 798,
+        "nome": "Historia De Taxi",
+        "artista": "Ricardo Arjona",
+        "url": "https://www.cifraclub.com/arjona-ricardo/historia-de-taxi/"
     },
     "3137800": {
         "posicao": 799,
@@ -4811,23 +4811,23 @@
         "artista": "Himnos de Gloria y Triunfo",
         "url": "https://www.cifraclub.com/himnos-de-gloria-y-triunfo/en-la-cruz/"
     },
-    "25424": {
-        "posicao": 803,
-        "nome": "Feel Good Inc.",
-        "artista": "Gorillaz",
-        "url": "https://www.cifraclub.com/gorillaz/feel-good-inc/"
-    },
     "458": {
-        "posicao": 804,
+        "posicao": 803,
         "nome": "Love Me Do",
         "artista": "The Beatles",
         "url": "https://www.cifraclub.com/the-beatles/love-me-do/"
     },
     "61793": {
-        "posicao": 805,
+        "posicao": 804,
         "nome": "Clara",
         "artista": "No Te Va Gustar",
         "url": "https://www.cifraclub.com/no-te-va-gustar/clara/"
+    },
+    "25424": {
+        "posicao": 805,
+        "nome": "Feel Good Inc.",
+        "artista": "Gorillaz",
+        "url": "https://www.cifraclub.com/gorillaz/feel-good-inc/"
     },
     "636957": {
         "posicao": 806,
@@ -4835,29 +4835,29 @@
         "artista": "Serú Girán",
         "url": "https://www.cifraclub.com/seru-giran/viernes-3-am/"
     },
-    "3188930": {
-        "posicao": 807,
-        "nome": "Danzaré",
-        "artista": "Averly Morillo",
-        "url": "https://www.cifraclub.com/averly-morillo/danzare/"
-    },
     "3127329": {
-        "posicao": 808,
+        "posicao": 807,
         "nome": "Jubilo Medley",
         "artista": "Apostolic Assembly",
         "url": "https://www.cifraclub.com/apostoclic-assembly/jubilo-medley/"
     },
-    "3265543": {
-        "posicao": 809,
-        "nome": "Recordé",
-        "artista": "Milo j",
-        "url": "https://www.cifraclub.com/milo-j/recorde/"
+    "3188930": {
+        "posicao": 808,
+        "nome": "Danzaré",
+        "artista": "Averly Morillo",
+        "url": "https://www.cifraclub.com/averly-morillo/danzare/"
     },
     "680291": {
-        "posicao": 810,
+        "posicao": 809,
         "nome": "Como Zaqueo",
         "artista": "Alexis Peña",
         "url": "https://www.cifraclub.com/alexis-pena/como-zaqueo/"
+    },
+    "3265543": {
+        "posicao": 810,
+        "nome": "Recordé",
+        "artista": "Milo j",
+        "url": "https://www.cifraclub.com/milo-j/recorde/"
     },
     "41421": {
         "posicao": 811,
@@ -4877,17 +4877,17 @@
         "artista": "Averly Morillo",
         "url": "https://www.cifraclub.com/averly-morillo/estoy-convencido/"
     },
-    "51099": {
-        "posicao": 814,
-        "nome": "Para Tu Amor",
-        "artista": "Juanes",
-        "url": "https://www.cifraclub.com/juanes/para-tu-amor/"
-    },
     "34803": {
-        "posicao": 815,
+        "posicao": 814,
         "nome": "El Problema",
         "artista": "Ricardo Arjona",
         "url": "https://www.cifraclub.com/arjona-ricardo/el-problema/"
+    },
+    "51099": {
+        "posicao": 815,
+        "nome": "Para Tu Amor",
+        "artista": "Juanes",
+        "url": "https://www.cifraclub.com/juanes/para-tu-amor/"
     },
     "3388489": {
         "posicao": 816,
@@ -4979,29 +4979,29 @@
         "artista": "Grover Washington Jr.",
         "url": "https://www.cifraclub.com/grover-washington-jr/just-the-two-of-us/"
     },
-    "33645": {
-        "posicao": 831,
-        "nome": "Tabaco y Chanel",
-        "artista": "Bacilos",
-        "url": "https://www.cifraclub.com/bacilos/tabaco-chanel/"
-    },
     "363476": {
-        "posicao": 832,
+        "posicao": 831,
         "nome": "Prometiste",
         "artista": "Pepe Aguilar",
         "url": "https://www.cifraclub.com/pepe-aguilar/prometiste-unplugged/"
     },
-    "3184093": {
-        "posicao": 833,
-        "nome": "A Ti Te Alabo",
-        "artista": "Hakuna Group Music",
-        "url": "https://www.cifraclub.com/hakuna-group-music/a-ti-te-alabo/"
+    "33645": {
+        "posicao": 832,
+        "nome": "Tabaco y Chanel",
+        "artista": "Bacilos",
+        "url": "https://www.cifraclub.com/bacilos/tabaco-chanel/"
     },
     "704988": {
-        "posicao": 834,
+        "posicao": 833,
         "nome": "Drivers License",
         "artista": "Olivia Rodrigo",
         "url": "https://www.cifraclub.com/olivia-rodrigo/drivers-license/"
+    },
+    "3184093": {
+        "posicao": 834,
+        "nome": "A Ti Te Alabo",
+        "artista": "Hakuna Group Music",
+        "url": "https://www.cifraclub.com/hakuna-group-music/a-ti-te-alabo/"
     },
     "439136": {
         "posicao": 835,
@@ -5009,35 +5009,35 @@
         "artista": "Juan Carlos Alvarado",
         "url": "https://www.cifraclub.com/juan-carlos-alvarado/cantare-al-seor-por-siempre/"
     },
-    "456750": {
-        "posicao": 836,
-        "nome": "Un Destello de Tu Gloria",
-        "artista": "Jesús Adrián Romero",
-        "url": "https://www.cifraclub.com/jesus-adrian-romero/un-destello-de-tu-gloria/"
-    },
     "615479": {
-        "posicao": 837,
+        "posicao": 836,
         "nome": "Sobre alas de paloma",
         "artista": "Billy Bunster",
         "url": "https://www.cifraclub.com/billy-bunster/sobre-alas-de-paloma/"
     },
-    "93587": {
+    "456750": {
+        "posicao": 837,
+        "nome": "Un Destello de Tu Gloria",
+        "artista": "Jesús Adrián Romero",
+        "url": "https://www.cifraclub.com/jesus-adrian-romero/un-destello-de-tu-gloria/"
+    },
+    "3379269": {
         "posicao": 838,
+        "nome": "Vale La Pena",
+        "artista": "Enoc Parra",
+        "url": "https://www.cifraclub.com/enoc-parra/vale-la-pena/"
+    },
+    "93587": {
+        "posicao": 839,
         "nome": "Sabes",
         "artista": "Reik",
         "url": "https://www.cifraclub.com/reik/sabes/"
     },
     "4603": {
-        "posicao": 839,
+        "posicao": 840,
         "nome": "Plush",
         "artista": "Stone Temple Pilots",
         "url": "https://www.cifraclub.com/stone-temple-pilots/plush/"
-    },
-    "3379269": {
-        "posicao": 840,
-        "nome": "Vale La Pena",
-        "artista": "Enoc Parra",
-        "url": "https://www.cifraclub.com/enoc-parra/vale-la-pena/"
     },
     "3381085": {
         "posicao": 841,
@@ -5093,17 +5093,17 @@
         "artista": "Vox Dei",
         "url": "https://www.cifraclub.com/vox-dei/ritmo-y-blues-con-armonica/"
     },
-    "471904": {
-        "posicao": 850,
-        "nome": "Porque Te Vas",
-        "artista": "Jeanette",
-        "url": "https://www.cifraclub.com/jeanette/porque-te-vas/"
-    },
     "3376251": {
-        "posicao": 851,
+        "posicao": 850,
         "nome": "begged",
         "artista": "Olivia Rodrigo",
         "url": "https://www.cifraclub.com/olivia-rodrigo/begged/"
+    },
+    "471904": {
+        "posicao": 851,
+        "nome": "Porque Te Vas",
+        "artista": "Jeanette",
+        "url": "https://www.cifraclub.com/jeanette/porque-te-vas/"
     },
     "664795": {
         "posicao": 852,
@@ -5117,17 +5117,17 @@
         "artista": "Patricio Rey y Sus Redonditos de Ricota",
         "url": "https://www.cifraclub.com/los-redonditos-de-ricota/preso-en-mi-ciudad/"
     },
-    "3133968": {
-        "posicao": 854,
-        "nome": "Una Vez",
-        "artista": "Marcos Brunet",
-        "url": "https://www.cifraclub.com/marcos-brunet/una-vez/"
-    },
     "631060": {
-        "posicao": 855,
+        "posicao": 854,
         "nome": "El pibe de los astilleros",
         "artista": "Patricio Rey y Sus Redonditos de Ricota",
         "url": "https://www.cifraclub.com/los-redonditos-de-ricota/el-pibe-de-los-astilleros/"
+    },
+    "3133968": {
+        "posicao": 855,
+        "nome": "Una Vez",
+        "artista": "Marcos Brunet",
+        "url": "https://www.cifraclub.com/marcos-brunet/una-vez/"
     },
     "8679": {
         "posicao": 856,
@@ -5153,35 +5153,35 @@
         "artista": "Un Corazón",
         "url": "https://www.cifraclub.com/un-corazon/salmo-23-part-marco-barrientos/"
     },
-    "304448": {
+    "3111635": {
         "posicao": 860,
+        "nome": "Si No Estás",
+        "artista": "iñigo quintero",
+        "url": "https://www.cifraclub.com/inigo-quintero/si-no-estas/"
+    },
+    "304448": {
+        "posicao": 861,
         "nome": "Brindis",
         "artista": "Soledad",
         "url": "https://www.cifraclub.com/soledad-pastorutti/brindis/"
     },
     "418988": {
-        "posicao": 861,
+        "posicao": 862,
         "nome": "El Derecho de Vivir En Paz",
         "artista": "Victor Jara",
         "url": "https://www.cifraclub.com/victor-jara/el-derecho-de-vivir-en-paz/"
     },
-    "3111635": {
-        "posicao": 862,
-        "nome": "Si No Estás",
-        "artista": "iñigo quintero",
-        "url": "https://www.cifraclub.com/inigo-quintero/si-no-estas/"
-    },
-    "4881": {
-        "posicao": 863,
-        "nome": "Highway To Hell",
-        "artista": "AC/DC",
-        "url": "https://www.cifraclub.com/ac-dc/highway-to-hell/"
-    },
     "8331": {
-        "posicao": 864,
+        "posicao": 863,
         "nome": "Your Love",
         "artista": "The Outfield",
         "url": "https://www.cifraclub.com/the-outfield/your-love/"
+    },
+    "4881": {
+        "posicao": 864,
+        "nome": "Highway To Hell",
+        "artista": "AC/DC",
+        "url": "https://www.cifraclub.com/ac-dc/highway-to-hell/"
     },
     "243385": {
         "posicao": 865,
@@ -5213,11 +5213,11 @@
         "artista": "Los Prisioneros",
         "url": "https://www.cifraclub.com/los-prisioneros/por-que-no-se-van/"
     },
-    "403682": {
+    "652270": {
         "posicao": 870,
-        "nome": "La Carretera",
-        "artista": "Prince Royce",
-        "url": "https://www.cifraclub.com/prince-royce/la-carretera/"
+        "nome": "Amamos tu presencia",
+        "artista": "Miel San Marcos",
+        "url": "https://www.cifraclub.com/miel-san-marcos/amamos-tu-presencia/"
     },
     "424537": {
         "posicao": 871,
@@ -5225,23 +5225,23 @@
         "artista": "Las Pastillas del Abuelo",
         "url": "https://www.cifraclub.com/las-pastillas-del-abuelo/que-es-dios/"
     },
-    "652270": {
+    "403682": {
         "posicao": 872,
-        "nome": "Amamos tu presencia",
-        "artista": "Miel San Marcos",
-        "url": "https://www.cifraclub.com/miel-san-marcos/amamos-tu-presencia/"
-    },
-    "342326": {
-        "posicao": 873,
-        "nome": "Aqui Estoy",
-        "artista": "Jaime Murrell",
-        "url": "https://www.cifraclub.com/jaime-murrel/aqui-estoy/"
+        "nome": "La Carretera",
+        "artista": "Prince Royce",
+        "url": "https://www.cifraclub.com/prince-royce/la-carretera/"
     },
     "70756": {
-        "posicao": 874,
+        "posicao": 873,
         "nome": "Triste Cancion de Amor",
         "artista": "El Tri",
         "url": "https://www.cifraclub.com/el-tri/triste-cancion-de-amor/"
+    },
+    "342326": {
+        "posicao": 874,
+        "nome": "Aqui Estoy",
+        "artista": "Jaime Murrell",
+        "url": "https://www.cifraclub.com/jaime-murrel/aqui-estoy/"
     },
     "257580": {
         "posicao": 875,
@@ -5255,17 +5255,17 @@
         "artista": "Generación 12",
         "url": "https://www.cifraclub.com/generacion-12/tu-amor-no-tiene-fin/"
     },
-    "17949": {
-        "posicao": 877,
-        "nome": "Don't Stop Me Now",
-        "artista": "Queen",
-        "url": "https://www.cifraclub.com/queen/dont-stop-me-now/"
-    },
     "24840": {
-        "posicao": 878,
+        "posicao": 877,
         "nome": "Me Haces Bien",
         "artista": "Jorge Drexler",
         "url": "https://www.cifraclub.com/jorge-drexler/me-haces-bien/"
+    },
+    "17949": {
+        "posicao": 878,
+        "nome": "Don't Stop Me Now",
+        "artista": "Queen",
+        "url": "https://www.cifraclub.com/queen/dont-stop-me-now/"
     },
     "375981": {
         "posicao": 879,
@@ -5291,17 +5291,17 @@
         "artista": "La Vela Puerca",
         "url": "https://www.cifraclub.com/la-vela-puerca/va-escampar/"
     },
-    "457220": {
-        "posicao": 883,
-        "nome": "Si Puedes Perdonar",
-        "artista": "El Libro de La Vida",
-        "url": "https://www.cifraclub.com/el-libro-de-la-vida/si-puedes-perdonar/"
-    },
     "494949": {
-        "posicao": 884,
+        "posicao": 883,
         "nome": "Mi Muñeca Me Habló",
         "artista": "31 Minutos",
         "url": "https://www.cifraclub.com/31-minutos/mi-mueca-me-hablo/"
+    },
+    "457220": {
+        "posicao": 884,
+        "nome": "Si Puedes Perdonar",
+        "artista": "El Libro de La Vida",
+        "url": "https://www.cifraclub.com/el-libro-de-la-vida/si-puedes-perdonar/"
     },
     "656021": {
         "posicao": 885,
@@ -5369,17 +5369,17 @@
         "artista": "Bersuit Vergarabat",
         "url": "https://www.cifraclub.com/bersuit-vergarabat/negra-murguera/"
     },
-    "379162": {
-        "posicao": 896,
-        "nome": "Eres",
-        "artista": "Soy Luna",
-        "url": "https://www.cifraclub.com/soy-luna/eres/"
-    },
     "422921": {
-        "posicao": 897,
+        "posicao": 896,
         "nome": "Igual Que Ayer",
         "artista": "Los Enanitos Verdes",
         "url": "https://www.cifraclub.com/enanitos-verdes/igual-que-ayer/"
+    },
+    "379162": {
+        "posicao": 897,
+        "nome": "Eres",
+        "artista": "Soy Luna",
+        "url": "https://www.cifraclub.com/soy-luna/eres/"
     },
     "480823": {
         "posicao": 898,
@@ -5387,17 +5387,17 @@
         "artista": "New West",
         "url": "https://www.cifraclub.com/new-west/those-eyes/"
     },
-    "112279": {
-        "posicao": 899,
-        "nome": "De Mi",
-        "artista": "Charly García",
-        "url": "https://www.cifraclub.com/charly-garcia/de-mi/"
-    },
     "57228": {
-        "posicao": 900,
+        "posicao": 899,
         "nome": "Te Llevo Para Que Me Lleves",
         "artista": "Gustavo Cerati",
         "url": "https://www.cifraclub.com/gustavo-cerati/te-llevo-para-que-me-lleves/"
+    },
+    "112279": {
+        "posicao": 900,
+        "nome": "De Mi",
+        "artista": "Charly García",
+        "url": "https://www.cifraclub.com/charly-garcia/de-mi/"
     },
     "505540": {
         "posicao": 901,
@@ -5423,29 +5423,29 @@
         "artista": "Pedro Tata Barahona",
         "url": "https://www.cifraclub.com/pedro-tata-barahona/te-vas-de-mi/"
     },
-    "593177": {
-        "posicao": 905,
-        "nome": "Mujeres Divinas",
-        "artista": "Vicente Fernández",
-        "url": "https://www.cifraclub.com/vicente-fernandez/mujeres-divinas/"
-    },
-    "489602": {
-        "posicao": 906,
-        "nome": "A Dónde Vamos",
-        "artista": "Morat",
-        "url": "https://www.cifraclub.com/morat/a-donde-vamos/"
-    },
     "176791": {
-        "posicao": 907,
+        "posicao": 905,
         "nome": "No Me Soltarás",
         "artista": "Rojo",
         "url": "https://www.cifraclub.com/rojo/no-me-soltaras/"
     },
     "337330": {
-        "posicao": 908,
+        "posicao": 906,
         "nome": "Abrázame Muy Fuerte",
         "artista": "Juan Gabriel",
         "url": "https://www.cifraclub.com/juan-gabriel/abrazame-muy-fuerte/"
+    },
+    "489602": {
+        "posicao": 907,
+        "nome": "A Dónde Vamos",
+        "artista": "Morat",
+        "url": "https://www.cifraclub.com/morat/a-donde-vamos/"
+    },
+    "593177": {
+        "posicao": 908,
+        "nome": "Mujeres Divinas",
+        "artista": "Vicente Fernández",
+        "url": "https://www.cifraclub.com/vicente-fernandez/mujeres-divinas/"
     },
     "5412": {
         "posicao": 909,
@@ -5471,23 +5471,23 @@
         "artista": "Jaime Murrell",
         "url": "https://www.cifraclub.com/jaime-murrel/oh-moradora-de-sion/"
     },
-    "431260": {
+    "57549": {
         "posicao": 913,
-        "nome": "Yo Soy Tu Amigo Fiel",
-        "artista": "Músicas Infantis",
-        "url": "https://www.cifraclub.com/temas-infantis/yo-soy-tu-amigo-fiel/"
-    },
-    "476857": {
-        "posicao": 914,
-        "nome": "Hasta La Locura",
-        "artista": "Pablo Martinez",
-        "url": "https://www.cifraclub.com/pablo-martinez/hasta-la-locura/"
+        "nome": "Me Gustas Mucho",
+        "artista": "Viejas Locas",
+        "url": "https://www.cifraclub.com/viejas-locas/me-gustas-mucho/"
     },
     "1414": {
-        "posicao": 915,
+        "posicao": 914,
         "nome": "Champagne Supernova",
         "artista": "Oasis",
         "url": "https://www.cifraclub.com/oasis/champagne-supernova/"
+    },
+    "476857": {
+        "posicao": 915,
+        "nome": "Hasta La Locura",
+        "artista": "Pablo Martinez",
+        "url": "https://www.cifraclub.com/pablo-martinez/hasta-la-locura/"
     },
     "14848": {
         "posicao": 916,
@@ -5495,11 +5495,11 @@
         "artista": "Juan Luis Guerra 4.40",
         "url": "https://www.cifraclub.com/juan-luis-guerra/te-regalo-una-rosa/"
     },
-    "57549": {
+    "431260": {
         "posicao": 917,
-        "nome": "Me Gustas Mucho",
-        "artista": "Viejas Locas",
-        "url": "https://www.cifraclub.com/viejas-locas/me-gustas-mucho/"
+        "nome": "Yo Soy Tu Amigo Fiel",
+        "artista": "Músicas Infantis",
+        "url": "https://www.cifraclub.com/temas-infantis/yo-soy-tu-amigo-fiel/"
     },
     "126130": {
         "posicao": 918,
@@ -5513,11 +5513,11 @@
         "artista": "Junior H",
         "url": "https://www.cifraclub.com/junior-h/las-noches/"
     },
-    "3170214": {
+    "175348": {
         "posicao": 920,
-        "nome": "Otra Noche de Llorar",
-        "artista": "Mon Laferte",
-        "url": "https://www.cifraclub.com/mon-laferte/otra-noche-de-llorar/"
+        "nome": "Mi Gin Tonic",
+        "artista": "Andrés Calamaro",
+        "url": "https://www.cifraclub.com/andres-calamaro/mi-gin-tonic/"
     },
     "158107": {
         "posicao": 921,
@@ -5525,17 +5525,17 @@
         "artista": "Charly García",
         "url": "https://www.cifraclub.com/charly-garcia/ojos-de-video-tape/"
     },
-    "175348": {
-        "posicao": 922,
-        "nome": "Mi Gin Tonic",
-        "artista": "Andrés Calamaro",
-        "url": "https://www.cifraclub.com/andres-calamaro/mi-gin-tonic/"
-    },
     "652025": {
-        "posicao": 923,
+        "posicao": 922,
         "nome": "Zamba para olvidar",
         "artista": "Mercedes Sosa",
         "url": "https://www.cifraclub.com/mercedes-sosa/zamba-para-olvidar/"
+    },
+    "3170214": {
+        "posicao": 923,
+        "nome": "Otra Noche de Llorar",
+        "artista": "Mon Laferte",
+        "url": "https://www.cifraclub.com/mon-laferte/otra-noche-de-llorar/"
     },
     "461": {
         "posicao": 924,
@@ -5573,17 +5573,17 @@
         "artista": "Julieta Venegas",
         "url": "https://www.cifraclub.com/venegas-julieta/andar-conmigo/"
     },
-    "459": {
-        "posicao": 930,
-        "nome": "I Want To Hold Your Hand",
-        "artista": "The Beatles",
-        "url": "https://www.cifraclub.com/the-beatles/i-want-to-hold-your-hand/"
-    },
     "17175": {
-        "posicao": 931,
+        "posicao": 930,
         "nome": "Enjoy the silence",
         "artista": "Depeche Mode",
         "url": "https://www.cifraclub.com/depeche-mode/enjoy-the-silence/"
+    },
+    "459": {
+        "posicao": 931,
+        "nome": "I Want To Hold Your Hand",
+        "artista": "The Beatles",
+        "url": "https://www.cifraclub.com/the-beatles/i-want-to-hold-your-hand/"
     },
     "510080": {
         "posicao": 932,
@@ -5651,17 +5651,17 @@
         "artista": "Los Delinqüentes",
         "url": "https://www.cifraclub.com/los-delinquentes/el-aire-de-la-calle/"
     },
-    "291622": {
-        "posicao": 943,
-        "nome": "Insisto",
-        "artista": "Ciro y los Persas",
-        "url": "https://www.cifraclub.com/ciro-los-persas/insisto/"
-    },
     "405662": {
-        "posicao": 944,
+        "posicao": 943,
         "nome": "Personalmente",
         "artista": "Las Pelotas",
         "url": "https://www.cifraclub.com/las-pelotas/personalmente/"
+    },
+    "291622": {
+        "posicao": 944,
+        "nome": "Insisto",
+        "artista": "Ciro y los Persas",
+        "url": "https://www.cifraclub.com/ciro-los-persas/insisto/"
     },
     "411316": {
         "posicao": 945,
@@ -5687,65 +5687,65 @@
         "artista": "Lasso",
         "url": "https://www.cifraclub.com/lasso/en-otra-vida-part-yami-safdie/"
     },
-    "281320": {
+    "/shakira/no/": {
         "posicao": 949,
+        "nome": "No",
+        "artista": "Shakira",
+        "url": "https://www.cifraclub.com/shakira/no/"
+    },
+    "281320": {
+        "posicao": 950,
         "nome": "Loca",
         "artista": "Chico Trujillo",
         "url": "https://www.cifraclub.com/chico-trujillo/loca/"
     },
     "7838": {
-        "posicao": 950,
+        "posicao": 951,
         "nome": "Complicated",
         "artista": "Avril Lavigne",
         "url": "https://www.cifraclub.com/avril-lavigne/complicated/"
     },
     "648969": {
-        "posicao": 951,
+        "posicao": 952,
         "nome": "La danza de las libélulas",
         "artista": "Manuel Garcia",
         "url": "https://www.cifraclub.com/manuel-garcia/la-danza-de-las-libelulas/"
     },
     "15699": {
-        "posicao": 952,
+        "posicao": 953,
         "nome": "A Horse With No Name",
         "artista": "America",
         "url": "https://www.cifraclub.com/america/a-horse-with-no-name/"
     },
     "125436": {
-        "posicao": 953,
+        "posicao": 954,
         "nome": "El Lado Oscuro",
         "artista": "Jarabe de Palo",
         "url": "https://www.cifraclub.com/jarabe-de-palo/el-lado-oscuro/"
     },
     "3390649": {
-        "posicao": 954,
+        "posicao": 955,
         "nome": "Washed",
         "artista": "ELEVATION RHYTHM",
         "url": "https://www.cifraclub.com/elevation-rhythm/washed/"
     },
     "331537": {
-        "posicao": 955,
+        "posicao": 956,
         "nome": "Toma Tu Lugar",
         "artista": "Marcos Brunet",
         "url": "https://www.cifraclub.com/marcos-brunet/toma-tu-lugar/"
     },
     "3230963": {
-        "posicao": 956,
+        "posicao": 957,
         "nome": "Vuelve Arder",
         "artista": "Coral La Luz",
         "url": "https://www.cifraclub.com/coral-la-luz/vuelve-arder/"
     },
     "3300656": {
-        "posicao": 957,
+        "posicao": 958,
         "nome": "Yo Soy La Ofrenda",
         "artista": "Montesanto",
         "url": "https://www.cifraclub.com/montesanto/yo-soy-la-ofrenda/"
-    },
-    "648813": {
-        "posicao": 958,
-        "nome": "Mi nueva primavera",
-        "artista": "Los Manseros Santiagueños",
-        "url": "https://www.cifraclub.com/los-manseros-santiagueos/mi-nueva-primavera/"
     },
     "687544": {
         "posicao": 959,
@@ -5753,41 +5753,41 @@
         "artista": "Nestor Garnica",
         "url": "https://www.cifraclub.com/nestor-garnica/despues-de-tantos-anos/"
     },
-    "59898": {
+    "648813": {
         "posicao": 960,
+        "nome": "Mi nueva primavera",
+        "artista": "Los Manseros Santiagueños",
+        "url": "https://www.cifraclub.com/los-manseros-santiagueos/mi-nueva-primavera/"
+    },
+    "59898": {
+        "posicao": 961,
         "nome": "Y Nos Dieron Las Diez",
         "artista": "Joaquín Sabina",
         "url": "https://www.cifraclub.com/joaquin-sabina/y-nos-dieron-las-diez/"
     },
     "192282": {
-        "posicao": 961,
+        "posicao": 962,
         "nome": "El Sitio de Mi Recreo",
         "artista": "Antonio Vega",
         "url": "https://www.cifraclub.com/antonio-vega/el-sitio-de-mi-recreo/"
     },
     "624909": {
-        "posicao": 962,
+        "posicao": 963,
         "nome": "Paz en la tormenta",
         "artista": "Renan Carias",
         "url": "https://www.cifraclub.com/renan-carias/paz-en-la-tormenta/"
     },
     "1195": {
-        "posicao": 963,
+        "posicao": 964,
         "nome": "One",
         "artista": "Metallica",
         "url": "https://www.cifraclub.com/metallica/one/"
     },
     "93027": {
-        "posicao": 964,
+        "posicao": 965,
         "nome": "Desconfio",
         "artista": "Pappo",
         "url": "https://www.cifraclub.com/pappo/desconfio/"
-    },
-    "13089": {
-        "posicao": 965,
-        "nome": "La Barca",
-        "artista": "Luis Miguel",
-        "url": "https://www.cifraclub.com/luis-miguel/la-barca/"
     },
     "7718": {
         "posicao": 966,
@@ -5795,101 +5795,101 @@
         "artista": "The Rolling Stones",
         "url": "https://www.cifraclub.com/the-rolling-stones/angie/"
     },
-    "143792": {
+    "13089": {
         "posicao": 967,
+        "nome": "La Barca",
+        "artista": "Luis Miguel",
+        "url": "https://www.cifraclub.com/luis-miguel/la-barca/"
+    },
+    "143792": {
+        "posicao": 968,
         "nome": "Quien Fuera",
         "artista": "Silvio Rodriguez",
         "url": "https://www.cifraclub.com/silvio-rodriguez/quien-fuera/"
     },
     "221407": {
-        "posicao": 968,
+        "posicao": 969,
         "nome": "Arde La Ciudad",
         "artista": "La Mancha de Rolando",
         "url": "https://www.cifraclub.com/la-mancha-de-rolando/arde-la-ciudad/"
     },
     "590510": {
-        "posicao": 969,
+        "posicao": 970,
         "nome": "El señor es mi rey",
         "artista": "Inspiracion",
         "url": "https://www.cifraclub.com/inspiracion/el-senor-es-mi-rey/"
     },
     "641261": {
-        "posicao": 970,
+        "posicao": 971,
         "nome": "Noches de insomnio",
         "artista": "AIRBAG",
         "url": "https://www.cifraclub.com/airbag/noches-de-insomnio/"
     },
     "82171": {
-        "posicao": 971,
+        "posicao": 972,
         "nome": "Amor De Verano",
         "artista": "AIRBAG",
         "url": "https://www.cifraclub.com/airbag/amor-de-verano/"
     },
     "745206": {
-        "posicao": 972,
+        "posicao": 973,
         "nome": "Exit Music (For A Film)",
         "artista": "Radiohead",
         "url": "https://www.cifraclub.com/radiohead/exit-music-for-a-film/"
     },
     "3130723": {
-        "posicao": 973,
+        "posicao": 974,
         "nome": "Si Antes Te Hubiera Conocido",
         "artista": "KAROL G",
         "url": "https://www.cifraclub.com/karol-g/si-antes-te-hubiera-conocido/"
     },
     "317030": {
-        "posicao": 974,
+        "posicao": 975,
         "nome": "La Gloria de Dios",
         "artista": "Ricardo Montaner",
         "url": "https://www.cifraclub.com/ricardo-montaner/la-gloria-de-dios/"
     },
     "498836": {
-        "posicao": 975,
+        "posicao": 976,
         "nome": "Cabildo Y Juramento",
         "artista": "Conociendo Rusia",
         "url": "https://www.cifraclub.com/conociendo-rusia/cabildo-y-juramento/"
     },
     "620812": {
-        "posicao": 976,
+        "posicao": 977,
         "nome": "Preso",
         "artista": "José José",
         "url": "https://www.cifraclub.com/jose-jose/preso/"
     },
     "723533": {
-        "posicao": 977,
+        "posicao": 978,
         "nome": "Tacones Rojos",
         "artista": "Sebastian Yatra",
         "url": "https://www.cifraclub.com/sebastian-yatra/tacones-rojos/"
     },
     "46672": {
-        "posicao": 978,
+        "posicao": 979,
         "nome": "Angel de los perdedores",
         "artista": "El Soldado",
         "url": "https://www.cifraclub.com/el-soldado/angel-de-los-perdedores/"
     },
     "3099577": {
-        "posicao": 979,
+        "posicao": 980,
         "nome": "Suelto",
         "artista": "Sarai Rivera",
         "url": "https://www.cifraclub.com/sarai-rivera/suelto/"
     },
     "3416959": {
-        "posicao": 980,
+        "posicao": 981,
         "nome": "El Rey Gobierna Todo",
         "artista": "Barak",
         "url": "https://www.cifraclub.com/barak/el-rey-gobierna-todo/"
     },
     "1285": {
-        "posicao": 981,
+        "posicao": 982,
         "nome": "About a Girl",
         "artista": "Nirvana",
         "url": "https://www.cifraclub.com/nirvana/about-girl/"
-    },
-    "336228": {
-        "posicao": 982,
-        "nome": "A el alto y sublime",
-        "artista": "Jesús Adrián Romero",
-        "url": "https://www.cifraclub.com/jesus-adrian-romero/a-el-alto-y-sublime/"
     },
     "3213134": {
         "posicao": 983,
@@ -5897,11 +5897,11 @@
         "artista": "Emi Valenzuela",
         "url": "https://www.cifraclub.com/emi-valenzuela/ahi-viene-yeshua/"
     },
-    "500846": {
+    "336228": {
         "posicao": 984,
-        "nome": "Rompecabezas de Amor",
-        "artista": "Las Pastillas del Abuelo",
-        "url": "https://www.cifraclub.com/las-pastillas-del-abuelo/rompecabezas-de-amor/"
+        "nome": "A el alto y sublime",
+        "artista": "Jesús Adrián Romero",
+        "url": "https://www.cifraclub.com/jesus-adrian-romero/a-el-alto-y-sublime/"
     },
     "648729": {
         "posicao": 985,
@@ -5915,88 +5915,88 @@
         "artista": "Olivia Rodrigo",
         "url": "https://www.cifraclub.com/olivia-rodrigo/traitor/"
     },
-    "242783": {
+    "500846": {
         "posicao": 987,
+        "nome": "Rompecabezas de Amor",
+        "artista": "Las Pastillas del Abuelo",
+        "url": "https://www.cifraclub.com/las-pastillas-del-abuelo/rompecabezas-de-amor/"
+    },
+    "242783": {
+        "posicao": 988,
         "nome": "Noche No Te Vayas",
         "artista": "Los Tres Caballeros",
         "url": "https://www.cifraclub.com/los-tres-caballeros/noche-no-te-vayas/"
     },
     "598073": {
-        "posicao": 988,
+        "posicao": 989,
         "nome": "Cordero y León",
         "artista": "Evan Craft",
         "url": "https://www.cifraclub.com/evan-craft/cordero-y-leon/"
     },
     "3132605": {
-        "posicao": 989,
+        "posicao": 990,
         "nome": "Sailor Song",
         "artista": "Gigi Perez",
         "url": "https://www.cifraclub.com/gigi-perez/sailor-song/"
     },
     "649868": {
-        "posicao": 990,
+        "posicao": 991,
         "nome": "Rey de gloria",
         "artista": "Marco Barrientos",
         "url": "https://www.cifraclub.com/marco-barrientos/rey-de-gloria/"
     },
+    "3111113": {
+        "posicao": 992,
+        "nome": "Para Siempre",
+        "artista": "Benjamín Amadeo",
+        "url": "https://www.cifraclub.com/benjamin-amadeo/para-siempre/"
+    },
     "9909": {
-        "posicao": 991,
+        "posicao": 993,
         "nome": "Father And Son",
         "artista": "Cat Stevens",
         "url": "https://www.cifraclub.com/cat-stevens/father-and-son/"
     },
     "21286": {
-        "posicao": 992,
+        "posicao": 994,
         "nome": "If I Ain't Got You",
         "artista": "Alicia Keys",
         "url": "https://www.cifraclub.com/alicia-keys/if-aint-got-you/"
     },
     "440241": {
-        "posicao": 993,
+        "posicao": 995,
         "nome": "Asi Fue",
         "artista": "Dread Mar I",
         "url": "https://www.cifraclub.com/dread-mar-i/asi-fue/"
     },
-    "3111113": {
-        "posicao": 994,
-        "nome": "Para Siempre",
-        "artista": "Benjamín Amadeo",
-        "url": "https://www.cifraclub.com/benjamin-amadeo/para-siempre/"
-    },
     "590723": {
-        "posicao": 995,
+        "posicao": 996,
         "nome": "Fuerte no soy",
         "artista": "Intocable",
         "url": "https://www.cifraclub.com/intocable/fuerte-no-soy/"
     },
     "594258": {
-        "posicao": 996,
+        "posicao": 997,
         "nome": "Bye Bye",
         "artista": "Vilma Palma e Vampiros",
         "url": "https://www.cifraclub.com/vilma-palma-e-vampiros/bye-bye/"
     },
     "125842": {
-        "posicao": 997,
+        "posicao": 998,
         "nome": "Mi Universo",
         "artista": "Jesús Adrián Romero",
         "url": "https://www.cifraclub.com/jesus-adrian-romero/mi-universo/"
     },
     "450241": {
-        "posicao": 998,
+        "posicao": 999,
         "nome": "El Pueblo Unido",
         "artista": "Inti-Illimani",
         "url": "https://www.cifraclub.com/inti-illimani/el-pueblo-unido/"
     },
-    "716715": {
-        "posicao": 999,
-        "nome": "Happier Than Ever",
-        "artista": "Billie Eilish",
-        "url": "https://www.cifraclub.com/billie-eilish/happier-than-ever/"
-    },
-    "191322": {
+    "474805": {
         "posicao": 1000,
-        "nome": "Loco",
-        "artista": "Andrés Calamaro",
-        "url": "https://www.cifraclub.com/andres-calamaro/loco/"
+        "nome": "Cariñito",
+        "artista": "Los Hijos del Sol",
+        "url": "https://www.cifraclub.com/los-hijos-del-sol/cariito/"
     }
 }

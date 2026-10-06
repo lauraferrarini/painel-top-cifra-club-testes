@@ -2339,17 +2339,17 @@
         "artista": "Grupo Menos É Mais",
         "url": "https://www.cifraclub.com.br/grupo-menos-e-mais/p-do-pecado-part-simone-mendes/"
     },
-    "459397": {
-        "posicao": 391,
-        "nome": "No Céu Dos Braços Teus (El Condor Pasa)",
-        "artista": "Di Paullo e Paulino",
-        "url": "https://www.cifraclub.com.br/di-paulo-e-paulino/no-ceu-dos-bracos-teus-el-condor-pasa/"
-    },
     "2395": {
-        "posicao": 392,
+        "posicao": 391,
         "nome": "Ovelha Negra",
         "artista": "Rita Lee",
         "url": "https://www.cifraclub.com.br/rita-lee/ovelha-negra/"
+    },
+    "459397": {
+        "posicao": 392,
+        "nome": "No Céu Dos Braços Teus (El Condor Pasa)",
+        "artista": "Di Paullo e Paulino",
+        "url": "https://www.cifraclub.com.br/di-paulo-e-paulino/no-ceu-dos-bracos-teus-el-condor-pasa/"
     },
     "433955": {
         "posicao": 393,
@@ -3113,17 +3113,17 @@
         "artista": "Nando Reis",
         "url": "https://www.cifraclub.com.br/nando-reis/all-star/"
     },
-    "6997": {
-        "posicao": 520,
-        "nome": "Depois do Prazer",
-        "artista": "Só Pra Contrariar (SPC)",
-        "url": "https://www.cifraclub.com.br/so-pra-contrariar/depois-do-prazer/"
-    },
     "10620": {
-        "posicao": 521,
+        "posicao": 520,
         "nome": "Olhos Certos",
         "artista": "Detonautas",
         "url": "https://www.cifraclub.com.br/detonautas/olhos-certos/"
+    },
+    "6997": {
+        "posicao": 521,
+        "nome": "Depois do Prazer",
+        "artista": "Só Pra Contrariar (SPC)",
+        "url": "https://www.cifraclub.com.br/so-pra-contrariar/depois-do-prazer/"
     },
     "444616": {
         "posicao": 522,
@@ -3401,17 +3401,17 @@
         "artista": "Bruno Mars",
         "url": "https://www.cifraclub.com.br/bruno-mars/risk-it-all/"
     },
-    "2195": {
-        "posicao": 568,
-        "nome": "É Preciso Saber Viver",
-        "artista": "Titãs",
-        "url": "https://www.cifraclub.com.br/titas/e-preciso-saber-viver/"
-    },
     "271815": {
-        "posicao": 569,
+        "posicao": 568,
         "nome": "Eu Escolho Deus",
         "artista": "Thalles Roberto",
         "url": "https://www.cifraclub.com.br/thalles-roberto/eu-escolho-deus/"
+    },
+    "2195": {
+        "posicao": 569,
+        "nome": "É Preciso Saber Viver",
+        "artista": "Titãs",
+        "url": "https://www.cifraclub.com.br/titas/e-preciso-saber-viver/"
     },
     "3107706": {
         "posicao": 570,
@@ -3455,17 +3455,17 @@
         "artista": "O Rappa",
         "url": "https://www.cifraclub.com.br/o-rappa/pescador-de-ilusoes/"
     },
-    "364773": {
-        "posicao": 577,
-        "nome": "Alô Porteiro",
-        "artista": "Marília Mendonça",
-        "url": "https://www.cifraclub.com.br/marilia-mendonca/alo-porteiro/"
-    },
     "244560": {
-        "posicao": 578,
+        "posicao": 577,
         "nome": "O Rei Está Voltando - 547",
         "artista": "Harpa Cristã",
         "url": "https://www.cifraclub.com.br/harpa-crista/o-rei-esta-voltando/"
+    },
+    "364773": {
+        "posicao": 578,
+        "nome": "Alô Porteiro",
+        "artista": "Marília Mendonça",
+        "url": "https://www.cifraclub.com.br/marilia-mendonca/alo-porteiro/"
     },
     "372245": {
         "posicao": 579,
@@ -3971,17 +3971,17 @@
         "artista": "Corinhos Evangélicos",
         "url": "https://www.cifraclub.com.br/corinhos-evangelicos/eu-navegarei/"
     },
-    "407979": {
-        "posicao": 663,
-        "nome": "Renovo",
-        "artista": "Sarah Farias",
-        "url": "https://www.cifraclub.com.br/sarah-farias/renovo/"
-    },
     "4603": {
-        "posicao": 664,
+        "posicao": 663,
         "nome": "Plush",
         "artista": "Stone Temple Pilots",
         "url": "https://www.cifraclub.com.br/stone-temple-pilots/plush/"
+    },
+    "407979": {
+        "posicao": 664,
+        "nome": "Renovo",
+        "artista": "Sarah Farias",
+        "url": "https://www.cifraclub.com.br/sarah-farias/renovo/"
     },
     "507457": {
         "posicao": 665,
@@ -4157,17 +4157,17 @@
         "artista": "Luan Santana",
         "url": "https://www.cifraclub.com.br/luan-santana/eu-voce-o-mar-e-ela/"
     },
-    "25173": {
-        "posicao": 694,
-        "nome": "Preciso te encontrar",
-        "artista": "Rick & Renner",
-        "url": "https://www.cifraclub.com.br/rick-e-renner/preciso-te-encontrar/"
-    },
     "3389": {
-        "posicao": 695,
+        "posicao": 694,
         "nome": "Nada Por Mim",
         "artista": "Kid Abelha",
         "url": "https://www.cifraclub.com.br/kid-abelha/nada-por-mim/"
+    },
+    "25173": {
+        "posicao": 695,
+        "nome": "Preciso te encontrar",
+        "artista": "Rick & Renner",
+        "url": "https://www.cifraclub.com.br/rick-e-renner/preciso-te-encontrar/"
     },
     "3215504": {
         "posicao": 696,
@@ -5273,17 +5273,17 @@
         "artista": "André Aquino",
         "url": "https://www.cifraclub.com.br/andre-aquino/jesus-meu-primeiro-amor/"
     },
-    "3119745": {
-        "posicao": 880,
-        "nome": "Beautiful Things",
-        "artista": "Benson Boone",
-        "url": "https://www.cifraclub.com.br/benson-boone/beautiful-things/"
-    },
     "249996": {
-        "posicao": 881,
+        "posicao": 880,
         "nome": "Vem Com Josué Lutar Em Jericó",
         "artista": "Corinhos Evangélicos",
         "url": "https://www.cifraclub.com.br/corinhos-evangelicos/vem-com-josue-lutar-em-jerici/"
+    },
+    "3119745": {
+        "posicao": 881,
+        "nome": "Beautiful Things",
+        "artista": "Benson Boone",
+        "url": "https://www.cifraclub.com.br/benson-boone/beautiful-things/"
     },
     "3135359": {
         "posicao": 882,
@@ -5339,17 +5339,17 @@
         "artista": "Luan Santana",
         "url": "https://www.cifraclub.com.br/luan-santana/garotas-nao-merecem-chorar/"
     },
-    "3566": {
-        "posicao": 891,
-        "nome": "Meu Mundo e Nada Mais",
-        "artista": "Guilherme Arantes",
-        "url": "https://www.cifraclub.com.br/guilherme-arantes/meu-mundo-nada-mais/"
-    },
     "6215": {
-        "posicao": 892,
+        "posicao": 891,
         "nome": "A Raposa e as Uvas",
         "artista": "Reginaldo Rossi",
         "url": "https://www.cifraclub.com.br/reginaldo-rossi/a-raposa-as-uvas/"
+    },
+    "3566": {
+        "posicao": 892,
+        "nome": "Meu Mundo e Nada Mais",
+        "artista": "Guilherme Arantes",
+        "url": "https://www.cifraclub.com.br/guilherme-arantes/meu-mundo-nada-mais/"
     },
     "3383911": {
         "posicao": 893,
@@ -5411,17 +5411,17 @@
         "artista": "Charlie Brown Jr.",
         "url": "https://www.cifraclub.com.br/charlie-brown-jr/vicios-virtudes/"
     },
-    "244350": {
-        "posicao": 903,
-        "nome": "Em Jesus - 400",
-        "artista": "Harpa Cristã",
-        "url": "https://www.cifraclub.com.br/harpa-crista/em-jesus/"
-    },
     "78751": {
-        "posicao": 904,
+        "posicao": 903,
         "nome": "Ave Maria",
         "artista": "Músicas Católicas",
         "url": "https://www.cifraclub.com.br/catolicas/ave-maria/"
+    },
+    "244350": {
+        "posicao": 904,
+        "nome": "Em Jesus - 400",
+        "artista": "Harpa Cristã",
+        "url": "https://www.cifraclub.com.br/harpa-crista/em-jesus/"
     },
     "828225": {
         "posicao": 905,
@@ -5483,17 +5483,17 @@
         "artista": "Theo Rubia",
         "url": "https://www.cifraclub.com.br/theo-rubia/um-milhao-de-anos/"
     },
-    "17694": {
-        "posicao": 915,
-        "nome": "Nossa Canção",
-        "artista": "Vanessa da Mata",
-        "url": "https://www.cifraclub.com.br/vanessa-da-mata/nossa-cancao/"
-    },
     "229410": {
-        "posicao": 916,
+        "posicao": 915,
         "nome": "Trabalhai e Orai - 115",
         "artista": "Harpa Cristã",
         "url": "https://www.cifraclub.com.br/harpa-crista/trabalhai-orai/"
+    },
+    "17694": {
+        "posicao": 916,
+        "nome": "Nossa Canção",
+        "artista": "Vanessa da Mata",
+        "url": "https://www.cifraclub.com.br/vanessa-da-mata/nossa-cancao/"
     },
     "723545": {
         "posicao": 917,
