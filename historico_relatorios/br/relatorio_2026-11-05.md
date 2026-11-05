@@ -1,0 +1,414 @@
+# 📊 Relatório Cifra Club - Brasil - 05/11/2026
+
+## 🚨 🚨 EXPLOSÃO NO TOP: SUBIDAS ABSURDAS (+400 posições) 🚨 🚨
+> ### 💥 **Eu Escolho Deus** — *Thalles Roberto*
+> 🛑 **Subida histórica!** Saltou de 985º direto para **568º** (🔼 **+417** posições)
+
+> ### 💥 **Na Terra Como No Céu / Que Se Abram Os Cêus / Pai Nosso** — *Gabi Sampaio*
+> 🛑 **Subida histórica!** Saltou de 986º direto para **571º** (🔼 **+415** posições)
+
+> ### 💥 **Chuvas de Graça - 1** — *Harpa Cristã*
+> 🛑 **Subida histórica!** Saltou de 956º direto para **544º** (🔼 **+412** posições)
+
+> ### 💥 **Desperta** — *Colo de Deus*
+> 🛑 **Subida histórica!** Saltou de 970º direto para **560º** (🔼 **+410** posições)
+
+> ### 💥 **Eu Te louvarei, meu bom Jesus** — *Ronaldo Bezerra*
+> 🛑 **Subida histórica!** Saltou de 962º direto para **557º** (🔼 **+405** posições)
+
+> ### 💥 **No Céu não Entra Pecado - 422** — *Harpa Cristã*
+> 🛑 **Subida histórica!** Saltou de 903º direto para **500º** (🔼 **+403** posições)
+
+> ### 💥 **Livin' On A Prayer** — *Bon Jovi*
+> 🛑 **Subida histórica!** Saltou de 977º direto para **574º** (🔼 **+403** posições)
+
+## 🔥 Grandes Saltos (+200 a 400 posições)
+- **Onde Deus Possa Me Ouvir** (Vander Lee): Subiu de 883º para **486º** (🔥 +397 posições)
+- **Vida Boa** (Victor & Leo): Subiu de 902º para **511º** (🔥 +391 posições)
+- **A Viagem** (Roupa Nova): Subiu de 967º para **578º** (🔥 +389 posições)
+- **Em Tua Presença** (Nívea Soares): Subiu de 878º para **490º** (🔥 +388 posições)
+- **Fé** (Florianópolis House Of Prayer (fhop music)): Subiu de 886º para **502º** (🔥 +384 posições)
+- **I'm Yours** (Jason Mraz): Subiu de 863º para **480º** (🔥 +383 posições)
+- **Grato Sou (I Thank God)** (Drops INA): Subiu de 836º para **457º** (🔥 +379 posições)
+- **Poder Pra Salvar** (Aline Barros): Subiu de 860º para **481º** (🔥 +379 posições)
+- **De Ti Preciso** (Frei Gilson): Subiu de 895º para **516º** (🔥 +379 posições)
+- **Seu Amor Ainda é Tudo** (João Mineiro e Marciano): Subiu de 896º para **517º** (🔥 +379 posições)
+- **Meu Ex-Amor** (Amado Batista): Subiu de 855º para **477º** (🔥 +378 posições)
+- **Dia Branco** (Geraldo Azevedo): Subiu de 904º para **528º** (🔥 +376 posições)
+- **Te Assumi Pro Brasil** (Matheus & Kauan): Subiu de 834º para **460º** (🔥 +374 posições)
+- **Aleluia, Aleluia, Aleluia, Alelu...u...u...uia** (Músicas Católicas): Subiu de 893º para **520º** (🔥 +373 posições)
+- **Vamos Celebrar** (Ministério Amor e Adoração): Subiu de 801º para **432º** (🔥 +369 posições)
+- **How Deep Is Your Love** (Bee Gees): Subiu de 842º para **475º** (🔥 +367 posições)
+- **Imprevistos** (Pablo): Subiu de 815º para **449º** (🔥 +366 posições)
+- **Com Minha Mãe Estarei** (Maria do Rosário): Subiu de 830º para **464º** (🔥 +366 posições)
+- **O Leão e o Cordeiro** (Cassiane): Subiu de 833º para **468º** (🔥 +365 posições)
+- **Por Você** (Barão Vermelho): Subiu de 819º para **458º** (🔥 +361 posições)
+- **Tudo Outra Vez** (Belchior): Subiu de 800º para **443º** (🔥 +357 posições)
+- **Perdoa-me** (Comunidade Católica Shalom): Subiu de 797º para **441º** (🔥 +356 posições)
+- **Teatro Dos Vampiros** (Legião Urbana): Subiu de 791º para **445º** (🔥 +346 posições)
+- **Temporal de Amor** (Leandro & Leonardo): Subiu de 730º para **388º** (🔥 +342 posições)
+- **Teu Santo Nome** (Gabriela Rocha): Subiu de 749º para **407º** (🔥 +342 posições)
+- **A Carta** (Milionário & José Rico): Subiu de 772º para **430º** (🔥 +342 posições)
+- **Coração Partido** (Grupo Menos É Mais): Subiu de 732º para **392º** (🔥 +340 posições)
+- **Há Um Lugar** (Heloísa Rosa): Subiu de 736º para **396º** (🔥 +340 posições)
+- **Seu Sangue** (Fernandinho): Subiu de 728º para **390º** (🔥 +338 posições)
+- **No Dia Em Que Eu Saí De Casa** (Zezé Di Camargo & Luciano): Subiu de 726º para **389º** (🔥 +337 posições)
+- **Amei Te Ver** (TIAGO IORC): Subiu de 756º para **420º** (🔥 +336 posições)
+- **Diante do Rei** (Vida Reluz): Subiu de 717º para **384º** (🔥 +333 posições)
+- **Nos Bares da Cidade** (Rick & Renner): Subiu de 748º para **415º** (🔥 +333 posições)
+- **Perfect** (Ed Sheeran): Subiu de 759º para **429º** (🔥 +330 posições)
+- **Proibida Pra Mim** (Charlie Brown Jr.): Subiu de 714º para **385º** (🔥 +329 posições)
+- **Eu e Você Sempre** (Jorge Aragão): Subiu de 660º para **332º** (🔥 +328 posições)
+- **Tanto Faz** (Luan Santana): Subiu de 725º para **397º** (🔥 +328 posições)
+- **Ela Vai Voltar (Todos Os Defeitos de Uma Mulher Perfeita)** (Charlie Brown Jr.): Subiu de 669º para **342º** (🔥 +327 posições)
+- **Jardim** (Fraternidade São João Paulo II): Subiu de 681º para **354º** (🔥 +327 posições)
+- **Shallow (feat. Bradley Cooper)** (Lady Gaga): Subiu de 702º para **376º** (🔥 +326 posições)
+- **Garçom** (Reginaldo Rossi): Subiu de 674º para **351º** (🔥 +323 posições)
+- **Seu Polícia** (Zé Neto & Cristiano): Subiu de 677º para **356º** (🔥 +321 posições)
+- **Amado** (Vanessa da Mata): Subiu de 631º para **312º** (🔥 +319 posições)
+- **Consagrado ao Senhor - 432** (Harpa Cristã): Subiu de 652º para **333º** (🔥 +319 posições)
+- **5 Km** (Henrique & Juliano): Subiu de 740º para **422º** (🔥 +318 posições)
+- **Poderoso Deus** (Antônio Cirilo): Subiu de 691º para **375º** (🔥 +316 posições)
+- **Outra Vida** (Armandinho): Subiu de 640º para **326º** (🔥 +314 posições)
+- **A Face Adorada de Jesus - 304** (Harpa Cristã): Subiu de 623º para **310º** (🔥 +313 posições)
+- **Deus Está Aqui** (Corinhos Evangélicos): Subiu de 609º para **297º** (🔥 +312 posições)
+- **Deus da Minha Vida** (Thalles Roberto): Subiu de 600º para **289º** (🔥 +311 posições)
+- **Bohemian Rhapsody** (Queen): Subiu de 626º para **315º** (🔥 +311 posições)
+- **Faz Chover** (Fernandinho): Subiu de 596º para **286º** (🔥 +310 posições)
+- **Smells Like Teen Spirit** (Nirvana): Subiu de 604º para **294º** (🔥 +310 posições)
+- **Espumas Ao Vento** (Fagner): Subiu de 579º para **270º** (🔥 +309 posições)
+- **Whisky A Go Go** (Roupa Nova): Subiu de 620º para **311º** (🔥 +309 posições)
+- **Infinita Highway** (Engenheiros do Hawaii): Subiu de 670º para **363º** (🔥 +307 posições)
+- **Romaria** (Renato Teixeira): Subiu de 668º para **362º** (🔥 +306 posições)
+- **Cedo Ou Tarde** (NX Zero): Subiu de 555º para **250º** (🔥 +305 posições)
+- **Yeshua** (Colo de Deus): Subiu de 586º para **281º** (🔥 +305 posições)
+- **Muito Perdoais** (Comunidade Católica Shalom): Subiu de 597º para **293º** (🔥 +304 posições)
+- **Ninguém Explica Deus** (Preto No Branco): Subiu de 569º para **266º** (🔥 +303 posições)
+- **Uma Nova História** (Fernandinho): Subiu de 588º para **285º** (🔥 +303 posições)
+- **Coisas Que Eu Sei** (Jorge Vercillo): Subiu de 590º para **287º** (🔥 +303 posições)
+- **Gita** (Raul Seixas): Subiu de 622º para **320º** (🔥 +302 posições)
+- **Stand By Me** (Ben E. King): Subiu de 607º para **306º** (🔥 +301 posições)
+- **Maus Bocados** (Cristiano Araújo): Subiu de 617º para **317º** (🔥 +300 posições)
+- **Vou Deixar** (Skank): Subiu de 599º para **300º** (🔥 +299 posições)
+- **Alfa e Omega** (Marine Friesen): Subiu de 601º para **303º** (🔥 +298 posições)
+- **Admirável Gado Novo** (Zé Ramalho): Subiu de 656º para **358º** (🔥 +298 posições)
+- **Pão e Vinho** (Ministério Amor e Adoração): Subiu de 565º para **268º** (🔥 +297 posições)
+- **Cordeiro de Deus** (Comunidade Católica Shalom): Subiu de 657º para **360º** (🔥 +297 posições)
+- **Don't Look Back In Anger** (Oasis): Subiu de 546º para **251º** (🔥 +295 posições)
+- **Nada Por Mim** (Kid Abelha): Subiu de 547º para **253º** (🔥 +294 posições)
+- **Zóio de Lula** (Charlie Brown Jr.): Subiu de 574º para **280º** (🔥 +294 posições)
+- **Nova York** (Victor & Leo): Subiu de 536º para **244º** (🔥 +292 posições)
+- **Equalize** (Pitty): Subiu de 563º para **272º** (🔥 +291 posições)
+- **Ainda Que a Figueira** (Fernandinho): Subiu de 532º para **242º** (🔥 +290 posições)
+- **Convívio Dos Eleitos** (Juninho Cassimiro): Subiu de 542º para **252º** (🔥 +290 posições)
+- **Tente Outra Vez** (Raul Seixas): Subiu de 533º para **245º** (🔥 +288 posições)
+- **Eu Cuido de Ti** (Canção & Louvor): Subiu de 545º para **258º** (🔥 +287 posições)
+- **Ah! Como Eu Amei** (Benito Di Paula): Subiu de 629º para **343º** (🔥 +286 posições)
+- **Aos Pés da Cruz** (Kleber Lucas): Subiu de 519º para **239º** (🔥 +280 posições)
+- **Renova-me** (Aline Barros): Subiu de 535º para **255º** (🔥 +280 posições)
+- **O Carpinteiro** (Alessandro Vilas Boas): Subiu de 540º para **260º** (🔥 +280 posições)
+- **Yesterday** (The Beatles): Subiu de 541º para **261º** (🔥 +280 posições)
+- **É Preciso Dar Um Jeito Meu Amigo** (Erasmo Carlos): Subiu de 605º para **335º** (🔥 +270 posições)
+- **Primeira Essência - Ministração Ao Vivo** (Felipe Rodrigues): Subiu de 491º para **227º** (🔥 +264 posições)
+- **Rompendo em Fé** (Comunidade Evangélica Internacional da Zona Sul (CEIZS)): Subiu de 481º para **219º** (🔥 +262 posições)
+- **Quem De Nós Dois (La Mia Storia Tra Le Dita)** (Ana Carolina): Subiu de 474º para **216º** (🔥 +258 posições)
+- **Pense Em Mim** (Leandro & Leonardo): Subiu de 472º para **217º** (🔥 +255 posições)
+- **Me Derramar** (Vineyard): Subiu de 459º para **207º** (🔥 +252 posições)
+- **Vilarejo** (Marisa Monte): Subiu de 448º para **199º** (🔥 +249 posições)
+- **Deus de Promessas** (Ministério Apascentar de Louvor (Toque No Altar)): Subiu de 451º para **202º** (🔥 +249 posições)
+- **Na Hora de Amar** (Gusttavo Lima): Subiu de 425º para **180º** (🔥 +245 posições)
+- **Largado Às Traças** (Zé Neto & Cristiano): Subiu de 444º para **200º** (🔥 +244 posições)
+- **the cure** (Olivia Rodrigo): Subiu de 419º para **176º** (🔥 +243 posições)
+- **Amo Noite e Dia** (Jorge & Mateus): Subiu de 420º para **177º** (🔥 +243 posições)
+- **Canção de Simeão** (Drops INA): Subiu de 435º para **192º** (🔥 +243 posições)
+- **Acende Outra Vez** (Jefferson & Suellen): Subiu de 410º para **168º** (🔥 +242 posições)
+- **Os Anjos Cantam** (Jorge & Mateus): Subiu de 428º para **187º** (🔥 +241 posições)
+- **Alô Porteiro** (Marília Mendonça): Subiu de 430º para **189º** (🔥 +241 posições)
+- **Os Planos de Deus** (Samuel Messias): Subiu de 438º para **198º** (🔥 +240 posições)
+- **Ao Único** (Aline Barros): Subiu de 417º para **181º** (🔥 +236 posições)
+- **Jesus o Bom Amigo - 198** (Harpa Cristã): Subiu de 413º para **179º** (🔥 +234 posições)
+- **99 Ovelhas** (Fraternidade São João Paulo II): Subiu de 377º para **147º** (🔥 +230 posições)
+- **Can't Help Falling In Love** (Elvis Presley): Subiu de 383º para **154º** (🔥 +229 posições)
+- **Quebrantado** (Vineyard): Subiu de 388º para **159º** (🔥 +229 posições)
+- **Dois Corações e Uma História** (Zezé Di Camargo & Luciano): Subiu de 398º para **170º** (🔥 +228 posições)
+- **Amiga da Minha Mulher** (Seu Jorge): Subiu de 373º para **146º** (🔥 +227 posições)
+- **Espirito Santo** (Fernanda Brum): Subiu de 376º para **149º** (🔥 +227 posições)
+- **Parabéns Pra Você** (Cantigas Populares): Subiu de 374º para **148º** (🔥 +226 posições)
+- **Ligação Urbana** (Bruno & Marrone): Subiu de 386º para **160º** (🔥 +226 posições)
+- **Me Atraiu** (Gabriela Rocha): Subiu de 370º para **145º** (🔥 +225 posições)
+- **Vitória No Deserto** (Aline Barros): Subiu de 362º para **143º** (🔥 +219 posições)
+- **Sorri, Sou Rei** (Natiruts): Subiu de 354º para **140º** (🔥 +214 posições)
+- **Gostava Tanto de Você** (Tim Maia): Subiu de 345º para **133º** (🔥 +212 posições)
+
+## 📈 Subidas Significativas (100 a 200 posições)
+- **Eu Me Rendo** (Renascer Praise): Subiu de 326º para **128º** (📈 +198 posições)
+- **Que Ele Cresça** (Deigma Marques): Subiu de 332º para **134º** (📈 +198 posições)
+- **Final Feliz** (Jorge Vercillo): Subiu de 331º para **135º** (📈 +196 posições)
+- **Tua Graça Me Basta** (Davi Sacer): Subiu de 320º para **131º** (📈 +189 posições)
+- **O Segundo Sol** (Cássia Eller): Subiu de 312º para **124º** (📈 +188 posições)
+- **Meia Noite** (Florianópolis House Of Prayer (fhop music)): Subiu de 301º para **121º** (📈 +180 posições)
+- **Anjos** (O Rappa): Subiu de 302º para **125º** (📈 +177 posições)
+- **A Casa É Sua** (Casa Worship): Subiu de 280º para **110º** (📈 +170 posições)
+- **Era Eu** (Casa Worship): Subiu de 269º para **104º** (📈 +165 posições)
+- **Como Eu Quero** (Kid Abelha): Subiu de 239º para **89º** (📈 +150 posições)
+- **Ao Único** (Corinhos Evangélicos): Subiu de 242º para **92º** (📈 +150 posições)
+- **Pais e Filhos** (Legião Urbana): Subiu de 244º para **94º** (📈 +150 posições)
+- **Vem Me Buscar** (Jefferson & Suellen): Subiu de 247º para **97º** (📈 +150 posições)
+- **Pra Mudar Minha Vida** (Zezé Di Camargo & Luciano): Subiu de 240º para **91º** (📈 +149 posições)
+- **Dou a Vida Por Um Beijo** (Zezé Di Camargo & Luciano): Subiu de 235º para **88º** (📈 +147 posições)
+- **Que Santidade de Vida** (Monsenhor Jonas Abib): Subiu de 249º para **102º** (📈 +147 posições)
+- **Aquarela** (Toquinho): Subiu de 246º para **101º** (📈 +145 posições)
+- **A Boa Parte** (Florianópolis House Of Prayer (fhop music)): Subiu de 198º para **71º** (📈 +127 posições)
+- **O Que Sua Glória Fez Comigo** (Fernanda Brum): Subiu de 192º para **68º** (📈 +124 posições)
+- **Malandragem** (Cássia Eller): Subiu de 185º para **66º** (📈 +119 posições)
+- **Poderoso Deus** (David Quinlan): Subiu de 180º para **65º** (📈 +115 posições)
+- **Sweet Child O' Mine** (Guns N' Roses): Subiu de 167º para **58º** (📈 +109 posições)
+- **Sonda-me, Usa-me** (Aline Barros): Subiu de 158º para **53º** (📈 +105 posições)
+
+## 🌱 Pequenas Subidas (Abaixo de 100 posições)
+> Omitindo oscilações menores ou iguais a 2 posições.
+
+- **Toda Terra** (Gabriela Rocha): 142º → **46º** (+96)
+- **November Rain** (Guns N' Roses): 471º → **377º** (+94)
+- **Foi Por Conveniência** (Marília Mendonça): 112º → **29º** (+83)
+- **Retratos e Canções** (Sandra de Sá): 664º → **584º** (+80)
+- **Evidências** (Chitãozinho & Xororó): 81º → **25º** (+56)
+- **Santo Pra Sempre** (Gabriel Guedes): 37º → **11º** (+26)
+- **Lamento Boliviano** (Los Enanitos Verdes): 274º → **249º** (+25)
+- **Nos Braços da Batucada** (Arlindo Cruz): 785º → **760º** (+25)
+- **É Tudo Sobre Você** (MORADA): 35º → **12º** (+23)
+- **Cristo + Tudo É Teu** (Florianópolis House Of Prayer (fhop music)): 687º → **665º** (+22)
+- **Você Não Sabe Amar** (Chico Rey e Paraná): 683º → **662º** (+21)
+- **115 - Minha Alma Engrandece** (CCB - Congregação Cristã no Brasil): 993º → **972º** (+21)
+- **Assino Com X** (Gilberto e Gilmar): 851º → **831º** (+20)
+- **Eu Disse Não** (Di Paullo e Paulino): 852º → **832º** (+20)
+- **Isaias 6** (MORADA): 871º → **851º** (+20)
+- **Me Ama** (John Dias): 891º → **871º** (+20)
+- **Vem Com Josué** (3 Palavrinhas): 960º → **940º** (+20)
+- **Amar Como Você** (José Jr): 252º → **233º** (+19)
+- **Visceral** (José Jr): 347º → **328º** (+19)
+- **Um Certo Galileu** (Padre Zezinho): 872º → **853º** (+19)
+- **Deus Me Ama** (Thalles Roberto): 256º → **238º** (+18)
+- **Codinome Beija-Flor** (Cazuza): 288º → **271º** (+17)
+- **Viva La Vida** (Coldplay): 856º → **839º** (+17)
+- **Seja Ex** (Henrique & Juliano): 984º → **967º** (+17)
+- **Apenas Mais Uma de Amor** (Lulu Santos): 257º → **241º** (+16)
+- **Como És Lindo** (Vida Reluz): 270º → **254º** (+16)
+- **Cadeira Cativa** (Zé Neto & Cristiano): 272º → **256º** (+16)
+- **Deus Está Aqui / o Espírito de Deus / Manancial** (Gabriela Rocha): 825º → **809º** (+16)
+- **Time** (Pink Floyd): 859º → **843º** (+16)
+- **Totalmente Seu** (Marisa Monte): 219º → **204º** (+15)
+- **Teu Toque** (Gabi Sampaio): 310º → **295º** (+15)
+- **Só Pensando Em Você** (Rick & Renner): 261º → **247º** (+14)
+- **Eu Juro** (Leandro & Leonardo): 262º → **248º** (+14)
+- **Ressuscita-me** (Aline Barros): 289º → **275º** (+14)
+- **Em Fervente Oração - 577** (Harpa Cristã): 293º → **279º** (+14)
+- **Menino Bonito** (Chico Chico): 792º → **778º** (+14)
+- **Heather** (Conan Gray): 822º → **808º** (+14)
+- **Que Jesus Seja o Nome** (Get Worship): 941º → **927º** (+14)
+- **A Benção** (Gabriel Guedes): 248º → **235º** (+13)
+- **Noites Traiçoeiras** (Padre Marcelo Rossi): 250º → **237º** (+13)
+- **Eu Navegarei - 652** (Harpa Cristã): 253º → **240º** (+13)
+- **Venho Senhor Minha Vida Oferecer** (Músicas Católicas): 802º → **789º** (+13)
+- **Ambição (part. Som do Céu, Thiago Henrique e Marllon Ribeiro)** (Gabi Sampaio): 867º → **854º** (+13)
+- **Fale Com Jesus** (Shirley Carvalhaes): 971º → **958º** (+13)
+- **Chuva de Arroz** (Luan Santana): 258º → **246º** (+12)
+- **Minha Estrela Perdida** (João Paulo e Daniel): 276º → **264º** (+12)
+- **Eu Só Quero Tua Presença** (Theo Rubia): 277º → **265º** (+12)
+- **I Don't Want To Talk About It** (Rod Stewart): 294º → **282º** (+12)
+- **Sou Peregrino** (Silvan Santos): 816º → **804º** (+12)
+- **Beija Eu** (Marisa Monte): 989º → **977º** (+12)
+- **Infiel** (Marília Mendonça): 243º → **232º** (+11)
+- **Fio de Cabelo** (Chitãozinho & Xororó): 245º → **234º** (+11)
+- **Digno É o Senhor (Worthy Is The Lamb)** (Aline Barros): 254º → **243º** (+11)
+- **Liberta-me de Mim** (Luma Elpidio): 285º → **274º** (+11)
+- **Você É Especial** (Hinos Avulsos CCB): 303º → **292º** (+11)
+- **Nosso General É Cristo** (Comunidade Evangélica Internacional da Zona Sul (CEIZS)): 335º → **324º** (+11)
+- **Eu Me Rendo** (Felipe & Rodrigo): 950º → **939º** (+11)
+- **Deixa Acontecer** (Grupo Revelação): 236º → **226º** (+10)
+- **Ele Quer Ser Eu** (Henrique & Juliano): 279º → **269º** (+10)
+- **O Nosso General É Cristo** (Adhemar de Campos): 283º → **273º** (+10)
+- **Eis-me Aqui, Senhor** (Músicas Católicas): 286º → **276º** (+10)
+- **Voltemos Ao Início (Part. Marcos Brunet)** (Laura Souguellis): 300º → **290º** (+10)
+- **Que Amor É Esse** (Luma Elpidio): 793º → **783º** (+10)
+- **Abra Os Olhos do Meu Coração** (David Quinlan): 838º → **828º** (+10)
+- **Minh'alma Engrandece Ao Senhor / Adorado (Part. Thamires Garcia)** (Rachel Novaes): 980º → **970º** (+10)
+- **Para Que Entre o Rei** (MORADA): 988º → **978º** (+10)
+- **Te Louvarei** (Davi Sacer): 174º → **165º** (+9)
+- **Eis-me Aqui** (Valesca Mayssa): 271º → **262º** (+9)
+- **Deixa Deus Sonhar Em Ti** (Frei Gilson): 287º → **278º** (+9)
+- **Pra Você Guardei o Amor (part. Ana Cañas)** (Nando Reis): 806º → **797º** (+9)
+- **Jesus Em Tua Presença** (Asaph Borba): 906º → **897º** (+9)
+- **Soldado Ferido** (Voz da Verdade): 914º → **905º** (+9)
+- **Yeshua** (José Jr): 230º → **222º** (+8)
+- **Losing My Religion** (R.E.M.): 292º → **284º** (+8)
+- **Algo Novo** (Lukas Agustinho): 686º → **678º** (+8)
+- **O Encontro (part. Valesca Mayssa)** (Jefferson & Suellen): 826º → **818º** (+8)
+- **Autor da Vida** (Aline Barros): 848º → **840º** (+8)
+- **Saudade da Minha Terra** (Chitãozinho & Xororó): 916º → **908º** (+8)
+- **Cria em mim** (Comunidade de Nilópolis): 987º → **979º** (+8)
+- **De Quem É a Culpa?** (Marília Mendonça): 228º → **221º** (+7)
+- **Esqueça-me Se For Capaz (part. Maiara & Maraisa)** (Marília Mendonça): 290º → **283º** (+7)
+- **A Solidão É Uma Ressaca** (Bruno & Marrone): 729º → **722º** (+7)
+- **Do Fundo da Grota** (Baitaca): 873º → **866º** (+7)
+- **A Mesa Santa** (Músicas Católicas): 890º → **883º** (+7)
+- **Se Isso Não For Amor** (Shirley Carvalhaes): 976º → **969º** (+7)
+- **Digno de Tudo** (Fernanda Ferro): 265º → **259º** (+6)
+- **Arde Outra Vez** (Thalles Roberto): 313º → **307º** (+6)
+- **Sign Of The Times** (Harry Styles): 329º → **323º** (+6)
+- **Sou Um Milagre** (Voz da Verdade): 337º → **331º** (+6)
+- **Eu Te Amo Tanto** (Irmão Lázaro): 796º → **790º** (+6)
+- **Quando a Alma Necessita** (Hinos Avulsos CCB): 839º → **833º** (+6)
+- **Senhor e Rei** (Ministério Apascentar de Louvor (Toque No Altar)): 865º → **859º** (+6)
+- **Aonde Quer Que Eu Vá** (Os Paralamas do Sucesso): 45º → **40º** (+5)
+- **Maranata** (Alessandro Vilas Boas): 216º → **211º** (+5)
+- **Além do Rio Azul** (Voz da Verdade): 229º → **224º** (+5)
+- **Retalhos de Cetim** (Benito Di Paula): 241º → **236º** (+5)
+- **Nothing Else Matters** (Metallica): 282º → **277º** (+5)
+- **Oh! Jesus Me Ama - 169** (Harpa Cristã): 645º → **640º** (+5)
+- **Riptide** (Vance Joy): 718º → **713º** (+5)
+- **Você Mudou** (Cristiano Araújo): 784º → **779º** (+5)
+- **Do Seu Lado** (Jota Quest): 824º → **819º** (+5)
+- **Índia** (Leandro & Leonardo): 936º → **931º** (+5)
+- **Amor Perfeito** (Roberto Carlos): 951º → **946º** (+5)
+- **Só Os Loucos Sabem** (Charlie Brown Jr.): 48º → **44º** (+4)
+- **Um Novo Dia** (Get Worship): 52º → **48º** (+4)
+- **Convite de Casamento** (Gian e Giovani): 65º → **61º** (+4)
+- **Você Vai Ver** (Zezé Di Camargo & Luciano): 67º → **63º** (+4)
+- **Aquieta Minh'alma** (Ministério Zoe): 73º → **69º** (+4)
+- **Pra Sempre** (Fernandinho): 83º → **79º** (+4)
+- **Cristo** (Alessandro Vilas Boas): 84º → **80º** (+4)
+- **Wish You Were Here** (Pink Floyd): 88º → **84º** (+4)
+- **Primeiros Erros** (Capital Inicial): 89º → **85º** (+4)
+- **Canção do Apocalipse** (Diante do Trono): 218º → **214º** (+4)
+- **Eu Navegarei** (Músicas Católicas): 232º → **228º** (+4)
+- **Não Há Deus Maior** (Corinhos Evangélicos): 309º → **305º** (+4)
+- **Azul** (Djavan): 317º → **313º** (+4)
+- **Fidelidade** (Danielle Cristina): 341º → **337º** (+4)
+- **Mil Graus** (Renascer): 353º → **349º** (+4)
+- **Eu Te Busco** (Vineyard Music Brasil): 768º → **764º** (+4)
+- **A Raposa e as Uvas** (Reginaldo Rossi): 811º → **807º** (+4)
+- **A Tua Palavra** (Cassiane): 821º → **817º** (+4)
+- **Agenda Rabiscada** (Eduardo Costa): 907º → **903º** (+4)
+- **Oferta de Amor** (Ministério Koinonya de Louvor): 928º → **924º** (+4)
+- **Livre Estou (Let it Go)** (Frozen): 930º → **926º** (+4)
+- **Era Uma Vez** (Kell Smith): 998º → **994º** (+4)
+- **Céu Azul** (Charlie Brown Jr.): 38º → **35º** (+3)
+- **Flash (Minha Mente) (Part. Zé Vaqueiro)** (Hugo & Guilherme): 39º → **36º** (+3)
+- **Emaús** (MORADA): 40º → **37º** (+3)
+- **Em Espírito, Em verdade - 647** (Harpa Cristã): 41º → **38º** (+3)
+- **Sinônimos** (Zé Ramalho): 42º → **39º** (+3)
+- **Palpite** (Vanessa Rangel): 46º → **43º** (+3)
+- **Oceano** (Djavan): 53º → **50º** (+3)
+- **Que Nem Maré** (Jorge Vercillo): 54º → **51º** (+3)
+- **Terra Seca** (Fraternidade São João Paulo II): 55º → **52º** (+3)
+- **Eu Só Quero Adorar** (Gerson Rufino): 57º → **54º** (+3)
+- **Para Onde Eu Irei?** (MORADA): 59º → **56º** (+3)
+- **Sou Grato Por Seu Amor** (Get Worship): 85º → **82º** (+3)
+- **Decida** (Milionário & José Rico): 86º → **83º** (+3)
+- **Deus de Obras Completas** (Kemilly Santos): 90º → **87º** (+3)
+- **Ele é Deus | Get Worship collab. One House** (Get Worship): 170º → **167º** (+3)
+- **Flores Em Vida** (Zezé Di Camargo & Luciano): 234º → **231º** (+3)
+- **Senhor que vieste salvar** (Padre Zeca): 321º → **318º** (+3)
+- **Ele É Exaltado** (Adhemar de Campos): 344º → **341º** (+3)
+- **Juras de Amor** (Bruno & Marrone): 840º → **837º** (+3)
+- **Don't Stop Believin'** (Journey): 845º → **842º** (+3)
+- **Quero Mergulhar Nas Profundezas** (Padre Marcelo Rossi): 905º → **902º** (+3)
+
+## 🚀 Novas Entradas no Top
+- **Liguei pra te dizer que eu te amo** (Chico Rey e Paraná) - Apareceu direto na posição **589º**
+- **Saudade** (Eduardo Costa) - Apareceu direto na posição **596º**
+- **Me Leva Pra Casa / Escrito Nas Estrelas / Saudade** (Lauana Prado) - Apareceu direto na posição **598º**
+- **Caça e Caçador** (Fábio Jr.) - Apareceu direto na posição **599º**
+- **Cristo** (Get Worship) - Apareceu direto na posição **608º**
+- **Bem Mais Que Tudo (Above All)** (Aline Barros) - Apareceu direto na posição **614º**
+- **Flor de Lis** (Djavan) - Apareceu direto na posição **618º**
+- **Redenção** (Projeto Sola) - Apareceu direto na posição **637º**
+- **Human Nature** (Michael Jackson) - Apareceu direto na posição **639º**
+- **Fogo e Paixão** (Wando) - Apareceu direto na posição **643º**
+- **Deus Me Livre** (Raça Negra) - Apareceu direto na posição **646º**
+- **Eu Vou Orar (Ao Vivo)** (Nair Nany) - Apareceu direto na posição **650º**
+- **Bem Que Se Quis** (Marisa Monte) - Apareceu direto na posição **651º**
+- **Acalma o Meu Coração** (Anderson Freire) - Apareceu direto na posição **653º**
+- **O Espírito de Deus Está Aqui** (Arianne (Gospel)) - Apareceu direto na posição **656º**
+- **Questiona Ou Adora** (Flordelis) - Apareceu direto na posição **660º**
+- **Nova York** (Chrystian & Ralf) - Apareceu direto na posição **661º**
+- **Hallelujah** (Leonard Cohen) - Apareceu direto na posição **663º**
+- **Era Eu** (Felipe Rodrigues) - Apareceu direto na posição **668º**
+- **Santificação** (Elaine Martins) - Apareceu direto na posição **670º**
+- **Nada Além do Sangue / Alvo Mais Que a Neve (Pot-Pourri)** (Fernandinho) - Apareceu direto na posição **672º**
+- **Quando a Luz Se Apagar** (Ministério Zoe) - Apareceu direto na posição **679º**
+- **Jesus É o Caminho** (Heloísa Rosa) - Apareceu direto na posição **684º**
+- **Rumo À Goiânia** (Leandro & Leonardo) - Apareceu direto na posição **685º**
+- **Amigo Estou Aqui** (Toy Story) - Apareceu direto na posição **687º**
+- **Xote Dos Milagres** (Falamansa) - Apareceu direto na posição **692º**
+- **Patience** (Guns N' Roses) - Apareceu direto na posição **693º**
+- **Tua Presença** (Paulo Neto (Gospel)) - Apareceu direto na posição **696º**
+- **Mais Uma Vez** (Renato Russo) - Apareceu direto na posição **698º**
+- **Deus Forte / Divisa de Fogo / Jacó Segurou o Anjo / Joquebede (Pot-Pourri)** (Banda Som e Louvor) - Apareceu direto na posição **699º**
+- **Em Teu Altar** (Walmir Alencar) - Apareceu direto na posição **709º**
+- **Espelhos Mágicos** (Oficina G3) - Apareceu direto na posição **712º**
+- **Menino Bonito** (Rita Lee) - Apareceu direto na posição **717º**
+- **Vou Te Alegrar** (Aline Barros) - Apareceu direto na posição **730º**
+- **If I Ain't Got You** (Alicia Keys) - Apareceu direto na posição **732º**
+- **Aleluia, a Minh'alma Abrirei** (Músicas Católicas) - Apareceu direto na posição **736º**
+- **Cê Que Sabe** (Cristiano Araújo) - Apareceu direto na posição **738º**
+- **Linda** (Roupa Nova) - Apareceu direto na posição **744º**
+- **Recebi Um Novo Coração** (Corinhos Evangélicos) - Apareceu direto na posição **747º**
+- **Nada Mudou** (Di Paullo e Paulino) - Apareceu direto na posição **780º**
+- **Mega Sena** (Pablo) - Apareceu direto na posição **784º**
+- **Perfume** (Fraternidade São João Paulo II) - Apareceu direto na posição **785º**
+- **Restitui** (Davi Sacer) - Apareceu direto na posição **791º**
+- **A Estrada** (Cidade Negra) - Apareceu direto na posição **792º**
+- **Dependente** (Canção & Louvor) - Apareceu direto na posição **796º**
+- **Olhos Coloridos** (Sandra de Sá) - Apareceu direto na posição **803º**
+- **Sete Trombetas** (Lauriete) - Apareceu direto na posição **805º**
+- **Açaí** (Djavan) - Apareceu direto na posição **811º**
+- **Fulminante** (Mumuzinho) - Apareceu direto na posição **813º**
+- **Sonífera Ilha** (Titãs) - Apareceu direto na posição **814º**
+- **Incendeia Minha Alma** (Padre Fábio De Melo) - Apareceu direto na posição **816º**
+- **Digno de Glória** (Asaph Borba) - Apareceu direto na posição **825º**
+- **Estrela da Manhã** (Corinhos Evangélicos) - Apareceu direto na posição **836º**
+- **Santo Santo Santo É o Senhor** (Músicas Católicas) - Apareceu direto na posição **838º**
+- **Senhor Que Vieste** (Músicas Católicas) - Apareceu direto na posição **844º**
+- **No Rancho Fundo** (Chitãozinho & Xororó) - Apareceu direto na posição **847º**
+- **Heart Shaped Box** (Nirvana) - Apareceu direto na posição **849º**
+- **Quero Subir** (Diante do Trono) - Apareceu direto na posição **857º**
+- **Quero Confessar** (Ministério Amor e Adoração) - Apareceu direto na posição **858º**
+- **Te Louvo Em Verdade** (Rosa de Saron) - Apareceu direto na posição **863º**
+- **Flores** (Titãs) - Apareceu direto na posição **864º**
+- **Vaso de Alabastro** (Mara Lima) - Apareceu direto na posição **865º**
+- **Rompendo Em Fé** (Corinhos Evangélicos) - Apareceu direto na posição **873º**
+- **Essência da Paixão** (Grupo Revelação) - Apareceu direto na posição **875º**
+- **Autor da minha fé** (Grupo Logos) - Apareceu direto na posição **878º**
+- **Cinco Pães e Dois Peixinhos** (Quatro Por Um) - Apareceu direto na posição **879º**
+- **Mais Perto Quero Estar** (Cantor Cristão) - Apareceu direto na posição **881º**
+- **Feel Good Inc.** (Gorillaz) - Apareceu direto na posição **884º**
+- **A Hora É Agora** (Jorge & Mateus) - Apareceu direto na posição **886º**
+- **Refrigera Minh'alma** (Colo de Deus) - Apareceu direto na posição **900º**
+- **Cordeiro** (Frei Gilson) - Apareceu direto na posição **906º**
+- **Você** (Tim Maia) - Apareceu direto na posição **909º**
+- **Here Comes The Sun** (The Beatles) - Apareceu direto na posição **913º**
+- **Jesus feat. Missionário Shalom** (Colo de Deus) - Apareceu direto na posição **914º**
+- **Desapareceu Um Povo** (Shirley Carvalhaes) - Apareceu direto na posição **915º**
+- **End Of Beginning** (Djo) - Apareceu direto na posição **918º**
+- **Nuvem de Lágrimas** (Chitãozinho & Xororó) - Apareceu direto na posição **921º**
+- **O Elevador** (Comunidade Católica Shalom) - Apareceu direto na posição **930º**
+- **Abra Os Meus Olhos** (Jozyanne) - Apareceu direto na posição **935º**
+- **Onde Anda Você** (Tiago Nacarato) - Apareceu direto na posição **937º**
+- **Can't Take My Eyes Off You** (Frankie Valli) - Apareceu direto na posição **942º**
+- **Na Unção de Deus** (Attos 2 Worship) - Apareceu direto na posição **943º**
+- **Tremenda Graça** (Fred Arrais) - Apareceu direto na posição **947º**
+- **24 Horas de Amor** (Matogrosso & Mathias) - Apareceu direto na posição **949º**
+- **Dia Após Dia** (Valesca Mayssa) - Apareceu direto na posição **950º**
+- **Tua Presença Vale Mais** (Os Bravos) - Apareceu direto na posição **954º**
+- **Espírito, Enche a Minha Vida / Ao Único** (Gabriela Rocha) - Apareceu direto na posição **961º**
+- **Fly Me To The Moon** (Frank Sinatra) - Apareceu direto na posição **968º**
+- **Digno de Tudo** (Emaus Music) - Apareceu direto na posição **971º**
+- **Tu És Soberano** (Ministério Koinonya de Louvor) - Apareceu direto na posição **975º**
+- **Vícios e Virtudes** (Charlie Brown Jr.) - Apareceu direto na posição **984º**
+- **Aline** (João Mineiro e Marciano) - Apareceu direto na posição **988º**
+- **Fogo Em Teus Olhos / Eu Navegarei** (Felipe Rodrigues) - Apareceu direto na posição **991º**
+- **Jesus Meu Primeiro Amor** (André Aquino) - Apareceu direto na posição **993º**
+- **Pensando Bem** (J Neto) - Apareceu direto na posição **996º**
+- **Tua Palavra** (Comunidade Católica Shalom) - Apareceu direto na posição **998º**
